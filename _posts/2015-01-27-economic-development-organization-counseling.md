@@ -11,7 +11,7 @@ As subject-matter experts, SelectUSA staff can help EDOs develop and execute its
 
 U.S. state, local or regional governments or economic development entities
 
-### How to Request EDO Counseling:
+### How to Request EDO Counseling: 
 
 To request investment counseling, please click on&nbsp;[Contact Us](/contact/info/selectusa/gov)&nbsp;to send us an e-mail. You will be contacted within two (2) business days.
 
