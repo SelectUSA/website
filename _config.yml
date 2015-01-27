@@ -1,0 +1,13 @@
+name: Website
+pygments: true
+baseurl:
+markdown: rdiscount
+exclude:
+  - .bundle
+  - .git
+  - .gitignore
+  - bin
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
