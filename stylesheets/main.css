@@ -67,9 +67,35 @@ hr {
 }
 
 img {
-    border:0
+    border:0;
+    margin:15px;
+    padding:15px;
+}
+/* Start newspaper style functionality to images */
+.imgright {  
+ float:right;  
+ margin-left:20px;  
+ display: inline-block;
+ text-align: center;
+ }
+
+.imgright strong{  
+ font-weight:700;
+color:#282828;
+display: block;
 }
 
+.imgleft {  
+ float:left;  
+margin-right:20px;  
+ }
+
+.imgcenter {  
+width:100%!important;  
+display:block!important;  
+text-align:center;  
+}
+/* End newspaper style functionality to images */
 table {
     border-collapse:collapse
 }
