@@ -56,19 +56,19 @@ Financial Forum and Pearl River Delta Road Show"
 
 ![application/pdf icon](icons/application-pdf.png)[SelectUSA Newsletter 30AUG2013](documents/2013/october/selectusa_newsletter_30aug2013.pdf "selectusa_newsletter_30aug2013.pdf")
 
-![application/pdf icon](/icons/application-pdf.png)[SelectUSA Newsletter 31JUL2013](/documents/2013/october/selectusa_newsletter_31july2013.pdf "selectusa_newsletter_31july2013.pdf")
+![application/pdf icon](icons/application-pdf.png)[SelectUSA Newsletter 31JUL2013](documents/2013/october/selectusa_newsletter_31july2013.pdf "selectusa_newsletter_31july2013.pdf")
 
-![application/pdf icon](/icons/application-pdf.png)[SelectUSA Newsletter 31MAY2013](/documents/2013/october/selectusa_newsletter_31may2013.pdf "selectusa_newsletter_31may2013.pdf")
+![application/pdf icon](icons/application-pdf.png)[SelectUSA Newsletter 31MAY2013](documents/2013/october/selectusa_newsletter_31may2013.pdf "selectusa_newsletter_31may2013.pdf")
 
-![application/pdf icon](/icons/application-pdf.png)[FDI in Focus - April 2013:  Assessing the U.S. Business Climate: An Overview of Recent Rankings](/documents/2013/may/fdi_in_focus_-__april_2013.pdf "fdi_in_focus_-__april_2013.pdf")
+![application/pdf icon](icons/application-pdf.png)[FDI in Focus - April 2013:  Assessing the U.S. Business Climate: An Overview of Recent Rankings](documents/2013/may/fdi_in_focus_-__april_2013.pdf "fdi_in_focus_-__april_2013.pdf")
 
-![application/pdf icon](/icons/application-pdf.png)[SelectUSA Newsletter 30APR2013](/documents/2013/october/selectusa_newsletter_30apr2013.pdf "selectusa_newsletter_30apr2013.pdf")
+![application/pdf icon](icons/application-pdf.png)[SelectUSA Newsletter 30APR2013](documents/2013/october/selectusa_newsletter_30apr2013.pdf "selectusa_newsletter_30apr2013.pdf")
 
-![application/pdf icon](/icons/application-pdf.png)[SelectUSA Newsletter 9MAR2013](/documents/2013/april/selectusa_monthly_newsletter_9mar2013.pdf "selectusa_monthly_newsletter_9mar2013.pdf")
+![application/pdf icon](icons/application-pdf.png)[SelectUSA Newsletter 9MAR2013](documents/2013/april/selectusa_monthly_newsletter_9mar2013.pdf "selectusa_monthly_newsletter_9mar2013.pdf")
 
-![application/pdf icon](/icons/application-pdf.png)[SelectUSA Newsletter 29JAN2013](/documents/2013/april/selectusa_monthly_newsletter_29jan2013.pdf "selectusa_monthly_newsletter_29jan2013.pdf")
+![application/pdf icon](icons/application-pdf.png)[SelectUSA Newsletter 29JAN2013](documents/2013/april/selectusa_monthly_newsletter_29jan2013.pdf "selectusa_monthly_newsletter_29jan2013.pdf")
 
-![application/pdf icon](/icons/application-pdf.png)[SelectUSA Newsletter 1NOV2012](/documents/2013/april/selectusa_monthly_newsletter_1nov2012.pdf "selectusa_monthly_newsletter_1nov2012.pdf")
+![application/pdf icon](icons/application-pdf.png)[SelectUSA Newsletter 1NOV2012](documents/2013/april/selectusa_monthly_newsletter_1nov2012.pdf "selectusa_monthly_newsletter_1nov2012.pdf")
 
-![application/pdf icon](/icons/application-pdf.png)[SelectUSA Newsletter 28SEP2012](/documents/2013/april/selectusa_monthly_newsletter_28sep2012.pdf "selectusa_monthly_newsletter_28sep2012.pdf")
+![application/pdf icon](icons/application-pdf.png)[SelectUSA Newsletter 28SEP2012](documents/2013/april/selectusa_monthly_newsletter_28sep2012.pdf "selectusa_monthly_newsletter_28sep2012.pdf")
 
