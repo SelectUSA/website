@@ -52,9 +52,9 @@ Road Show"
 Financial Forum and Pearl River Delta Road Show"
 
 #### Older Newsletters:
-![application/pdf icon](/icons/application-pdf.png)[SelectUSA Newsletter 30SEP2013](/documents/2013/october/selectusa_newsletter_30sep2013.pdf "selectusa_newsletter_30sep2013.pdf")
+![application/pdf icon](icons/application-pdf.png)[SelectUSA Newsletter 30SEP2013](documents/2013/october/selectusa_newsletter_30sep2013.pdf "selectusa_newsletter_30sep2013.pdf")
 
-![application/pdf icon](/icons/application-pdf.png)[SelectUSA Newsletter 30AUG2013](/documents/2013/october/selectusa_newsletter_30aug2013.pdf "selectusa_newsletter_30aug2013.pdf")
+![application/pdf icon](icons/application-pdf.png)[SelectUSA Newsletter 30AUG2013](documents/2013/october/selectusa_newsletter_30aug2013.pdf "selectusa_newsletter_30aug2013.pdf")
 
 ![application/pdf icon](/icons/application-pdf.png)[SelectUSA Newsletter 31JUL2013](/documents/2013/october/selectusa_newsletter_31july2013.pdf "selectusa_newsletter_31july2013.pdf")
 
