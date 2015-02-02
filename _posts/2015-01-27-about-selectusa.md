@@ -20,4 +20,3 @@ In addition, the site offers a clickable map of the United States to direct our 
 * * *
 
 &gt;&gt; Check out our **[Reading Room ](reading-room.html)**for blogs, press releases, news stories and videos featuring SelectUSA.gov!
- 
