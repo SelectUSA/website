@@ -8,10 +8,22 @@ published: true
 <div class="view view-upcoming-events view-id-upcoming_events view-display-id-page_1 advanced-filtered-search view-dom-id-1">
     
   
-  
-      <div class="view-content">
+ <div class="view-content">
         <h3><span class="date-display-single">February 2015</span></h3>
-  <div class="views-row-1 views-row-odd views-row-first views-row-last">
+        <div class="views-row-1 views-row-odd views-row-first"> 
+  <div class="views-field-title">
+                <span class="field-content"><a href="/events/selectusa-car-symposium.html">SelectUSA at CAR-Symposium</a></span>
+  </div>
+  
+  <div class="views-field-field-date-1-value">
+                <span class="field-content"><span class="date-display-single">Wed, 02/04/2015</span></span>
+  </div>
+  
+  <div class="views-field-field-location-value">
+                <span class="field-content">Bochum, Germany</span>
+  </div>
+  </div>
+  <div class="views-row-2 views-row-even views-row-last">
       
   <div class="views-field-title">
                 <span class="field-content"><a href="/events/selectusa-investment-center-canadian-international-auto-show-cias">SelectUSA Investment Center at the Canadian International Auto Show (CIAS)</a></span>
