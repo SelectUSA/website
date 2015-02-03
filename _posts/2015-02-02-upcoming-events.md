@@ -26,7 +26,7 @@ published: true
   <div class="views-row-2 views-row-even views-row-last">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/events/selectusa-investment-center-canadian-international-auto-show-cias">SelectUSA Investment Center at the Canadian International Auto Show (CIAS)</a></span>
+                <span class="field-content"><a href="/events/selectusa-investment-center-canadian-international-auto-show-cias.html">SelectUSA Investment Center at the Canadian International Auto Show (CIAS)</a></span>
   </div>
   
   <div class="views-field-field-date-1-value">
@@ -41,7 +41,7 @@ published: true
   <div class="views-row-1 views-row-odd views-row-first views-row-last">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/events/selectusa-2015-investment-summit">SelectUSA 2015 Investment Summit</a></span>
+                <span class="field-content"><a href="/events/selectusa-2015-investment-summit.html">SelectUSA 2015 Investment Summit</a></span>
   </div>
   
   <div class="views-field-field-date-1-value">
@@ -56,7 +56,7 @@ published: true
   <div class="views-row-1 views-row-odd views-row-first views-row-last">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/events/selectusa-hannover-messe">SelectUSA at Hannover Messe</a></span>
+                <span class="field-content"><a href="/events/selectusa-hannover-messe.html">SelectUSA at Hannover Messe</a></span>
   </div>
   
   <div class="views-field-field-date-1-value">
@@ -71,7 +71,7 @@ published: true
   <div class="views-row-1 views-row-odd views-row-first">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/events/selectusa-offshore-technology-conference-otc">SelectUSA at the Offshore Technology Conference (OTC)</a></span>
+                <span class="field-content"><a href="/events/selectusa-offshore-technology-conference-otc.html">SelectUSA at the Offshore Technology Conference (OTC)</a></span>
   </div>
   
   <div class="views-field-field-date-1-value">
@@ -85,7 +85,7 @@ published: true
   <div class="views-row-2 views-row-even">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/events/save-date-selectusa-mexico-road-show">Save the Date: SelectUSA Mexico Road Show</a></span>
+                <span class="field-content"><a href="/events/save-date-selectusa-mexico-road-show.html">Save the Date: SelectUSA Mexico Road Show</a></span>
   </div>
   
   <div class="views-field-field-date-1-value">
@@ -99,7 +99,7 @@ published: true
   <div class="views-row-3 views-row-odd views-row-last">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/events/save-date-selectusa-greater-china-road-show">Save the Date: SelectUSA Greater China Road Show</a></span>
+                <span class="field-content"><a href="/events/save-date-selectusa-greater-china-road-show.html">Save the Date: SelectUSA Greater China Road Show</a></span>
   </div>
   
   <div class="views-field-field-date-1-value">
@@ -114,7 +114,7 @@ published: true
   <div class="views-row-1 views-row-odd views-row-first">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/events/selectusa-bio-2015">SelectUSA at BIO 2015</a></span>
+                <span class="field-content"><a href="/events/selectusa-bio-2015.html">SelectUSA at BIO 2015</a></span>
   </div>
   
   <div class="views-field-field-date-1-value">
@@ -128,7 +128,7 @@ published: true
   <div class="views-row-2 views-row-even views-row-last">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/events/selectusa-international-franchise-expo">SelectUSA at the International Franchise Expo</a></span>
+                <span class="field-content"><a href="/events/selectusa-international-franchise-expo.html">SelectUSA at the International Franchise Expo</a></span>
   </div>
   
   <div class="views-field-field-date-1-value">
@@ -143,7 +143,7 @@ published: true
   <div class="views-row-1 views-row-odd views-row-first views-row-last">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/events/save-date-national-aerospace-fdi-exposition">Save the Date: National Aerospace FDI Exposition</a></span>
+                <span class="field-content"><a href="/events/save-date-national-aerospace-fdi-exposition.html">Save the Date: National Aerospace FDI Exposition</a></span>
   </div>
   
   <div class="views-field-field-date-1-value">
@@ -158,7 +158,7 @@ published: true
   <div class="views-row-1 views-row-odd views-row-first views-row-last">
       
   <div class="views-field-title">
-                <span class="field-content"><a href="/events/selectusa-power-gen-international">SelectUSA at POWER-GEN International</a></span>
+                <span class="field-content"><a href="/events/selectusa-power-gen-international.html">SelectUSA at POWER-GEN International</a></span>
   </div>
   
   <div class="views-field-field-date-1-value">

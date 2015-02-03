@@ -2,6 +2,9 @@
 permalink: "events/selectusa-car-symposium.html"
 layout: default
 title: SelectUSA at CAR-Symposium
+date-display-start: Wed, 2/04/2015
+date-display-end: Wed, 2/04/2015
+location-value:  Bochum, Germany 
 section: events
 published: true
 ---
