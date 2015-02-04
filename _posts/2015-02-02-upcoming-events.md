@@ -4,6 +4,9 @@ layout: default
 title: Upcoming Events
 published: true
 ---
+{% if site.url === "localhost:4000" %}
+Paul {% else %} Muffun
+{% endif %}
 
 <div class="view view-upcoming-events view-id-upcoming_events view-display-id-page_1 advanced-filtered-search view-dom-id-1">
 {% for post in site.categories.events reversed %}
