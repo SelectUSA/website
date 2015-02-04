@@ -105,6 +105,21 @@ width:100%!important;
 display:block!important;  
 text-align:center;  
 }
+
+.imgeventright {  
+ float:right;  
+ margin-right:70px;  
+ display: inline-block;
+ text-align: center;
+ }
+
+.imgeventleft {  
+ float:left;  
+margin-left:70px;  
+ display: inline-block;
+ text-align: center;
+ }
+
 /* End newspaper style functionality to images */
 table {
     border-collapse:collapse
