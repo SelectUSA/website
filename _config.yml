@@ -11,3 +11,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+collections:
+- events

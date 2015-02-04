@@ -14,4 +14,4 @@ The **[U.S. Commercial Service Germany](http://export.gov/germany/)**<span>&nbsp
 
 <span>SelectUSA Representative Ed Fantasia will lead a breakout session on investing in the United States and the SelectUSA Summit.</span>
 
-For more information about SelectUSA's activities at the event, please contact Ed Fantasia at [Ed.Fantasia[at]trade[dot]gov](/contact/Ed.Fantasia/trade/gov target=). You can also visit the [CAR-Symposium website](http://www.car-symposium.de/en/start.html) to learn more about the event.
+For more information about SelectUSA's activities at the event, please contact Ed Fantasia at [Ed.Fantasia[at]trade[dot]gov](/contact/Ed.Fantasia/trade/gov target=). You can also visit the [CAR-Symposium website](http://www.car-symposium.de/en/start.html) to learn more about the event. 
