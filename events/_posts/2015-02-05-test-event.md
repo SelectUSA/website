@@ -1,4 +1,3 @@
-
 ---
 permalink: "test-event.html"
 layout: default
