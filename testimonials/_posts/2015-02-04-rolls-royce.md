@@ -1,5 +1,5 @@
 ---
-permalink: "/website/rolls-royce.html"
+permalink: "website/rolls-royce.html"
 layout: sidebar
 title: Rolls-Royce
 section: testimonials

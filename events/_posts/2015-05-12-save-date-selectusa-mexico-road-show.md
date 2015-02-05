@@ -1,5 +1,5 @@
 ---
-permalink: "/website/save-date-selectusa-mexico-road-show.html"
+permalink: "website/save-date-selectusa-mexico-road-show.html"
 layout: default
 title: Save the Date - SelectUSA Mexico Road Show
 date-display-start: Tue, 05/12/2015

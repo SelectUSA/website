@@ -1,5 +1,5 @@
 ---
-permalink: "/website/caterpillar.html"
+permalink: "website/caterpillar.html"
 layout: sidebar
 title: Caterpillar
 section: testimonials

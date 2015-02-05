@@ -1,5 +1,5 @@
 ---
-permalink: "/website/save-date-national-aerospace-fdi-exposition.html"
+permalink: "website/save-date-national-aerospace-fdi-exposition.html"
 layout: default
 title: Save the Date - National Aerospace FDI Exposition
 date-display-start: Mon, 10/26/2015
