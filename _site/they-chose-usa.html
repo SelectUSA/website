@@ -44,6 +44,70 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOut
 $(document).ready(function() { $.fn.maphilight.defaults = { fill: true,fillColor: '274e81',fillOpacity: 0.2,stroke: true,strokeColor: '274e81',strokeOpacity: 1,strokeWidth: 2,fade: true,alwaysOn: false}; $('img[usemap]').maphilight();});
 //--><!]]>
 </script>
+
+<script type="text/javascript">
+function(data){
+    var foundSomething = false;
+
+    for(var i=0; i<data.length; ++i) {
+        if(data[i] !== null) foundSomething = true;
+        break;
+    }
+
+    if(foundSomething) {
+        ldLayer.fadeOut('slow');
+    }else{
+        alert('no data');
+    }
+}
+    function generateRandomPosts()
+    {
+        $.getJSON("/search.json", function(data) {
+            console.log("[search.json loaded for random posts]");
+
+            var postsCount = data.length;
+            var posts = data;
+
+            var randomIndexUsed = [];
+            var counter = 0;
+            var numberOfPosts = 1;
+
+            var divRandomPosts = $("#random_posts");
+
+            divRandomPosts.append('<h2>other posts</h2><hr />');
+
+            while (counter < numberOfPosts)
+            {
+                var randomIndex = Math.floor(Math.random() * postsCount);
+
+                if (randomIndexUsed.indexOf(randomIndex) == "-1")
+                {
+                    var postHREF = posts[randomIndex].href;
+                    var postTitle = posts[randomIndex].title;
+                     var postContent = posts[randomIndex].content;
+
+                    if (counter == (numberOfPosts - 1))
+                    {
+                        divRandomPosts.append('<p>'+ postContent + '</p>');
+                    }
+                    else
+                    {
+                        divRandomPosts.append('<p><a href="' + postHREF + '">' + postTitle + '</a></p><hr />');
+                    }
+
+                    randomIndexUsed.push(randomIndex);
+
+                    counter++;
+                }
+            }
+        });
+    }
+
+    $(document).ready(function() {
+        generateRandomPosts();
+    });
+
+</script>
     </head>
 
    <body class="not-front not-logged-in page-node node-type-testimonials one-sidebar sidebar-left">
@@ -237,6 +301,10 @@ $(document).ready(function() { $.fn.maphilight.defaults = { fill: true,fillColor
     </br></br>
     
     <p>The United States is a rewarding place to conduct business and there has never been a better time to select the USA.  Companies are taking advantage of the benefits the world’s largest economy can offer.  The USA offers a competitive business environment encompassing a huge consumer base, highly educated workforce, concrete IT infrastructure, and transparent rule of law. Highlighted are a few of the many examples of companies realizing success by growing their business investing in the United States.</p>
+
+<div id="random_posts">
+</div>
+
 
     
       
