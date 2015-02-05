@@ -71,6 +71,13 @@ img {
     margin:15px;
     padding:15px;
 }
+/* Start special alignment instead of tables */
+.alignright {  
+ float:right;  
+ margin-right:20px;  
+ display: block;
+ }
+ /* End special alignment */
 /* Start newspaper style functionality to images */
 .imgright {  
  float:right;  
