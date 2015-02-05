@@ -45,69 +45,7 @@ $(document).ready(function() { $.fn.maphilight.defaults = { fill: true,fillColor
 //--><!]]>
 </script>
 
-<script type="text/javascript">
-function(data){
-    var foundSomething = false;
 
-    for(var i=0; i<data.length; ++i) {
-        if(data[i] !== null) foundSomething = true;
-        break;
-    }
-
-    if(foundSomething) {
-        ldLayer.fadeOut('slow');
-    }else{
-        alert('no data');
-    }
-}
-    function generateRandomPosts()
-    {
-        $.getJSON("/search.json", function(data) {
-            console.log("[search.json loaded for random posts]");
-
-            var postsCount = data.length;
-            var posts = data;
-
-            var randomIndexUsed = [];
-            var counter = 0;
-            var numberOfPosts = 1;
-
-            var divRandomPosts = $("#random_posts");
-
-            divRandomPosts.append('<h2>other posts</h2><hr />');
-
-            while (counter < numberOfPosts)
-            {
-                var randomIndex = Math.floor(Math.random() * postsCount);
-
-                if (randomIndexUsed.indexOf(randomIndex) == "-1")
-                {
-                    var postHREF = posts[randomIndex].href;
-                    var postTitle = posts[randomIndex].title;
-                     var postContent = posts[randomIndex].content;
-
-                    if (counter == (numberOfPosts - 1))
-                    {
-                        divRandomPosts.append('<p>'+ postContent + '</p>');
-                    }
-                    else
-                    {
-                        divRandomPosts.append('<p><a href="' + postHREF + '">' + postTitle + '</a></p><hr />');
-                    }
-
-                    randomIndexUsed.push(randomIndex);
-
-                    counter++;
-                }
-            }
-        });
-    }
-
-    $(document).ready(function() {
-        generateRandomPosts();
-    });
-
-</script>
     </head>
 
    <body class="not-front not-logged-in page-node node-type-testimonials one-sidebar sidebar-left">
