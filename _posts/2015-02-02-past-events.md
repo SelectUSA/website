@@ -11,21 +11,6 @@ The past few years have been busy ones for SelectUSA. We've convened major polic
 
 * * *
 
-##Infrastructure 101 Webinar Series
-
-<span class="imgright">[![Infrastructure 101 Webinar](images/selectusa_infrastructure_101_webinar_2014-11-24_page_01_0-300x225.jpg "Infrastructure 101 Webinar")](/infrastructure-101-webinar-series)</span>
-
-This three-part webinar series is designed to equip U.S. economic development organizations (EDOs) with the practical knowledge they need prior to the&nbsp;**[SelectUSA Investment Summit](http://www.selectusasummit.com/)**&nbsp;on March 23-24, 2015, where infrastructure investment will be one of the highlighted topics.
-
-*   [Infrastructure 101 Webinar with the Department of Treasury](/infrastructure-101-webinar-series#Inf101)&nbsp;(November 24, 2014)
-*   [Infrastructure 102 Webinar with the Department of Transportation](/infrastructure-101-webinar-series#Inf102)&nbsp;(December 15, 2014)
-*   [Infrastructure 103 Webinar with the Department of Agriculture](/infrastructure-101-webinar-series#Inf103)&nbsp;(January 28, 2015)
-
-You can access presentations and resources from these webinars on our **[Infrastructure 101 Webinar Series](/infrastructure-101-webinar-series)** page.
-
-
-* * *
-
 ## 2013 SelectUSA Investment Summit
 
 <span class="imgright">[![Secretary Penny Pritzker speaking at 2013 SelectUSA Summit](images/pritzker_closeup_speaking-300x225.jpg "Secretary Penny Pritzker speaking at 2013 SelectUSA Summit")](http://www.selectusasummit.com/)</span>
