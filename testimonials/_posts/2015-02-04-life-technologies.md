@@ -1,5 +1,5 @@
 ---
-permalink: "website/life-technologies.html"
+permalink: "life-technologies.html"
 layout: sidebar
 title: Life Technologies
 section: testimonials

@@ -1,5 +1,5 @@
 ---
-permalink: "website/asco-industries.html"
+permalink: "asco-industries.html"
 layout: sidebar
 title: ASCO Industries
 section: testimonials

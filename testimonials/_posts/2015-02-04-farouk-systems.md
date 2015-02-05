@@ -1,5 +1,5 @@
 ---
-permalink: "website/farouk-systems.html"
+permalink: "farouk-systems.html"
 layout: sidebar
 title: Farouk Systems
 section: testimonials

@@ -1,5 +1,5 @@
 ---
-permalink: "website/selectusa-international-franchise-expo.html"
+permalink: "selectusa-international-franchise-expo.html"
 layout: default
 title: SelectUSA at the International Franchise Expo
 date-display-start: Thu, 06/18/2015

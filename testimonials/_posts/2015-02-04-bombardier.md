@@ -1,5 +1,5 @@
 ---
-permalink: "website/bombardier.html"
+permalink: "bombardier.html"
 layout: sidebar
 title: Bombardier
 section: testimonials

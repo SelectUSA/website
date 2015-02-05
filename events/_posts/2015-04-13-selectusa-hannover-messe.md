@@ -1,5 +1,5 @@
 ---
-permalink: "website/selectusa-hannover-messe.html"
+permalink: "selectusa-hannover-messe.html"
 layout: default
 title: SelectUSA at Hannover Messe
 date-display-start: Mon, 04/13/2015

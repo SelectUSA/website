@@ -1,5 +1,5 @@
 ---
-permalink: "website/save-date-selectusa-greater-china-road-show.html"
+permalink: "save-date-selectusa-greater-china-road-show.html"
 layout: default
 title: Save the Date - SelectUSA Greater China Road Show
 date-display-start: Mon, 05/18/2015 

@@ -1,5 +1,5 @@
 ---
-permalink: "website/astrum-solar-0.html"
+permalink: "astrum-solar-0.html"
 layout: sidebar
 title: Astrum Solar
 section: testimonials
