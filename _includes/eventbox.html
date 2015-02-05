@@ -5,7 +5,7 @@
     <div class="view view-upcoming-events view-id-upcoming_events view-display-id-block_1 advanced-filtered-search view-dom-id-1">
     
   {% assign sorted_pages = (site.categories.events | sort: date) %}
-  {% for post in sorted_pages limit: 5 %}
+  {% for post in sorted_pages limit: 3 %}
       <div class="view-content">
        {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
