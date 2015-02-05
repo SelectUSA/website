@@ -2,28 +2,9 @@
 permalink: "they-chose-usa.html"
 layout: sidebar
 title: Testimonials
-published: true
+published: true 
 --- 
 
 
 
 The United States is a rewarding place to conduct business and there has never been a better time to select the USA.  Companies are taking advantage of the benefits the world’s largest economy can offer.  The USA offers a competitive business environment encompassing a huge consumer base, highly educated workforce, concrete IT infrastructure, and transparent rule of law. Highlighted are a few of the many examples of companies realizing success by growing their business investing in the United States.
-
-
-## DuPont Opens New Genetics Research Facility in U.S.
-
-American chemical company DuPont opened a new genetics research facility in Johnston, Iowa in April 2012 to contribute to increasing global food security. The 200,000 square foot facility was a $40 million investment that will create 400 new jobs in Iowa in addition to the 1,400 employees that already work in DuPont’s Iowa facilities.
-
-> &nbsp;**_“DuPont is a global company and their growth in Iowa affirms its dedication to creating opportunities right here at home.”
-> 
-> _-Iowa Governor Terry Branstad_
-
-## DuPont Announces Plans for $20 Million Battery Production Facility in U.S.
-
-American chemical company DuPont announced in August 2010 that it will build a $20 million production facility in Chesterfield County, Virginia, to improve battery performance in electric and hybrid vehicles.&nbsp; The new facility will produce the first nanofiber-based polymeric separators for high-performance lithium ion batteries for electric vehicles. "DuPont™ Energain™ separators will be key to battery manufacturers’ huge advances in lithium-ion batteries.”
-
-> _**"DuPont enjoys a great, long-term partnership with Virginia, and the technology development it enables enhances our presence here as a major employer."&nbsp; **_
-> 
-> _-Thomas G. Powell, President of DuPont Protection Technologies_.
-
-DuPont considered several sites for its facility, but ultimately chose the United States and Chesterfield County for its high growth rate and market capabilities.&nbsp; The new facility is expected to create 11 new manufacturing jobs.

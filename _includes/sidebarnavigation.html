@@ -1,26 +1,11 @@
-                        <div id="block-menu-menu-testimonials-chose-usa" class="block block-menu">
+<div id="block-menu-menu-testimonials-chose-usa" class="block block-menu">
   <h2>They Chose USA</h2>
 
   <div class="content">
-    <ul class="menu"><li class="leaf first"><a href="/testimonials/asco-industries" title="ASCO Industries">ASCO Industries</a></li>
-<li class="leaf"><a href="/testimonials/astrum-solar-0" title="Astrum Solar">Astrum Solar</a></li>
-<li class="leaf"><a href="/testimonials/bombardier" title="Bombardier">Bombardier</a></li>
-<li class="leaf"><a href="/testimonials/canon-usa" title="Canon USA">Canon USA</a></li>
-<li class="leaf active-trail"><a href="/testimonials/caterpillar" title="Caterpillar" class="active">Caterpillar</a></li>
-<li class="leaf"><a href="/testimonials/dupont" title="DuPont">DuPont</a></li>
-<li class="leaf"><a href="/testimonials/emergent-biosolutions" title="Emergent BioSolutions">Emergent BioSolutions</a></li>
-<li class="leaf"><a href="/testimonials/farouk-systems" title="Farouk Systems">Farouk Systems</a></li>
-<li class="leaf"><a href="/testimonials/general-electric" title="General Electric">General Electric</a></li>
-<li class="leaf"><a href="/testimonials/intel" title="Intel">Intel</a></li>
-<li class="leaf"><a href="/testimonials/life-technologies" title="Life Technologies">Life Technologies</a></li>
-<li class="leaf"><a href="/testimonials/ncr" title="NCR">NCR</a></li>
-<li class="leaf"><a href="/testimonials/nestl%C3%A9" title="Nestlé">Nestle&#039;</a></li>
-<li class="leaf"><a href="/testimonials/rolls-royce" title="Rolls-Royce">Rolls-Royce</a></li>
-<li class="leaf"><a href="/testimonials/r%C3%A9gitex-usa-llc" title="Régitex USA LLC">Régitex USA LLC</a></li>
-<li class="leaf"><a href="/testimonials/siemens" title="Siemens">Siemens</a></li>
-<li class="leaf"><a href="/testimonials/tb-kawashima-usa-inc" title="TB Kawashima USA Inc.">TB Kawashima USA Inc.</a></li>
-<li class="leaf"><a href="/testimonials/vestas" title="Vestas">Vestas</a></li>
-<li class="leaf"><a href="/testimonials/volkswagen" title="Volkswagen">Volkswagen</a></li>
-<li class="leaf last"><a href="/testimonials/whirlpool" title="Whirlpool">Whirlpool</a></li>
+    <ul class="menu">
+ {% assign sorted_pages = (site.categories.testimonials | sort: title) %}
+  {% for post in sorted_pages %}
+  <li class="leaf"><a href="{{ post.url }}">{{ post.title }}</a></li>
+   {% endfor %}
 </ul>  </div>
 </div>
