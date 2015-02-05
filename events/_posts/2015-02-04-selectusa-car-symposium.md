@@ -1,5 +1,5 @@
 ---
-permalink: "/website/selectusa-car-symposium.html"
+permalink: "/selectusa-car-symposium.html"
 layout: default
 title: SelectUSA at CAR-Symposium
 date-display-start: Wed, 2/04/2015
