@@ -1,5 +1,5 @@
 ---
-permalink: "testimonials/régitex-usa-llc.html"
+permalink: "régitex-usa-llc.html"
 layout: sidebar
 title: Régitex USA LLC
 section: testimonials

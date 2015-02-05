@@ -1,5 +1,5 @@
 ---
-permalink: "testimonials/emergent-biosolutions.html"
+permalink: "emergent-biosolutions.html"
 layout: sidebar
 title: Emergent BioSolutions
 section: testimonials
