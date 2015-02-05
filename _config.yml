@@ -1,6 +1,6 @@
 name: Website
 pygments: true
-baseurl: http://selectusa.github.io/website
+baseurl: 
 markdown: rdiscount
 exclude:
   - .bundle
