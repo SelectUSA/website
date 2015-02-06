@@ -21,7 +21,7 @@ published: true
  
       <div class="views-field-title">
           <span class="field-content">
-              <a href="http://selectusa.github.io/website{{ post.url }}">{{ post.title }}</a>
+              <a href="{{ post.url }}">{{ post.title }}</a>
           </span>
       </div>
       <div class="views-field-field-date-1-value">

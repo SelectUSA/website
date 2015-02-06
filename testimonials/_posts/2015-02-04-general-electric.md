@@ -1,5 +1,5 @@
 ---
-permalink: "general-electric.html"
+permalink: "testimonials/general-electric.html"
 layout: sidebar
 title: General Electric
 section: testimonials

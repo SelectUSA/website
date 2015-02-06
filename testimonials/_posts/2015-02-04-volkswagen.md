@@ -1,5 +1,5 @@
 ---
-permalink: "volkswagen.html"
+permalink: "testimonials/volkswagen.html"
 layout: sidebar
 title: Volkswagen
 section: testimonials

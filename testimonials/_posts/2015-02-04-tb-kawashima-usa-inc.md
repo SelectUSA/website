@@ -1,5 +1,5 @@
 ---
-permalink: "tb-kawashima-usa-inc.html"
+permalink: "testimonials/tb-kawashima-usa-inc.html"
 layout: sidebar
 title: TB Kawashima USA Inc.
 section: testimonials

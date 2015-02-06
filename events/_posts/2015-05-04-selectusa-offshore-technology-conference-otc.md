@@ -1,5 +1,5 @@
 ---
-permalink: "selectusa-offshore-technology-conference-otc.html"
+permalink: "events/selectusa-offshore-technology-conference-otc.html"
 layout: default
 title: SelectUSA at the Offshore Technology Conference (OTC)
 date-display-start: Mon, 05/04/2015 
