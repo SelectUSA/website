@@ -21,7 +21,7 @@ published: true
  
       <div class="views-field-title">
           <span class="field-content">
-              <a href="{{ post.url }}">{{ post.title }}</a>
+              <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
           </span>
       </div>
       <div class="views-field-field-date-1-value">
