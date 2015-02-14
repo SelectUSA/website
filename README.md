@@ -70,4 +70,4 @@ https://github.com/mojombo/jekyll
 ## Clone the repository
 
 - `cd /var/www/html` (or the location you would like the compiled site to live)
-- `git clone `
+- `git clone https://github.com/SelectUSA/website.git`
