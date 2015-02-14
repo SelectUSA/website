@@ -1,6 +1,8 @@
 # SelectUSA
 
-This project includes the source code and content. View the site here: http://selectusa.github.io/website/
+This project includes the source code and content. 
+
+View the site here: http://selectusa.github.io/website/
 
 ## Local Installation Requirements
 
