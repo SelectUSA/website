@@ -2,10 +2,14 @@
 permalink: "events/selectusa-summer-forum.html"
 layout: default
 title: SelectUSA Summer Forum
+date-display-start: Tue, 06/17/2014
+date-display-end:  Tue, 06/17/2014
+location-value:  Washington, DC
+section: events
 published: true
 ---
 
-![SelectUSA Summer Forum Logo](images/summer_forum_graphic-633x238.png "SelectUSA Summer Forum")
+![SelectUSA Summer Forum Logo](../images/summer_forum_graphic-633x238.png "SelectUSA Summer Forum")
 
 ## "Reinvesting in America, Creating Jobs at Home"
 
@@ -21,7 +25,7 @@ Thank you to everyone who attended! Remarks and presentation materials are provi
 
 ## Summer Forum Agenda
 
-[Click here to read the bios of the speakers.](documents/all_speaker_bios_for_handout_final.pdf)
+[Click here to read the bios of the speakers.](../documents/all_speaker_bios_for_handout_final.pdf)
 
 
 **&nbsp;12:00:
@@ -39,7 +43,7 @@ Secretary of Commerce for Economic Affairs_
 _Director &amp; Co-lead of Global Manufacturing Practice, McKinsey _**[Read More...](http://www.mckinsey.com/insights/manufacturing/shaping_the_future_of_manufacturing)**
 *   Mr. Hal Sirkin,
 _Senior Partner &amp; Managing Director, Chicago, Boston Consulting Group_
-*   Dr. Sue Helper [[presentation](documents/final_sue_helper_selectusa_summer_forum_jun_17_2014.pdf)],
+*   Dr. Sue Helper [[presentation](../documents/final_sue_helper_selectusa_summer_forum_jun_17_2014.pdf)],
 _Chief Economist, U.S. Department of Commerce_
 
 **1:20: &nbsp;A Conversation with Walmart’s Michelle Gloeckler: **Learn about Walmart's commitment to work with suppliers to reshore manufacturing.&nbsp;
@@ -76,7 +80,7 @@ _
 **
 
 **2:45:
-Keynote by Mr. Jeff Fettig [**[presentation](documents/jeff_fettig_selectusa_summer_forum_jun_17_2014.pdf)**]**,&nbsp;**_Chairman and CEO, Whirlpool Corporation_**
+Keynote by Mr. Jeff Fettig [**[presentation](../documents/jeff_fettig_selectusa_summer_forum_jun_17_2014.pdf)**]**,&nbsp;**_Chairman and CEO, Whirlpool Corporation_**
 
 **
 **
@@ -88,11 +92,11 @@ Panel Discussion - Making the Move: **What do socks, Tinker Toys, IT services, a
 **
 
 *   Ms. Chandra Brown,
-_Deputy Assistant Secretary for Manufacturing_*   Mr. Maulik Shah [[presentation](documents/maulik_shah_selectusa_summer_forum_jun_17_2014.pdf)], _CTO
+_Deputy Assistant Secretary for Manufacturing_*   Mr. Maulik Shah [[presentation](../documents/maulik_shah_selectusa_summer_forum_jun_17_2014.pdf)], _CTO
 and cofounder, Mantra Information Services_
-*   Mr. Michael Araten [[presentation](documents/michael_araten_selectusa_summer_forum_jun_17_2014.pdf)],
+*   Mr. Michael Araten [[presentation](../documents/michael_araten_selectusa_summer_forum_jun_17_2014.pdf)],
 _CEO, K’NEX_
-*   Mr. Michael Penner [[presentation](documents/michael_penner_selectusa_summer_forum_jun_17_2014.pdf)],
+*   Mr. Michael Penner [[presentation](../documents/michael_penner_selectusa_summer_forum_jun_17_2014.pdf)],
 _CEO, Richelieu_
 
 **4:30:
@@ -111,7 +115,7 @@ Industry Services, National Institute of Standards and Technology (NIST)_
 
 &nbsp;
 
-<span class="imgeventleft">![Image of Jeff Fettig](images/jeff-206x261.png "Jeff Fettig")</span>
+<span class="imgeventleft">![Image of Jeff Fettig](../images/jeff-206x261.png "Jeff Fettig")</span>
 We were thrilled to have Mr. Jeff Fettig, CEO
         of Whirlpool, joining us to share his experience with reshoring.
         &nbsp;Eighty percent of Whirlpool products on the U.S. market are made
@@ -137,7 +141,7 @@ Nowhere is this more evident than
 
 &nbsp;
 
-![](images/panel_grouped-506x248.png)
+![](../images/panel_grouped-506x248.png)
 
 
 * * *
@@ -150,4 +154,4 @@ The SelectUSA Summer Forum also featured remarks by **co-hosts Secretary of Comm
 
 &nbsp;
 
-![Photos of Penny Pritzker and Frank Wolf](images/both_0.png "Penny Pritzker and Frank Wolf")
+![Photos of Penny Pritzker and Frank Wolf](../images/both_0.png "Penny Pritzker and Frank Wolf")
