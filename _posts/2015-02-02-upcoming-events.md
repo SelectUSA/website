@@ -33,7 +33,6 @@ published: true
               {{post.date-display-start}} 
             </span>
              {% if post.date-display-end == post.date-display-start %}
-             same date
              {% else %}
             <span class="date-display-separator"> - </span>
             <span class="date-display-end">

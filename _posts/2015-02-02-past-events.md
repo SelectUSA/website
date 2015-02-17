@@ -1,6 +1,6 @@
 ---
 permalink: "past-events.html"
-layout: default
+layout: sidebar
 title: Past Events
 published: true
 ---
@@ -42,7 +42,7 @@ what's driving reshoring, the challenges that lie ahead, and best practices. Lik
 
 Keynote speakers included **U.S.&nbsp;Secretary of Commerce Penny Pritzker** and **Whirlpool CEO Jeff Fettig. **We also heard from leading economists, Walmart, economic development organizations, and companies that shared their experience in making the move back to the United States.
 
-<span>If you missed it, you can still check out the presentations<span>,&nbsp;[<span>available online</span>](/selectusa-summer-forum)</span><span>.</span></span>
+If you missed it, you can still check out the presentations,&nbsp;[available online](/selectusa-summer-forum).
 
 ## 
 
@@ -89,8 +89,8 @@ Through outreach to investors in global markets, SelectUSA helps them get the in
 <span class="imgright">![Investment Seminar in Greece](images/4355_eveth_-300x200.jpg "Investment Seminar in Greece")</span>
 
 *   **Doing Business in the United States** - June 20, 2014 - Chengdu, China
-*   **SelectUSA Workshop for the <strong><span>Thessaloniki
-Chamber of Commerce &amp; Industry: Doing Business in the United States&nbsp;</span>**</strong>- May 28, 2014**<strong><span> -</span>**&nbsp;</strong>Thessaloniki, Greece
+*   **SelectUSA Workshop for the <strong>Thessaloniki
+Chamber of Commerce &amp; Industry: Doing Business in the United States&nbsp; **</strong>- May 28, 2014**<strong> - **&nbsp;</strong>Thessaloniki, Greece
 *   **SelectUSA for Startups -&nbsp;**May 20-21, 2014 - Bern, Switzerland
 *   **SelectUSA Workshop **- May 14, 2014 - Dusseldorf, Germany
 *   **Forumulating Your Company's Aeronautics/Electronics Investment **- May 13, 2014 - Toulouse, France
@@ -110,4 +110,4 @@ for Greek Delegates - **March 19, 2014 - Athens, Greece
 *   **SelectUSA Seminar** - January 31, 2014 - Sendai, Japan
 *   **SelectUSA Business/Investor Visa Workshop** - January 16, 2014 - Munich, Germany&nbsp;
 *   **Asian Financial Forum** - January 13-14, 2014 - Hong Kong, China
-*   **SelectUSA Investment Showcase** - November 22, 2013 - Munich, Germany    </div>
+*   **SelectUSA Investment Showcase** - November 22, 2013 - Munich, Germany    
