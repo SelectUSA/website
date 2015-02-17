@@ -470,117 +470,41 @@ $(document).ready(function() { $.fn.maphilight.defaults = { fill: true,fillColor
   </div>
 </div>
 
+
 <div id="block-views-upcoming_events-block_1" class="block block-views">
   <h2>Upcoming Events</h2>
 
   <div class="content">
     <div class="view view-upcoming-events view-id-upcoming_events view-display-id-block_1 advanced-filtered-search view-dom-id-1">
-    
-  
-  
-      <div class="view-content">
-       
         
-          <div class="views-row-1 views-row-odd views-row-first">
-        
-        
-      
-  <div class="views-field-title">
-           <span class="field-content">
-              <a href="/events/selectusa-summer-forum.html">SelectUSA Summer Forum</a>
-          </span>
-  </div>
-  
-  <div class="views-field-field-date-1-value">
-                
+  <div id="id01"></div>
+
+<script>
+var xmlhttp = new XMLHttpRequest();
+var url = "events.json";
+
+xmlhttp.onreadystatechange = function() {
+    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+        var myArr = JSON.parse(xmlhttp.responseText);
+        myFunction(myArr);
+    }
+}
+xmlhttp.open("GET", url, true);
+xmlhttp.send();
 
 
-                <span class="date-display-start">
-               
-            </span>
-             
-             
-  </div>
-  
-  <div class="views-field-field-location-value">
-                <span class="field-content"></span>
-  </div>
-  </div>
-  
- 
-    </div>
-  
-  
-  
-      <div class="view-content">
-       
-        
-          <div class="views-row-1 views-row-even views-row-first">
-        
-        
-      
-  <div class="views-field-title">
-           <span class="field-content">
-              <a href="/events/selectusa-car-symposium.html">SelectUSA at CAR-Symposium</a>
-          </span>
-  </div>
-  
-  <div class="views-field-field-date-1-value">
-                
 
-
-                <span class="date-display-start">
-              Wed, 2/04/2015 
-            </span>
-             
-             
-  </div>
-  
-  <div class="views-field-field-location-value">
-                <span class="field-content">Bochum, Germany</span>
-  </div>
-  </div>
-  
- 
-    </div>
-  
-  
-  
-      <div class="view-content">
-       
-        
-          <div class="views-row-1 views-row-odd views-row-first">
-        
-        
-      
-  <div class="views-field-title">
-           <span class="field-content">
-              <a href="/events/selectusa-investment-center-canadian-international-auto-show-cias.html">SelectUSA Investment Center at the Canadian International Auto Show (CIAS)</a>
-          </span>
-  </div>
-  
-  <div class="views-field-field-date-1-value">
-                
-
-
-                <span class="date-display-start">
-              Thu, 02/12/2015 
-            </span>
-             
-             
-  </div>
-  
-  <div class="views-field-field-location-value">
-                <span class="field-content">Toronto, Canada</span>
-  </div>
-  </div>
-  
- 
-    </div>
-  
-  
-  
-      
+function myFunction(arr) {
+    var out = "";
+    var i;
+    for(i = 0; i < 3; i++) {
+      if (arr[i].current == 0) continue;
+        out += '<div class="view-content"><div class="views-row-1 views-row-' + arr[i].rowdiv +  ' views-row-first"> <div class="views-field-title"><span class="field-content"><a href="' + arr[i].url + '">' + 
+        arr[i].title + '</a></span></div><div class="views-field-field-date-1-value"><span class="date-display-start">' + arr[i].startdate + '</span><span class="date-display-end">' + arr[i].enddate + '</span></div><div class="views-field-field-location-value"><span class="field-content">' + arr[i].location + '</span></div></div></div>';
+    }
+    document.getElementById("id01").innerHTML = out;
+}
+</script>
 <div class="more-link">
   <a href="upcoming-events.html">
     See all events &gt;  </a>

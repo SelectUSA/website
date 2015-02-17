@@ -1,53 +1,38 @@
+
 <div id="block-views-upcoming_events-block_1" class="block block-views">
   <h2>Upcoming Events</h2>
 
   <div class="content">
     <div class="view view-upcoming-events view-id-upcoming_events view-display-id-block_1 advanced-filtered-search view-dom-id-1">
-    
-  {% assign sorted_pages = (site.categories.events | sort: date) %}
-  {% for post in sorted_pages limit: 3 %}
-      <div class="view-content">
-       {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-        {% if thecycle == 'odd' %}
-          <div class="views-row-1 views-row-odd views-row-first">
-        {% else %}
-          <div class="views-row-1 views-row-even views-row-first">
-        {% endif %}
         
-      
-  <div class="views-field-title">
-           <span class="field-content">
-              <a href="{{ post.url }}">{{ post.title }}</a>
-          </span>
-  </div>
-  
-  <div class="views-field-field-date-1-value">
-                
+  <div id="id01"></div>
+
+<script>
+var xmlhttp = new XMLHttpRequest();
+var url = "events.json";
+
+xmlhttp.onreadystatechange = function() {
+    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+        var myArr = JSON.parse(xmlhttp.responseText);
+        myFunction(myArr);
+    }
+}
+xmlhttp.open("GET", url, true);
+xmlhttp.send();
 
 
-                <span class="date-display-start">
-              {{post.date-display-start}} 
-            </span>
-             {% if post.date-display-end == post.date-display-start %}
-             {% else %}
-            <span class="date-display-separator"> - </span>
-            <span class="date-display-end">
-              {{post.date-display-end}}
-            </span>
-             {% endif %}
-  </div>
-  
-  <div class="views-field-field-location-value">
-                <span class="field-content">{{post.location-value}}</span>
-  </div>
-  </div>
-  
- 
-    </div>
-  
-  
-  {% endfor %}
-      
+
+function myFunction(arr) {
+    var out = "";
+    var i;
+    for(i = 0; i < 3; i++) {
+      if (arr[i].current == 0) continue;
+        out += '<div class="view-content"><div class="views-row-1 views-row-' + arr[i].rowdiv +  ' views-row-first"> <div class="views-field-title"><span class="field-content"><a href="' + arr[i].url + '">' + 
+        arr[i].title + '</a></span></div><div class="views-field-field-date-1-value"><span class="date-display-start">' + arr[i].startdate + '</span><span class="date-display-end">' + arr[i].enddate + '</span></div><div class="views-field-field-location-value"><span class="field-content">' + arr[i].location + '</span></div></div></div>';
+    }
+    document.getElementById("id01").innerHTML = out;
+}
+</script>
 <div class="more-link">
   <a href="upcoming-events.html">
     See all events &gt;  </a>

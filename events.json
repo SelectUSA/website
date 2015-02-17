@@ -1,0 +1,24 @@
+---
+---
+[
+{% assign sorted_pages = (site.categories.events | sort: date) %}
+{% for post in sorted_pages %}
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}{% if posttime < nowunix %}{% else %}
+    {
+      "title"    : "{{ post.title }}",
+      "url"     : "{{ post.url }}",
+{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}{% if thecycle == 'odd' %}"rowdiv": "odd",{% else %}"rowdiv": "even",{% endif %}     
+      "location" : "{{ post.location-value }}",
+      "startdate" : "{{ post.date-display-start }}",
+{% if post.date-display-end == post.date-display-start %}"enddate" : "",{% else %}"enddate" : " - {{post.date-display-end}}",{% endif %}
+      "date"     : {
+         "full"   : "{{ post.date | '%s' }}",
+         "day"   : "{{ post.date | date: "%d" }}",
+         "month" : "{{ post.date | date: "%B" }}",
+         "year"  : "{{ post.date | date: "%Y" }}"
+      }
+    }
+    {% unless forloop.last %},{% endunless %}
+{% endif %}
+    {% endfor %}
+]

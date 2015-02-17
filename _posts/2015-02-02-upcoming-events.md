@@ -7,6 +7,9 @@ published: true
 
 <div class="view view-upcoming-events view-id-upcoming_events view-display-id-page_1 advanced-filtered-search view-dom-id-1">
 {% for post in site.categories.events reversed %}
+{% capture nowunix %}{{site.time  | date: '%s'}}{% endcapture %}
+{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+{% if posttime > nowunix %}
     {% capture currentdate %}{{post.date | date: " %B, %Y"}}{% endcapture %}
     {% if currentdate != thedate %}
     <h3><span class="date-display-single">  {{ currentdate }}
@@ -45,5 +48,6 @@ published: true
           </span>
     </div>
   </div>
+  {% else %} {% endif %}
 {% endfor %}
 </div>

@@ -1,0 +1,94 @@
+[
+
+
+
+    {
+      "title"    : "SelectUSA Summer Forum",
+      "url"     : "/events/selectusa-summer-forum.html",
+"rowdiv": "odd",     
+      "location" : "",
+      "startdate" : "",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2014-06-17 00:00:00 -0400",
+         "day"   : "17",
+         "month" : "June",
+         "year"  : "2014"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA Summer Forum",
+      "url"     : "/events/selectusa-summer-forum.html",
+"rowdiv": "even",     
+      "location" : "",
+      "startdate" : "",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2014-07-17 00:00:00 -0400",
+         "day"   : "17",
+         "month" : "July",
+         "year"  : "2014"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA at CAR-Symposium",
+      "url"     : "/events/selectusa-car-symposium.html",
+"rowdiv": "odd",     
+      "location" : "Bochum, Germany",
+      "startdate" : "Wed, 2/04/2015",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2015-02-04 00:00:00 -0500",
+         "day"   : "04",
+         "month" : "February",
+         "year"  : "2015"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA Investment Center at the Canadian International Auto Show (CIAS)",
+      "url"     : "/events/selectusa-investment-center-canadian-international-auto-show-cias.html",
+"rowdiv": "even",     
+      "location" : "Toronto, Canada",
+      "startdate" : "Thu, 02/12/2015",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2015-02-12 00:00:00 -0500",
+         "day"   : "12",
+         "month" : "February",
+         "year"  : "2015"
+      }
+    }
+    ,
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+]

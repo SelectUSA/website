@@ -1,0 +1,174 @@
+[
+
+
+
+    
+
+    
+
+    
+
+    
+
+    {
+      "title"    : "SelectUSA 2015 Investment Summit",
+      "url"     : "/events/selectusa-2015-investment-summit.html",
+"rowdiv": "odd",     
+      "location" : "Washington, DC",
+      "startdate" : "Mon, 03/23/2015",
+"enddate" : " - Tue, 03/24/2015",
+      "date"     : {
+         "full"   : "2015-03-23 00:00:00 -0400",
+         "day"   : "23",
+         "month" : "March",
+         "year"  : "2015"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA at Hannover Messe",
+      "url"     : "/events/selectusa-hannover-messe.html",
+"rowdiv": "even",     
+      "location" : "Hannover, Germany",
+      "startdate" : "Mon, 04/13/2015",
+"enddate" : " - Fri, 04/17/2015",
+      "date"     : {
+         "full"   : "2015-04-13 00:00:00 -0400",
+         "day"   : "13",
+         "month" : "April",
+         "year"  : "2015"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA at the Offshore Technology Conference (OTC)",
+      "url"     : "/events/selectusa-offshore-technology-conference-otc.html",
+"rowdiv": "odd",     
+      "location" : "Houston, TX",
+      "startdate" : "Mon, 05/04/2015",
+"enddate" : " - Thu, 05/07/2015",
+      "date"     : {
+         "full"   : "2015-05-04 00:00:00 -0400",
+         "day"   : "04",
+         "month" : "May",
+         "year"  : "2015"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "Save the Date - SelectUSA Mexico Road Show",
+      "url"     : "/events/save-date-selectusa-mexico-road-show.html",
+"rowdiv": "even",     
+      "location" : "Mérida, Mexico City, Tijuana",
+      "startdate" : "Tue, 05/12/2015",
+"enddate" : " - Thu, 05/14/2015",
+      "date"     : {
+         "full"   : "2015-05-12 00:00:00 -0400",
+         "day"   : "12",
+         "month" : "May",
+         "year"  : "2015"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "Save the Date - SelectUSA Greater China Road Show",
+      "url"     : "/events/save-date-selectusa-greater-china-road-show.html",
+"rowdiv": "odd",     
+      "location" : "Hong Kong, Shenzhen, Dongguan, Guangzhou, Shanghai, Shenyang, Dalian",
+      "startdate" : "Mon, 05/18/2015",
+"enddate" : " - Fri, 05/29/2015",
+      "date"     : {
+         "full"   : "2015-05-18 00:00:00 -0400",
+         "day"   : "18",
+         "month" : "May",
+         "year"  : "2015"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA at BIO 2015",
+      "url"     : "/events/selectusa-bio-2015.html",
+"rowdiv": "even",     
+      "location" : "Philadelphia, PA",
+      "startdate" : "Mon, 06/15/2015",
+"enddate" : " - Thu, 06/18/2015",
+      "date"     : {
+         "full"   : "2015-06-15 00:00:00 -0400",
+         "day"   : "15",
+         "month" : "June",
+         "year"  : "2015"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA at the International Franchise Expo",
+      "url"     : "/events/selectusa-international-franchise-expo.html",
+"rowdiv": "odd",     
+      "location" : "New York, NY",
+      "startdate" : "Thu, 06/18/2015",
+"enddate" : " - Sat, 06/20/2015",
+      "date"     : {
+         "full"   : "2015-06-18 00:00:00 -0400",
+         "day"   : "18",
+         "month" : "June",
+         "year"  : "2015"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "Save the Date - National Aerospace FDI Exposition",
+      "url"     : "/events/save-date-national-aerospace-fdi-exposition.html",
+"rowdiv": "even",     
+      "location" : "Los Angeles, CA",
+      "startdate" : "Mon, 10/26/2015",
+"enddate" : " - Wed, 10/28/2015",
+      "date"     : {
+         "full"   : "2015-10-26 00:00:00 -0400",
+         "day"   : "26",
+         "month" : "October",
+         "year"  : "2015"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA at POWER-GEN International",
+      "url"     : "/events/selectusa-power-gen-international.html",
+"rowdiv": "odd",     
+      "location" : "Las Vegas, NV",
+      "startdate" : "Tue, 12/08/2015",
+"enddate" : " - Thu, 12/10/2015",
+      "date"     : {
+         "full"   : "2015-12-08 00:00:00 -0500",
+         "day"   : "08",
+         "month" : "December",
+         "year"  : "2015"
+      }
+    }
+    
+
+    
+]
