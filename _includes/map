@@ -1,0 +1,203 @@
+<div id="block-block-5" class="block block-block">
+  <h2>Browse Resources Offered by States and Territories</h2>
+
+  <div class="content">
+    <div class="content">
+<div> 
+
+
+<p>Each state and territory offers its own unique set of opportunities and assets.  Learn more about each location by clicking on the map or state/territory names below.</p><img usemap="#Map" src="images/usamap_3.jpg" alt="Map of the United States of America" border="0" height="500" width="550" />
+<map id="Map" name="Map">
+<area class="tooltip" title="Alabama" shape="poly" coords="394,213,367,211,366,266,372,270,379,273,379,263,401,261,403,253,403,242" href="http://www.madeinalabama.com/" alt="Alabama" />
+
+<area class="tooltip" title="Alaska" shape="poly" coords="108,247,119,253,132,259,142,261,136,283,136,310,161,327,170,338,161,340,148,324,130,311,118,305,111,310,102,316,100,325,78,325,48,330,88,312,79,304,72,295,72,285,88,279,80,270,84,263,92,254,100,249" href="http://www.alaska.gov" alt="Alaska" />
+
+<area class="tooltip" title="Arizona" shape="poly" coords="103,169,153,177,144,248,121,244,82,221,88,222,86,209,93,205,93,192,93,177,100,178" href="http://www.azcommerce.com" alt="Arizona" />
+
+<area class="tooltip" title="Arkansas" shape="poly" coords="300,197,304,238,306,238,310,240,335,239,337,230,348,214,352,203,352,201,357,193" href="http://www.arkansasedc.com" alt="Arkansas" />
+
+<area class="tooltip" title="California" shape="poly" coords="17,80,59,90,50,129,93,200,89,207,85,212,86,220,57,217,55,209,49,201,28,182,24,160,18,157,20,145,17,127,11,119,15,110,12,99,18,92" href="http://www.business.ca.gov " alt="California" />
+
+<area class="tooltip" title="Colorado" shape="poly" coords="163,129,227,136,223,186,155,177" href="http://www.advancecolorado.com" alt="Colorado" />
+
+<area class="tooltip" title="Connecticut" shape="poly" coords="499,103,505,102,514,99,516,107,510,111,503,110,499,109" href="http://www.ct.gov/ecd/" alt="Connecticut" />
+<area class="tooltip" title="Connecticut" shape="rect" coords="523,151,544,166" href="http://www.ct.gov/ecd/" alt="Connecticut" />
+
+<area class="tooltip" title="Delaware" shape="poly" coords="492,154,496,154,497,149,491,142,487,138,488,147" href="http://global.delaware.gov" alt="Delaware" />
+<area class="tooltip" title="Delaware" shape="rect" coords="523,182,544,195" href="http://global.delaware.gov" alt="Delaware" />
+
+<area class="tooltip" title="District of Columbia" shape="poly" coords="472,152,478,153,480,157,475,156" href="http://dcbiz.dc.gov" alt="District of Columbia" />
+<area class="tooltip" title="District of Columbia" shape="rect" coords="523,211,544,225" href="http://dcbiz.dc.gov" alt="District of Columbia" />
+
+<area class="tooltip" title="Florida" shape="poly" coords="376,265,379,273,399,272,409,281,418,275,423,275,430,286,430,299,437,314,453,330,462,327,461,321,465,317,464,311,453,286,444,268,442,260,447,263,415,263,407,260" href="http://www.enterpriseflorida.com" alt="Florida" />
+
+<area class="tooltip" title="Georgia" shape="poly" coords="423,211,407,207,394,213,406,246,406,248,403,254,407,265,439,266,441,258,445,255,447,238" href="http://www.georgia.org" alt="Georgia" />
+
+<area class="tooltip" title="Hawaii" shape="poly" coords="221,334,231,326,217,313,215,322,187,318,187,298,157,290,166,285,201,300,211,305" href="http://invest.hawaii.gov/" alt="Hawaii" />
+
+<area class="tooltip" title="Idaho" shape="poly" coords="116,14,121,14,120,29,129,54,125,61,132,71,142,79,147,79,150,79,144,113,90,98,92,85,98,73,102,61,105,54,107,45" href="http://commerce.idaho.gov/foreign-direct-investment" alt="Idaho" />
+
+<area class="tooltip" title="Illinois" shape="poly" coords="343,117,342,125,336,130,330,148,345,166,345,173,345,177,353,183,360,191,362,181,365,177,369,165,367,129,358,117" href="http://www.illinoisbiz.biz" alt="Illinois" />
+
+<area class="tooltip" title="Iowa" shape="poly" coords="283,107,283,124,292,143,328,143,334,134,340,124,332,115,332,106" href="http://www.iowaeconomicdevelopment.com/" alt="Iowa" />
+
+<area class="tooltip" title="Indiana" shape="poly" coords="394,125,367,128,368,170,371,176,384,171,397,160" href="http://www.iedc.in.gov" alt="Indiana" />
+
+<area class="tooltip" title="Kansas" shape="poly" coords="226,154,224,186,298,188,298,162,292,151,228,148,227,150" href="http://www.kansascommerce.com" alt="Kansas" />
+
+<area class="tooltip" title="Kentucky" shape="poly" coords="424,165,406,160,400,153,382,173,366,173,365,179,356,191,347,193,352,193,414,186,427,174,423,169" href="http://www.thinkkentucky.com" alt="Kentucky" />
+
+<area class="tooltip" title="Louisiana" shape="poly" coords="303,240,339,237,341,246,335,266,353,268,356,274,357,277,357,283,356,282,351,286,335,285,328,278,322,281,313,279,309,283,312,270,307,254" href="http://www.opportunitylouisiana.com" alt="Louisiana" />
+
+<area class="tooltip" title="Maine" shape="poly" coords="510,57,513,48,511,40,516,27,525,28,533,37,530,30,536,47,545,49,548,55,541,60,535,63,532,70,529,75,523,80,521,85" href="http://www.mitc.com" alt="Maine" />
+
+<area class="tooltip" title="Maryland" shape="poly" coords="449,149,455,144,461,143,466,147,469,150,478,153,484,162,482,152,481,145,484,139,489,159,495,158,490,153,487,144,478,138,467,139,451,142,444,143" href="http://www.choosemaryland.org" alt="Maryland" />
+<area class="tooltip" title="Maryland" shape="rect" coords="523,197,543,210" href="http://business.maryland.gov/" alt="Maryland" />
+
+<area class="tooltip" title="Massachusetts" shape="poly" coords="498,94,516,88,520,86,522,90,520,94,525,95,528,99,532,98,527,102,522,103,518,98,512,99,506,101,499,102" href="http://www.mass.gov/moiti" alt="Massachusetts" />
+<area class="tooltip" title="Massachusetts" shape="rect" coords="528,109,550,122" href="http://www.mass.gov/moiti" alt="Massachusetts" />
+
+<area class="tooltip" title="Michigan" shape="poly" coords="373,129,412,124,412,117,414,101,409,94,402,96,400,93,403,78,384,70,389,62,399,61,382,62,361,66,355,62,357,54,338,67,355,71,360,79,372,72,389,63,389,65,384,78,380,80,373,92,377,107" href="http://www.michiganbusiness.org/" alt="Michigan" />
+
+<area class="tooltip" title="Minnesota" shape="poly" coords="341,48,326,48,317,43,307,41,299,38,279,37,284,76,286,82,285,87,284,96,283,107,332,108,322,96,317,83,323,66" href="http://mn.gov/deed/invest" alt="Minnesota" />
+
+<area class="tooltip" title="Mississippi" shape="poly" coords="366,214,349,211,338,227,342,249,335,267,358,269,357,272,368,272,365,242" href="http://www.mississippi.org" alt="Mississippi" />
+
+<area class="tooltip" title="Missouri" shape="poly" coords="288,140,297,157,298,160,300,186,302,194,353,195,349,197,355,191,355,187,344,171,340,160,332,148,328,141" href="http://www.missouripartnership.com" alt="Missouri" />
+
+<area class="tooltip" title="Montana" shape="poly" coords="122,17,219,33,214,82,152,74,151,80,134,77,129,66,125,59,127,51,128,43,119,26" href="http://commerce.mt.gov" alt="Montana" />
+
+<area class="tooltip" title="Nebraska" shape="poly" coords="210,113,208,131,229,135,229,147,291,150,287,128,279,117,213,110" href="http://www.neded.org" alt="Nebraska" />
+
+<area class="tooltip" title="Nevada" shape="poly" coords="61,89,116,106,100,177,93,175,91,194,50,131" href="http://www.diversifynevada.com/" alt="Nevada" />
+
+<area class="tooltip" title="New Hampshire" shape="poly" coords="506,61,509,58,520,85,505,90" href="http://www.nheconomy.com" alt="New Hampshire" />
+<area class="tooltip" title="New Hampshire" shape="rect" coords="485,41,506,55" href="http://www.nheconomy.com" alt="New Hampshire" />
+
+<area class="tooltip" title="New Jersey" shape="poly" coords="490,116,497,118,496,123,498,131,495,139,489,137,488,134" href="http://nj.gov/state/bac/" alt="New Jersey" />
+<area class="tooltip" title="New Jersey" shape="rect" coords="523,167,544,181" href="http://nj.gov/state/bac/" alt="New Jersey" />
+
+<area class="tooltip" title="New Mexico" shape="poly" coords="154,177,213,184,210,248,172,246,154,245,150,250,151,248,143,248" href="http://www.tradenm.com" alt="New Mexico" />
+
+<area class="tooltip" title="New York" shape="poly" coords="499,123,505,120,506,119,512,113,511,112,499,109,490,64,475,68,470,76,468,84,465,91,452,96,445,98,445,104,436,115,481,106,489,114" href="http://www.esd.ny.gov" alt="New York" />
+
+<area class="tooltip" title="North Carolina" shape="poly" coords="431,184,418,197,407,210,422,210,434,203,445,204,454,205,463,208,471,215,478,210,485,202,491,194,498,180,489,176" href="http://www.thrivenc.com" alt="North Carolina" />
+
+<area class="tooltip" title="North Dakota" shape="poly" coords="219,32,278,37,283,76,216,71" href="http://www.business.nd.gov/" alt="North Dakota" />
+
+<area class="tooltip" title="Ohio" shape="poly" coords="432,121,422,126,412,126,393,126,397,156,404,156,408,163,420,165,431,147,434,143,437,114,425,125,413,125,396,126" href="http://jobs-ohio.com/" alt="Ohio" />
+
+<area class="tooltip" title="Oklahoma" shape="poly" coords="213,185,299,188,302,228,305,231,293,232,273,233,243,217,243,193,212,193" href="http://www.okcommerce.gov" alt="Oklahoma" />
+
+<area class="tooltip" title="Oregon" shape="poly" coords="41,33,19,77,23,78,29,82,90,99,97,79,98,72,106,52,90,45,62,47,49,40" href="http://www.oregon4biz.com" alt="Oregon" />
+
+<area class="tooltip" title="Pennsylvania" shape="poly" coords="442,114,437,117,436,135,434,144,486,134,489,128,489,121,489,114,480,108" href="http://www.newpa.com" alt="Pennsylvania" />
+
+<area class="tooltip" title="Puerto Rico" shape="poly" coords="500,325,487,332,499,314,489,312,490,301,507,301,508,312,505,322,514,321,517,325,512,333,503,339,490,341,486,333" href="http://ddec.pr.gov/en/" alt="Puerto Rico" />
+
+<area class="tooltip" title="Rhode Island" shape="poly" coords="518,98,523,104,517,107,514,100" href="http://www.commerceri.com/ " alt="Rhode Island" />
+<area class="tooltip" title="Rhode Island" shape="rect" coords="523,129,544,142" href="http://www.commerceri.com/ " alt="Rhode Island" />
+
+<area class="tooltip" title="South Carolina" shape="poly" coords="421,209,450,239,464,222,470,215,461,206,446,208,445,203,429,204" href="http://www.sccommerce.com/" alt="South Carolina" />
+
+<area class="tooltip" title="South Dakota" shape="poly" coords="216,71,212,109,256,112,282,118,283,103,282,83,282,76" href="http://www.sdreadytowork.com" alt="South Dakota" />
+
+<area class="tooltip" title="Tennessee" shape="poly" coords="356,194,431,187,412,203,401,210,350,213" href="http://www.tn.gov/ecd/" alt="Tennessee" />
+
+<area class="tooltip" title="Texas" shape="poly" coords="212,193,208,248,170,244,176,256,184,265,189,281,202,287,212,275,221,278,234,290,241,308,248,322,257,327,267,329,268,325,265,309,280,296,295,288,301,283,311,280,310,274,305,254,304,239,304,232,274,231,240,216,242,193,215,192" href="http://www.texaswideopenforbusiness.com" alt="Texas" />
+
+<area class="tooltip" title="US Virgin Islands" shape="poly" coords="540,281,522,280,524,294,541,294,534,300,534,300,544,324,537,327,529,318,526,298,540,288,540,297" href="http://www.usvieda.org" alt="US Virgin Islands" />
+
+<area class="tooltip" title="Utah" shape="poly" coords="115,106,101,168,154,176,163,128,142,126,144,111" href="http://business.utah.gov/" alt="Utah" />
+
+<area class="tooltip" title="Vermont" shape="poly" coords="497,93,504,91,505,71,506,62,499,63,491,65" href="http://www.thinkvermont.com" alt="Vermont" />
+<area class="tooltip" title="Vermont" shape="rect" coords="459,42,480,55" href="http://www.thinkvermont.com" alt="Vermont" />
+
+<area class="tooltip" title="Virginia" shape="poly" coords="469,150,471,151,463,148,457,154,452,155,445,166,435,174,427,172,414,188,491,176,482,164,482,159,474,156" href="http://www.yesvirginia.org" alt="Virginia" />
+
+<area class="tooltip" title="Washington" shape="poly" coords="63,1,117,14,109,49,106,52,89,46,54,43,48,46,49,40,43,36,45,2,60,11,60,23,68,13" href="http://www.choosewashington.com/" alt="Washington" />
+
+<area class="tooltip" title="West Virginia" shape="poly" coords="446,144,436,144,443,149,438,147,438,142,431,148,423,160,419,167,429,173,433,173,443,167,450,158,459,155,461,149,464,147,458,144,450,150" href="http://www.wvcommerce.org/business/default.aspx" alt="West Virginia" />
+
+<area class="tooltip" title="Wisconsin" shape="poly" coords="333,63,322,67,318,80,318,95,331,105,332,115,338,119,363,117,360,102,369,81,356,81,366,76" href="http://inwisconsin.com/" alt="Wisconsin" />
+
+<area class="tooltip" title="Wyoming" shape="poly" coords="153,75,214,82,208,135,142,124" href="http://wyomingbusiness.org " alt="Wyoming" />
+
+  <area shape="rect" coords="10,416,107,497" href="http://www.americansamoa.gov" alt="American Samoa" />
+  <area shape="rect" coords="124,418,199,497" href="http://www.investguam.com" alt="Guam" />
+  <area shape="rect" coords="211,356,328,497" href="#" alt="Northern Mariana Islands" />
+  <area shape="rect" coords="353,421,435,499" href="http://ddec.pr.gov/en/" alt="Puerto Rico" />
+  <area shape="rect" coords="462,422,545,498" href="http://www.usvieda.org" alt="US Virgin Islands" />
+
+  </map>
+  </div>
+
+
+<div id="states">
+  <h2>List of States and Territories</h2>
+	<div class="state-list">
+		<a class="odd" href="http://www.madeinalabama.com/">Alabama</a>
+		<a href="http://www.alaska.gov">Alaska</a>
+		<a class="odd" href="http://www.americansamoa.gov">American Samoa</a>
+		<a href="http://www.azcommerce.com">Arizona</a>
+		<a class="odd" href="http://www.arkansasedc.com">Arkansas</a>
+		<a href="http://www.business.ca.gov/">California</a>
+		<a class="odd" href="http://www.advancecolorado.com">Colorado</a>
+		<a href="http://www.ct.gov/ecd/">Connecticut</a>
+		<a class="odd" href="http://global.delaware.gov">Delaware</a>
+		<a href="http://dcbiz.dc.gov">District of Columbia</a>
+		<a class="odd" href="http://www.enterpriseflorida.com">Florida</a>
+		<a href="http://www.georgia.org">Georgia</a>
+		<a class="odd" href="http://www.investguam.com">Guam</a>
+		<a href="http://invest.hawaii.gov">Hawaii</a>
+	</div>
+	<div class="state-list">
+		<a class="odd" href="http://commerce.idaho.gov/">Idaho</a>
+		<a href="http://www.illinoisbiz.biz">Illinois</a>
+		<a class="odd" href="http://www.iedc.in.gov">Indiana</a>
+		<a href="http://www.iowaeconomicdevelopment.com/">Iowa</a>
+		<a class="odd" href="http://www.kansascommerce.com">Kansas</a>
+		<a href="http://www.thinkkentucky.com">Kentucky</a>
+		<a class="odd" href="http://www.opportunitylouisiana.com/">Louisiana</a>
+		<a href="http://www.mitc.com">Maine</a>
+		<a class="odd" href="http://www.business.maryland.gov">Maryland</a>
+		<a href="http://www.mass.gov/moiti/">Massachusetts</a>
+		<a class="odd" href="http://www.michiganbusiness.org/">Michigan</a>
+		<a href="http://mn.gov/deed/invest">Minnesota</a>
+		<a class="odd" href="http://www.mississippi.org">Mississippi</a>
+		<a href="http://www.missouripartnership.com">Missouri</a>
+	</div>
+	<div class="state-list-wide">
+		<a class="odd" href="http://commerce.mt.gov">Montana</a>
+		<a href="http://www.neded.org">Nebraska</a>
+		<a class="odd" href="http://www.diversifynevada.com/">Nevada</a>
+		<a href="http://www.nheconomy.com">New Hampshire</a>
+		<a class="odd" href="http://www.nj.gov/state/bac/">New Jersey</a>
+		<a href="http://www.tradenm.com">New Mexico</a>
+		<a class="odd" href="http://www.esd.ny.gov">New York</a>
+		<a href="http://www.thrivenc.com/">North Carolina</a>
+		<a class="odd" href="http://www.business.nd.gov/">North Dakota</a>
+		<a href="http://www.commerce.gov.mp">Northern Mariana Islands</a>
+		<a class="odd" href="http://jobs-ohio.com/">Ohio</a>
+		<a href="http://www.okcommerce.gov">Oklahoma</a>
+		<a class="odd" href="http://www.oregon4biz.com">Oregon</a>
+		<a href="http://www.newpa.com">Pennsylvania</a>
+	</div>
+	<div class="state-list">
+		<a class="odd" href="http://ddec.pr.gov/en/">Puerto Rico </a>
+		<a href="http://www.commerceri.com ">Rhode Island</a>
+		<a class="odd" href="http://sccommerce.com/">South Carolina</a>
+		<a href="http://www.sdreadytowork.com">South Dakota</a>
+		<a class="odd" href="http://www.tn.gov/ecd/">Tennessee</a>
+		<a href="http://www.texaswideopenforbusiness.com">Texas</a>
+		<a class="odd" href="http://www.usvieda.org">US Virgin Islands</a>
+		<a href="http://www.business.utah.gov">Utah</a>
+		<a class="odd" href="http://www.thinkvermont.com">Vermont</a>
+		<a href="http://www.yesvirginia.org">Virginia</a>
+		<a class="odd" href="http://www.choosewashington.com/">Washington</a>
+		<a href="http://www.wvcommerce.org/">West Virginia</a>
+		<a class="odd" href="http://wedc.org">Wisconsin</a>
+		<a href="http://wyomingbusiness.org/Relocation">Wyoming</a>
+	</div>
+</div>  </div>  </div>
+</div>
