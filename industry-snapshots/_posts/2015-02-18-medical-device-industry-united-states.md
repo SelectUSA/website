@@ -10,7 +10,7 @@ published: true
 
 ## The U.S. Medical Device Industry
 
-<span class="imgright">![mri image]({{base.url}}/images/medicaltech_0-346x356.jpg)</span>
+<span class="imgright">![mri image]({{ site.baseurl }}/images/medicaltech_0-346x356.jpg)</span>
 
 The United States remains the largest medical
 device market in the world with a market size of around $110 billion, and it is

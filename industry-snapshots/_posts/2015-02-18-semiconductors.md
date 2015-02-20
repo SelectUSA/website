@@ -12,7 +12,7 @@ published: true
 
 For more than 50 years, the U.S. semiconductor industry has been at the forefront of worldwide technological development.&nbsp;&nbsp;
 
-<span class="imgright">![Microprocessor]({{base.url}}/images/microprosessor-241x332-166x205.jpeg "Microprocessor")</span>Faster, cheaper, and smaller semiconductors have benefited all industries and services, and transformed communications, transportation, and entertainment. Doubling of transistors on integrated circuits has created technological innovation and led to new products, economic growth, productivity gains, and new industries.
+<span class="imgright">![Microprocessor]({{ site.baseurl }}/images/microprosessor-241x332-166x205.jpeg "Microprocessor")</span>Faster, cheaper, and smaller semiconductors have benefited all industries and services, and transformed communications, transportation, and entertainment. Doubling of transistors on integrated circuits has created technological innovation and led to new products, economic growth, productivity gains, and new industries.
 
 The industry ranks at the top of all U.S. exporting industries in recent years and maintains a trade surplus. U.S. total exports of semiconductors were $42 billion in 2012. 
 

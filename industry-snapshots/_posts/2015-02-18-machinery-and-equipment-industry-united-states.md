@@ -11,7 +11,7 @@ published: true
 ## The U.S. Machinery and Equipment Manufacturing Industry
 
 
-U.S. machinery industries had total domestic and foreign sales of $413.7 billion in 2011.<span class="imgright">![conveyor belt with dollar bills]({{base.url}}/images/manufacturing-301x377.jpg)</span>&nbsp;The United States is the world’s largest market for machinery, as well as the third-largest supplier.&nbsp; American manufacturers held a 58.5 percent share of the U.S. domestic market.
+U.S. machinery industries had total domestic and foreign sales of $413.7 billion in 2011.<span class="imgright">![conveyor belt with dollar bills]({{ site.baseurl }}/images/manufacturing-301x377.jpg)</span>&nbsp;The United States is the world’s largest market for machinery, as well as the third-largest supplier.&nbsp; American manufacturers held a 58.5 percent share of the U.S. domestic market.
 
 U.S. manufacturers’ commitment to technological innovation is key to their continued leadership in a highly competitive global marketplace. Application of information technology to machinery to achieve greater productivity, efficiency, and sustainability is critical. In addition, numerous American universities are engaged in advanced research in related engineering and scientific disciplines that contribute to competitive U.S. machinery industries.
 

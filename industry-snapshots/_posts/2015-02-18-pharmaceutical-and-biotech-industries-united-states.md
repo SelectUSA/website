@@ -10,7 +10,7 @@ published: true
 
 ## The U.S. Pharmaceutical Industry
 
-<span class="imgright">![pharmaceuticals - pills on scoop]({{base.url}}/images/pharm1.jpg)</span>
+<span class="imgright">![pharmaceuticals - pills on scoop]({{ site.baseurl }}/images/pharm1.jpg)</span>
 
 The
 United States is the world’s largest market for pharmaceuticals and the world
@@ -77,7 +77,7 @@ on research performed by small companies and academic institutions that is
 either acquired by large companies that can bring the products to
 commercialization, or independently financed.
 
-<span class="imgright">![pharmaceutical research workers]({{base.url}}/images/pharm2.jpg "pharmaceutical research workers")</span>
+<span class="imgright">![pharmaceutical research workers]({{ site.baseurl }}/images/pharm2.jpg "pharmaceutical research workers")</span>
 
 **Biologics
 **(both biologics and biosimilars) include a wide range of products such as

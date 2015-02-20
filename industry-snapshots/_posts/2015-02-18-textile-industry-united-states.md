@@ -8,7 +8,7 @@ tags: [Textiles]
 published: true
 ---
 ## The Textiles Industry
-<span class="imgright">![Textile spinning room]({{base.url}}/images/textile-spinning_room-316x238.jpg "Textile Spinning Room")</span>
+<span class="imgright">![Textile spinning room]({{ site.baseurl }}/images/textile-spinning_room-316x238.jpg "Textile Spinning Room")</span>
 
 The U.S. textile industry is one of the more important
 employers in the manufacturing sector, with more than 230,000 workers,

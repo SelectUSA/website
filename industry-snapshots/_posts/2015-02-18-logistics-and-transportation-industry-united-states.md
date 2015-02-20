@@ -12,7 +12,7 @@ published: true
 
 The logistics and transportation industry in the United States is highly competitive.&nbsp;By investing in this sector, multinational firms position themselves&nbsp;to better facilitate the flow of goods throughout the world’s largest consumer market.&nbsp;International and domestic companies in this industry benefit from a highly skilled workforce and relatively low costs and regulatory burdens.
 
-<span class="imgright">![Shipping Port]({{base.url}}/images/shippingport-319x260.jpg)</span> 
+<span class="imgright">![Shipping Port]({{ site.baseurl }}/images/shippingport-319x260.jpg)</span> 
 
 Spending in the U.S. logistics and transportation industry totaled $1.33 trillion in 2012, and represented 8.5 percent of annual gross domestic product (GDP). Analysts expect industry investment to correlate with growth in the U.S. economy. 
 

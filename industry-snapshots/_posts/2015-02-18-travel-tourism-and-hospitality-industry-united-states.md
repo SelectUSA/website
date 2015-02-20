@@ -9,7 +9,7 @@ published: true
 ---
 ## The U.S. Travel, Tourism, and Hospitality Industry
 
-<span class="imgright">![American flag on a road sign in the prairie]({{base.url}}/images/travel1.jpg)</span>
+<span class="imgright">![American flag on a road sign in the prairie]({{ site.baseurl }}/images/travel1.jpg)</span>
 
 The travel and tourism industry in
 the United States generated nearly $1.5 trillion in economic output in 2012.
@@ -31,7 +31,7 @@ services exports. &nbsp;
 
 Of the more than 25 subsectors that make up the travel and tourism industry, three sectors -- food services, air travel, and accommodations -- account for more than 50 percent of total output.
 
-<span class="imgright">![restaurant]({{base.url}}/images/travel2.jpg)</span>&nbsp;**Accommodations:** This subsector is the largest of the three and accounts for
+<span class="imgright">![restaurant]({{ site.baseurl }}/images/travel2.jpg)</span>&nbsp;**Accommodations:** This subsector is the largest of the three and accounts for
 19 percent of total travel industry output. Accommodations benefited from
 international overseas traveler growth of 7 percent in 2012.&nbsp;
 

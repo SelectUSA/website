@@ -10,7 +10,7 @@ published: true
 
 ## The U.S. Professional Services Industry
 
-The United States is the world’s most desired location for professional services firms.<span class="imgright">![business people]({{base.url}}/images/businesspeople_0-357x259.jpg)</span>
+The United States is the world’s most desired location for professional services firms.<span class="imgright">![business people]({{ site.baseurl }}/images/businesspeople_0-357x259.jpg)</span>
 
 In today’s integrated global environment, businesses find it critical to access the talent, institutions, business processes, and client base offered in the United States. Additionally, the educational and research infrastructure present in the United States is an important asset for domestic and international professional services firms.
 
@@ -28,7 +28,7 @@ subsector generated $131.6 billion in revenue in 2012. Firms provided payroll
 services, financial auditing services, tax preparation services, and other
 consulting services for individuals and corporate clients.
 
-<span class="imgright">![Construction Workers]({{base.url}}/images/constructionworkers-342x326.jpg)</span>
+<span class="imgright">![Construction Workers]({{ site.baseurl }}/images/constructionworkers-342x326.jpg)</span>
 
 **Architectural services:** This subsector
 accounted for more than $62.5 billion in revenue in 2012, with the majority of

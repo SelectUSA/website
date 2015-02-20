@@ -10,7 +10,7 @@ published: true
 
 ## The U.S. Software and IT Services&nbsp;Industry
 
-<span class="imgright">![information technology worker with cabling]({{base.url}}/images/it1.jpg)</span>The United States has the most advanced software and information technology services industry in the world.&nbsp;
+<span class="imgright">![information technology worker with cabling]({{ site.baseurl }}/images/it1.jpg)</span>The United States has the most advanced software and information technology services industry in the world.&nbsp;
 
 The industry has increased its revenue by an average of six percent between 2010 and 2011, totaling $606 billion in 2011. Overall, research and development spending in the United States information and communications technology (ICT) sectors increased by 6.3 percent to $126.3 billion in 2011. The United States accounts for more than 55 percent&nbsp;of global ICT research and development.
 
