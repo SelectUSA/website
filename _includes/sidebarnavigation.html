@@ -14,6 +14,22 @@
 {% else %}
 {% endif %}
 
+{% if page.title == "Industry Snapshots" or page.section == "industry-snapshots" %}
+<div id="block-menu-menu-testimonials-chose-usa" class="block block-menu">
+  <h2>Industries</h2>
+
+  <div class="content">
+    <ul class="menu">
+ {% assign sorted_pages = (site.categories.industry-snapshots | sort: industry) %}
+  {% for post in sorted_pages %}
+  <li class="leaf"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.industry}}</a></li>
+   {% endfor %}
+</ul>  </div>
+</div>
+{% else %}
+{% endif %}
+
+
 {% if page.title == "Past Events" %}
 <div id="block-menu-menu-testimonials-chose-usa" class="block block-menu">
   <h2>Past Events</h2>
