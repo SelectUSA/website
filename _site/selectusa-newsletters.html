@@ -224,9 +224,15 @@ $(document).ready(function() { $.fn.maphilight.defaults = { fill: true,fillColor
       
     </br></br>
     
-    <h3>SelectUSA provides a free&nbsp;newsletter to subscribers &gt;&gt;&nbsp;<a href="https://service.govdelivery.com/service/subscribe.html?code=USITATRADE_22">Sign up now</a>.</h3>
+    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
 
-<p>&nbsp;</p>
+
+
+
+<h3>SelectUSA provides a free&nbsp;newsletter to subscribers &nbsp;<input type="button" value="Sign up now" onclick="javascript: $.getScript('https://content.govdelivery.com/overlay/js/658.js' , function (){ youFunctionCall() ; } );" /></h3>
+
+
+<p></br></p>
 
 <h4>Archived Newsletters:</h4>
 
@@ -378,8 +384,7 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-18792204-2"]);_gaq.push(["_g
 </script>
         <!-- closure -->
 
-    </div>  
-
+    </div>
 </body>
 
 </html>

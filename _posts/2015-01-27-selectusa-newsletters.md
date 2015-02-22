@@ -5,10 +5,11 @@ title: SelectUSA Newsletters
 published: true
 ---
 
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
 
-### SelectUSA provides a free&nbsp;newsletter to subscribers &gt;&gt;&nbsp;[Sign up now](https://service.govdelivery.com/service/subscribe.html?code=USITATRADE_22).
+<h3>SelectUSA provides a free&nbsp;newsletter to subscribers &nbsp;<input type="button" value="Sign up now" onclick="javascript: $.getScript('https://content.govdelivery.com/overlay/js/658.js' , function (){ youFunctionCall() ; } );" /></h3>
 
-&nbsp;
+</br>
 
 #### Archived Newsletters:
 
