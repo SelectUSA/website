@@ -13,7 +13,7 @@ published: true
     <ul class="menu">
  {% assign sorted_pages = (site.categories.investment-incentives | sort: title) %}
   {% for post in sorted_pages %}
-  <li class="leaf"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  <li class="leaf"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - {{ post.tags }}</li>
    {% endfor %}
 </ul>  </div>
 </div>
