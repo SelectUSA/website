@@ -1,7 +1,7 @@
 var movies = [
   {
     "name": "Clean Energy Loan Guarantee Program",
-    "link": "http://selectusa.github.io/website/clean-energy-loan-guarantee-program.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/clean-energy-loan-guarantee-program.html",
     "outline": "The Department of Energy’s Loan Programs—administered by LPO—enable DOE to work with private companies and lenders to mitigate the financing risks associated with clean energy projects, and thereby encourage their development on a broader and much-needed scale. The Loan Programs consist of three separate programs managed by two offices, the Loan Guarantee Program Office (LGP) and the Advanced Technology Vehicles Manufacturing Loan Program Office. LPO originates, guarantees, and monitors loans to support clean energy projects through these programs. The programs are:",
     "rating": 9.2,
     "director": "Francis Ford Coppola",
@@ -28,7 +28,7 @@ var movies = [
   },
   {
     "name": "Grants.gov",
-    "link": "http://selectusa.github.io/website/grantsgov.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/grantsgov.html",
     "outline": "Grants.gov is your source to find and apply for federal grants. Grants.gov is a central storehouse for information on grants from multiple federal agencies. Grants.gov lists over 1,000 grant programs and provides access to approximately $500 billion in annual awards. Government organization, educational organization, public housing organization, non-profit organizations, small businesses, other for-profit organizations, individuals are all eligible to apply for different federal governemnt grants.",
     "rating": 9.2,
     "director": "Francis Ford Coppola",
@@ -81,7 +81,7 @@ var movies = [
   },
   {
     "name": "Hollings Manufacturing Extension Partnership (MEP)",
-    "link": "http://selectusa.github.io/website/hollings-manufacturing-extension-partnership-mep.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/hollings-manufacturing-extension-partnership-mep.html",
     "outline": "Department of Commerce. he Hollings Manufacturing Extension Partnership (MEP) is a national network of 60 centers across the United States with thousands of specialists trained to serve the needs of small-and medium-sized manufacturing clients. Through a framework focused on five critical areas – technology acceleration, supplier development, sustainability, workforce, as well as continuous improvement – the MEP Program assists manufacturers&amp;nbsp;in developing&amp;nbsp;new customers, expand into new markets, and create new products with the end goal of increasing profitability and competitiveness.MEP specialists customize services to fit the individual needs and goals of the local manufacturing client. Services are available to help companies tackle short-term issues as well as the development of a long-term strategic plan focused on business growth.",
     "rating": 9.1,
     "director": "Francis Ford Coppola",
@@ -105,7 +105,7 @@ var movies = [
   },
   {
     "name": "Advanced Technology Vehicle Manufacturing (ATVM) Loan Program",
-    "link": "http://selectusa.github.io/website/advanced-technology-vehicle-manufacturing-atvm-loan-program.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/advanced-technology-vehicle-manufacturing-atvm-loan-program.html",
     "outline": "Department of Energy. Incentive: The ATVM Loan Program provides loans to automobile and automobile parts manufacturers for the cost of re-equipping, expanding, or establishing manufacturing facilities in the United States to produce advanced technology vehicles or qualified components, and for associated engineering integration costs.Total funding for the program is $25 billion dollars. Previous awards have ranged from $50 million to $5.9 billion dollars.",
     "rating": 9.0,
     "director": "Sergio Leone",
@@ -129,7 +129,7 @@ var movies = [
   },
   {
     "name": "ARPA-E Funding Opportunities",
-    "link": "http://selectusa.github.io/website/arpa-e-funding-opportunities.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/arpa-e-funding-opportunities.html",
     "outline": "To address the challenges imposed by the rapidly evolving global energy market, ARPA-E seeks to support transformational research in all areas of energy R&amp;amp;D, including resource identification, extraction, transportation and use, and energy generation, storage, transmission and use in both the transportation and stationary power sectors.&amp;nbsp; Areas of research responsive to this FOA include (but are not limited to) electricity generation by both renewable and non-renewable means, electricity transmission, storage, and distribution; energy efficiency for buildings, manufacturing and commerce, and personal use; and all aspects of transportation, including the production and distribution of both renewable and non-renewable fuels, electrification, and energy efficiency in transportation.",
     "rating": 9.0,
     "director": "Christopher Nolan",
@@ -160,7 +160,7 @@ var movies = [
   },
   {
     "name": "Advanced Energy Manufacturing Tax Credit (MTC): The U.S. Treasury Department, in consultation with the U.S. Department of Energy (DOE), is no longer accepting applications for this tax credit",
-    "link": "http://selectusa.github.io/website/arpa-e-funding-opportunities.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/arpa-e-funding-opportunities.html",
     "outline": "Advanced Energy Manufacturing Tax Credit (MTC). Department of Treasury. Incentive: The American Reinvestment and Recovery Act of 2009 (ARRA) authorizes the Department of Treasury to award $2.3 billion in tax credits for qualified advanced energy investments that support new, expanded, or re-equipped domestic manufacturing facilities.&amp;nbsp;&amp;nbsp; The Advanced Energy Manufacturing Tax Credit (MTC)&amp;nbsp;is authorized&amp;nbsp;by Section 1302 of ARRA, and referred to as Section 48C of the Internal Revenue Code.&amp;nbsp; The goal of the MTC is to grow the domestic manufacturing industry for clean energy. This supports&amp;nbsp;the larger goals of ARRA to stimulate economic growth, create jobs, and reduce greenhouse gas emissions.",
     "rating": 9.0,
     "director": "Christopher Nolan",
@@ -189,7 +189,7 @@ var movies = [
   },
   {
     "name": "ARPA: Agriculture Risk Management Education Program",
-    "link": "http://selectusa.github.io/website/arpa-e-funding-opportunities.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/arpa-e-funding-opportunities.html",
     "outline": "ARPA: Agriculture Risk Management Education Program. Department of Agriculture. Incentive: The Risk Management Education Program provides U.S. agricultural producers with the knowledge, skills, and tools needed to make informed risk management decisions for their operations, with the goal of enhancing farm profitability. To that end, the program will fund four Regional RME Centers, one each in the four geographical regions of the U.S. (See RFA for definitions of the four regions). The program will also fund a risk management education electronic support center to provide existing risk management tools and the formation of networks that are focused on agricultural producers; further development of agricultural risk management curricula and materials; the delivery of agricultural RME to producers using one or more of the wide range of delivery methods; and the verification of program impacts.",
     "rating": 9.0,
     "director": "Christopher Nolan",
@@ -220,7 +220,7 @@ var movies = [
   },
   {
     "name": "Baldrige Performance Excellence Program",
-    "link": "http://selectusa.github.io/website/arpa-e-funding-opportunities.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/arpa-e-funding-opportunities.html",
     "outline": "Department of the Commerce. The Baldrige Program is the nation&#039;s public-private partnership dedicated to performance excellence. Raises awareness about the importance of performance excellence in driving the U.S. and global economy",
     "rating": 9.0,
     "director": "Christopher Nolan",
@@ -248,7 +248,7 @@ var movies = [
   },
   {
     "name": "Bilateral Investment Treaty (BIT)",
-    "link": "http://selectusa.github.io/website/arpa-e-funding-opportunities.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/arpa-e-funding-opportunities.html",
     "outline": "The U.S. bilateral investment treaty (BIT) program helps to protect private investment, to develop market-oriented policies in partner countries, and to promote U.S. exports.",
     "rating": 9.0,
     "director": "Christopher Nolan",
@@ -296,7 +296,7 @@ var movies = [
   },
   {
     "name": "Biotechnology Risk Assessment Research Grants Program",
-    "link": "http://selectusa.github.io/website/arpa-e-funding-opportunities.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/arpa-e-funding-opportunities.html",
     "outline": "Biotechnology Risk Assessment Research Grants Program. Incentive:The purpose of the BRAG program is to support the generation of new information that will assist Federal regulatory agencies in making science-based decisions about the effects of introducing into the environment genetically engineered organisms (GE), including plants, microorganisms (including fungi, bacteria, and viruses), arthropods, fish, birds, mammals and other animals excluding humans. Investigations of effects on both managed and natural environments are relevant. The BRAG program accomplishes its purpose by providing Federal regulatory agencies with scientific information relevant to regulatory issues. See RFA for details",
     "rating": 9.0,
     "director": "Christopher Nolan",
@@ -327,7 +327,7 @@ var movies = [
   },
   {
     "name": "Building Energy Efficiency Through Innovative Thermodevices (BEETIT)",
-    "link": "http://selectusa.github.io/website/arpa-e-funding-opportunities.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/arpa-e-funding-opportunities.html",
     "outline": "Program Description. Residential and commercial buildings currently consume 40% of the primary energy consumed in the U.S., and they produce roughly 39% of total U.S. carbon dioxide emissions. Cooling is one of the major uses of energy in buildings, yet the basic approaches used for cooling have not changed in decades. New, more efficient methods of cooling represent a great opportunity to reduce energy consumption, especially from traditional refrigerants, from buildings.",
     "rating": 9.0,
     "director": "Christopher Nolan",
@@ -356,7 +356,7 @@ var movies = [
   },
   {
     "name": "Building Research Grants and Cooperative Agreements Program",
-    "link": "http://selectusa.github.io/website/arpa-e-funding-opportunities.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/arpa-e-funding-opportunities.html",
     "outline": "Department of Commerce (DOC), National Institute of Standards and Technology (NIST) The Building Research Grants and Cooperative Agreements Program will provide grants and cooperative agreements in the following fields of research:",
     "rating": 9.0,
     "director": "Christopher Nolan",
@@ -394,7 +394,7 @@ var movies = [
   },
   {
     "name": "Business Energy Tax Credit",
-    "link": "http://selectusa.github.io/website/arpa-e-funding-opportunities.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/arpa-e-funding-opportunities.html",
     "outline": "The American Recovery and Reinvestment Act of 2009 allows taxpayers eligible for the federal renewable electricity production tax credit (PTC)** to take the federal business energy investment tax credit (ITC) or to receive a grant from the U.S. Treasury Department instead of taking the PTC for new installations. The new law also allows taxpayers eligible for the business ITC to receive a grant from the U.S. Treasury Department instead of taking the business ITC for new installations. The grant is only available to systems where construction begins prior to December 31, 2011. The Treasury Department issued Notice 2009-52 in June 2009, giving limited guidance on how to take the federal business ITC instead of the federal renewable electricity production tax credit.",
     "rating": 9.0,
     "director": "Christopher Nolan",
@@ -424,7 +424,7 @@ var movies = [
   },
   {
     "name": "Catalog of Federal Domestic Assistance",
-    "link": "http://selectusa.github.io/website/arpa-e-funding-opportunities.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/arpa-e-funding-opportunities.html",
     "outline": "Catalog of Federal Domestic Assistance (CFDA) provides a full listing of all Federal programs available to State and local governments (including the District of Columbia); federally-recognized Indian tribal governments; Territories (and possessions) of the United States; domestic public, quasi- public, and private profit and nonprofit organizations and institutions; specialized groups; and individuals.",
     "rating": 9.0,
     "director": "Christopher Nolan",
@@ -477,7 +477,7 @@ var movies = [
   },
   {
     "name": "Center for Nanoscale Science and Technology Grants and Cooperative Agreements Program",
-    "link": "http://selectusa.github.io/website/arpa-e-funding-opportunities.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/arpa-e-funding-opportunities.html",
     "outline": "Department of Commerce (DOC). National Institute of Standards and Technology (NIST). The primary program objectives of the financial assistance program in the CNST are to develop new measurement and fabrication methods and instrumentation for nanotechnology; and to explore a variety of new areas of nanoscale science and technology. Broad areas of interest include post-complementary metal oxide semiconductor electronics; nanofabrication and nanomanufacturing; energy transport, storage, and conversion; and bionanotechnology. Specific areas of interest include atomic-scale characterization and manipulation; scanning and transmission electron microscopy; focused ion beams; laser-atom manipulation; nanophotonic; nanoplasmonics; optical micro- and nanoelectromechanical systems (MEMS and NEMS); nanomagnetic imaging and dynamics; nanolithography; nanofabrication process development; directed self-assembly; nanoscale properties of soft matter; nanoscale stochastic processes; nanoscale control theory; nanoscale electronic and ionic transport; light-matter interaction, charge and energy transfer processes, catalytic activity, and interfacial structure in energy-related devices (including photovoltaics, thermoelectric, photoanodes, fuel cells, batteries, supercapacitors, and field emitters); nanobiosensors; nanofluidics; nanomedicine; and theory, modeling, and simulation of nanostructures. Additional objectives of this program are to assist and train CNST collaborators and NanoFab users in their research; and to conduct other outreach and educational activities that advance the development of nanotechnology by U.S. university and industrial scientists. These objectives will entail collaborative research among the selected financial assistance recipients and the CNST research staff",
     "rating": 9.0,
     "director": "Christopher Nolan",
@@ -510,7 +510,7 @@ var movies = [
   },
   {
     "name": "Department of Energy 1703 loan Guarantee",
-    "link": "http://selectusa.github.io/website/arpa-e-funding-opportunities.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/arpa-e-funding-opportunities.html",
     "outline": "1703 loan Guarantee. Department of Energy. Incentive: Section 1703 of Title XVII of the Energy Policy Act of 2005 authorizes the U.S. Department of Energy to support innovative clean energy technologies that are typically unable to obtain conventional private financing due to high technology risks. In addition, the technologies must avoid, reduce, or sequester air pollutants or anthropogenic emissions of greenhouse gases. Technologies we will consider include: biomass, hydrogen, solar, wind/hydropower, nuclear, advanced fossil energy coal, carbon sequestration practices/technologies, electricity delivery and energy reliability, alternative fuel vehicles, industrial energy efficiency projects, and pollution control equipment. Technologies with more than three implementations that have been active for more than five years are excluded. Title XVII specifies that the Energy Department must receive either an appropriation for the Credit Subsidy Cost (CSC) – the expected long-term liability to the Federal Government in issuing the loan guarantee – or payment of that cost by the borrower. Under Section 1703, borrowers pay the CSC directly. In some cases, however, 1703 projects may also be eligible under 1705, thereby qualifying them for appropriated CSC..",
     "rating": 9.0,
     "director": "Christopher Nolan",
@@ -539,7 +539,7 @@ var movies = [
   },
   {
     "name": "Department of Energy 1705 loan Guarantee",
-    "link": "http://selectusa.github.io/website/arpa-e-funding-opportunities.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/arpa-e-funding-opportunities.html",
     "outline": "1705 loan Guarantee. Department of Energy. Incentive: The American Recovery and Reinvestment Act of 2009 amended the Loan Guarantee Program’s authorizing legislation by adding Section 1705 to EPAct. Section 1705 is a temporary program designed to address the current economic conditions of the nation. It authorizes loan guarantees for certain renewable energy systems, electric power transmission systems and leading edge biofuels projects that commence construction no later than September 30, 2011. Title XVII specifies that the Department of Energy must receive either an appropriation for the Credit Subsidy Cost (CSC) – the expected long-term liability to the Federal Government in issuing the loan guarantee – or payment of that cost by the borrower. The Department has appropriated funds to pay the Credit Subsidy Cost of Section 1705 projects. In some cases, 1703 eligible projects may also be eligible under 1705, thereby qualifying them for appropriated CSC.",
     "rating": 9.0,
     "director": "Christopher Nolan",
@@ -568,7 +568,7 @@ var movies = [
   },
   {
     "name": "Department of Energy Loan Guarantee Program",
-    "link": "http://selectusa.github.io/website/arpa-e-funding-opportunities.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/arpa-e-funding-opportunities.html",
     "outline": "Loan Guarantee Program. Department of Energy. Incentive: The U.S. Department of Energy&#039;s Loan Guarantee Program allows the Federal Government to share some of the financial risks of projects that employ new technologies that are not yet supported in the commercial marketplace or where private investment has been inhibited. Loan programs may fall under Section 1703 or Section 1705.",
     "rating": 9.0,
     "director": "Christopher Nolan",
@@ -593,7 +593,7 @@ var movies = [
   },
   {
     "name": "Department of Energy Unsolicited Proposals",
-    "link": "http://selectusa.github.io/website/arpa-e-funding-opportunities.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/arpa-e-funding-opportunities.html",
     "outline": "DOE Unsolicited Proposals. Department of Energy. Incentive: Organizations and individuals are encouraged to submit proposals which are relevant to the DOE’s research and development mission either in response to formal DOE solicitations or through self-generated unsolicited proposals. The predominance of DOE’s funding for research and development is awarded through competitive solicitations/announcements. An “Unsolicited Proposal” is an application for support of an idea, method or approach which is submitted by individuals, businesses and organizations solely on the proposer’s initiative, and not in response to a “formal” Government solicitation.",
     "rating": 9.0,
     "director": "Christopher Nolan",
@@ -625,7 +625,7 @@ var movies = [
   },
   {
     "name": "Chemical Science and Technology Laboratory (CSTL) Grants Program",
-    "link": "http://selectusa.github.io/website/arpa-e-funding-opportunities.html",
+    "link": "http://selectusa.github.io/website/investment-incentives/arpa-e-funding-opportunities.html",
     "outline": "The Chemical Science and Technology Laboratory (CSTL) Grants Program will provide grants and cooperative agreements consistent with the CSTL mission in the following fields of measurement science research, focused on reference methods, reference materials and reference data:",
     "rating": 9.0,
     "director": "Christopher Nolan",

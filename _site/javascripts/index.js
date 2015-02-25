@@ -76,7 +76,7 @@ function initSliders(){
     }
   });
 
-  $('#genre_criteria :checkbox').prop('checked', false);
+  $('#genre_criteria :checkbox').prop('checked', true);
   $('#all_genre').on('click', function(){
     $('#genre_criteria :checkbox').prop('checked', $(this).is(':checked'));
   });
