@@ -1,7 +1,7 @@
 var movies = [
   {
     "name": "Clean Energy Loan Guarantee Program",
-    "link": "http://selectusa.github.io/website/investment-incentives/clean-energy-loan-guarantee-program.html",
+    "link": "/investment-incentives/clean-energy-loan-guarantee-program.html",
     "outline": "The Department of Energy’s Loan Programs—administered by LPO—enable DOE to work with private companies and lenders to mitigate the financing risks associated with clean energy projects, and thereby encourage their development on a broader and much-needed scale.The Loan Programs consist of three separate programs managed by two offices, the Loan Guarantee Program Office (LGP) and the Advanced Technology Vehicles Manufacturing Loan Program Office. LPO originates, guarantees, and monitors loans to support clean energy projects through these programs.",
     "genre": [
       "Energy",
