@@ -3,7 +3,7 @@ permalink: "frequently-asked-questions.html"
 layout: default
 title: Frequently Asked Questions
 published: true
---- 
+---
 
 **Jump to FAQ's on:**
 
@@ -39,7 +39,7 @@ Since the founding of the United States, the country has had a unique role and r
 &nbsp;**Q:&nbsp; Where can I obtain U.S. market research?
 **A: The United States provides potential investors with a variety of investment opportunities, and chances of an investment’s success are greatly increased when companies carry out due diligence and market research.&nbsp; SelectUSA’s website provides Industry Snapshots that give an overview of opportunities in specific U.S. sectors.&nbsp; 
 
-General information on industry trends within the U.S. can be found at the [Bureau of Economic Analysis’ (BEA) Industry Economic Accounts Page](http://bea.gov/iTable/index_industry.cfm).
+General information on industry trends within the U.S. can be found at the [Bureau of Economic Analysis’ (BEA) Industry Economic Accounts Page](http://bea.gov/industry/index.htm).
 
 A breakdown of [inward foreign direct investment by industry](http://www.bea.gov/iTable/index_MNC.cfm) can also be found through the Bureau of Economic Analysis.
 
@@ -49,7 +49,7 @@ Many reputable private firms, from consulting companies to banks to market resea
 
 &nbsp;**Q:&nbsp; Is skilled labor for my enterprise available in the U.S.?**
 
-A:&nbsp; Through higher education and workforce training, the U.S. cultivates one of the most skilled labor markets in the world.&nbsp; [Seven of the top ten universities in the world are located in the United States](http://www.timeshighereducation.co.uk/world-university-rankings/2013-14/world-ranking),<sup> </sup>which is home to more than 4,000 universities and colleges. Moreover, the U.S. attracts students from across the globe, and more than <span>819,644</span>&nbsp;international students were enrolled in American institutions in the [2012-2013 academic year](http://www.iie.org/Who-We-Are/News-and-Events/Press-Center/Press-Releases/2013/2013-11-11-Open-Doors-Data). There is an extensive network of community colleges that can help firms train their workforce for new job skills in an ever-changing marketplace, many of which have tailored training programs to investors who locate facilities in their area. [Federal, state, and local governments also spend billions](http://www.educationhq.org/colleges-location.php) of dollars on workforce training each year. Importantly, the U.S. also has a large pool of skilled workers in the manufacturing sector.
+A:&nbsp; Through higher education and workforce training, the U.S. cultivates one of the most skilled labor markets in the world.&nbsp; [Seven of the top ten universities in the world are located in the United States](http://www.timeshighereducation.co.uk/world-university-rankings/2013-14/world-ranking),<sup> </sup>which is home to more than 4,000 universities and colleges. Moreover, the U.S. attracts students from across the globe, and more than <span>819,644</span>&nbsp;international students were enrolled in American institutions in the [2012-2013 academic year](http://www.iie.org/Who-We-Are/News-and-Events/Press-Center/Press-Releases/2013/2013-11-11-Open-Doors-Data). There is an extensive network of community colleges that can help firms train their workforce for new job skills in an ever-changing marketplace, many of which have tailored training programs to investors who locate facilities in their area. Federal, state, and local governments also spend billions of dollars on workforce training each year. Importantly, the U.S. also has a large pool of skilled workers in the manufacturing sector.
 
 &nbsp;**Q:&nbsp; How does the U.S. transportation infrastructure network compare to that of other leading nations?**
 
@@ -141,7 +141,7 @@ A:&nbsp; Trade associations are a valuable resource for locating potential U.S.-
 
 &nbsp;**Q:&nbsp; How does the quality of life in the U.S. compare to other leading nations?**
 
-A:&nbsp; People living in the U.S. lead a high quality of life, enjoying high quality services, education and infrastructure.&nbsp; U.S. GDP per capita in 2009 was $42,486, [one of the highest in the world](https://data.undp.org/dataset/GDP-per-capita-2005-PPP-/navj-mda7). The United States is famed for its broad spectrum of cultural attractions, from world-class symphonies to top-ranked sports teams, its majestic national parks and its friendly and welcoming residents.&nbsp; 
+A:&nbsp; People living in the U.S. lead a high quality of life, enjoying high quality services, education and infrastructure.&nbsp; U.S. GDP per capita in 2009 was $42,486, one of the highest in the world. The United States is famed for its broad spectrum of cultural attractions, from world-class symphonies to top-ranked sports teams, its majestic national parks and its friendly and welcoming residents.&nbsp; 
 
 <a name="FAQGovSupport"></a>
 
@@ -192,5 +192,4 @@ SelectUSA's customers include state economic development agencies (EDAs), site s
 
 &nbsp;**Q:&nbsp; How can I contact SelectUSA for investment-related assistance?**
 
-A:&nbsp; Please email [info[at]SelectUSA[dot]gov](/contact/info/SelectUSA/gov) or visit [our contact page](/contact-us).
- 
+A:&nbsp; Please email [info[at]SelectUSA[dot]gov](/contact/info/SelectUSA/gov) or visit [our contact page]({{ site.baseurl }}{{post.url}}/contact-us.html).
