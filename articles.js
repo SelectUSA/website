@@ -96,7 +96,7 @@ var movies = [
   },
   {
     "name": "Baldrige Performance Excellence Program",
-    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "link": "http://selectusa.github.io/website/investment-incentives/baldrige-performance-excellence-program.html",
     "outline": "Department of the Commerce The Baldrige Program is the nation's public-private partnership dedicated to performance excellence. The Baldrige Program Raises awareness about the importance of performance excellence in driving the U.S.",
     "genre": [
       "U.S. Companies",
