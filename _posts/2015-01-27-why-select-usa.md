@@ -1,7 +1,7 @@
 ---
 permalink: "why-select-usa.html"
 layout: default
-title: Why Select USA?
+title: "Why Select USA?"
 published: true
 ---
 
@@ -42,7 +42,7 @@ Businesses operating in small markets in other countries can become large, dynam
 
 The stable U.S. government and business climate have lead to the United States topping the 2014 [ATKearney Foreign Direct Investment Confidence Index](http://www.atkearney.com/research-studies/foreign-direct-investment-confidence-index).&nbsp; Indeed, the United States is the world’s most attractive market for venture capital and private equity funding.&nbsp; ([Ernst &amp; Young&nbsp;and IESE Business School’s 2013 Global Venture Capital and Private Equity Country Attractiveness Index](http://blog.iese.edu/vcpeindex/files/2013/08/VCPE-Index-2013-Annual-HD.pdf).)
 
-Among countries with more than 10 million people, the United States is consistently ranked among the best in the world for its overall competitiveness (World Economic Forum, _[Global Competitiveness Report 2013-14](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2013-14.pdf)_), as well as for its overall “ease of doing business.”&nbsp; ([World Bank, _Doing Business 2012_](http://www.doingbusiness.org/reports/global-reports/doing-business-2012).)
+Among countries with more than 10 million people, the United States is consistently ranked among the best in the world for its overall competitiveness (World Economic Forum, _[Global Competitiveness Report 2014-15](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf)_), as well as for its overall “ease of doing business.”&nbsp; ([World Bank, _Doing Business 2012_](http://www.doingbusiness.org/reports/global-reports/doing-business-2012).)
 
 **Highly Educated and Productive Work Force**
 
@@ -74,7 +74,6 @@ The United States is the world’s leader in protecting intellectual property ri
 
 Obtaining protection for these valuable business assets is simple and cost-effective.&nbsp; The transparent and predictable legal system resolves disputes quickly, often before significant expense is incurred.&nbsp; And businesses can rely on the U.S.’s comprehensive enforcement capabilities to protect their IP rights from infringement.
 
-## [Find Federal Programs and Incentives&nbsp;](/investment-incentives)
+## [Find Federal Programs and Incentives&nbsp;]({{site.baseurl}}{{post.url}}/investment-incentives.html)
 
-## [Read More About Companies That Chose the USA](/they-chose-usa)
- 
+## [Read More About Companies That Chose the USA]({{site.baseurl}}{{post.url}}/they-chose-usa.html)
