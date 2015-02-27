@@ -1,6 +1,5 @@
 name: Website
 pygments: true
-baseurl: /website
 markdown: rdiscount
 exclude:
   - .bundle
