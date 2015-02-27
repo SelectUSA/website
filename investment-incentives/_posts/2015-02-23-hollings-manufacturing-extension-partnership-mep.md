@@ -3,7 +3,6 @@ permalink: "investment-incentives/hollings-manufacturing-extension-partnership-m
 layout: default
 title: Hollings Manufacturing Extension Partnership (MEP)
 published: true
-tags: [Manufacturing, Department of Commerce, Information, Technical Assistance]
 ---
 
 ## **Department of Commerce**

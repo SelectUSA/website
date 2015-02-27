@@ -3,7 +3,6 @@ permalink: "investment-incentives/aarpa-e-funding-opportunities.html"
 layout: default
 title: ARPA-E Funding Opportunities
 published: true
-tags: [Energy, Environment, Environment and Energy, Funding, Logistics and Transportation. Research and Development, Department of Energy]
 ---
 
 To address the challenges imposed by the rapidly evolving global energy market, ARPA-E seeks to support transformational research in all areas of energy R&amp;D, including resource identification, extraction, transportation and use, and energy generation, storage, transmission and use in both the transportation and stationary power sectors.&nbsp; Areas of research responsive to this FOA include (but are not limited to) electricity generation by both renewable and non-renewable means, electricity transmission, storage, and distribution; energy efficiency for buildings, manufacturing and commerce, and personal use; and all aspects of transportation, including the production and distribution of both renewable and non-renewable fuels, electrification, and energy efficiency in transportation.

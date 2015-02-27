@@ -1,74 +1,50 @@
-[
+var movies =[
     
     {
-      "title"    : "Hollings Manufacturing Extension Partnership (MEP)",
-      "href"     : "/investment-incentives/hollings-manufacturing-extension-partnership-mep.html",
-      "tags": "ManufacturingDepartment of CommerceInformationTechnical Assistance",
-      "date"     : {
-         "day"   : "23",
-         "month" : "February",
-         "year"  : "2015"
-      }
+      "name"    : "",
+      "link"     : "",
+      "outline"     : "",
+      "genre": [""],
     }
     ,
     
     {
-      "title"    : "Grants.gov",
-      "href"     : "/investment-incentives/grantsgov.html",
-      "tags": "AerospaceAgribusiness and Forest ProductsAutomotiveChemicals and PharmaceuticalsConstruction and Real EstateConsumer GoodsCreative and MediaDefense and SecurityEducationEducation and TrainingElectronics and Industrial EquipmentEnergyEnvironmentEnvironment and EnergyFinancial ServicesFood; Beverage and RestaurantFundingHealthInformation and Communication TechnologyLife Sciences and MedicalLogistics and TransportationManufacturingPetroleum; Minerals and MiningPhysical Science and EngineeringProfessional Services (Legal; Accounting; etc.)Real EstateResearch and DevelopmentRetail TradeTextilesTravel; Tourism and HospitalityU.S. CompaniesWholesale and Retail TradeInformation",
-      "date"     : {
-         "day"   : "23",
-         "month" : "February",
-         "year"  : "2015"
-      }
+      "name"    : "",
+      "link"     : "",
+      "outline"     : "",
+      "genre": [""],
     }
     ,
     
     {
-      "title"    : "Clean Energy Loan Guarantee Program",
-      "href"     : "/investment-incentives/clean-energy-loan-guarantee-program.html",
-      "tags": "EnergyEnvironmentEnvironment and EnergyFundingPetroleum; Minerals and MiningResearch and DevelopmentDepartment of Energy",
-      "date"     : {
-         "day"   : "23",
-         "month" : "February",
-         "year"  : "2015"
-      }
+      "name"    : "",
+      "link"     : "",
+      "outline"     : "",
+      "genre": [""],
     }
     ,
     
     {
-      "title"    : "Baldrige Performance Excellence Program",
-      "href"     : "/investment-incentives/baldrige-performance-excellence-program.html",
-      "tags": "U.S. CompaniesDepartment of CommerceInformationTechnical Assistance",
-      "date"     : {
-         "day"   : "23",
-         "month" : "February",
-         "year"  : "2015"
-      }
+      "name"    : "",
+      "link"     : "",
+      "outline"     : "",
+      "genre": [""],
     }
     ,
     
     {
-      "title"    : "ARPA-E Funding Opportunities",
-      "href"     : "/investment-incentives/aarpa-e-funding-opportunities.html",
-      "tags": "EnergyEnvironmentEnvironment and EnergyFundingLogistics and Transportation. Research and DevelopmentDepartment of Energy",
-      "date"     : {
-         "day"   : "23",
-         "month" : "February",
-         "year"  : "2013"
-      }
+      "name"    : "",
+      "link"     : "",
+      "outline"     : "",
+      "genre": [""],
     }
     ,
     
     {
-      "title"    : "Advanced Technology Vehicle Manufacturing (ATVM) Loan Program",
-      "href"     : "/investment-incentives/advanced-technology-vehicle-manufacturing-atvm-loan-program.html",
-      "tags": "Environment and EnergyFundingManufacturingResearch and Development",
-      "date"     : {
-         "day"   : "23",
-         "month" : "February",
-         "year"  : "2013"
-      }
+      "name"    : "",
+      "link"     : "",
+      "outline"     : "",
+      "genre": [""],
     }
     
     

@@ -3,7 +3,6 @@ permalink: "investment-incentives/advanced-technology-vehicle-manufacturing-atvm
 layout: default
 title: Advanced Technology Vehicle Manufacturing (ATVM) Loan Program
 published: true
-tags: [Environment and Energy, Funding, Manufacturing, Research and Development]
 ---
 
 **Department of Energy**

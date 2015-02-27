@@ -623,12 +623,7 @@ var movies = [
     "name": "Minority Business Enterprise Center (MBEC) Program",
     "link": "http://selectusa.github.io/website/investment-incentives/",
     "outline": "Minority Business Enterprise Center (MBEC) Program Department of the Commerce Incentive: The Minority Business Enterprise Center (MBEC) Program is a fee-for-service initiative, providing a wide-range of direct business assistance services to eligible minority business enterprises (MBEs). The MBEC provides standardized business assistance services to minority firms. Eligibility: Target clients are MBEs with $500,000 or more in annual revenues and/or “rapid-growth potential” firms. Start-up and/or micro minority firms are served via referrals, strategic partnerships or electronic delivery...",
-    "genre": [
-	  "Department of Commerce",
-	  "Information", 
-	  "Technical Assistance"
-    ],
-    "id": 33
+    "genre": ["Department of Commerce", "Information", "Technical Assistance"],
   },
   {
     "name": "Modified Accelerated Cost-Recovery System (MACRS)",
@@ -796,5 +791,361 @@ var movies = [
 	  "Department of Commerce"
     ],
     "id": 44
+  },
+  {
+    "name": "Office of Energy Efficiency and Renewable Energy Funding",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "U.S. Department of Energy Department of Energy: Office of Energy Efficiency and Renewable Energy (EERE) provides a list of financial opportunities for business, industry, and universities. Past opportunities include: solar, geothermal, vehical technology, biomass, hydrogen and fuel cell research,.  To explore current EERE financial assistance solicitations and solicitation-related requests please click here: http://www1.eere.energy.gov/financing/business.html",
+    "genre": [
+	  "Energy", 
+	  "Environment", 
+	  "Environment and Energy", 
+	  "Funding", 
+	  "Research and Development", 
+	  "Department of Energy"
+    ],
+    "id": 45
+  }, 
+  {
+    "name": "Office of Science Grant and Contract Opportunities",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Oversees and funds research programs in high-energy physics, nuclear physics, and fusion energy sciences, and manages fundamental research programs in basic energy sciences, biological and environmental sciences, and computational science. Also funds materials and chemical sciences. Click here for more information: http://www.sc.doe.gov/grants/grants.html",
+    "genre": [
+	  "Energy", 
+	  "Chemicals and Pharmaceuticals", 
+	  "Environment and Energy", 
+	  "Funding", 
+	  "Information and Communication Technology", 
+	  "Research and Development", 
+	  "Department of Energy"
+    ],
+    "id": 46
+  },
+  {
+    "name": "Office of Textiles and Apparel (OTEXA) Export Promotion Program",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Department of the Commerce Incentive: The Office of Textiles and Apparel (OTEXA) Export Promotion Program targets small-and medium-sized export-ready firms by providing support, facilitation, and program venues for sales of U.S.-made textile and apparel products in overseas markets. OTEXA’s Export Program includes export-counseling, seminars, sponsorship of trade missions, U.S.A. pavilions in major international trade events, and market research to identify key export opportunities in selected markets. Eligibility: U.S. companies interested in participating in an OTEXA-sponsored event must...",
+    "genre": [
+	  "Energy", 
+	  "Environment", 
+	  "Research and Development", 
+	  "Textiles", 
+	  "U.S. Companies", 
+	  "Department of Commerce", 
+	  "Information", 
+	  "Technical Assistance"
+    ],
+    "id": 47
+  }, 
+  {
+    "name": "Overseas Private Investment Corporation",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "OPIC is the U.S. Government’s development finance institution.  It mobilizes private capital to help solve critical world challenges and in doing so, advances U.S. foreign policy. Because OPIC works with the U.S. private sector, it helps U.S. businesses gain footholds in emerging markets catalyzing revenues, jobs and growth opportunities both at home and abroad. OPIC achieves its mission by providing investors with financing, guarantees, political risk insurance, and support for private equity investment funds. Established as an agency of the U.S. Government in 1971, OPIC operates...",
+    "genre": [
+	  "Energy", 
+	  "Foreign Investors", 
+	  "Funding", 
+	  "U.S. Companies", 
+	  "Information", 
+	  "Technical Assistance"
+    ],
+    "id": 48
+  },
+  {
+    "name": "Petition Counseling and Analysis Unit (PCAU)",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Petition Counseling and Analysis Unit (PCAU) Department of the Commerce International Trade Administration Incentive: The Petition Counseling and Analysis Unit (PCAU) works to ensure that all U.S. industries facing competition from unfairly traded imports are able to take advantage of the trade law remedies available to them. The staff of this unit is available to answer questions for U.S. industries relating to remedies available under the trade laws, and to assist in the development and filing of Antidumping (AD) and Countervailing Duty (CVD) petitions. The PCAU’s helps U.S. industries...",
+    "genre": [
+	  "U.S. Companies", 
+	  "Department of Commerce", 
+	  "Information", 
+	  "Technical Assistance"
+    ],
+    "id": 49
+  },
+  {
+    "name": "Railroad Rehabilitation & Improvement Financing (RRIF) Program",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Incentive: The RRIF program was established by the Transportation Equity Act for the 21st Century (TEA-21) and amended by the Safe Accountable, Flexible and Efficient Transportation Equity Act: a Legacy for Users (SAFETEA-LU). Under this program the FRA Administrator is authorized to provide direct loans and loan guarantees up to $35.0 billion. Up to $7.0 billion is reserved for projects benefiting freight railroads other than Class I carriers. The funding may be used to:",
+    "genre": [
+    ],
+    "id": 50
+  }, 
+  {
+    "name": "Recovery Act Grants - National Institutes of Health (NIH)",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Provides funding and research grants to help stimulate the support and advancement of scientific research in the U.S.. Supported by the American Recovery & Reinvestment Act of 2009 (ARRA). Click here for more information: http://grants.nih.gov/recovery/",
+    "genre": [
+      "Funding", 
+      "Research and Development", 
+      "Department of Health and Human Services"
+    ],
+    "id": 51
+  }, 
+  {
+    "name": "Renewable Energy Grants",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Renewable Energy Grants Department of the Treasury Internal Revenue Service Incentive: The Section 1603 Grant Program is a renewable energy grant program that is administered by the U.S. Department of Treasury. This program allows taxpayers eligible for the federal business energy investment tax credit (ITC) to take this credit or to receive a grant from the U.S. Treasury Department instead of taking the business ITC for new installations. The program also allows taxpayers eligible for the renewable electricity production tax credit (PTC) to receive a grant from the U.S. Treasury Department...",
+    "genre": [
+      "Funding", 
+      "Education", 
+      "Energy", 
+      "Environment", 
+      "Foreign Investors", 
+      "Funding", 
+      "Real Estate", 
+      "Research and Development", 
+      "U.S. Companies", 
+      "Tax Incentives", 
+      "Department of the Treasury"
+    ],
+    "id": 52
+  },
+  {
+    "name": "Renewable Energy Investment Tax Credit (ITC)",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Renewable Energy Investment Tax Credit (ITC) Department of the Treasury Internal Revenue Service Incentive: The Investment Tax Credit (ITC) reduces federal income taxes for qualified tax-paying owners based on capital investment in renewable energy projects (measured in dollars). The ITC generally allows taxpayers to take a single tax credit against the project's tax basis equal to 30% in its first year and allows a taxpayer to elect certain qualified facilities to be characterized as energy property eligible for a 10% or 30% ITC, depending on the technology. Incentives depend on the type...",
+    "genre": [
+       "Energy", 
+       "Foreign Investors", 
+       "U.S. Companies", 
+       "Tax Incentives", 
+       "Department of the Treasury"
+    ],
+    "id": 53
+  },
+  {
+    "name": "Renewable Energy Research and Development (ARRA)",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Renewable Energy Research and Development (ARRA) Department of Energy Incentive: To conduct balanced research and development efforts in the following energy technologies: solar, biomass, hydrogen, fuel cells and infrastructure, wind and hydropower, and geothermal. Grants will be offered to develop and transfer to the nonfederal sector various renewable energy technologies on a competitive basis. Award: Project Grants or Cooperative Agreements.",
+    "genre": [
+       "Foreign Investors", 
+       "Funding", 
+       "U.S. Companies", 
+       "Information", 
+       "Technical Assistance", 
+       "Department of Energy"
+    ],
+    "id": 54
+  }, 
+  {
+    "name": "Research Partnership to Secure Energy for America",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "The Research Partnership to Secure Energy for America (RPSEA) is a non-profit corporation established to help meet the nation's growing need for hydrocarbon resources produced from reservoirs in America. RPSEA offers funding through solitation of proposals. They assist small businesses in participating in Government contracting opportunities with RPSEA and the US. Government, RPSEA has developed a series of procedural steps that are essential for the success of small businesses.  A “Twelve Step Program for Success,” has been created to assist small business owners on how to effectively...",
+    "genre": [
+       "Foreign Investors", 
+       "Environment and Energy", 
+       "Funding", 
+       "Petroleum, Minerals and Mining", 
+       "Research and Development", 
+       "Department of Energy"
+    ],
+    "id": 55
+  },  
+  {
+    "name": "Rural Development Energy Programs",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "U.S. Department of Agriculture USDA Rural Development Energy Program offer funds to complete energy audits and feasibility studies, complete energy efficiency improvements, install renewable energy systems. Programs that help convert older heating sources to cleaner technologies, produce advanced biofuels, install flexible fuel pumps, install solar panels, build biorefineries, and much more. USDA Rural Development is at the forefront of renewable energy financing, with options including grants, guaranteed loans and payments.",
+    "genre": [
+       "Foreign Investors", 
+       "Department of Agriculture", 
+       "Environment and Energy", 
+       "Funding", 
+       "Research and Development"
+    ],
+    "id": 56
+  },
+  {
+    "name": "Rural Development Grant Assistance",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "U.S. Department of Agriculture Program assistance is provided in many ways, including direct or guaranteed loans, grants, technical assistance, research and educational materials.  Below are available programs:",
+    "genre": [
+       "Agribusiness and Forest Products", 
+       "Department of Agriculture", 
+       "Funding", 
+       "Research and Development"
+    ],
+    "id": 57
+  },
+  {
+    "name": "SBA Exporting and Importing",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Small businesses looking to increase sales and profit are taking their businesses global. SBA provides counseling, training and financing to support small business export opportunities.  >> SBA Exporting and Importing portal.",
+    "genre": [
+       "Small Business Administration"
+    ],
+    "id": 58
+  },
+  {
+    "name": "Small Business Innovation Research Program and Small Business Technology Transfer Program",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Department of Energy Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) is soliciting research proposal for funding on topic that address issues related to: • Advanced Scientific Computing Research• Fusion Energy Sciences• Basic Energy Sciences• High Energy Physics• Biological and Environmental Research• Nuclear Physics• Defense Nuclear Nonproliferation For specific list of topics please refer to: http://science.energy.gov/~/media/sbir/pdf/docs/DOEFY13PhaseIRelease1Topics071612.pdf Awards and contact information are specific to each topic.",
+    "genre": [
+       "Energy", 
+       "Environment and Energy", 
+       "Funding", 
+       "Physical Science and Engineering", 
+       "Research and Development", 
+       "Department of Energy"
+    ],
+    "id": 59
+  },
+  {
+    "name": "Startup America Partnership",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "The White House What: “Startup America” is a White House initiative to celebrate, inspire, and accelerate high-growth entrepreneurship throughout the nation. This coordinated public/private effort brings the country’s most innovative entrepreneurs, corporations, universities, foundations, and other leaders with a wide range of federal agencies to increase the prevalence and success of America’s entrepreneurs. The Small Business Administration (SBA) will commit $2 billion as a match to private sector investment over the next five years in promising high-growth companies.",
+    "genre": [
+       "Energy", 
+       "Foreign Investors", 
+       "Funding", 
+       "U.S. Companies", 
+       "Information", 
+       "Tax Incentives", 
+       "Technical Assistance"
+    ],
+    "id": 60
+  },
+  {
+    "name": "Sustainable Manufacturing Initiative (SMI)",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Department of the Commerce Incentive: The Sustainable Manufacturing Initiative (SMI) is a publicly accessible Web site that provides resources to help companies implement sustainable business practices that increase energy efficiency, reduce waste, and pollution and help them better manage resource and material inputs. The SMI Sustainable Business Clearinghouse is the central government portal for businesses to access federal and state-level resources that support U.S. industry’s sustainability needs. And, SMARTs (Sustainable Manufacturing American Regional Tours) educate and inform companies...",
+    "genre": [
+       "Department of Commerce"
+    ],
+    "id": 61
+  },
+  {
+    "name": "Tax incentives in Renewal Communities (RCs) and Empowerment Zones (EZs)",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Provides substantial tax incentives for businesses that hire local residents, upgrade their equipment needs, and build or rehabilitate commercial property, in designated Renewal Communities (RCs) and Empowerment Zones (EZs). For additional information, go to: http://www.hud.gov/offices/cpd/economicdevelopment/programs/rc/businesses/",
+    "genre": [
+       "Real Estate", 
+       "Tax Incentives", 
+       "Department of Housing and Urban Development"
+    ],
+    "id": 62
+  },
+  {
+    "name": "The Advocacy Center",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "The Advocacy Center Department of Commerce International Trade Administration The Advocacy Center provides technical assistance, counseling, and advocacy services to U.S. companies exporting their goods and services overseas. The office advocates on behalf of U.S. firms seeking to win foreign procurements and tenders abroad by bringing all appropriate federal government resources to bare. The Advocacy Center works directly with U.S. Embassy personnel worldwide and other key federal agencies, to ensure that U.S. firms can compete on a level playing field with international competitors....",
+    "genre": [
+       "Real Estate", 
+       "U.S. Companies", 
+       "Department of Commerce", 
+       "Information", 
+       "Technical Assistance"
+    ],
+    "id": 63
+  },
+  {
+    "name": "The Export Yellow Pages (EYP)",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "The Export Yellow Pages (EYP) program provides affordable export trade advertising for U.S. firms, to attract new export trade contacts. It is an electronic directory of U.S. producers and export service providers. On the EYP online directory, U.S. firms can register basic information from their company profile for free or they can upgrade their ad for a fee. Company profiles are accessible by international traders worldwide. Eligibility:  Any U.S. firm interested in new export trade contacts can take advantage of this Commerce Department referral tool by visiting exportyellowpages.com....",
+    "genre": [
+       "Real Estate", 
+       "U.S. Companies", 
+       "Department of Commerce", 
+       "Information"
+    ],
+    "id": 64
+  },
+  {
+    "name": "The Office of Intellectual Property Rights (OIPR)",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Department of the Commerce Incentive: The Office of Intellectual Property Rights (OIPR) provides counseling, special programs and tools to help U.S. companies to protect their intellectual property (such as patents or trademarks or copyrights) abroad. In addition, the OIPR supports the protection of intellectual property rights (IPR) in U.S. trade negotiations. The OIPR helps companies overcome problems they face protecting and enforcing their intellectual property rights overseas. The office develops trade programs and tools to help U.S. businesses and citizens protect and enforce their IPR...",
+    "genre": [
+       "Real Estate", 
+       "Department of Commerce", 
+       "Information", 
+       "Technical Assistance"
+    ],
+    "id": 65
+  },
+  {
+    "name": "Trade Adjustment Assistance for Firms",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Department of Commerce Economic Development Administration Trade Adjustment Assistance for Firms (TAAF) is a federal program that provides financial assistance to manufacturers and service firms affected by import competition. Sponsored by the Department of Commerce's Economic Development Administration (EDA), this cost-sharing federal assistance program helps pay for projects that improve firms' competitiveness.",
+    "genre": [
+       "Real Estate", 
+       "Manufacturing", 
+       "U.S. Companies", 
+       "Department of Commerce", 
+       "Information", 
+       "Technical Assistance"
+    ],
+    "id": 66
+  },
+  {
+    "name": "Trade Information Center (TIC)",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Trade Information Center (TIC) Department of the Commerce International Trade Administration Incentive: The Trade Information Center (TIC) provides export counseling to U.S. businesses and individuals by phone and via the Web. The TIC provides direct counseling to U.S. exporters and potential exporters. Also, the TIC is staffed by trade professionals with expertise in specific regions and industry sectors dedicated to working directly with U.S. companies to facilitate exports. A U.S. business may receive counseling on topics ranging from accessing foreign markets for the first time,...",
+    "genre": [
+       "Real Estate", 
+       "Department of Commerce", 
+       "Information", 
+       "Technical Assistance"
+    ],
+    "id": 67
+  },
+  {
+    "name": "Trade Missions Program",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Trade Missions Program Department of the Commerce International Trade Administration Incentive: The International Trade Administration (ITA) Trade Missions Program offers a proven, cost-effective tool for helping U.S. companies learn first-hand about global markets. The Trade Missions Program recruits U.S. companies whose goal is to export their products and services.  These U.S.",
+    "genre": [
+       "Real Estate", 
+       "Department of Commerce", 
+       "Information", 
+       "Technical Assistance"
+    ],
+    "id": 68
+  },
+  {
+    "name": "U.S. Export Assistance Centers (USEACs)",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "U.S. Export Assistance Centers (USEACs) Department of the Commerce International Trade Administration Incentive: U.S. Export Assistance Centers (USEACs) provide front-line outreach and service operations for U.S. exporters. There are International Trade specialists based in more than 100 USEACs located across the United States and Puerto Rico. The centers assist U.S. businesses that are new to exporting, want to expand to additional export markets, or want to increase their market share in existing markets.",
+    "genre": [
+       "U.S. Companies", 
+       "Department of Commerce", 
+       "Information", 
+       "Technical Assistance"
+    ],
+    "id": 69
+  },
+  {
+    "name": "U.S. Foreign-Trade Zones (FTZ) Program",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "Through the U.S. Foreign-Trade Zones (FTZ) Program, a company can reduce their production, transaction, and logistics-related costs. Foreign-trade zones are secure areas under supervision of U.S. Customs and Border Protection that are considered outside the customs territory of the United States for the purposes of duty payment. Located in or near customs ports of entry, they are the U.S. version of what are known internationally as free trade zones. The FTZ Program licenses local agencies in all 50 states and Puerto Rico to establish FTZ locations where foreign merchandise can be imported...",
+    "genre": [
+       "Foreign Investors", 
+       "U.S. Companies", 
+       "Department of Commerce", 
+       "Information", 
+       "Tax Incentives", 
+       "Technical Assistance"
+    ],
+    "id": 70
+  },
+  {
+    "name": "United States Trade Development Agency (USTDA)",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "USTDA is an independent U.S. Government foreign assistance agency that is funded by the U.S. Congress. Our mission is to help companies create U.S. jobs through the export of U.S. goods and services for priority development projects in emerging economies. USTDA links U.S. businesses to export opportunities by funding project planning activities, pilot projects, and reverse trade missions while creating sustainable infrastructure and economic growth in partner countries. USTDA provides grant funding to overseas project sponsors for the planning of projects that support the development of...",
+    "genre": [
+       "Funding", 
+       "Information", 
+       "Technical Assistance"
+    ],
+    "id": 71
+  },
+  {
+    "name": "Work Opportunity Tax Credit (WOTC)",
+    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "outline": "The Work Opportunity Tax Credit (WOTC) is a Federal tax credit incentive that the Congress provides to private-sector businesses for hiring individuals from twelve target groups who have consistently faced significant barriers to employment. The main objective of this program is to enable the targeted employees to gradually move from economic dependency into self-sufficiency as they earn a steady income and become contributing taxpayers, while the participating employers are compensated by being able to reduce their federal income tax liability.",
+    "genre": [
+       "Funding", 
+       "Tax Incentives", 
+       "Department of Labor"
+    ],
+    "id": 72
   },
 ]

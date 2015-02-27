@@ -1,5 +1,5 @@
 name: Website
-pygments: true
+highlighter: true
 baseurl: /website
 markdown: rdiscount
 exclude:

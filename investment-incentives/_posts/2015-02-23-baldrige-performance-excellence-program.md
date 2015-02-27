@@ -3,7 +3,6 @@ permalink: "investment-incentives/baldrige-performance-excellence-program.html"
 layout: default
 title: Baldrige Performance Excellence Program
 published: true
-tags: [U.S. Companies, Department of Commerce, Information, Technical Assistance]
 ---
 **Department of the Commerce**
 

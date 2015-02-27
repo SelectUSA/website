@@ -3,7 +3,6 @@ permalink: "investment-incentives/clean-energy-loan-guarantee-program.html"
 layout: default
 title: Clean Energy Loan Guarantee Program
 published: true
-tags: [Energy, Environment, Environment and Energy, Funding, Petroleum; Minerals and Mining, Research and Development, Department of Energy]
 ---
 
 The Department of Energy’s Loan Programs—administered by LPO—enable DOE to work with private companies and lenders to mitigate the financing risks associated with clean energy projects, and thereby encourage their development on a broader and much-needed scale.
