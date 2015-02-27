@@ -1,0 +1,69 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+  
+  <script type='text/javascript' src='http://code.jquery.com/jquery-1.9.1.js'></script>
+  
+  
+  
+  
+  <link rel="stylesheet" type="text/css" href="/css/result-light.css">
+  
+    
+      <link rel="stylesheet" type="text/css" href="http://ecos.fws.gov/js/bootstrap-2.0.3/css/bootstrap.css">
+    
+  
+    
+      <script type='text/javascript' src="http://ivaynberg.github.com/select2/select2-master/select2.js"></script>
+    
+  
+    
+      <link rel="stylesheet" type="text/css" href="http://ivaynberg.github.com/select2/select2-master/select2.css">
+    
+  
+  <style type='text/css'>
+    .small {
+    height: 20px;
+    overflow:hidden;
+}
+.big {
+    height: auto;
+}
+  </style>
+  
+
+
+<script type='text/javascript'>//<![CDATA[ 
+$(window).load(function(){
+$('.wrapper').find('a[href="#"]').on('click', function (e) {
+    e.preventDefault();
+    this.expand = !this.expand;
+    $(this).text(this.expand?"Click to collapse":"Click to read more");
+    $(this).closest('.wrapper').find('.small, .big').toggleClass('small big');
+});
+});//]]>  
+
+</script>
+
+
+</head>
+<body>
+  <div class="wrapper">
+    <div class="small">
+        <p>Use the search options on the left to narrow down your search results. If you don't select any filters, you will see all incentive programs.
+
+Filter categories are Assistance Type, Purpose, Industry, and Agency.
+
+If you select one or more filter terms in one filter category, you will see all incentive programs that match any one of the terms selected.</p>
+    </div> <a href="#">How to refine your search </a>
+
+</div>
+  
+</body>
+
+
+</html>
+

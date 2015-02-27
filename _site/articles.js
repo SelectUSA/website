@@ -1007,7 +1007,7 @@ var movies = [
   },
   {
     "name": "Sustainable Manufacturing Initiative (SMI)",
-    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "link": "http://selectusa.github.io/website/investment-incentives/sustainable-manufacturing-initiative-smi.html",
     "outline": "Department of the Commerce Incentive: The Sustainable Manufacturing Initiative (SMI) is a publicly accessible Web site that provides resources to help companies implement sustainable business practices that increase energy efficiency, reduce waste, and pollution and help them better manage resource and material inputs. The SMI Sustainable Business Clearinghouse is the central government portal for businesses to access federal and state-level resources that support U.S. industry’s sustainability needs. And, SMARTs (Sustainable Manufacturing American Regional Tours) educate and inform companies...",
     "genre": [
        "Department of Commerce"
@@ -1016,7 +1016,7 @@ var movies = [
   },
   {
     "name": "Tax incentives in Renewal Communities (RCs) and Empowerment Zones (EZs)",
-    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "link": "http://selectusa.github.io/website/investment-incentives/tax-incentives-renewal-communities-rcs-and-empowerment-zones-ezs.html",
     "outline": "Provides substantial tax incentives for businesses that hire local residents, upgrade their equipment needs, and build or rehabilitate commercial property, in designated Renewal Communities (RCs) and Empowerment Zones (EZs). For additional information, go to: http://www.hud.gov/offices/cpd/economicdevelopment/programs/rc/businesses/",
     "genre": [
        "Real Estate", 
@@ -1027,7 +1027,7 @@ var movies = [
   },
   {
     "name": "The Advocacy Center",
-    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "link": "http://selectusa.github.io/website/investment-incentives/advocacy-center.html",
     "outline": "The Advocacy Center Department of Commerce International Trade Administration The Advocacy Center provides technical assistance, counseling, and advocacy services to U.S. companies exporting their goods and services overseas. The office advocates on behalf of U.S. firms seeking to win foreign procurements and tenders abroad by bringing all appropriate federal government resources to bare. The Advocacy Center works directly with U.S. Embassy personnel worldwide and other key federal agencies, to ensure that U.S. firms can compete on a level playing field with international competitors....",
     "genre": [
        "Real Estate", 
@@ -1040,7 +1040,7 @@ var movies = [
   },
   {
     "name": "The Export Yellow Pages (EYP)",
-    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "link": "http://selectusa.github.io/website/investment-incentives/export-yellow-pages-eyp.html",
     "outline": "The Export Yellow Pages (EYP) program provides affordable export trade advertising for U.S. firms, to attract new export trade contacts. It is an electronic directory of U.S. producers and export service providers. On the EYP online directory, U.S. firms can register basic information from their company profile for free or they can upgrade their ad for a fee. Company profiles are accessible by international traders worldwide. Eligibility:  Any U.S. firm interested in new export trade contacts can take advantage of this Commerce Department referral tool by visiting exportyellowpages.com....",
     "genre": [
        "Real Estate", 
@@ -1052,7 +1052,7 @@ var movies = [
   },
   {
     "name": "The Office of Intellectual Property Rights (OIPR)",
-    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "link": "http://selectusa.github.io/website/investment-incentives/office-intellectual-property-rights-oipr.html",
     "outline": "Department of the Commerce Incentive: The Office of Intellectual Property Rights (OIPR) provides counseling, special programs and tools to help U.S. companies to protect their intellectual property (such as patents or trademarks or copyrights) abroad. In addition, the OIPR supports the protection of intellectual property rights (IPR) in U.S. trade negotiations. The OIPR helps companies overcome problems they face protecting and enforcing their intellectual property rights overseas. The office develops trade programs and tools to help U.S. businesses and citizens protect and enforce their IPR...",
     "genre": [
        "Real Estate", 
@@ -1064,7 +1064,7 @@ var movies = [
   },
   {
     "name": "Trade Adjustment Assistance for Firms",
-    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "link": "http://selectusa.github.io/website/investment-incentives/trade-adjustment-assistance-firms.html",
     "outline": "Department of Commerce Economic Development Administration Trade Adjustment Assistance for Firms (TAAF) is a federal program that provides financial assistance to manufacturers and service firms affected by import competition. Sponsored by the Department of Commerce's Economic Development Administration (EDA), this cost-sharing federal assistance program helps pay for projects that improve firms' competitiveness.",
     "genre": [
        "Real Estate", 
@@ -1078,7 +1078,7 @@ var movies = [
   },
   {
     "name": "Trade Information Center (TIC)",
-    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "link": "http://selectusa.github.io/website/investment-incentives/trade-information-center-tic.html",
     "outline": "Trade Information Center (TIC) Department of the Commerce International Trade Administration Incentive: The Trade Information Center (TIC) provides export counseling to U.S. businesses and individuals by phone and via the Web. The TIC provides direct counseling to U.S. exporters and potential exporters. Also, the TIC is staffed by trade professionals with expertise in specific regions and industry sectors dedicated to working directly with U.S. companies to facilitate exports. A U.S. business may receive counseling on topics ranging from accessing foreign markets for the first time,...",
     "genre": [
        "Real Estate", 
@@ -1090,7 +1090,7 @@ var movies = [
   },
   {
     "name": "Trade Missions Program",
-    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "link": "http://selectusa.github.io/website/investment-incentives/trade-missions-program.html",
     "outline": "Trade Missions Program Department of the Commerce International Trade Administration Incentive: The International Trade Administration (ITA) Trade Missions Program offers a proven, cost-effective tool for helping U.S. companies learn first-hand about global markets. The Trade Missions Program recruits U.S. companies whose goal is to export their products and services.  These U.S.",
     "genre": [
        "Real Estate", 
@@ -1102,7 +1102,7 @@ var movies = [
   },
   {
     "name": "U.S. Export Assistance Centers (USEACs)",
-    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "link": "http://selectusa.github.io/website/investment-incentives/us-export-assistance-centers-useacs.html",
     "outline": "U.S. Export Assistance Centers (USEACs) Department of the Commerce International Trade Administration Incentive: U.S. Export Assistance Centers (USEACs) provide front-line outreach and service operations for U.S. exporters. There are International Trade specialists based in more than 100 USEACs located across the United States and Puerto Rico. The centers assist U.S. businesses that are new to exporting, want to expand to additional export markets, or want to increase their market share in existing markets.",
     "genre": [
        "U.S. Companies", 
@@ -1114,7 +1114,7 @@ var movies = [
   },
   {
     "name": "U.S. Foreign-Trade Zones (FTZ) Program",
-    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "link": "http://selectusa.github.io/website/investment-incentives/us-foreign-trade-zones-ftz-program.html",
     "outline": "Through the U.S. Foreign-Trade Zones (FTZ) Program, a company can reduce their production, transaction, and logistics-related costs. Foreign-trade zones are secure areas under supervision of U.S. Customs and Border Protection that are considered outside the customs territory of the United States for the purposes of duty payment. Located in or near customs ports of entry, they are the U.S. version of what are known internationally as free trade zones. The FTZ Program licenses local agencies in all 50 states and Puerto Rico to establish FTZ locations where foreign merchandise can be imported...",
     "genre": [
        "Foreign Investors", 
@@ -1128,7 +1128,7 @@ var movies = [
   },
   {
     "name": "United States Trade Development Agency (USTDA)",
-    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "link": "http://selectusa.github.io/website/investment-incentives/united-states-trade-development-agency-ustda.html",
     "outline": "USTDA is an independent U.S. Government foreign assistance agency that is funded by the U.S. Congress. Our mission is to help companies create U.S. jobs through the export of U.S. goods and services for priority development projects in emerging economies. USTDA links U.S. businesses to export opportunities by funding project planning activities, pilot projects, and reverse trade missions while creating sustainable infrastructure and economic growth in partner countries. USTDA provides grant funding to overseas project sponsors for the planning of projects that support the development of...",
     "genre": [
        "Funding", 
@@ -1139,7 +1139,7 @@ var movies = [
   },
   {
     "name": "Work Opportunity Tax Credit (WOTC)",
-    "link": "http://selectusa.github.io/website/investment-incentives/",
+    "link": "http://selectusa.github.io/website/investment-incentives/work-opportunity-tax-credit-wotc.html",
     "outline": "The Work Opportunity Tax Credit (WOTC) is a Federal tax credit incentive that the Congress provides to private-sector businesses for hiring individuals from twelve target groups who have consistently faced significant barriers to employment. The main objective of this program is to enable the targeted employees to gradually move from economic dependency into self-sufficiency as they earn a steady income and become contributing taxpayers, while the participating employers are compensated by being able to reduce their federal income tax liability.",
     "genre": [
        "Funding", 
