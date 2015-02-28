@@ -2,7 +2,7 @@
 
 This project includes the source code and content. 
 
-View the site here: http://selectusa.github.io/website/
+View the site here: http://selectusa.commerce.gov/
 
 ## Local Installation Requirements
 
