@@ -11,9 +11,9 @@ published: true
 
 ## State Designated Investment Officials
 
-*   [SelectUSA Contact List For States and Territories](/documents/2014/december/2014_state_contact_list__12-29-2014.pdf) 
+*   [SelectUSA Contact List For States and Territories](/documents/2015_State_Contact_List_01-29-2015.pdf) 
 
-## Online Tools
+## Online Tools 
 
 *   **[Assess Costs Everywhere (ACE) Tool](http://acetool.commerce.gov/)&nbsp;-&nbsp;**<span>This product of the Department of Commerce's&nbsp;</span>[Economics and Statistics Administration](http://www.esa.doc.gov/)<span>&nbsp;provides manufacturers with the top reasons for investing and sourcing in the United States.&nbsp; With its analytic framework, links to public and private resources, and case studies, ACE is now available to help businesses assess total costs more accurately and enable informed decision-making.</span>
 *   <span>**[Cluster Mapping Tool ](http://www.clustermapping.us/)**-&nbsp;<span>This project, made possible in part by a grant from the&nbsp;Department of Commerce's&nbsp;[Economic Development Administration](http://www.eda.gov/),&nbsp;aims to provide policymakers and development practitioners across America with the data and tools for assessing regional cluster strengths, business environment characteristics, and innovation assets; with case studies on and toolkits for formulating development strategies; and with a directory profiling active cluster initiatives throughout the country.</span></span>
