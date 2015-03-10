@@ -1,6 +1,6 @@
 ---
 permalink: "events/selectusa-summer-forum.html"
-layout: default
+layout: sidebar
 title: SelectUSA Summer Forum
 date-display-start: Tue, 06/17/2014
 date-display-end:  Tue, 06/17/2014

@@ -3,10 +3,10 @@
 [
 {% assign sorted_pages = (site.categories.events | sort: date) %}
 {% for post in sorted_pages %}
-{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}{% if posttime > nowunix %}{% else %}
     {
       "title"    : "{{ post.title }}",
       "url"     : "{{ post.url }}",
+      "navigation" : {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}{% if posttime > nowunix %}"true",{% else %}"false",{% endif %}   
 {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}{% if thecycle == 'odd' %}"rowdiv": "odd",{% else %}"rowdiv": "even",{% endif %}     
       "location" : "{{ post.location-value }}",
       "startdate" : "{{ post.date-display-start }}",
@@ -19,6 +19,5 @@
       }
     }
     {% unless forloop.last %},{% endunless %}
-{% endif %}
     {% endfor %}
 ]

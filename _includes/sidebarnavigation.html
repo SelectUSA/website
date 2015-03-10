@@ -28,12 +28,80 @@
 </div>
 {% else %}
 {% endif %}
+ 
+{% assign in_sale_collection = false %}
+{% for collection in product.collections %}
+  {% if in_sale_collection == false and collection.title == 'Sale' %}
+    {% assign in_sale_collection = true %}
+  {% endif %}
+{% endfor %}
+{% if in_sale_collection %}
+  One of the collections this product belongs to is the Sale collection.
+{% endif %}
+
+{% if page.title == "Events"  or page.title == "Past Events" or page.section == "events" %}
 
 
-{% if page.title == "Past Events" %}
-<div id="block-menu-menu-testimonials-chose-usa" class="block block-menu">
-  <h2>Past Events</h2>
 
+{% assign eventheading = false %}
+
+{% capture nowunix %}{{site.time  | date: '%s'}}{% endcapture %}
+{% capture posttime %}{{page.date | date: '%s'}}{% endcapture %}
+{% if posttime > nowunix or page.title == "Events"%}
+  {% assign eventheading = true %} 
+  {% endif %}
+
+
+{% if eventheading %} 
+  <div id="block-menu-menu-testimonials-chose-usa" class="block block-menu"><h2>Upcoming Events</h2> 
+
+<div class="view view-upcoming-events view-id-upcoming_events view-display-id-page_1 advanced-filtered-search view-dom-id-1">
+{% for post in site.categories.events reversed%}
+{% capture nowunix %}{{site.time  | date: '%s'}}{% endcapture %}
+{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+{% if posttime > nowunix %}
+    {% capture currentdate %}{{post.date | date: " %B, %Y"}}{% endcapture %}
+    {% if currentdate != thedate %}
+    <h3><span class="date-display-single">  {{ currentdate }}
+    {% capture thedate %}{{currentdate}}{% endcapture %} </span></h3>
+    {% endif %}
+     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+        {% if thecycle == 'odd' %}
+          <div class="views-row-2 views-row-even views-row-last">
+        {% else %}
+          <div class="views-row-1 views-row-odd views-row-first views-row-first">
+        {% endif %}
+ 
+      <div class="views-field-title">
+          <span class="field-content">
+              <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          </span>
+      </div>
+      <div class="views-field-field-date-1-value">
+          <span class="field-content">
+            <span class="date-display-start">
+              {{post.date-display-start}} 
+            </span>
+             {% if post.date-display-end == post.date-display-start %}
+             {% else %}
+            <span class="date-display-separator"> - </span>
+            <span class="date-display-end">
+              {{post.date-display-end}}
+            </span>
+            {% endif %}
+          </span>
+      </div>
+    <div class="views-field-field-location-value">
+          <span class="field-content">
+            {{post.location-value}}
+          </span>
+    </div>
+  </div>
+  {% else %} {% endif %}
+{% endfor %}
+  </div>  
+{% else %}
+<div id="block-menu-menu-testimonials-chose-usa" class="block block-menu"><h2>Past Events</h2>  
 <div class="view view-upcoming-events view-id-upcoming_events view-display-id-page_1 advanced-filtered-search view-dom-id-1">
 {% for post in site.categories.events %}
 {% capture nowunix %}{{site.time  | date: '%s'}}{% endcapture %}
@@ -77,7 +145,8 @@
     </div>
   </div>
   {% else %} {% endif %}
-{% endfor %}
-</div></div>
-{% else %}
+{% endfor %}</div> 
+{% endif %}
+
+  
 {% endif %}

@@ -1,6 +1,6 @@
 ---
 permalink: "events/selectusa-investment-center-canadian-international-auto-show-cias.html"
-layout: default
+layout: sidebar
 title: SelectUSA Investment Center at the Canadian International Auto Show (CIAS)
 date-display-start: Thu, 02/12/2015
 date-display-end: Thu, 02/12/2015

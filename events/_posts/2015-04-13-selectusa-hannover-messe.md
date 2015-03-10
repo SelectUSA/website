@@ -1,6 +1,6 @@
 ---
 permalink: "events/selectusa-hannover-messe.html"
-layout: default
+layout: sidebar
 title: SelectUSA at Hannover Messe
 date-display-start: Mon, 04/13/2015
 date-display-end: Fri, 04/17/2015

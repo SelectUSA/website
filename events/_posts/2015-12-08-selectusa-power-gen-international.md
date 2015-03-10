@@ -1,6 +1,6 @@
 ---
 permalink: "events/selectusa-power-gen-international.html"
-layout: default
+layout: sidebar
 title: SelectUSA at POWER-GEN International
 date-display-start: Tue, 12/08/2015
 date-display-end: Thu, 12/10/2015

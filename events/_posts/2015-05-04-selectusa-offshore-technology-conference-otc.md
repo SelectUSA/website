@@ -1,6 +1,6 @@
 ---
 permalink: "events/selectusa-offshore-technology-conference-otc.html"
-layout: default
+layout: sidebar
 title: SelectUSA at the Offshore Technology Conference (OTC)
 date-display-start: Mon, 05/04/2015 
 date-display-end: Thu, 05/07/2015
