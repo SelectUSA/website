@@ -42,7 +42,7 @@ what's driving reshoring, the challenges that lie ahead, and best practices. Lik
 
 Keynote speakers included **U.S.&nbsp;Secretary of Commerce Penny Pritzker** and **Whirlpool CEO Jeff Fettig. **We also heard from leading economists, Walmart, economic development organizations, and companies that shared their experience in making the move back to the United States.
 
-If you missed it, you can still check out the presentations,&nbsp;[available online](/selectusa-summer-forum).
+If you missed it, you can still check out the presentations,&nbsp;[available online]({{base.url}}/events/selectusa-summer-forum.html).
 
 ## 
 
