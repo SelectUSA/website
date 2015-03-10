@@ -29,19 +29,9 @@
 {% else %}
 {% endif %}
  
-{% assign in_sale_collection = false %}
-{% for collection in product.collections %}
-  {% if in_sale_collection == false and collection.title == 'Sale' %}
-    {% assign in_sale_collection = true %}
-  {% endif %}
-{% endfor %}
-{% if in_sale_collection %}
-  One of the collections this product belongs to is the Sale collection.
-{% endif %}
+
 
 {% if page.title == "Events"  or page.title == "Past Events" or page.section == "events" %}
-
-
 
 {% assign eventheading = false %}
 
