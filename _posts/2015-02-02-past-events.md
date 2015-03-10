@@ -37,7 +37,7 @@ The past few years have been busy ones for SelectUSA. We've convened major polic
 
 **June 17, 2014**
 
-Co-hosted by** Congressman Frank Wolf**, the [SelectUSA Summer Forum](selectusa-summer-forum.html) covered a wide range of perspectives on
+Co-hosted by** Congressman Frank Wolf**, the [SelectUSA Summer Forum]({{base.url}}/events/selectusa-summer-forum.html) covered a wide range of perspectives on
 what's driving reshoring, the challenges that lie ahead, and best practices. Like foreign direct investment, when U.S. companies recognize the value in expanding or repatriating their U.S. operations, local communities benefit and the economy grows stronger.
 
 Keynote speakers included **U.S.&nbsp;Secretary of Commerce Penny Pritzker** and **Whirlpool CEO Jeff Fettig. **We also heard from leading economists, Walmart, economic development organizations, and companies that shared their experience in making the move back to the United States.

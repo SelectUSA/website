@@ -28,7 +28,7 @@ published: true
 *   [Federal Laws and Regulations](http://www.usa.gov/Topics/Reference-Shelf/Laws.shtml) - Links and guides to help business owners understand their federal regulatory requirements.
 *   <span>[LocationUSA](http://www.areadevelopment.com/LocationUSA/)<span>&nbsp;is a guide for international companies looking to invest or establish operations within the United States. Location USA provides practical advice and guidance about facilities deployment, labor force skills, taxes and incentives, and more.</span></span>
 *   [State and Local Regulations](http://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-register-your-busi) - Step-by-step instructions for complying with state and local regulations when starting or running a business.
-*   [Business Investment Reports](/fdi-reports) - from SelectUSA and other sources.
+*   [Business Investment Reports](/business-investment-reports.html) - from SelectUSA and other sources.
 
 ## Private Sector Business Guides
 
