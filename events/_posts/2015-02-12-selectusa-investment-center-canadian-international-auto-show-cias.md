@@ -43,5 +43,5 @@ Canadian manufacturers during the opening day.&nbsp;
 More details are available in our **[Flyer](http://www.export.gov/build/groups/public/@eg_main/@byind/@autotrans/documents/webcontent/selectusa080660.pdf)**&nbsp;(PDF).
 
 **To learn more or register for the SelectUSA Investment Center**, please contact Investment Specialist­ Bojan
-Opsenica at&nbsp;**[Bojan.Opsenica[at]trade[dot]gov](/contact/Bojan.Opsenica/trade/gov)**&nbsp;or 416-595-5412 (extension 221).
+Opsenica at&nbsp;** [Bojan.Opsenica@trade.gov](mailto:Bojan.Opsenica@trade.gov) **&nbsp;or 416-595-5412 (extension 221).
     

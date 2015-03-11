@@ -40,7 +40,6 @@ more detailed information and to sign up, please contact:**
 
 Ed
 Fantasia, SelectUSA Representative, U.S. Commercial Service
-- Munich ([Ed.Fantasia[at]trade[dot]gov](/contact/Ed.Fantasia/trade/gov)) 
+- Munich [Ed.Fantasia@trade.gov](mailto:Ed.Fantasia@trade.gov)
 
-Steve Miller, SelectUSA – Washington, DC ([Steve.Miller[at]trade[dot]gov](/contact/Steve.Miller/trade/gov))
-   
+Steve Miller, SelectUSA – Washington, DC [Steve.Miller@trade.gov](mailto:Steve.Miller@trade.gov)

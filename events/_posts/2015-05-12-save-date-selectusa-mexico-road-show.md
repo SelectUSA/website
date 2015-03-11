@@ -21,5 +21,5 @@ stop will feature a **seminar **with sessions on how to invest in the United
 States. Along with scheduled **networking sessions**, there will be ample
 opportunity for attendees to visit your **exhibit **at the event.&nbsp;
 
-More details are coming soon, but please save the date! For more information please contact: [Rebecca.torres[at]trade[dot]gov](/contact/Rebecca.torres/trade/gov)
+More details are coming soon, but please save the date! For more information please contact: [Rebecca.torres@trade.gov](mailto:Rebecca.torres@trade.gov)
 

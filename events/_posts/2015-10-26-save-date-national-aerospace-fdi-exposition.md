@@ -32,6 +32,6 @@ regulations geared specifically to aerospace manufacturing in the United
 States.&nbsp; **Please stay tuned for a formal announcement in January
 2015.&nbsp;**
 
-Initial event details (subject to change) can be found on the&nbsp;[ASA Events](http://aerostates.org/events)&nbsp;page.&nbsp;Please&nbsp;contact Bob Mansfield at [MANSFIR1[at]erau[dot]edu](/contact/MANSFIR1/erau/edu)&nbsp;for more information on this event.&nbsp;
+Initial event details (subject to change) can be found on the&nbsp;[ASA Events](http://aerostates.org/events)&nbsp;page.&nbsp;Please&nbsp;contact Bob Mansfield at [MANSFIR1@erau.edu](mailto:MANSFIR1@erau.edu)&nbsp;for more information on this event.&nbsp;
   
  
