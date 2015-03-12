@@ -13,7 +13,7 @@ U.S. state, local or regional governments or economic development entities
 
 ### How to Request EDO Counseling: 
 
-To request investment counseling, please click on&nbsp;[Contact Us](/contact/info/selectusa/gov)&nbsp;to send us an e-mail. You will be contacted within two (2) business days.
+To request investment counseling, please click on&nbsp;[info@SelectUSA.gov](mailto:info@SelectUSA.gov)&nbsp;to send us an e-mail. You will be contacted within two (2) business days.
 
 ### What Happens Next:
 
