@@ -119,7 +119,7 @@ A:&nbsp; The way you structure your U.S. operation is largely up to you.&nbsp; T
 
 **Q:&nbsp; What steps do I need to take to establish a presence in the U.S.?**
 
-A:&nbsp; Most likely the process will differ depending on the location and type of your investment. You can find general guidelines in any of the Investment Guides under the “Useful Links” category in our toolbar. The guidelines include the statutes outlining the incorporation process and how to obtain appropriate permits, licenses and registration. If you have any additional questions, please do not hesitate to contact us at [info[at]SelectUSA[dot]gov](/contact/info/SelectUSA/gov).
+A:&nbsp; Most likely the process will differ depending on the location and type of your investment. You can find general guidelines in any of the Investment Guides under the “Useful Links” category in our toolbar. The guidelines include the statutes outlining the incorporation process and how to obtain appropriate permits, licenses and registration. If you have any additional questions, please do not hesitate to contact us at [info@SelectUSA.gov](mailto:info@SelectUSA.gov).
 
 **Q:&nbsp; How long does this process take?**
 
@@ -192,4 +192,4 @@ SelectUSA's customers include state economic development agencies (EDAs), site s
 
 &nbsp;**Q:&nbsp; How can I contact SelectUSA for investment-related assistance?**
 
-A:&nbsp; Please email [info[at]SelectUSA[dot]gov](/contact/info/SelectUSA/gov) or visit [our contact page]({{ site.baseurl }}{{post.url}}/contact-us.html).
+A:&nbsp; Please email [info@SelectUSA.gov](mailto:info@SelectUSA.gov) or visit [our contact page]({{ site.baseurl }}{{post.url}}/contact-us.html).
