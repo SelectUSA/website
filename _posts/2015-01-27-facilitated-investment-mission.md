@@ -17,7 +17,7 @@ U.S. state, local or regional governments or economic development entities
 
 All upcoming FIMs are posted under ‘upcoming events’,&nbsp;listed on the lower left of the [SelectUSA homepage](/).&nbsp; You can also [subscribe to the SelectUSA newsletter](https://service.govdelivery.com/service/subscribe.html?code=USITATRADE_22) to&nbsp;receive regular updates on upcoming events. 
 
-For more information you may also click on [Contact Us](/contact/info/selectusa/gov) to send us an e-mail. You will be contacted within two (2) business days.
+For more information you may also click on [info@SelectUSA.gov](mailto:info@SelectUSA.gov) to send us an e-mail. You will be contacted within two (2) business days.
 
 ### What Happens Next:
 

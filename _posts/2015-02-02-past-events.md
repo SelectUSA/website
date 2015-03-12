@@ -7,7 +7,7 @@ published: true
 
 ## Past Events: Catching Up with SelectUSA
 
-The past few years have been busy ones for SelectUSA. We've convened major policy conferences like the [2013 Investment Summit](http://www.selectusasummit.com) and the [Summer Forum](events/selectusa-summer-forum.html), taken EDOs on Road Shows throughout the world to connect them with investors, and facilitated seminars at industry trade shows in the United States and overseas. Read more below about our activities.
+The past few years have been busy ones for SelectUSA. We've convened major policy conferences like the [2013 Investment Summit](http://www.selectusasummit.com) and the [Summer Forum]({{base.url}}/events/selectusa-summer-forum.html), taken EDOs on Road Shows throughout the world to connect them with investors, and facilitated seminars at industry trade shows in the United States and overseas. Read more below about our activities.
 
 * * *
 
@@ -31,7 +31,7 @@ The past few years have been busy ones for SelectUSA. We've convened major polic
 
 # 2014 SelectUSA Summer Forum
 
-<span class="imgright">[![SelectUSA Summer Forum Logo](images/summer_forum_logo-422x155.png "SelectUSA Summer Forum Logo")](/selectusa-summer-forum)</span>
+<span class="imgright">[![SelectUSA Summer Forum Logo](images/summer_forum_logo-422x155.png "SelectUSA Summer Forum Logo")]({{base.url}}/events/selectusa-summer-forum.html)</span>
 
 ## Reinvesting in America, Creating Jobs at Home
 
