@@ -13,9 +13,9 @@ Madrid, Spain
 
 May 19, 2015
 
-###INVEST & TRADE IN THE USA – BUILDING BRIDGES BETWEEN
+##INVEST & TRADE IN THE USA – BUILDING BRIDGES BETWEEN
 
-###SPAIN AND THE U.S.
+##SPAIN AND THE U.S.
 
 The United States continues to be a primary destination for foreign inbound investment. Spain is one of the fastest growing investors in the United States, with much of the investment going to strategic sectors. Companies are attracted not only by the opportunities the largest single economy of the developed world offers but also by the access to a market of more than 1.4 billion when all free trade agreements are taken into consideration. Spanish investment has increased from $14 billion in 2006 to more than $52 billion in 2013, making Spain the 9th overall source of Foreign Direct Investment (FDI) into the United States.
 
