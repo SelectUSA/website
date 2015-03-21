@@ -5,7 +5,7 @@ title: SelectUSA Fact Sheets
 published: true
 ---
 
-## FDI in the USA Fact Sheets by Source Market
+## FDI in the USA Fact Sheets for Source Markets
 
 *	[Austria]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Austria Fact Sheet.pdf)
 *	[Belgium]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Belgium Fact Sheet.pdf)
@@ -22,4 +22,4 @@ published: true
 *	[Israel]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Israel Fact Sheet.pdf)
 *	[Italy]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Italy Fact Sheet.pdf)
 
-## FDI in the USA Fact Sheets by U.S. State/Territory
+## FDI in the USA Fact Sheets for U.S. States/Territories
