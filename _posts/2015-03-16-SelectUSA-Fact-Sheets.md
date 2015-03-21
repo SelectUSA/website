@@ -5,7 +5,7 @@ title: SelectUSA Fact Sheets
 published: true
 ---
 
-## FDI in the USA Fact Sheets for Source Markets
+## FDI Fact Sheets by Source Market
 
 *	[Australia]({{ site.baseurl }}/country-fact-sheets/2015-03-02 SelectUSA Australia Fact Sheet.pdf)
 *	[Austria]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Austria Fact Sheet.pdf)
@@ -40,7 +40,7 @@ published: true
 *	[UAE]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA UAE Fact Sheet.pdf)
 *	[UK]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA UK Fact Sheet.pdf)
 
-## FDI in the USA Fact Sheets for U.S. States/Territories
+## FDI Fact Sheets by U.S. State/Territory
 
 *   [Colorado]({{ site.baseurl }}/state-fact-sheets/2015-02-09 FDI State Fact Sheet - Colorado.pdf)
 *   [District of Colombia]({{ site.baseurl }}/state-fact-sheets/2015-02-09 FDI State Fact Sheet - District of Columbia.pdf)
