@@ -41,3 +41,12 @@ published: true
 *	[UK]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA UK Fact Sheet.pdf)
 
 ## FDI in the USA Fact Sheets for U.S. States/Territories
+
+*   [Colorado]({{ site.baseurl }}/state-fact-sheets/2015-02-09 FDI State Fact Sheet - Colorado.pdf)
+*   [District of Colombia]({{ site.baseurl }}/state-fact-sheets/2015-02-09 FDI State Fact Sheet - District of Columbia.pdf)
+*   [Florida]({{ site.baseurl }}/state-fact-sheets/2015-02-09 FDI State Fact Sheet - Florida.pdf)
+*   [Illinois]({{ site.baseurl }}/state-fact-sheets/2015-01-10 FDI State Fact Sheet - Illinois.pdf)
+*   [South Dakota]({{ site.baseurl }}/state-fact-sheets/2015-02-06 FDI State Fact Sheet - South Dakota.pdf)
+*   [Texas]({{ site.baseurl }}/state-fact-sheets/2015-02-06 Texas Fact Sheet.pdf)
+
+
