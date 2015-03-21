@@ -1,14 +1,11 @@
 ---
 permalink: "selectusa-fact-sheets.html"
-
 layout: default
-
 title: SelectUSA Fact Sheets
-
 published: true
-
 ---
 
-## SelectUSA Fact Sheets
+## FDI in the USA Fact Sheets by Source Market
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+*	[Colombia](/country-fact-sheets/2015-02-27 SelectUSA Colombia Fact Sheet.pdf)
+* 	[Ireland](/country-fact-sheets/2015-02-24 SelectUSA Ireland Fact Sheet.pdf)
