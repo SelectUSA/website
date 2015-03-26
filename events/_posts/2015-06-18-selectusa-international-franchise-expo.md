@@ -4,6 +4,8 @@ layout: sidebar
 title: SelectUSA at the International Franchise Expo
 date-display-start: Thu, 06/18/2015
 date-display-end: Sat, 06/20/2015
+calendar-start: 2015-06-18
+calendar-end: 2015-06-20
 location-value: New York, NY
 section: events
 published: true

@@ -4,6 +4,8 @@ layout: sidebar
 title: Save the Date - National Aerospace FDI Exposition
 date-display-start: Mon, 10/26/2015
 date-display-end: Wed, 10/28/2015
+calendar-start: 2015-10-26
+calendar-end: 2015-10-28
 location-value:  Los Angeles, CA 
 section: events
 published: true

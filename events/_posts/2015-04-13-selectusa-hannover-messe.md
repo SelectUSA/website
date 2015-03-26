@@ -4,6 +4,8 @@ layout: sidebar
 title: SelectUSA at Hannover Messe
 date-display-start: Mon, 04/13/2015
 date-display-end: Fri, 04/17/2015
+calendar-start: 2015-04-13
+calendar-end: 2015-04-17
 location-value:  Hannover, Germany
 section: events
 published: true

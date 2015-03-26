@@ -4,6 +4,8 @@ layout: sidebar
 title: SelectUSA at POWER-GEN International
 date-display-start: Tue, 12/08/2015
 date-display-end: Thu, 12/10/2015
+calendar-start: 2015-12-08
+calendar-end: 2015-12-10
 location-value:  Las Vegas, NV  
 section: events
 published: true

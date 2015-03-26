@@ -4,6 +4,8 @@ layout: sidebar
 title: SelectUSA at the Offshore Technology Conference (OTC)
 date-display-start: Mon, 05/04/2015 
 date-display-end: Thu, 05/07/2015
+calendar-start: 2015-05-04
+calendar-end: 2015-05-07
 location-value:  Houston, TX
 section: events
 published: true

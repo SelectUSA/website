@@ -4,6 +4,8 @@ layout: sidebar
 title: Save the Date - SelectUSA Greater China Road Show
 date-display-start: Mon, 05/18/2015 
 date-display-end: Fri, 05/29/2015
+calendar-start: 2015-05-18
+calendar-end: 2015-05-29
 location-value: Hong Kong, Shenzhen, Dongguan, Guangzhou, Shanghai, Shenyang, Dalian  
 section: events
 published: true

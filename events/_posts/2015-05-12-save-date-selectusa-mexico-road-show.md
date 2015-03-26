@@ -4,6 +4,8 @@ layout: sidebar
 title: Save the Date - SelectUSA Mexico Road Show
 date-display-start: Tue, 05/12/2015
 date-display-end: Thu, 05/14/2015
+calendar-start: 2015-05-12
+calendar-end: 2015-05-14
 location-value: Mérida, Mexico City, Tijuana
 section: events
 published: true
