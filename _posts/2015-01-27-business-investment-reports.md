@@ -5,7 +5,7 @@ title: Business Investment Reports
 published: true
 ---
 
-## **Select USA Reports**
+## **SelectUSA Reports**
 
 ## _Winning Business Investment in the United States_
 <span class="imgright">![Map of SelectUSA Successes](images/selectusa_map_of_successes-208x156.jpg "Map of SelectUSA Successes")</span>
@@ -59,4 +59,4 @@ FDI is a key source of capital, job creation, innovation, and cross-border trade
 
 **McKinsey &amp; Co.**
 
-*   [Next-shoring: a CEO's Guide](http://www.mckinsey.com/insights/manufacturing/next-shoring_a_ceos_guide)&nbsp;(January 2014) 
+*   [Next-shoring: a CEO's Guide](http://www.mckinsey.com/insights/manufacturing/next-shoring_a_ceos_guide)&nbsp;(January 2014)
