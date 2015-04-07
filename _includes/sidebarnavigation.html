@@ -1,4 +1,19 @@
 
+{% if page.title == "2015 Summit" or page.section == "2015-summit" %}
+<div id="block-menu-menu-2015-summit" class="block block-menu">
+  <h2>SelectUSA Investment Summit</h2>
+
+  <div class="content">
+    <ul class="menu">
+ {% assign sorted_pages = (site.categories.2015-summit | sort: title) %}
+  {% for post in sorted_pages %}
+  <li class="leaf"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+   {% endfor %}
+</ul>  </div>
+</div>
+{% else %}
+{% endif %}
+
 {% if page.title == "Testimonials" or page.section == "testimonials" %}
 <div id="block-menu-menu-testimonials-chose-usa" class="block block-menu">
   <h2>They Chose USA</h2>
