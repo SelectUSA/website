@@ -17,3 +17,5 @@ Department of Commerce Secretary Penny Pritzker introduces President Barack Obam
 March 23, 2015
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-potus-keynote-032315.m4v) (97MB)
+
+[Read the full text of the President's remarks](https://www.whitehouse.gov/the-press-office/2015/03/23/remarks-president-selectusa-investment-summit)
