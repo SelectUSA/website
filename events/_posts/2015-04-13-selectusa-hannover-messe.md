@@ -24,16 +24,12 @@ The USA Investment Center promotes the United States as the premier global busin
 
 **To set up one-on-one meetings with U.S. government representatives and our participating state and local economic development officials, please visit:**
 
-[http://selectusa.tema.de/](http://selectusa.tema.de/
+[http://selectusa.tema.de/](http://selectusa.tema.de/)
 
 **For more detailed information, please contact:**
 
-Ed Fantasia, SelectUSA Representative, U.S. Commercial Service - Munich
+Ed Fantasia, SelectUSA Representative, U.S. Commercial Service – Munich ([Ed.Fantasia@trade.gov](mailto:Ed.Fantasia@trade.gov))
 
-[Ed.Fantasia@trade.gov](mailto:Ed.Fantasia@trade.gov)
-
-David Campbell, Investment Specialist, SelectUSA – Washington, DC
-
-[David.Campbell@trade.gov](mailto:David.Campbell@trade.gov)
+David Campbell, Investment Specialist, SelectUSA – Washington, DC ([David.Campbell@trade.gov](mailto:David.Campbell@trade.gov))
 
 ![alt text](https://pbs.twimg.com/media/CCLt72qVIAAPw3Q.png:large "SelectUSA Investment Center at Hannover Messe 2015")
