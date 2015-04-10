@@ -8,7 +8,7 @@ published: true
  
 Check back soon for more videos of the 2015 SelectUSA Summit's plenary sessions and keynote speakers.
 
-<table border=0><tr><Td>**Day 1:**</td><td>**Day 2:**</td></tr>
+<table border=0 align=top><tr><Td><b>Day 1:</b></td><td><b>Day 2:</b></td></tr>
 <tr><Td>
 <ul><li>Secretary Pritzker's Opening Remarks</li>
 <li>Plenary 1: Investment and the U.S. Economic Resurgence</li>
