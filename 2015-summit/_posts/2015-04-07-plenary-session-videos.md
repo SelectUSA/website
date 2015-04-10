@@ -21,7 +21,9 @@ Check back soon for more videos of the 2015 SelectUSA Summit's plenary sessions 
 <li>Discussion on Investing in Advanced Manufacturing</li>
 <li>Plenary 4: Training Your Skilled Workforce</li>
 <li>Discussion with Secretary Pritzker and Eric Schmidt</li>
-<li>Plenary 5: Innovative Approaches to Infrastructure Investing</li></ul></td></tr></table>
+<li>Plenary 5: Innovative Approaches to Infrastructure Investing</li>
+<li>Secretary Kerry's Keynote Speech</li>
+<li>Secretary Pritzker's Closing Remarks</li></ul></td></tr></table>
 
 ## <a name="president"></a>President Barack Obama Gives Keynote Speech
 
