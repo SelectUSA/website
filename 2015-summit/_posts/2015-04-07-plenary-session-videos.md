@@ -17,7 +17,7 @@ Check back soon for more videos of the 2015 SelectUSA Summit's plenary sessions 
 <li>President Obama's Keynote Speech</li>
 <li>Plenary 3: Investing in Rural America</li>
 <li>Valerie Jarrett's Closing Remarks</ul></td>
-<td><ul><li>Secretary Lew's Opening Remarks<li>
+<td><ul><li>Secretary Lew's Opening Remarks</li>
 <li>Discussion on Investing in Advanced Manufacturing</li>
 <li>Plenary 4: Training Your Skilled Workforce</li>
 <li>Discussion with Secretary Pritzker and Eric Schmidt</li>
