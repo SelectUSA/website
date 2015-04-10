@@ -23,7 +23,7 @@ Check back soon for more videos of the 2015 SelectUSA Summit's plenary sessions 
 <li>Discussion with Secretary Pritzker and Eric Schmidt</li>
 <li>Plenary 5: Innovative Approaches to Infrastructure Investing</li></ul></td></tr></table>
 
-## <a id="president">President Barack Obama Gives Keynote Speech</a>
+## <a name="president"></a>President Barack Obama Gives Keynote Speech
 
 <iframe width="500" height="298" src="https://www.youtube.com/embed/-lKacDTwpiw" frameborder="0" allowfullscreen></iframe>
 
