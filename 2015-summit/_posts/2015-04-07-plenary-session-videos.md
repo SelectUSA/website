@@ -8,13 +8,13 @@ published: true
  
 Check back soon for more videos of the 2015 SelectUSA Summit's plenary sessions and keynote speakers.
 
-<table border=0 align=top><tr><Td><b>Day 1:</b></td><td><b>Day 2:</b></td></tr>
+<table border=0 align=top><tr><Td><b>Day 1 (March 23,2015):</b></td><td><b>Day 2 (March 24, 2015):</b></td></tr>
 <tr><Td>
 <ul><li>Secretary Pritzker's Opening Remarks</li>
 <li>Plenary 1: Investment and the U.S. Economic Resurgence</li>
 <li>Warren Buffett's Video Address</li>
 <li>Plenary 2: The Innovation Advantage</li>
-<li>President Obama's Keynote Speech</li>
+<li><a href="#president">President Obama's Keynote Speech</a></li>
 <li>Plenary 3: Investing in Rural America</li>
 <li>Valerie Jarrett's Closing Remarks</ul></td>
 <td><ul><li>Secretary Lew's Opening Remarks</li>
@@ -23,7 +23,7 @@ Check back soon for more videos of the 2015 SelectUSA Summit's plenary sessions 
 <li>Discussion with Secretary Pritzker and Eric Schmidt</li>
 <li>Plenary 5: Innovative Approaches to Infrastructure Investing</li></ul></td></tr></table>
 
-## President Barack Obama Gives Keynote Speech
+## <a id="president">President Barack Obama Gives Keynote Speech</a>
 
 <iframe width="500" height="298" src="https://www.youtube.com/embed/-lKacDTwpiw" frameborder="0" allowfullscreen></iframe>
 
