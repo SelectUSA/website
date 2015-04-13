@@ -1,9 +1,21 @@
 
+{% if page.title == "Reading Room" or page.section == "reading-room" %}
+<div id="block-menu-menu-2015-summit" class="block block-menu">
+  <h2>SelectUSA Reading Room</h2><br>
+  <div class="content">
+    <ul class="menu">
+ {% assign sorted_pages = (site.categories.reading-room | sort: title) %}
+  {% for post in sorted_pages %}
+  <li class="leaf"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+   {% endfor %}
+</ul>  </div>
+</div>
+{% else %}
+{% endif %}
+
 {% if page.title == "2015 Summit" or page.section == "2015-summit" %}
 <div id="block-menu-menu-2015-summit" class="block block-menu">
   <h2>2015 SelectUSA Investment Summit</h2><br>
-  <i>March 23-24, 2015</i>
-
   <div class="content">
     <ul class="menu">
  {% assign sorted_pages = (site.categories.2015-summit | sort: title) %}
