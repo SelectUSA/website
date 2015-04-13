@@ -1,10 +1,10 @@
 ---
 
-permalink: "press-releases.html"
+permalink: "press-room.html"
 
 layout: sidebar
 
-title: SelectUSA Press Releases
+title: SelectUSA Press Room
 
 section: reading-room
 
@@ -12,5 +12,5 @@ published: true
 
 ---
 
-## Press Releases
+## Press Room
 
