@@ -21,4 +21,5 @@ OTC is where **energy professionals** meet to exchange ideas and opinions to adv
 The local thriving energy industry will provide the perfect backdrop for **investors **to learn&nbsp;**what it takes to invest** and the **next steps** to explore opening an office, warehouse or factory in the United States.
 
 Please stay tuned for more details as we draw closer to the event, and&nbsp;don't hesitate to&nbsp;**[contact us](/contact-us)** if you're interested in meeting with us!
-   
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/46989028" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
