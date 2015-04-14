@@ -11,7 +11,6 @@ section: events
 published: true
 ---
 
-% location-value
 Madrid, Spain
 
 May 19, 2015
