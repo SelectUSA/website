@@ -1,7 +1,7 @@
 ---
 permalink: "events/selectusa-forum-expo-spain.html"
 layout: sidebar
-title: SELECTUSA FORUM & EXPO IN SPAIN
+title: SelectUSA Forum & Expo in Spain
 date-display-start: Wed, 05/19/2015
 date-display-end: Wed, 05/19/2015
 calendar-start: 2015-05-19
@@ -15,9 +15,7 @@ Madrid, Spain
 
 May 19, 2015
 
-##INVEST & TRADE IN THE USA – BUILDING BRIDGES BETWEEN
-
-##SPAIN AND THE U.S.
+##Invest and Trade in the USA – Building Bridges Between Spain and the United States
 
 The United States continues to be a primary destination for foreign inbound investment. Spain is one of the fastest growing investors in the United States, with much of the investment going to strategic sectors. Companies are attracted not only by the opportunities the largest single economy of the developed world offers but also by the access to a market of more than 1.4 billion when all free trade agreements are taken into consideration. Spanish investment has increased from $14 billion in 2006 to more than $52 billion in 2013, making Spain the 9th overall source of Foreign Direct Investment (FDI) into the United States.
 
@@ -31,7 +29,7 @@ The U.S. Commercial Service, in conjunction with the American Chamber of Commerc
 
 Participation in this premier event will give U.S. city, county, state and regional economic development organizations an opportunity to promote their destinations to the fast growing number of Spanish investors. Spanish multinationals are world-class leaders in their respective fields. Investments in critical sectors such as information technology, clean energy technology renewable energy, innovation, transportation, telecommunications, biomedical research, and health, are all areas in which Spanish companies excel.
 
-Exhibition Fees:
+**Exhibition Fees:**
 
 The fee for U.S. states and regions to exhibit is Euros 300 (approximately $340). This will provide the EDO´s with an opportunity to:
 
@@ -51,6 +49,9 @@ The fee for U.S. states and regions to exhibit is Euros 300 (approximately $340)
 
 * Benefit from coverage in post event communications.
 
-For more information please contact Helen Crowley, email: [Helen.Crowley@trade.gov](Helen.Crowley@trade.gov)
+**For more information,** please contact Helen Crowley at [Helen.Crowley@trade.gov](Helen.Crowley@trade.gov).
 
-To register please contact Yamille Alonso, e-mail: [yalonso@amchamspain.com](yalonso@amchamspain.com)
+**To register,** please contact Yamille Alonso at [yalonso@amchamspain.com](yalonso@amchamspain.com).
+
+### Event Program:
+<iframe src="//www.slideshare.net/slideshow/embed_code/46989029" width="476" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
