@@ -59,7 +59,7 @@ Warren Buffett, CEO of Berkshire Hathaway, gives a video address at the 2015 Sel
 
 ## <a name="innovation"></a>The Innovation Advantage
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/Gvt9qr5kEuI" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/Gvt9qr5kEuI?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-innovation-advantage-panel-032315_1.mp4) (136MB)
 
@@ -84,7 +84,7 @@ Department of Commerce Secretary Penny Pritzker introduces President Barack Obam
 
 ## <a name="rural"></a>Investing in Rural America
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/IAR8zPQf2Hc" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/IAR8zPQf2Hc?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-investing-in-rural-america-032415.mp4) (112MB)
 
