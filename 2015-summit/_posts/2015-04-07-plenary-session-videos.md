@@ -44,6 +44,7 @@ The Honorable Penny Pritzker, Secretary of Commerce of the United States, welcom
 The Honorable Jeffrey Zients, Director of the National Economic Council at the White House, moderates a panel discussion on why this is the right time for international businesses to expand operations in the United States.
 
 Panelists:
+
 * Frederico Fleury Curado, President and CEO of Embraer
 * Thomas Donohue, President and CEO of the U.S. Chamber of Commerce
 * Takeshi "Tak" Niinami, President and CEO of Suntory Holdings
@@ -66,6 +67,7 @@ Warren Buffett, CEO of Berkshire Hathaway, gives a video address at the 2015 Sel
 The Honorable Megan Smith, CTO and Assistant to the President at The White House moderates a panel discussion on the access to U.S. research and development assets for product and service development, and global growth.
 
 Panelists:
+
 * Dr. Vijay Chandru, Co-founder, Chairman and CEO, Strand Life Sciences
 * Desh Deshpande, Chairman, Sparta Group LLC
 * Sara Menker, Founder and CEO, Gro Intelligence
@@ -91,6 +93,7 @@ Department of Commerce Secretary Penny Pritzker introduces President Barack Obam
 The Honorable Megan Smith, CTO and Assistant to the President at The White House moderates a panel discussion on the access to U.S. research and development assets for product and service development, and global growth.
 
 Panelists:
+
 * Dr. Vijay Chandru, Co-founder, Chairman and CEO, Strand Life Sciences
 * Desh Deshpande, Chairman, Sparta Group LLC
 * Sara Menker, Founder and CEO, Gro Intelligence
