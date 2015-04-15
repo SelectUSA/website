@@ -139,7 +139,7 @@ Panelists:
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-training-a-skilled-workforce-032415.mp4) (146MB)
 
-The Honorable Thomas Perez, U.S. Secretary of Labor moderates a panel discussion on training a skilled workforce and developing partnerships to shape training programs to match business needs.
+The Honorable Thomas Perez, U.S. Secretary of Labor, moderates a panel discussion on training a skilled workforce and developing partnerships to shape training programs to match business needs.
 
 Panelists:
 
