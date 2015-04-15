@@ -25,7 +25,7 @@ Check back soon for more videos of the 2015 SelectUSA Summit's plenary sessions 
 <li>Secretary Kerry's Keynote Speech</li>
 <li>Secretary Pritzker's Closing Remarks</li></ul></td></tr></table>
 
-# March 23, 2015:
+# **March 23, 2015:**
 
 ## <a name="opening"></a>U.S. Secretary of Commerce Penny Pritzker Delivers Welcome Remarks
 
@@ -110,7 +110,7 @@ Panelists:
 
 The Honorable Vinai Thummalapally, Executive Director of SelectUSA, introduces Valerie Jarrett, Senior Advisor to President Barack Obama, who then delivers the closing remarks of Day One at the 2015 SelectUSA Investment Summit.
 
-# March 24, 2015:
+# **March 24, 2015:**
 
 ## <a name="day2opening"></a>Welcome Remarks by U.S. Secretary of the Treasury Jacob Lew
 
