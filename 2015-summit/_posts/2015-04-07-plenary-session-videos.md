@@ -8,7 +8,7 @@ published: true
  
 Check back soon for more videos of the 2015 SelectUSA Summit's plenary sessions and keynote speakers.
 
-<table border=0 align=top><tr><Td><b>March 23,2015:</b></td><td><b>March 24, 2015:</b></td></tr>
+<table border=0 align=top><tr><Td><b>March 23, 2015:</b></td><td><b>March 24, 2015:</b></td></tr>
 <tr><Td>
 <ul><li><a href=#opening>Secretary Pritzker's Opening Remarks</a></li>
 <li><a href=#resurgence>Investment and the U.S. Economic Resurgence</a>, led by NEC Director Jeffrey Zients</li>
@@ -17,13 +17,15 @@ Check back soon for more videos of the 2015 SelectUSA Summit's plenary sessions 
 <li><a href="#president">President Obama's Keynote Speech</a></li>
 <li><a href=#rural>Investing in Rural America</a>, led by Secretary Vilsack</li>
 <li><a href=#day1closing>Senior Adviser Valerie Jarrett's Closing Remarks</a></ul></td>
-<td><ul><li>Secretary Lew's Opening Remarks</li>
-<li>Investing in Advanced Manufacturing: Perspectives from BMW and Michelin</li>
-<li>Training Your Skilled Workforce, led by Secretary Perez</li>
+<td><ul><li><a href=#day2opening>Secretary Lew's Opening Remarks</a></li>
+<li><a href=#advmfg>Investing in Advanced Manufacturing: Perspectives from BMW and Michelin</a></li>
+<li><a href=#workforce>Training Your Skilled Workforce</a>, led by Secretary Perez</li>
 <li>Secretary Pritzker Interviews Google's Eric Schmidt</li>
 <li>Innovative Approaches to Infrastructure Investing, led by Secretary Foxx</li>
 <li>Secretary Kerry's Keynote Speech</li>
 <li>Secretary Pritzker's Closing Remarks</li></ul></td></tr></table>
+
+# March 23, 2015:
 
 ## <a name="opening"></a>U.S. Secretary of Commerce Penny Pritzker Delivers Welcome Remarks
 
@@ -108,3 +110,33 @@ Panelists:
 
 The Honorable Vinai Thummalapally, Executive Director of SelectUSA, introduces Valerie Jarrett, Senior Advisor to President Barack Obama, who then delivers the closing remarks of Day One at the 2015 SelectUSA Investment Summit.
 
+# March 24, 2015:
+
+## <a name="day2opening"></a>Welcome Remarks by U.S. Secretary of the Treasury Jacob Lew
+
+<iframe width="500" height="298" src="https://www.youtube.com/embed/X1vF9b2wmO8?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
+
+[Download the full video](http://trade.gov/videos/2015-susa-summit-opening-remarks-day-2-andrews-032415.mp4) (44MB)
+
+The Honorable Bruce Andrews, Deputy Secretary of Commerce, introduces The Honorable Jacob Lew, Secretary of the Treasury, who delivers the welcome remarks for Day Two of the 2015 SelectUSA Investment Summit.
+
+## <a name="advmfg"></a>Investing in Advanced Manufacturing: Perspectives from BMW and Michelin
+
+<iframe width="500" height="298" src="https://www.youtube.com/embed/EiQU52VHzrk?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
+
+[Download the full video](http://trade.gov/videos/2015-susa-summit-investing-in-advanced-manufacturing.mp4) (?MB)
+
+The Honorable Bruce Andrews, Deputy Secretary of Commerce, moderates an armchair discussion on investing in advanced manufacturing in the United States.
+
+Panelists:
+
+* Pete Selleck, Chairman and President, Michelin North America
+* Ludwig Willisch, President and CEO, BMW North America at the 2015 SelectUSA Investment Summit
+
+## <a name="workforce"></a>Training Your Skilled Workforce
+
+<iframe width="500" height="298" src="https://www.youtube.com/embed/FfHr47hs6bM?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
+
+[Download the full video](http://trade.gov/videos/2015-susa-summit-training-a-skilled-workforce-032415.mp4) (146MB)
+
+The Honorable Bruce Andrews, Deputy Secretary of Commerce, moderates an armchair discussion on investing in advanced manufacturing in the United States.
