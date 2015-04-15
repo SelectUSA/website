@@ -120,6 +120,8 @@ The Honorable Vinai Thummalapally, Executive Director of SelectUSA, introduces V
 
 The Honorable Bruce Andrews, Deputy Secretary of Commerce, introduces The Honorable Jacob Lew, Secretary of the Treasury, who delivers the welcome remarks for Day Two of the 2015 SelectUSA Investment Summit.
 
+[Read the full text of Secretary Lew's remarks.](http://www.treasury.gov/press-center/press-releases/Pages/jl10006.aspx)
+
 ## <a name="advmfg"></a>Investing in Advanced Manufacturing: Perspectives from BMW and Michelin
 
 <iframe width="500" height="298" src="https://www.youtube.com/embed/EiQU52VHzrk?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
