@@ -18,7 +18,7 @@ Check back soon for more videos of the 2015 SelectUSA Summit's plenary sessions 
 <li><a href=#rural>Investing in Rural America</a>, led by Secretary Vilsack</li>
 <li><a href=#day1closing>Senior Adviser Valerie Jarrett's Closing Remarks</a></ul></td>
 <td><ul><li><a href=#day2opening>Secretary Lew's Opening Remarks</a></li>
-<li><a href=#advmfg>Investing in Advanced Manufacturing: Perspectives from BMW and Michelin</a></li>
+<li><a href=#advmfg>Investing in Advanced Manufacturing</a> - Perspectives from BMW and Michelin</li>
 <li><a href=#workforce>Training Your Skilled Workforce</a>, led by Secretary Perez</li>
 <li>Secretary Pritzker Interviews Google's Eric Schmidt</li>
 <li>Innovative Approaches to Infrastructure Investing, led by Secretary Foxx</li>
@@ -139,4 +139,11 @@ Panelists:
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-training-a-skilled-workforce-032415.mp4) (146MB)
 
-The Honorable Bruce Andrews, Deputy Secretary of Commerce, moderates an armchair discussion on investing in advanced manufacturing in the United States.
+The Honorable Thomas Perez, U.S. Secretary of Labor moderates a panel discussion on training a skilled workforce and developing partnerships to shape training programs to match business needs.
+
+Panelists:
+
+* Joerg Klisch, Vice President of North American Operation, MTU America
+* Sheila Paul Shedd, Manager of the Governor’s Council on Workforce Policy, Arizona Commerce Authority
+* René Steiner, CEO, Bühler North America
+* Mike Thomas, Senior Vice President of U.S. Operations, Sasol. 
