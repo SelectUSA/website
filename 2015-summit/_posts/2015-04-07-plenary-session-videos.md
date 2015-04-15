@@ -27,7 +27,7 @@ Check back soon for more videos of the 2015 SelectUSA Summit's plenary sessions 
 
 ## <a name="opening"></a>U.S. Secretary of Commerce Penny Pritzker Delivers Welcome Remarks
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/-2GYbH5WvqQE" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/2GYbH5WvqQE" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-spp-032315.mp4) (86MB)
 
@@ -37,7 +37,7 @@ The Honorable Penny Pritzker, Secretary of Commerce of the United States, welcom
 
 ## <a name="resurgence"></a>Investment and the U.S. Economic Resurgence
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/-SNnSoObMQd4" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/SNnSoObMQd4" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-investment-us-economic-resurgence-panel-032315.mp4) (132MB)
 
@@ -51,7 +51,7 @@ Panelists:
 
 ## <a name="buffett"></a>Warren Buffett's Video Address
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/-GLKDFhCjaY4" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/GLKDFhCjaY4" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-training-a-skilled-workforce-032415.mp4) (146MB)
 
@@ -59,7 +59,7 @@ Warren Buffett, CEO of Berkshire Hathaway, gives a video address at the 2015 Sel
 
 ## <a name="innovation"></a>The Innovation Advantage
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/-Gvt9qr5kEuI" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/Gvt9qr5kEuI" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-innovation-advantage-panel-032315_1.mp4) (136MB)
 
@@ -84,7 +84,7 @@ Department of Commerce Secretary Penny Pritzker introduces President Barack Obam
 
 ## <a name="rural"></a>Investing in Rural America
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/-IAR8zPQf2Hc" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/IAR8zPQf2Hc" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-investing-in-rural-america-032415.mp4) (112MB)
 
@@ -99,7 +99,7 @@ Panelists:
 
 ## <a name="day1closing"></a>Senior Adviser Valerie Jarrett's Closing Remarks
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/-XpA-3-qn8jU" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/XpA-3-qn8jU" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-closing-remarks-open-caption-032315.mp4) (36MB)
 
