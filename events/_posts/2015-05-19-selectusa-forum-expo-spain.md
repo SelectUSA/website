@@ -18,11 +18,7 @@ published: true
 
 The United States continues to be a primary destination for foreign inbound investment. Spain is one of the fastest growing investors in the United States, with much of the investment going to strategic sectors. Companies are attracted not only by the opportunities the largest single economy of the developed world offers but also by the access to a market of more than 1.4 billion when all free trade agreements are taken into consideration. Spanish investment has increased from $14 billion in 2006 to more than $52 billion in 2013, making Spain the 9th overall source of Foreign Direct Investment (FDI) into the United States.
 
-The U.S. Commercial Service, in conjunction with the American Chamber of Commerce in Spain, is pleased to announce an investment seminar in Madrid:
-
-**Invest & Trade in the USA – Building Bridges between Spain and the U.S.**
-**Forum & Expo**
-**Madrid, May 19, 2015**
+The U.S. Commercial Service, in conjunction with the American Chamber of Commerce in Spain, is hosting a seminar in Madrid titled "Invest & Trade in the USA – Building Bridges between Spain and the U.S."
 
 Participation in this premier event will give U.S. city, county, state and regional economic development organizations an opportunity to promote their destinations to the fast growing number of Spanish investors. Spanish multinationals are world-class leaders in their respective fields. Investments in critical sectors such as information technology, clean energy technology renewable energy, innovation, transportation, telecommunications, biomedical research, and health, are all areas in which Spanish companies excel.
 
