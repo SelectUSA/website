@@ -71,8 +71,8 @@
       "url"     : "/events/selectusa-forum-expo-spain.html",
 "rowdiv": "even",     
       "location" : "Madrid, Spain",
-      "startdate" : "Wed, 05/19/2015",
-"enddate" : "",
+      "startdate" : "May 19, 2015",
+"enddate" : " - ",
       "date"     : {
          "full"   : "2015-05-19 00:00:00 -0400",
          "day"   : "19",
@@ -89,8 +89,8 @@
       "url"     : "/events/selectusa-bio-2015.html",
 "rowdiv": "odd",     
       "location" : "Philadelphia, PA",
-      "startdate" : "Mon, 06/15/2015",
-"enddate" : " - Thu, 06/18/2015",
+      "startdate" : "June 15",
+"enddate" : " - 18, 2015",
       "date"     : {
          "full"   : "2015-06-15 00:00:00 -0400",
          "day"   : "15",
