@@ -126,7 +126,7 @@ The Honorable Bruce Andrews, Deputy Secretary of Commerce, introduces The Honora
 
 <iframe width="500" height="298" src="https://www.youtube.com/embed/EiQU52VHzrk?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
 
-[Download the full video](http://trade.gov/videos/2015-susa-summit-investing-in-advanced-manufacturing.mp4) (?MB)
+[Download the full video](http://trade.gov/videos/2015-susa-summit-investing-in-advanced-manufacturing-032415.mp4) (80MB)
 
 The Honorable Bruce Andrews, Deputy Secretary of Commerce, moderates an armchair discussion on investing in advanced manufacturing in the United States.
 
