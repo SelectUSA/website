@@ -11,6 +11,6 @@ Each .zip file contains the photos in .jpg format as well as .txt files containi
 
 ### March 23, 2015 (Day 1)
 
-* 
+* [Day_1_Opening_Remarks.zip]()
 * 
 * 
