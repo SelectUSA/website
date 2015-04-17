@@ -56,7 +56,7 @@ Panelists:
 
 <iframe width="500" height="298" src="https://www.youtube.com/embed/GLKDFhCjaY4?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
 
-[Download the full video](http://trade.gov/videos/2015-susa-summit-training-a-skilled-workforce-032415.mp4) (146MB)
+[Download the full video](http://trade.gov/videos/2015-susa-summit-buffett-interview-032415.mp4) (12MB)
 
 Warren Buffett, CEO of Berkshire Hathaway, gives a video address at the 2015 SelectUSA Investment Summit. 
 
