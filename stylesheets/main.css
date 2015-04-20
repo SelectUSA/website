@@ -764,6 +764,14 @@ li.leaf {
     margin:0
 }
 
+li.leaf-sub {
+    list-style-type:square;
+    list-style-image:url(../images/menu-collapsed.png);
+    padding:.2em .5em 0 0;
+    margin:0;
+    list-style-position: inside;
+}
+
 li a.active {
     color:#000
 }
