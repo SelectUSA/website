@@ -20,7 +20,10 @@
     <ul class="menu">
  {% assign sorted_pages = (site.categories.2015-summit | sort: title) %}
   {% for post in sorted_pages %}
+  {% if post.title == "Day Two Photos" or post.title == "Day One Photos" %}
+  {% else %}
   <li class="leaf"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endif %}
    {% endfor %}
 </ul>  </div>
 </div>
