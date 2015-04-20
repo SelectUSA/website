@@ -283,6 +283,15 @@ previous button's border...
 	padding: 2px 4px;
 }
 
+a:link.fc-title {
+	color: #fff; 
+}
+
+a:hover.fc-title {
+	color: #fff; 
+	text-decoration: underline;
+}
+
 .fc-popover .fc-header .fc-title {
 	margin: 0 2px;
 }
@@ -514,7 +523,7 @@ temporary rendered events).
 .fc-event:hover,
 .ui-widget .fc-event {
 	color: #fff; /* default TEXT color */
-	text-decoration: none; /* if <a> has an href */
+	text-decoration: underline; /* if <a> has an href */
 }
 
 .fc-event[href],
