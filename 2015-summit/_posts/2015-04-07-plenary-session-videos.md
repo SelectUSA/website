@@ -20,16 +20,16 @@ Check back soon for more videos of the 2015 SelectUSA Summit's plenary sessions 
 <td><ul><li><a href=#day2opening>Secretary Lew's Opening Remarks</a></li>
 <li><a href=#advmfg>Investing in Advanced Manufacturing</a> - Perspectives from BMW and Michelin</li>
 <li><a href=#workforce>Training Your Skilled Workforce</a>, led by Secretary Perez</li>
-<li>Secretary Pritzker Interviews Google's Eric Schmidt</li>
-<li>Innovative Approaches to Infrastructure Investing, led by Secretary Foxx</li>
-<li>Secretary Kerry's Keynote Speech</li>
-<li>Secretary Pritzker's Closing Remarks</li></ul></td></tr></table>
+<li><a href=#google>Secretary Pritzker Interviews Google's Eric Schmidt</a></li>
+<li><a href=#infrastructure>Innovative Approaches to Infrastructure Investing</a>, led by Secretary Foxx</li>
+<li><a href=#kerry>Secretary Kerry's Keynote Speech</a></li>
+<li><a href=#day2closing>Secretary Pritzker's Closing Remarks</a></li></ul></td></tr></table>
 
 # **March 23, 2015:**
 
 ## <a name="opening"></a>U.S. Secretary of Commerce Penny Pritzker Delivers Welcome Remarks
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/2GYbH5WvqQE?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/2GYbH5WvqQE" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-spp-032315.mp4) (86MB)
 
@@ -39,7 +39,7 @@ The Honorable Penny Pritzker, Secretary of Commerce of the United States, welcom
 
 ## <a name="resurgence"></a>Investment and the U.S. Economic Resurgence
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/SNnSoObMQd4?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/SNnSoObMQd4" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-investment-us-economic-resurgence-panel-032315.mp4) (132MB)
 
@@ -54,7 +54,7 @@ Panelists:
 
 ## <a name="buffett"></a>Warren Buffett's Video Address
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/GLKDFhCjaY4?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/GLKDFhCjaY4" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-buffett-interview-032415.mp4) (12MB)
 
@@ -62,7 +62,7 @@ Warren Buffett, CEO of Berkshire Hathaway, gives a video address at the 2015 Sel
 
 ## <a name="innovation"></a>The Innovation Advantage
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/Gvt9qr5kEuI?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/Gvt9qr5kEuI" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-innovation-advantage-panel-032315_1.mp4) (136MB)
 
@@ -78,7 +78,7 @@ Panelists:
 
 ## <a name="president"></a>President Barack Obama Gives Keynote Speech
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/-lKacDTwpiw?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/-lKacDTwpiw" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-potus-keynote-032315.m4v) (97MB)
 
@@ -88,7 +88,7 @@ Department of Commerce Secretary Penny Pritzker introduces President Barack Obam
 
 ## <a name="rural"></a>Investing in Rural America
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/IAR8zPQf2Hc?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/IAR8zPQf2Hc" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-investing-in-rural-america-032415.mp4) (112MB)
 
@@ -104,7 +104,7 @@ Panelists:
 
 ## <a name="day1closing"></a>Senior Adviser Valerie Jarrett's Closing Remarks
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/XpA-3-qn8jU?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/XpA-3-qn8jU" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-closing-remarks-open-caption-032315.mp4) (36MB)
 
@@ -114,7 +114,7 @@ The Honorable Vinai Thummalapally, Executive Director of SelectUSA, introduces V
 
 ## <a name="day2opening"></a>Welcome Remarks by U.S. Secretary of the Treasury Jacob Lew
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/X1vF9b2wmO8?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/X1vF9b2wmO8" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-opening-remarks-day-2-andrews-032415.mp4) (44MB)
 
@@ -124,7 +124,7 @@ The Honorable Bruce Andrews, Deputy Secretary of Commerce, introduces The Honora
 
 ## <a name="advmfg"></a>Investing in Advanced Manufacturing: Perspectives from BMW and Michelin
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/EiQU52VHzrk?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/EiQU52VHzrk" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-investing-in-advanced-manufacturing-032415.mp4) (80MB)
 
@@ -137,7 +137,7 @@ Panelists:
 
 ## <a name="workforce"></a>Training Your Skilled Workforce
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/FfHr47hs6bM?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="298" src="https://www.youtube.com/embed/FfHr47hs6bM" frameborder="0" allowfullscreen></iframe>
 
 [Download the full video](http://trade.gov/videos/2015-susa-summit-training-a-skilled-workforce-032415.mp4) (146MB)
 
@@ -149,3 +149,42 @@ Panelists:
 * Sheila Paul Shedd, Manager of the Governor’s Council on Workforce Policy, Arizona Commerce Authority
 * René Steiner, CEO, Bühler North America
 * Mike Thomas, Senior Vice President of U.S. Operations, Sasol. 
+
+## <a name="google"></a>Secretary Pritzker Interviews Google's Eric Schmidt
+
+<iframe width="500" height="298" src="https://www.youtube.com/embed/R0PrDuO0gO4" frameborder="0" allowfullscreen></iframe>
+
+[Download the full video](http://trade.gov/videos/2015-susa-summit-spp-schmidt-032415.mp4) (73MB)
+
+Commerce Secretary Penny Pritzker and Executive Chairman of Google Eric Schmidt discuss innovation, investment, and technology in the United States at the 2015 SelectUSA Investment Summit.
+
+## <a name="infrastructure"></a>Innovative Approaches to Infrastructure Investing, led by Secretary Foxx
+
+<iframe width="500" height="298" src="https://www.youtube.com/embed/9ekg-QjGfqY" frameborder="0" allowfullscreen></iframe>
+
+[Download the full video](http://trade.gov/videos/2015-susa-summit-infrastructure-investing-032415.mp4) (130MB)
+
+The Honorable Anthony Foxx, Secretary of Transportation, moderates a panel discussion on infrastructure investing and approaches to successful public-private partnership models and best practices.
+
+Panelists:
+
+* The Honorable John Hickenlooper, Governor of Colorado
+* Bill Banks, Global Infrastructure Leader, Ernst & Young
+* Nicolás Rubio de Cárdenas, U.S. President, Cintra
+* Christopher Leslie, CEO, Macquire Infrastructure Partners Inc.
+
+## <a name="kerry"></a>Secretary Kerry's Keynote Speech
+
+<iframe width="500" height="298" src="https://www.youtube.com/embed/F5x3MBGgNbU" frameborder="0" allowfullscreen></iframe>
+
+[Download the full video](http://trade.gov/videos/2015-susa-summit-kerry-keynote-day-2-032415.mp4) (83MB)
+
+The Honorable Vinai Thummalapally, Executive Director of SelectUSA, introduces Secretary of State John Kerry to deliver the keynote speech of day two at the 2015 SelectUSA Investment Summit.
+
+## <a name="day2closing"></a>Secretary Pritzker's Closing Remarks
+
+<iframe width="500" height="298" src="https://www.youtube.com/embed/nfbLncLJ1QM" frameborder="0" allowfullscreen></iframe>
+
+The Honorable Penny Pritzker, Secretary of Commerce, gives closing remarks on the second and final day of the 2015 SelectUSA Investment Summit.
+
+[Download the full video](http://trade.gov/videos/2015-susa-summit-spp-closing-remarks-day-2-032415.mp4) (10MB)
