@@ -185,6 +185,6 @@ The Honorable Vinai Thummalapally, Executive Director of SelectUSA, introduces S
 
 <iframe width="500" height="298" src="https://www.youtube.com/embed/nfbLncLJ1QM" frameborder="0" allowfullscreen></iframe>
 
-The Honorable Penny Pritzker, Secretary of Commerce, gives closing remarks on the second and final day of the 2015 SelectUSA Investment Summit.
-
 [Download the full video](http://trade.gov/videos/2015-susa-summit-spp-closing-remarks-day-2-032415.mp4) (10MB)
+
+The Honorable Penny Pritzker, Secretary of Commerce, gives closing remarks on the second and final day of the 2015 SelectUSA Investment Summit.
