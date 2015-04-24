@@ -8,7 +8,7 @@ published: true
  
 <center>
 <a href=http://www.flickr.com/photos/selectusa/sets>
-<img href=http://selectusa.commerce.gov/images/summit_flickr_banner.png alt="View all Summit photos on Flickr">
+<img src=http://selectusa.commerce.gov/images/summit_flickr_banner.png alt="View all Summit photos on Flickr">
 </a>
 </center>
 
