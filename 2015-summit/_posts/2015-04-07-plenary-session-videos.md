@@ -6,7 +6,12 @@ section: 2015-summit
 published: true
 ---
  
-Check back soon for more videos of the 2015 SelectUSA Summit's plenary sessions and keynote speakers.
+<center>
+<a href=https://www.youtube.com/playlist?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p>
+<img src=http://selectusa.commerce.gov/images/summit_youtube_banner.png alt="View all Summit videos on YouTube">
+</a>
+</center>
+<Br/>
 
 <table border=0 align=top><tr><Td><b>March 23, 2015:</b></td><td><b>March 24, 2015:</b></td></tr>
 <tr><Td>
