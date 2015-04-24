@@ -1,6 +1,6 @@
 ---
 permalink: "2015-summit/day-one-photos.html"
-layout: sidebar
+layout: default
 title: Day One Photos
 section: 2015-summit
 published: true
