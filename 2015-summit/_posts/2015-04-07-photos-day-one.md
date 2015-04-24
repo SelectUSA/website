@@ -7,11 +7,11 @@ published: true
 ---
  
 <center>
-<a href=http://www.flickr.com/photos/selectusa/sets>
-<img src=http://selectusa.commerce.gov/images/summit_flickr_banner.png alt="View all Summit photos on Flickr">
+<a href="http://www.flickr.com/photos/selectusa/sets">
+<img src="http://selectusa.commerce.gov/images/summit_flickr_banner.png" alt="View all Summit photos on Flickr">
 </a>
 </center>
-<Br/>
+<br/>
 
 ## Photos from March 23, 2015 (Day 1)
 
