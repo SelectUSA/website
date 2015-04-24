@@ -6,9 +6,9 @@ section: 2015-summit
 published: true
 ---
  
- <center>
+<center>
 <a href=http://www.flickr.com/photos/selectusa/sets>
-<img href=/images/selectusa_flickr_banner.png alt="View all Summit photos on Flickr">
+<img href=http://www.selectusa.commerce.gov/images/selectusa_flickr_banner.png alt="View all Summit photos on Flickr">
 </a>
 </center>
 
