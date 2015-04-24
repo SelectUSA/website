@@ -8,13 +8,13 @@ published: true
  
 <center>
 <a href=http://www.flickr.com/photos/selectusa/sets>
-<img href=http://www.selectusa.commerce.gov/images/selectusa_flickr_banner.png alt="View all Summit photos on Flickr">
+<img href=http://selectusa.commerce.gov/images/summit_flickr_banner.png alt="View all Summit photos on Flickr">
 </a>
 </center>
 
 ## Photos from March 23, 2015 (Day 1)
 
-![Download](/images/summit_flickr_banner.png "View all Summit photos on Flickr") [Download all photo files and text descriptions]({{ site.baseurl }}/downloads.html)
+![Download](https://google.github.io/material-design-icons/file/svg/ic_file_download_24px.svg "View all Summit photos on Flickr") [Download all photo files and text descriptions]({{ site.baseurl }}/downloads.html)
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
