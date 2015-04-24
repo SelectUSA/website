@@ -9,7 +9,9 @@ published: true
 
 ## Photos from March 23, 2015 (Day 1)
 
-![Download](http://google.github.io/material-design-icons/action/svg/ic_get_app_24px.svg "Download") [Download all photo files and text descriptions]({{ site.baseurl }}/downloads.html)
+[![View all Summit photos on Flickr](/images/selectusa_flickr_banner.png "View all Summit photos on Flickr")](https://www.flickr.com/photos/selectusa/sets)
+
+![Download](/images/summit_flickr_banner.png "View all Summit photos on Flickr") [Download all photo files and text descriptions]({{ site.baseurl }}/downloads.html)
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
