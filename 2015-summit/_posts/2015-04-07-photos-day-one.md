@@ -9,7 +9,9 @@ published: true
 
 ## Photos from March 23, 2015 (Day 1)
 
-[![View all Summit photos on Flickr](/images/selectusa_flickr_banner.png "View all Summit photos on Flickr")](https://www.flickr.com/photos/selectusa/sets)
+<a href=http://www.flickr.com/photos/selectusa/sets>
+![View all Summit photos on Flickr](/images/selectusa_flickr_banner.png "View all Summit photos on Flickr")
+</a>
 
 ![Download](/images/summit_flickr_banner.png "View all Summit photos on Flickr") [Download all photo files and text descriptions]({{ site.baseurl }}/downloads.html)
 
