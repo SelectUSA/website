@@ -19,7 +19,7 @@ Each .zip file contains the photos in .jpg format as well as .txt files containi
   * [Panel_1A_Supply_Chain.zip](/documents/download/Panel_1A_Supply_Chain.zip)
   * [Panel_1B_Tax_Policy.zip](/documents/download/Panel_1B_Tax_Policy.zip)
   * [Panel_1C_Success_in_All_Sizes.zip](/documents/download/Panel_1C_Success_in_All_Sizes.zip)
-* Day_1_Exhibition_Hall.zip
+* [Day_1_Exhibition_Hall.zip](/documents/download/Day_1_Exhibition_Hall.zip)
 * [Day_1_Lunch_Photos.zip](/documents/download/Day_1_Lunch_Photos.zip)
 * [Day_1_POTUS_Photos.zip](/documents/download/Day_1_POTUS_Photos.zip)
 * Breakout Panels:
