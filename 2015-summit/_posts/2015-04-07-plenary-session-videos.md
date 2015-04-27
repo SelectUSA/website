@@ -8,7 +8,7 @@ published: true
  
 <center>
 <a href=https://www.youtube.com/playlist?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p>
-<img src=http://selectusa.commerce.gov/images/summit_youtube_banner.png alt="View all Summit videos on YouTube">
+<img src="{{ site.baseurl }}/images/summit_youtube_banner.png" alt="This image contains a picture of the 2015 SelectUSA Investment Summit audience and a YouTube logo. Click to go to SelectUSA's video playlist on YouTube.">
 </a>
 </center>
 <Br/>
