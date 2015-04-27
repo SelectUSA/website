@@ -2,17 +2,17 @@
 permalink: "events/selectusa-hannover-messe.html"
 layout: sidebar
 title: SelectUSA at Hannover Messe 2015
-date-display-start: Mon, 04/13/2015
-date-display-end: Fri, 04/17/2015
+date-display-start: April 13
+date-display-end: 17, 2015
 calendar-start: 2015-04-13
 calendar-end: 2015-04-17
 location-value:  Hannover, Germany
 section: events
 published: true
 ---
-Hannover, Germany
+![Date](https://google.github.io/material-design-icons/action/svg/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
-Mon, 04/13/2015 - Fri, 04/17/2015
+![Location](http://google.github.io/material-design-icons/social/svg/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
 ## GERMANY: Hannover Messe
 
