@@ -1,7 +1,7 @@
 ---
 permalink: "events/selectusa-canada-2015.html"
 layout: sidebar
-title: SelectUSA Canada 2015: "Expanding for Growth"
+title: SelectUSA Canada 2015
 date-display-start: November 18, 2015
 date-display-end:  
 calendar-start: 2015-11-18
