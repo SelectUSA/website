@@ -2,17 +2,17 @@
 permalink: "events/selectusa-international-franchise-expo.html"
 layout: sidebar
 title: SelectUSA at the International Franchise Expo
-date-display-start: Thu, 06/18/2015
-date-display-end: Sat, 06/20/2015
+date-display-start: June 18
+date-display-end: 20, 2015
 calendar-start: 2015-06-18
 calendar-end: 2015-06-20
 location-value: New York, NY
 section: events
 published: true
 ---
-   New York, NY        
+![Date](https://google.github.io/material-design-icons/action/svg/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
-   Thu, 06/18/2015 - Sat, 06/20/2015
+![Location](http://google.github.io/material-design-icons/social/svg/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
 Meet with a SelectUSA representative at the&nbsp;**[2015 International Franchise Expo](http://www.ifeinfo.com/)**&nbsp;(IFE) on June 18-20, 2015 in New York.
 
