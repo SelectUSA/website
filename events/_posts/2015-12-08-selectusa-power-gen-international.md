@@ -2,17 +2,17 @@
 permalink: "events/selectusa-power-gen-international.html"
 layout: sidebar
 title: SelectUSA at POWER-GEN International
-date-display-start: Tue, 12/08/2015
-date-display-end: Thu, 12/10/2015
+date-display-start: December 8
+date-display-end: 10, 2015
 calendar-start: 2015-12-08
 calendar-end: 2015-12-10
 location-value:  Las Vegas, NV  
 section: events
 published: true
 ---
- Las Vegas, NV       
+![Date](https://google.github.io/material-design-icons/action/svg/ic_event_24px.svg "Date") {{ page.date-display-start}}
 
- Tue, 12/08/2015 - Thu, 12/10/2015
+![Location](http://google.github.io/material-design-icons/social/svg/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
 Meet with a SelectUSA representative at **[2015&nbsp;POWER-GEN International](http://www.power-gen.com/index.html)**&nbsp;on December 8-10, 2015 in Las Vegas.
 
