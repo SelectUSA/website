@@ -2,17 +2,17 @@
 permalink: "events/save-date-national-aerospace-fdi-exposition.html"
 layout: sidebar
 title: Save the Date - National Aerospace FDI Exposition
-date-display-start: Mon, 10/26/2015
-date-display-end: Wed, 10/28/2015
+date-display-start: October 26
+date-display-end: 28, 2015
 calendar-start: 2015-10-26
 calendar-end: 2015-10-28
 location-value:  Los Angeles, CA 
 section: events
 published: true
 ---
- Los Angeles, CA 
+![Date](https://google.github.io/material-design-icons/action/svg/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
- Mon, 10/26/2015 - Wed, 10/28/2015
+![Location](http://google.github.io/material-design-icons/social/svg/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
 ## National Aerospace Foreign Direct Investment Exposition
 
@@ -23,17 +23,10 @@ published: true
 
 **Los Angeles, CA**
 
-The **Aerospace States Association
-**is collaborating with the **U.S.
-Department of Commerce** to stage
-an aerospace FDI Exposition on October 27-28, 2015 in Los Angeles, California. This
-business event will bring foreign investors together with U.S. companies,
-economic development organizations, state officials, and service providers for
-networking, one-on-one meetings, and educational panels focused on economic dynamics and
-regulations geared specifically to aerospace manufacturing in the United
-States.&nbsp; **Please stay tuned for a formal announcement in January
-2015.&nbsp;**
+The **Aerospace States Association**is collaborating with the **U.S.Department of Commerce** to stage an aerospace FDI Exposition on October 27-28, 2015 in Los Angeles, California. This business event will bring foreign investors together with U.S. companies, economic development organizations, state officials, and service providers for networking, one-on-one meetings, and educational panels focused on economic dynamics and regulations geared specifically to aerospace manufacturing in the United States.
 
-Initial event details (subject to change) can be found on the&nbsp;[ASA Events](http://aerostates.org/events)&nbsp;page.&nbsp;Please&nbsp;contact Bob Mansfield at [MANSFIR1@erau.edu](mailto:MANSFIR1@erau.edu)&nbsp;for more information on this event.&nbsp;
+![Website](https://google.github.io/material-design-icons/action/svg/ic_exit_to_app_24px.svg "Website") Event details can be found on the [National Aerospace FDI Exposition homepage](http://www.aeroinvestmentexpo.com/)
+
+![Contact](https://google.github.io/material-design-icons/action/svg/ic_question_answer_24px.svg "Contact") Please contact Bob Mansfield at [MANSFIR1@erau.edu](mailto:MANSFIR1@erau.edu) for more information on this event
   
  
