@@ -24,6 +24,7 @@ Pre-qualified Canadian companies will be invited to participate at no charge and
 
 # Preliminary Program
 
+|Time|Event|
 |------|------|
 |8:30 a.m.         | Registration|
 |9:00              | Welcome: U.S. Commercial Service / Amcham Canada|
