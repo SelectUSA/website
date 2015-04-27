@@ -1,7 +1,7 @@
 ---
 permalink: "events/save-date-selectusa-greater-china-road-show.html"
 layout: sidebar
-title: Save the Date - SelectUSA Greater China Road Show
+title: SelectUSA Greater China Road Show
 date-display-start: May 18
 date-display-end: 29, 2015
 calendar-start: 2015-05-18
