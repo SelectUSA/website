@@ -7,6 +7,7 @@ date-display-end: 28, 2015
 calendar-start: 2015-10-26
 calendar-end: 2015-10-28
 location-value:  Los Angeles, CA 
+location-type: Domestic
 section: events
 published: true
 ---
