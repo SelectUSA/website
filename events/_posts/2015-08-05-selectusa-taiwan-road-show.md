@@ -1,7 +1,7 @@
 ---
 permalink: "events/selectusa-taiwan-road-show.html"
 layout: sidebar
-title: Save the Date: SelectUSA Road Show to Taiwan
+title: Save the Date - SelectUSA Road Show to Taiwan
 date-display-start: August 5
 date-display-end: 6, 2015
 calendar-start: 2015-08-05
