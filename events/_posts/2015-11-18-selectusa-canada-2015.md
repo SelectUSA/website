@@ -52,3 +52,12 @@ Pre-qualified Canadian companies will be invited to participate at no charge and
 The EDO event participation fees for state and local economic development organizations is **$1400.00 (for 2 reps)**.
 
 ![Register](https://google.github.io/material-design-icons/content/svg/ic_send_24px.svg "RSVP") To register for this event, please contact [Bojan Opsenica](Bojan.Opsenica@trade.gov) or [Rick Tachuk](rtachuk@amchamcanada.ca)
+
+# For Canadian Companies and Investors - Free of Charge
+
+SelectUSA Canada provides an exclusive one-stop opportunity to find out first-hand everything you need to know about setting up or expanding a business in the United States.  This full day program starts with a morning conference designed to provide you with vital information on the expansion process, access to funding, facilities, and a myriad of incentives, programs and services available to support your U.S. expansion plans.
+
+Throughout the day you will be able to network with U.S., State, and local economic development representatives and learn from subject matter experts focused on assisting your U.S. expansion. The afternoon will provide opportunities for one-on-one meetings with State and local representatives followed by a closing networking reception.
+
+SelectUSA Canada provides valuable information and access to key contacts from across the United States to help make your U.S. expansion seamless and successful.
+
