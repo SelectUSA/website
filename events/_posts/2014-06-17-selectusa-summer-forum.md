@@ -7,6 +7,7 @@ date-display-end:  Tue, 06/17/2014
 calendar-start: 2014-06-17
 calendar-end: 2014-06-17
 location-value:  Washington, DC
+location-type: Domestic
 section: events
 published: true
 ---
