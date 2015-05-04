@@ -6,7 +6,7 @@ date-display-start: August 5
 date-display-end: 6, 2015
 calendar-start: 2015-08-05
 calendar-end: 2015-08-06
-location-value: Taipei and Kaohsiung
+location-value: Taipei and Kaohsiung, Taiwan
 location-type: International
 section: events
 published: true
