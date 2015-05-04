@@ -51,7 +51,7 @@ Pre-qualified Canadian companies will be invited to participate at no charge and
 
 The EDO event participation fees for state and local economic development organizations is **$1400.00 (for 2 reps)**.
 
-![Register](https://google.github.io/material-design-icons/content/svg/ic_send_24px.svg "RSVP") To register for this event, please contact [Bojan Opsenica](Bojan.Opsenica@trade.gov) or [Rick Tachuk](rtachuk@amchamcanada.ca)
+![Register](https://google.github.io/material-design-icons/content/svg/ic_send_24px.svg "RSVP") To register for this event, please contact [Bojan Opsenica](mailto:Bojan.Opsenica@trade.gov) or [Rick Tachuk](mailto:rtachuk@amchamcanada.ca)
 
 # For Canadian Companies and Investors - Free of Charge
 
@@ -61,3 +61,4 @@ Throughout the day you will be able to network with U.S., State, and local econo
 
 SelectUSA Canada provides valuable information and access to key contacts from across the United States to help make your U.S. expansion seamless and successful.
 
+![Register](https://google.github.io/material-design-icons/content/svg/ic_send_24px.svg "RSVP") To register your company to participate in this event free of charge, please contact Kim Kelly at [kim.kelly@amchamcanada.ca](mailto:kim.kelly@amchamcanada.ca)
