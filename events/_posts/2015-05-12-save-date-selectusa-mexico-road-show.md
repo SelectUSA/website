@@ -7,6 +7,7 @@ date-display-end: 14, 2015
 calendar-start: 2015-05-12
 calendar-end: 2015-05-14
 location-value: Mérida, Mexico City, Tijuana
+location-type: International
 section: events
 published: true
 ---
