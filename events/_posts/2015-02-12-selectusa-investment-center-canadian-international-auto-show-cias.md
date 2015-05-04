@@ -6,7 +6,8 @@ date-display-start: Thu, 02/12/2015
 date-display-end: Thu, 02/12/2015
 calendar-start: 2015-02-12
 calendar-end: 2015-02-12
-location-value:  Toronto, Canada   
+location-value:  Toronto, Canada
+location-type: International
 section: events
 published: true
 ---
