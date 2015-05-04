@@ -7,6 +7,7 @@ date-display-end: 18, 2015
 calendar-start: 2015-09-14
 calendar-end: 2015-09-18
 location-value: Olso, Copenhagen/Malmo, Gothenburg, Stockholm, Helsinki, Tallinn
+location-type: International
 section: events
 published: true
 ---
