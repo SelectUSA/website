@@ -1,7 +1,7 @@
 ---
 permalink: "events/selectusa-road-show-nordics.html"
 layout: sidebar
-title: SelectUSA Road Show in the Nordics
+title: Save the Date - SelectUSA Nordics Road Show
 date-display-start: September 14
 date-display-end: 18, 2015
 calendar-start: 2015-09-14
