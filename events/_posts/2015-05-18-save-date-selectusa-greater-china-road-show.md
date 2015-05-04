@@ -6,7 +6,8 @@ date-display-start: May 18
 date-display-end: 29, 2015
 calendar-start: 2015-05-18
 calendar-end: 2015-05-29
-location-value: Hong Kong, Shenzhen, Dongguan, Guangzhou, Shanghai, Shenyang, Dalian  
+location-value: Hong Kong, Shenzhen, Dongguan, Guangzhou, Shanghai, Shenyang, Dalian
+location-type: International
 section: events
 published: true
 ---
