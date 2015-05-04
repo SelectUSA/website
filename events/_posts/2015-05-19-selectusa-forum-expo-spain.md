@@ -3,13 +3,15 @@ permalink: "events/selectusa-forum-expo-spain.html"
 layout: sidebar
 title: SelectUSA Forum & Expo in Spain
 date-display-start: May 19, 2015
-date-display-end:  
+date-display-end: May 19, 2015
 calendar-start: 2015-05-19
 calendar-end: 2015-05-19
 location-value: Madrid, Spain
+location-type: International
 section: events
 published: true
 ---
+
 ![Date](https://google.github.io/material-design-icons/action/svg/ic_event_24px.svg "Date") {{ page.date-display-start}}
 
 ![Location](http://google.github.io/material-design-icons/social/svg/ic_location_city_24px.svg "Location") {{ page.location-value }}
