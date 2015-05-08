@@ -17,7 +17,7 @@ published: true
 
 ## Take Advantage of SelectUSA’s New Investment Promotion Platform for Canada: SelectUSA Canada 2015
 
-The first edition of **SelectUSA Canada**, themed “Expanding for Growth”, will take place in Toronto, Canada on Wednesday November 18, 2015.   Building on the success of the SelectUSA Investment Summit in Washington this past March, the Canada 2015 event will attract Canadian companies of all kinds from start-ups to well-established manufacturers cutting across a broad range of industries and markets.
+The first edition of **SelectUSA Canada**, themed “Expanding for Growth”, will take place in Toronto, Canada on Wednesday November 17, 2015.   Building on the success of the SelectUSA Investment Summit in Washington this past March, the Canada 2015 event will attract Canadian companies of all kinds from start-ups to well-established manufacturers cutting across a broad range of industries and markets.
 
 Organized by the U.S. Commercial Service in partnership with the American Chamber of Commerce in Canada (Amcham Canada), SelectUSA Canada will provide economic development organizations (EDOs) and multipliers with a unique platform to promote their regions and programs and to engage in one-on-one discussions with pre-qualified Canadian investors.
 
