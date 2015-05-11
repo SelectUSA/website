@@ -13,7 +13,11 @@ The past year has been a busy one for SelectUSA. We've convened major policy con
 
 ## 2015 SelectUSA Investment Summit 
 
-<span class="imgright">[![President Obama Addresses the 2015 SelectUSA Summit](http://www.commerce.gov/sites/commerce.gov/files/styles/scale_700w/public/16722605079_45ed7eff3f_o.jpg?itok=hY2r4t4y "President Obama Addresses the 2015 SelectUSA Summit" {width=422px height=282px})]({{base.url}}/2015-summit.html) </span>
+<span class="imgright">
+<a href="{{base.url}}/2015-summit.html">
+<img src="http://www.commerce.gov/sites/commerce.gov/files/styles/scale_700w/public/16722605079_45ed7eff3f_o.jpg?itok=hY2r4t4y" alt="President Obama Addresses the 2015 SelectUSA Summit" width=422 height=282>
+</a>
+</span>
 
 **March 23-24, 2015**
 
