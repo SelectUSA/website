@@ -7,27 +7,35 @@ published: true
 
 ## Past Events: Catching Up with SelectUSA
 
-The past few years have been busy ones for SelectUSA. We've convened major policy conferences like the [2013 Investment Summit](http://www.selectusasummit.com) and the [Summer Forum]({{base.url}}/events/selectusa-summer-forum.html), taken EDOs on Road Shows throughout the world to connect them with investors, and facilitated seminars at industry trade shows in the United States and overseas. Read more below about our activities.
+The past year has been a busy one for SelectUSA. We've convened major policy conferences like the [2015 Investment Summit]({{base.url}}/2015-summit.html) and the [Summer Forum]({{base.url}}/events/selectusa-summer-forum.html), taken EDOs on Road Shows throughout the world to connect them with investors, and facilitated seminars at industry trade shows in the United States and overseas. Read more below about our activities.
 
 * * *
 
-## 2013 SelectUSA Investment Summit
+## 2015 SelectUSA Investment Summit 
 
-<span class="imgright">[![Secretary Penny Pritzker speaking at 2013 SelectUSA Summit](images/pritzker_closeup_speaking-300x225.jpg "Secretary Penny Pritzker speaking at 2013 SelectUSA Summit")](http://www.selectusasummit.com/)</span>
+<span class="imgright">[![President Obama Addresses the 2015 SelectUSA Summit](http://www.commerce.gov/sites/commerce.gov/files/styles/scale_700w/public/16722605079_45ed7eff3f_o.jpg?itok=hY2r4t4y "President Obama Addresses the 2015 SelectUSA Summit")]({{base.url}}/2015-summit.html) </span>
 
-### October 31-November 1, 2013
+**March 23-24, 2015**
 
-**The first-ever Investment Summit sold out, with more than 1,300 participants**, including a diverse mix of global investors, U.S. economic development organizations, government officials, U.S. companies, and business associations.&nbsp;
+<span>The second&nbsp;</span>**SelectUSA Investment Summit**<span>&nbsp;on March 23-24, 2015&nbsp;was a tremendous success. We brought together&nbsp;</span>**investors**<span>&nbsp;from more than 70 international markets as well as&nbsp;</span>**economic development organizations&nbsp;**<span>from all 50 states, high-level government officials, and others working to facilitate investment in the United States. Our 2,600+ participants had access to&nbsp;</span>**unique networking opportunities**<span>, online matchmaking, insights from&nbsp;</span>**global CEOs and senior U.S. leaders**<span>, and discussions on the latest issues affecting investments.</span>
 
-*   **654 international participants****&nbsp;from 60 different markets**, representing 456 foreign or multinational firms.
-*   More than**&nbsp;200 representatives of economic development organizations (EDOs)&nbsp;**from 48 states, Puerto Rico, the U.S. Virgin Islands, the Northern Mariana Islands, American Samoa and the District of Columbia.**&nbsp;**
-*   Many more joined virtually:&nbsp;**7,216 unique visitors**&nbsp;from 109 countries&nbsp;[watched online](http://new.livestream.com/accounts/4828334/selectUSA2013)&nbsp;live.
-*   More than**&nbsp;70 U.S. Government officials and staff from 16 different agencies**&nbsp;were there to answer questions from investors and EDOs.&nbsp;
-*   Hundreds of meetings were scheduled in advance through the Summit’s online matchmaking platform, and hundreds more took place on the tradeshow floor.
-
-**[Learn more](http://www.selectusasummit.com)** about the 2013 Summit and the upcoming 2015 Summit, to be held on March 23-24, 2015.
+Please visit our **[2015 Summit page]({{base.url}}/2015-summit.html)** to learn more about the event's outcomes, view our photos, watch recorded plenary sessions, and more.
 
 * * *
+
+## Infrastructure 101 Webinar Series
+
+<span class="imgright">[![Infrastructure 101 Webinar](images/selectusa_infrastructure_101_webinar_2014-11-24_page_01_0-300x225.jpg "Infrastructure 101 Webinar")](/infrastructure-101-webinar-series)</span>
+
+This three-part webinar series was designed to equip U.S. economic development organizations (EDOs) with the practical knowledge they needed prior to the&nbsp;**[SelectUSA Investment Summit](http://www.selectusasummit.com/)**&nbsp;on March 23-24, 2015, where infrastructure investment was one of the highlighted topics.
+
+*   [Infrastructure 101 Webinar with the Department of Treasury](/infrastructure-101-webinar-series#Inf101)&nbsp;(November 24, 2014)
+*   [Infrastructure 102 Webinar with the Department of Transportation](/infrastructure-101-webinar-series#Inf102)&nbsp;(December 15, 2014)
+*   [Infrastructure 103 Webinar with the Department of Agriculture](/infrastructure-101-webinar-series#Inf103)&nbsp;(January 28, 2015)
+
+You can access presentations and resources from these webinars on our **[Infrastructure 101 Webinar Series](/infrastructure-101-webinar-series)** page.
+
+***
 
 # 2014 SelectUSA Summer Forum
 
@@ -37,24 +45,37 @@ The past few years have been busy ones for SelectUSA. We've convened major polic
 
 **June 17, 2014**
 
-Co-hosted by** Congressman Frank Wolf**, the [SelectUSA Summer Forum]({{base.url}}/events/selectusa-summer-forum.html) covered a wide range of perspectives on
-what's driving reshoring, the challenges that lie ahead, and best practices. Like foreign direct investment, when U.S. companies recognize the value in expanding or repatriating their U.S. operations, local communities benefit and the economy grows stronger.
+Co-hosted by** Congressman Frank Wolf**, the [SelectUSA Summer Forum]({{base.url}}/events/selectusa-summer-forum.html) covered a wide range of perspectives on what's driving reshoring, the challenges that lie ahead, and best practices. Like foreign direct investment, when U.S. companies recognize the value in expanding or repatriating their U.S. operations, local communities benefit and the economy grows stronger.
 
 Keynote speakers included **U.S.&nbsp;Secretary of Commerce Penny Pritzker** and **Whirlpool CEO Jeff Fettig. **We also heard from leading economists, Walmart, economic development organizations, and companies that shared their experience in making the move back to the United States.
 
 If you missed it, you can still check out the presentations,&nbsp;[available online]({{base.url}}/events/selectusa-summer-forum.html).
 
-## 
-
 * * *
+
+## 2013 SelectUSA Investment Summit
+
+<span class="imgright">[![Secretary Penny Pritzker speaking at 2013 SelectUSA Summit](images/pritzker_closeup_speaking-300x225.jpg "Secretary Penny Pritzker speaking at 2013 SelectUSA Summit")](http://www.selectusasummit.com/)</span>
+
+**October 31-November 1, 2013**
+
+**The first-ever Investment Summit sold out, with more than 1,300 participants**, including a diverse mix of global investors, U.S. economic development organizations, government officials, U.S. companies, and business associations.&nbsp;
+
+*   **654 international participants****&nbsp;from 60 different markets**, representing 456 foreign or multinational firms.
+*   More than**&nbsp;200 representatives of economic development organizations (EDOs)&nbsp;**from 48 states, Puerto Rico, the U.S. Virgin Islands, the Northern Mariana Islands, American Samoa and the District of Columbia.**&nbsp;**
+*   Many more joined virtually:&nbsp;**7,216 unique visitors**&nbsp;from 109 countries&nbsp;[watched online](http://new.livestream.com/accounts/4828334/selectUSA2013)&nbsp;live.
+*   More than**&nbsp;70 U.S. Government officials and staff from 16 different agencies**&nbsp;were there to answer questions from investors and EDOs.&nbsp;
+*   Hundreds of meetings were scheduled in advance through the Summit’s online matchmaking platform, and hundreds more took place on the tradeshow floor.
+
+***
+
 ## Road Shows
 
 <span class="imgright">[![Ambassador Kennedy Speaking in Japan at SelectUSA event](images/amb_cbk_gives_remarks_at_the_su_japan_launch_and_showcase-300x200.jpg "Ambassador Kennedy Speaking In Japan at SelectUSA event")</span>
 
-
 These special trips organized by SelectUSA offer EDOs the opportunity to directly connect with investors in other countries to showcase their regions. Recent examples:
 
-*   **Mexico **- May 20-21, 2014
+*   **Mexico** - May 20-21, 2014
 *   **Japan** - May 19-23, 2014
 *   **Korea** - May 16, 2014
 *   **Pearl River Delta** - April 14-18, 2014
@@ -69,16 +90,18 @@ These special trips organized by SelectUSA offer EDOs the opportunity to directl
 
 SelectUSA has increased its presence at industry events both domestically and overseas where investors want to learn more about U.S. locations. SelectUSA sets up the USA Investment Center to help EDOs showcase their regions, organizes a seminar to help EDOs network with investors, or highlights SelectUSA services for investors. Recent examples:
 
-*   **BIO International Convention** - June 25, 2014 - San Diego, CA
-*   **International Franchise Expo** - June 19-21, 2014 - New York, NY
-*   **POWERGEN Europe** - June 3-5, 2014 - Cologne, Germany
-*   **Israel Innovation Conference** - May 20, 2014 - Tel Aviv, Israel
-*   **Offshore Technology Conference** - May 5-8, 2014 - Houston, TX
-*   **Hannover Messe** - April 7-11, 2014 - Hannover, Germany
-*   **International Film &amp; TV Market **- March 25, 2014 - Hong Kong, China
-*   **Candian International Auto Show** - February 13, 2014 - Toronto, Canada
-
-&nbsp;
+*   [**Offshore Technology Conference**]({{base-url}}/events/selectusa-offshore-technology-conference-otc.html) - May 4-7, 2015 in Houston, TX
+*   [**Hannover Messe**]({{base-url}}/events/selectusa-hannover-messe.html) - April 13-17, 2015 in Hannover, Germany
+*   [**Canadian International Auto Show (CIAS)**]({{base-url}}/events/selectusa-investment-center-canadian-international-auto-show-cias.html) - February 12, 2015 in Toronto, Canada
+*   [**CAR-Symposium**]({{base-url}}/events/selectusa-car-symposium.html) - Febraury 4, 2015 in Bochum, Germany
+*   **BIO International Convention** - June 25, 2014 in San Diego, CA
+*   **International Franchise Expo** - June 19-21, 2014 in New York, NY
+*   **POWERGEN Europe** - June 3-5, 2014 in Cologne, Germany
+*   **Israel Innovation Conference** - May 20, 2014 in Tel Aviv, Israel
+*   **Offshore Technology Conference** - May 5-8, 2014 in Houston, TX
+*   **Hannover Messe** - April 7-11, 2014 in Hannover, Germany
+*   **International Film &amp; TV Market** - March 25, 2014 in Hong Kong, China
+*   **Candian International Auto Show** - February 13, 2014 in Toronto, Canada
 
 * * *
 
@@ -90,7 +113,7 @@ Through outreach to investors in global markets, SelectUSA helps them get the in
 
 *   **Doing Business in the United States** - June 20, 2014 - Chengdu, China
 *   **SelectUSA Workshop for the <strong>Thessaloniki
-Chamber of Commerce &amp; Industry: Doing Business in the United States&nbsp; **</strong>- May 28, 2014**<strong> - **&nbsp;</strong>Thessaloniki, Greece
+Chamber of Commerce &amp; Industry: Doing Business in the United States**</strong>- May 28, 2014**<strong> - **&nbsp;</strong>Thessaloniki, Greece
 *   **SelectUSA for Startups -&nbsp;**May 20-21, 2014 - Bern, Switzerland
 *   **SelectUSA Workshop **- May 14, 2014 - Dusseldorf, Germany
 *   **Forumulating Your Company's Aeronautics/Electronics Investment **- May 13, 2014 - Toulouse, France
