@@ -77,7 +77,7 @@ If you missed it, you can still check out the presentations,&nbsp;[available onl
 
 <span class="imgright">[![Ambassador Kennedy Speaking in Japan at SelectUSA event](images/amb_cbk_gives_remarks_at_the_su_japan_launch_and_showcase-300x200.jpg "Ambassador Kennedy Speaking In Japan at SelectUSA event")</span>
 
-These special trips organized by SelectUSA offer EDOs the opportunity to directly connect with investors in other countries to showcase their regions. Recent examples:
+These special trips organized by SelectUSA offer EDOs the opportunity to directly connect with investors in foreign markets to showcase their regions. Recent examples:
 
 *   **Mexico** - May 20-21, 2014
 *   **Japan** - May 19-23, 2014
