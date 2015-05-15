@@ -19,5 +19,5 @@ published: true
 <P>&nbsp;</p>
 
 <P><img style="FLOAT: left; VERTICAL-ALIGN: middle" title="Rebecca Moudry" alt="Rebecca Moudry" src="images/RM-headshot-small.jpg" width="78" height="100" />&nbsp;<STRONG>Rebecca Moudry<BR /></strong>&nbsp;Acting Director of Investment Promotion & Facilitation, SelectUSA<BR />&nbsp;U.S. Department of Commerce</p>
-<P>&nbsp;<A title="Rebecca Moudry Biography" href="Rebecca-Moudry.html">Read Bio &gt;&gt;</a></p>
+<P>&nbsp;<A title="Rebecca Moudry Biography" href="rebecca-moudry.html">Read Bio &gt;&gt;</a></p>
 <P>&nbsp;</p>
