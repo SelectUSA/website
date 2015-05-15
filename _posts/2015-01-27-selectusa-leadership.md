@@ -9,7 +9,7 @@ published: true
 <P><A href="vinai-thummalapally.html">Read Bio</a></p>
 <P>&nbsp;</p>
 
-<P><img style="FLOAT: left; VERTICAL-ALIGN: middle" title="Peggy Philbin" alt="Peggy Philbin" src="images/VT-headshot-small-2.jpg" width="78" height="100" />&nbsp;<STRONG>Peggy Philbin<BR /></strong>&nbsp;Deputy Executive Director and Chief Operating Officer, SelectUSA<BR />&nbsp;U.S. Department of Commerce</p>
+<P><img style="FLOAT: left; VERTICAL-ALIGN: middle" title="Peggy Philbin" alt="Peggy Philbin" src="images/PP-headshot-small.jpg" width="78" height="100" />&nbsp;<STRONG>Peggy Philbin<BR /></strong>&nbsp;Deputy Executive Director and Chief Operating Officer, SelectUSA<BR />&nbsp;U.S. Department of Commerce</p>
 <P>&nbsp;<A title="Peggy Philbin Biography" href="peggy-philbin.html">Read Bio &gt;&gt;</a></p>
 <P>&nbsp;</p>
 
@@ -17,6 +17,6 @@ published: true
 <P>&nbsp;<A title="Felicia Pullam Biography" href="felicia-pullam.html">Read Bio &gt;&gt;</a></p>
 <P>&nbsp;</p>
 
-<P><img style="FLOAT: left; VERTICAL-ALIGN: middle" title="Rebecca Moudry" alt="Rebecca Moudry" src="images/VT-headshot-small-2.jpg" width="78" height="100" />&nbsp;<STRONG>Rebecca Moudry<BR /></strong>&nbsp;Acting Director of Investment Promotion & Facilitation, SelectUSA<BR />&nbsp;U.S. Department of Commerce</p>
+<P><img style="FLOAT: left; VERTICAL-ALIGN: middle" title="Rebecca Moudry" alt="Rebecca Moudry" src="images/RM-headshot-small.jpg" width="78" height="100" />&nbsp;<STRONG>Rebecca Moudry<BR /></strong>&nbsp;Acting Director of Investment Promotion & Facilitation, SelectUSA<BR />&nbsp;U.S. Department of Commerce</p>
 <P>&nbsp;<A title="Rebecca Moudry Biography" href="Rebecca-Moudry.html">Read Bio &gt;&gt;</a></p>
 <P>&nbsp;</p>
