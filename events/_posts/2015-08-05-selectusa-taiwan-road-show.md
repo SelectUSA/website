@@ -12,9 +12,9 @@ section: events
 published: true
 ---
 
-![Date](https://google.github.io/material-design-icons/action/svg/ic_event_24px.svg "Date") {{ page.date-display-start}} - {{ page.date-display-end}}
+![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}} - {{ page.date-display-end}}
 
-![Location](http://google.github.io/material-design-icons/social/svg/ic_location_city_24px.svg "Location") {{ page.location-value }}
+![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
 ## Save the Date: 2015 SelectUSA Road Show to Taiwan
 
@@ -29,4 +29,4 @@ This Road Show to Taipei and Kaohsiung will offer U.S. state, local and regional
 
 The EDO event participation fees for state and local economic development organizations is **$1,300.00** for the first representative and **$300** for each additional participant.
 
-![Contact](https://google.github.io/material-design-icons/action/svg/ic_question_answer_24px.svg "Contact") For more information on this event, please contact [Jackie Hong](mailto:jackie.hong@trade.gov) and [John McKiel](mailto:john.mckiel@trade.gov)
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information on this event, please contact [Jackie Hong](mailto:jackie.hong@trade.gov) and [John McKiel](mailto:john.mckiel@trade.gov)
