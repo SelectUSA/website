@@ -6,7 +6,7 @@ published: true
 ---
 
 
-<span class="imgright">![Vinai Thummalapally](images/vinai_thummalapally_0.jpg)
+<span class="imgright">![Vinai Thummalapally](images/VT-headshot-small-2.jpg)
 **Executive Director, SelectUSA**
 **U.S. Department of Commerce**</span>
 
