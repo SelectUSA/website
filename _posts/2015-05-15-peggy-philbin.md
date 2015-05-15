@@ -7,7 +7,7 @@ published: true
 
 
 <span class="imgright">![Peggy Philbin](images/PP-headshot-small.jpg)
-**Deputy Executive Director and Chief Operating Officer, SelectUSA**
+**Deputy Executive Director and<br/>Chief Operating Officer, SelectUSA**
 **U.S. Department of Commerce**</span>
 
 
