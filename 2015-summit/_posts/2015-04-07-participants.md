@@ -8,4 +8,4 @@ published: true
 
 ## Address Book
 
-![Download](https://google.github.io/material-design-icons/file/svg/ic_file_download_24px.svg "Download") [Download the participant address book]({{ site.baseurl }}/downloads.html)
+![Download](https://google.github.io/material-design-icons/file/svg/ic_file_download_24px.svg "Download") [Download the participant address book]({{ site.baseurl }}/documents/2015_Summit_Address_Directory.pdf)
