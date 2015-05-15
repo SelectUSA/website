@@ -12,9 +12,9 @@ section: events
 published: true
 ---
 
-![Date](https://google.github.io/material-design-icons/action/svg/ic_event_24px.svg "Date") {{ page.date-display-start}}
+![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}
 
-![Location](http://google.github.io/material-design-icons/social/svg/ic_location_city_24px.svg "Location") {{ page.location-value }}
+![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
 ## Invest and Trade in the USA – Building Bridges Between Spain and the United States
 
@@ -24,7 +24,7 @@ The U.S. Commercial Service, in conjunction with the American Chamber of Commerc
 
 Participation in this premier event will give U.S. city, county, state and regional economic development organizations an opportunity to promote their destinations to the fast growing number of Spanish investors. Spanish multinationals are world-class leaders in their respective fields. Investments in critical sectors such as information technology, clean energy technology renewable energy, innovation, transportation, telecommunications, biomedical research, and health, are all areas in which Spanish companies excel.
 
-![Contact](https://google.github.io/material-design-icons/action/svg/ic_question_answer_24px.svg "Contact") Please contact [Helen.Crowley@trade.gov](Helen.Crowley@trade.gov) for more information on the event
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") Please contact [Helen.Crowley@trade.gov](Helen.Crowley@trade.gov) for more information on the event
 
 ## Exhibition Fees
 
@@ -39,7 +39,7 @@ The fee for U.S. states and regions to exhibit is Euros 300 (approximately $340)
 * Benefit from extensive coverage of the event in AmChamSpain´s social media (Twitter, Facebook, LinkedIn);
 * Benefit from coverage in post event communications.
 
-![Register](https://google.github.io/material-design-icons/content/svg/ic_send_24px.svg "RSVP") To register for this event, please contact Yamille Alonso at [yalonso@amchamspain.com](yalonso@amchamspain.com)
+![Register](https://google.github.io/material-design-icons/content/svg/design/ic_send_24px.svg "RSVP") To register for this event, please contact Yamille Alonso at [yalonso@amchamspain.com](yalonso@amchamspain.com)
 
 ## Event Program
 <iframe src="//www.slideshare.net/slideshow/embed_code/46989029" width="476" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
