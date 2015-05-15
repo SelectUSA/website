@@ -12,7 +12,7 @@ published: true
 
 ## Photos from March 23, 2015 (Day 1)
 
-![Download](https://google.github.io/material-design-icons/file/svg/ic_file_download_24px.svg "Download") [Download all photo files and text descriptions]({{ site.baseurl }}/downloads.html)
+![Download](https://google.github.io/material-design-icons/file/svg/design/ic_file_download_24px.svg "Download") [Download all photo files and text descriptions]({{ site.baseurl }}/downloads.html)
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
