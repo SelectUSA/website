@@ -12,7 +12,7 @@ published: true
 *Please check back soon for our photos from the second day of the Summit!*
 
 <!--
-![Download](http://google.github.io/material-design-icons/action/svg/ic_get_app_24px.svg "Download") [Download all photo files and text descriptions]({{ site.baseurl }}/downloads.html)
+![Download](http://google.github.io/material-design-icons/action/svg/design/ic_get_app_24px.svg "Download") [Download all photo files and text descriptions]({{ site.baseurl }}/downloads.html)
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
