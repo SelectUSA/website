@@ -28,23 +28,23 @@ Hiroshima and Takamatsu are major cities in the Chugoku and Shikoku regions. The
 
 1. Networking + Catalog Distribution (EDOs)
 
-⋅⋅⋅Each Economic Development Organizations (EDO) can make a short (1-2 minute) remarks during the seminar. EDOs also have networking opportunities and can distribute their promotional materials to seminar attendees. CS Western Japan will send the list of seminar attendees after the event.
+   Each Economic Development Organizations (EDO) can make a short (1-2 minute) remarks during the seminar. EDOs also have networking opportunities and can distribute their promotional materials to seminar attendees. CS Western Japan will send the list of seminar attendees after the event.
 
-⋅⋅⋅**Participation Fee:** US$150 for one city and US$200 for two cities
+   **Participation Fee:** US$150 for one city and US$200 for two cities
 
-⋅⋅⋅*NOTE: This category is ideal for organizations with representation in Japan. Of course, all organizations are welcome to send a representative from the United States to participate, however, considering the cost of travel to Japan, these organizations may wish to consider option 2 (Catalog Distribution).*
+   *NOTE: This category is ideal for organizations with representation in Japan. Of course, all organizations are welcome to send a representative from the United States to participate, however, considering the cost of travel to Japan, these organizations may wish to consider option 2 (Catalog Distribution).*
 
 2. Catalog Distribution ONLY (EDOs)
 
-⋅⋅⋅CS Western Japan distributes your promotional materials to seminar attendees at the two cities. CS Western Japan will send the list of seminar attendees after the event.
+   CS Western Japan distributes your promotional materials to seminar attendees at the two cities. CS Western Japan will send the list of seminar attendees after the event.
 
-⋅⋅⋅**Participation Fee:** US$80 for two cities
+   **Participation Fee:** US$80 for two cities
 
 3. Catalog Distribution ONLY (Service Providers)
 
-⋅⋅⋅CS Western Japan invites service providers, such as consultants and accounting firms, to distribute their promotional materials to seminar attendees at the two cities. CS Western Japan will send the list of seminar attendees after the event.
+   CS Western Japan invites service providers, such as consultants and accounting firms, to distribute their promotional materials to seminar attendees at the two cities. CS Western Japan will send the list of seminar attendees after the event.
 
-⋅⋅⋅**Participation Fee:** US$200 for two cities
+   **Participation Fee:** US$200 for two cities
 
 The deadline for applications is **June 19, 2015**, and the payment deadline is **June 30, 2016**.
 
