@@ -11,8 +11,7 @@ published: true
 
 *Please check back soon for our photos from the second day of the Summit!*
 
-<!--
-![Download](http://google.github.io/material-design-icons/action/svg/design/ic_get_app_24px.svg "Download") [Download all photo files and text descriptions]({{ site.baseurl }}/downloads.html)
+[Download](http://google.github.io/material-design-icons/action/svg/design/ic_get_app_24px.svg "Download") [Download all photo files and text descriptions]({{ site.baseurl }}/downloads.html)
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -24,7 +23,7 @@ published: true
 
 
 
-<div id="plusgallery" data-api-key="fe78c765b01f29e59616ae965d83171f" data-exclude="72157649488052834,72157651432304488,72157651404153429" data-userid="132171630@N04" data-type="flickr"></div>
+<div id="plusgallery" data-api-key="fe78c765b01f29e59616ae965d83171f" data-exclude="72157651515122876,72157650730533514,72157652139100381,72157649488052834,72157651404153429,72157651432304488,72157649540811403,72157652009653411,72157649517590133,72157652007179172,72157652088224135,72157651515122876,72157651736380668" data-userid="132171630@N04" data-type="flickr"></div>
 
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
@@ -36,4 +35,4 @@ published: true
 
 </body>
 </html>
--->
+
