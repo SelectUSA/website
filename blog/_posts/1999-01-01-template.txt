@@ -1,4 +1,4 @@
----
+
 permalink: "blog/{{EntryTitle}}.html"
 layout: sidebar
 section: blog
@@ -9,7 +9,7 @@ source: International Trade Administration
 url: {{EntryUrl}}
 author: {{EntryAuthor}}
 image-url: {{EntryImageUrl}}
----
+
 
 <span class="imgright">[![{{ page.title }}]({{ page.image-url }})]({{ page.url }})</span>
 
