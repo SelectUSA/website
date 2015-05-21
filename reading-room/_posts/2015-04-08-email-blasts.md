@@ -12,8 +12,6 @@ published: true
 
 ---
 
-## Sign up for our email updates
-
 <form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/USITATRADE/subscribers/qualify" method="post"><input name="utf8" type="hidden" value="✓" /><input name="authenticity_token" type="hidden" value="XfpJ7XUO14X47poLC7Pxh+rmQeTCzazxMIg8+zgs6Sw=" />
 <input id="topic_id" name="topic_id" type="hidden" value="USITATRADE_22" />
 <fieldset class="emailblast">
