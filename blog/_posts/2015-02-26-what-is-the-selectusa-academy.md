@@ -1,16 +1,25 @@
 ---
 permalink: "blog/what-is-the-selectusa-academy.html"
-layout: default
+layout: sidebar
 section: blog
-title: What is the SelectUSA Academy?
+title: What is the SelectUSA Academy?}
 published: true
+date: February 26, 2015
+source: International Trade Administration
+url: http://blog.trade.gov/2015/02/26/what-is-the-selectusa-academy/
+author: Genilson Brandao
+image-url: https://tradegov.files.wordpress.com/2015/02/academy-logo.png?w=300&h=78
 ---
 
-February 26, 2015
+<span class="imgright">[![SelectUSA Summit Academy: March 22, 2015, 2:00pm-6:30pm]({{ page.image-url }})]({{ page.url }})</span>
 
-_By **Genilson Brandao**, Outreach and Communications Senior Specialist, SelectUSA_
+![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date }}
 
-<span class="imgright">[![SelectUSA Summit Academy: March 22, 2015, 2:00pm-6:30pm](https://tradegov.files.wordpress.com/2015/02/academy-logo.png?w=300&#038;h=78)](http://www.selectusasummit.com)</span> The [**2015 SelectUSA Investment Summit**](http://www.selectusasummit.com/) is fast approaching and the excitement around it continues to build. To date, there are more than 2,100 registrants from almost 80 international markets and nearly every U.S. state. The Summit will bring together high-profile business leaders, investors, state and local representatives, and government officials to network and discuss the latest investment trends.
+![Author](https://google.github.io/material-design-icons/action/svg/design/ic_account_box_24px.svg "Author") _By **{{page.author}}**, Outreach and Communications Senior Specialist, SelectUSA_
+
+![Source](https://google.github.io/material-design-icons/action/svg/design/ic_home_24px.svg "Source") _This post originally appeared on the [International Trade Administration blog]({{ page.url }})._
+
+The [**2015 SelectUSA Investment Summit**](http://www.selectusasummit.com/) is fast approaching and the excitement around it continues to build. To date, there are more than 2,100 registrants from almost 80 international markets and nearly every U.S. state. The Summit will bring together high-profile business leaders, investors, state and local representatives, and government officials to network and discuss the latest investment trends.
 
 New this year is an important addition for participants who are looking to make the most of their Summit experience: **The SelectUSA Academy**.
 

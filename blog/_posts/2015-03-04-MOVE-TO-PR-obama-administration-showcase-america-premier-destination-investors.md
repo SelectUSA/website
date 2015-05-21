@@ -1,9 +1,9 @@
 ---
-permalink: "blog/obama-administration-showcase-america-premier-destination-investors.html"
+permalink: "press-releases/obama-administration-showcase-america-premier-destination-investors.html"
 layout: default
-section: blog
+section: press-releases
 title: Obama Administration to Showcase America as Premier Destination for Investors at Investment Summit
-published: true
+published: false
 ---
 **FOR IMMEDIATE RELEASE**
 Wednesday, March 4, 2015
