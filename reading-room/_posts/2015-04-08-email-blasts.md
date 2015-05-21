@@ -23,6 +23,22 @@ published: true
 <ol class='form'>
 <li class='email_fields' style='display: block'>
 <label for="email"><img alt="Required.gif?3.25" class="required" src="https://public.govdelivery.com/images/required.gif?3.25.2-b369d82-E2" />Email Address</label>
+<input class="long" id="email" name="email" type="text" />  <input class="form_button" name="commit" type="submit" value="Submit" />
+
+</li>
+</ol>
+</fieldset>
+</form>
+
+<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/USITATRADE/subscribers/qualify" method="post"><div style="margin:0;padding:0;border:0;display:inline"><input name="utf8" type="hidden" value="✓" /><input name="authenticity_token" type="hidden" value="XfpJ7XUO14X47poLC7Pxh+rmQeTCzazxMIg8+zgs6Sw=" /></div>
+<input id="topic_id" name="topic_id" type="hidden" value="USITATRADE_22" />
+<fieldset>
+<div>
+<p><B>Would you like to receive bi-weekly email updates from SelectUSA, or change your current subscription?</b> To begin this process, enter your email address below. You will then be guided through several additional screens to complete or modify your subscription.</p>
+</div>
+<ol class='form'>
+<li class='email_fields' style='display: block'>
+<label for="email"><img alt="Required.gif?3.25" class="required" src="https://public.govdelivery.com/images/required.gif?3.25.2-b369d82-E2" />Email Address</label>
 <input class="long" id="email" name="email" type="text" />
 </li>
 </ol>
