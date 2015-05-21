@@ -1,10 +1,10 @@
 ---
 
-permalink: "blog-posts.html"
+permalink: "blog.html"
 
 layout: sidebar
 
-title: SelectUSA Leadership
+title: Blog
 
 section: reading-room
 
@@ -14,7 +14,7 @@ published: true
 
 ## Blog Posts
 
-<div id="block-menu-menu-testimonials-chose-usa" class="block block-menu" ><h2>Blog</h2> 
+<div id="block-menu-menu-testimonials-chose-usa" class="block block-menu" >
 
 <div class="view view-upcoming-events view-id-upcoming_events view-display-id-page_1 advanced-filtered-search view-dom-id-1">
 {% for post in site.categories.blog  %}
