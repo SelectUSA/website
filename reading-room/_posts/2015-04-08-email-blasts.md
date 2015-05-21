@@ -14,9 +14,9 @@ published: true
 
 ## Sign up for our email updates
 
-<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/USITATRADE/subscribers/qualify" method="post"><div style="margin:0;padding:0;border:0;display:inline"><input name="utf8" type="hidden" value="✓" /><input name="authenticity_token" type="hidden" value="XfpJ7XUO14X47poLC7Pxh+rmQeTCzazxMIg8+zgs6Sw=" /></div>
+<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/USITATRADE/subscribers/qualify" method="post"><input name="utf8" type="hidden" value="✓" /><input name="authenticity_token" type="hidden" value="XfpJ7XUO14X47poLC7Pxh+rmQeTCzazxMIg8+zgs6Sw=" />
 <input id="topic_id" name="topic_id" type="hidden" value="USITATRADE_22" />
-<fieldset>
+<fieldset class="emailblast">
 <div>
 <p><B>Would you like to receive bi-weekly email updates from SelectUSA, or change your current subscription?</b> To begin this process, enter your email address below. You will then be guided through several additional screens to complete or modify your subscription.</p>
 </div>

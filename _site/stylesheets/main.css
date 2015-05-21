@@ -77,6 +77,12 @@ img {
  margin-right:20px;  
  display: block;
  }
+
+fieldset.emailblast {
+    padding:0em;
+    margin:0em;
+    border:none;
+}
  /* End special alignment */
 /* Start newspaper style functionality to images */
 .imgright {  
