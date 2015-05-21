@@ -3,7 +3,7 @@ permalink: "events/japan-business-seminar.html"
 layout: sidebar
 title: U.S. Business Seminars in Japan
 date-display-start: July 16
-date-display-end: -17, 2015
+date-display-end: 17, 2015
 calendar-start: 2015-07-16
 calendar-end: 2015-07-17
 location-value: Takamatsu, Hiroshima
