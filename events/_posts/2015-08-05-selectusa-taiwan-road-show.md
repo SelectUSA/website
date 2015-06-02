@@ -20,6 +20,12 @@ published: true
 
 This Road Show to Taipei and Kaohsiung will offer U.S. state, local and regional economic development organizations (EDOs) the opportunity to market their locations directly to potential investors in Taiwan. Each Road Show stop will feature a seminar with sessions on how to invest in the United States. Along with scheduled networking sessions, there will be ample opportunity for attendees to visit your exhibit at the event. 
 
+# Get the Details: Webinar on June 4th
+
+Join us on **June 4, 2015 at 7:30 pm EST** for a [webinar](https://adobeformscentral.com/?f=osc7KmHK9CQxDKBayqNuqQ) on the SelectUSA Taiwan Road Show hosted by the U.S. Commercial Service in Taiwan and SelectUSA.
+
+![RSVP](https://google.github.io/material-design-icons/content/svg/design/ic_send_24px.svg "RSVP") To RSVP for the webinar, [please submit this form](https://adobeformscentral.com/?f=osc7KmHK9CQxDKBayqNuqQ)
+
 # For U.S. EDOs - Why Participate?
 
 * A chance to meet and brief potential investors in Taiwan’s two largest cities - showcase your area’s advantages
