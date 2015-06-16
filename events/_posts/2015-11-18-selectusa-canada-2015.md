@@ -38,7 +38,7 @@ Pre-qualified Canadian companies will be invited to participate at no charge and
 |1:15              | Investor-EDO Engagement & One-on-One Meetings|
 |3:15-4:30         | Networking Reception |
 
-![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") Please contact [Bojan Opsenica](Bojan.Opsenica@trade.gov) or [Rick Tachuk](rtachuk@amchamcanada.ca) for more information on the event
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") Please contact [Bojan Opsenica](mailto:Bojan.Opsenica@trade.gov) or [Rick Tachuk](mailto:rtachuk@amchamcanada.ca) for more information on the event
 
 # For U.S. EDOs - Your SelectUSA Canada Participation Includes: 
 
