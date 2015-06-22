@@ -57,7 +57,7 @@ management in 2012, or 45% of the global total for these funds.&nbsp;
 Conventional funds were equivalent to 298 percent of U.S. GDP.
 
 **Insurance**: In 2012, the
-insurance industry’s net premiums written totaled approximately $1.27 billion.
+insurance industry’s net premiums written totaled approximately $1.27 trillion.
 According to the Swiss Reinsurance Company, premiums recorded by life and
 health insurers accounted for 45 percent, and premiums by property and casualty
 insurers accounted for 55 percent.&nbsp; Additionally, about one-third of all
