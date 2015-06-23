@@ -50,7 +50,7 @@ The participation fee for state and local economic development organizations is 
   * Recommended flight: Jet Airways 9W 362 departs New Delhi at 6:25 pm; arrives Mumbai at 8:30 pm
 * Event in Mumbai on October 14 at Hotel (TBC) 8:30 am -2:30 pm
 * Travel from Mumbai to Chennai the evening of October 14
-  * Recommended flights: Jet Airways 9W 467 departs Mumbai at 7:35 pm; arrives Chennai at 9:35 pm
+  * Recommended flight: Jet Airways 9W 467 departs Mumbai at 7:35 pm; arrives Chennai at 9:35 pm
 * Event in Chennai on October 15 at Hotel (TBC) 8:30 am -2:30 pm
 * Return to the United States on the evening of October 15
 
