@@ -31,9 +31,9 @@ Each Road Show stop will feature a **half-day seminar** with sessions on how to 
 
 ![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information on registration or sponsorship, please contact [Paul.Frost@trade.gov](mailto:Paul.Frost@trade.gov) in New Delhi and [Seth.Isenberg@trade.gov](mailto:Seth.Isenberg@trade.gov) in Washington, DC
 
-# What will U.S. EDO participants recieve?
+# What will U.S. EDO participants receive?
 
-* A chance to meet and brief potential investors in Taiwan’s two largest cities - showcase your area’s advantages
+* A chance to meet and brief potential investors in three major cities in India - showcase your area’s advantages
 * A display area in event in all three cities for promotion
 * Entry in the printed SelectUSA Roadshow catalogue at each roadshow stop
 * Participation in all networking sessions and pre-arranged one-on-one meetings with prospective investors
