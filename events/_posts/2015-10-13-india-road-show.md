@@ -31,9 +31,9 @@ Join us on **June 30, 2015 at 12:30 pm EST** for a webinar on the SelectUSA Indi
 
 ![RSVP](https://google.github.io/material-design-icons/content/svg/design/ic_send_24px.svg "RSVP") To RSVP for the webinar and receive the call-in details, please email  [Seth.Isenberg@trade.gov](mailto:seth.isenberg@trade.gov?subject=RSVP%20for%20SelectUSA%20India%20Road%20Show%20Webinar)
 
-# What will U.S. EDO participants recieve?
+# What will U.S. EDO participants receive?
 
-* A chance to meet and brief potential investors in Taiwan’s two largest cities - showcase your area’s advantages
+* A chance to meet and brief potential investors in three major cities in India - showcase your area’s advantages
 * A display area in event in all three cities for promotion
 * Entry in the printed SelectUSA Roadshow catalogue at each roadshow stop
 * Participation in all networking sessions and pre-arranged one-on-one meetings with prospective investors
