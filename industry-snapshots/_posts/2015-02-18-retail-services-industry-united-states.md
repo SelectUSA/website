@@ -8,9 +8,6 @@ tags: [Retail Trade]
 published: true
 ---
 
-
-## The U.S. Retail Services Industry
-
 <span class="imgright">![woman with shopping bags at mall]({{ site.baseurl }}/images/shopping_mall-338x260_0-225x173.jpg "woman with shopping bags at mall")</span>The United
 States has well-established distribution channels for all types of retail
 companies. The retail services industry provides an openly competitive
