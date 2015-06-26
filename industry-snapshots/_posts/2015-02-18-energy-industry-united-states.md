@@ -8,8 +8,6 @@ tags: [Energy, Environment and Energy, Department of Energy]
 published: true
 ---
 
-## The U.S.&nbsp;Energy Industry
-
 <span class="imgright">![lightbulbs]({{ site.baseurl }}/images/greenenergyidea-368x268.jpg)</span>
 
 The United States is a
