@@ -8,8 +8,6 @@ tags: [Creative and Media]
 published: true
 ---
 
-## **The U.S. Media &amp; Entertainment Industry**
-
 The U.S. media and entertainment
 (M&amp;E) industry is comprised of businesses that produce and distribute
 motion pictures, television programs and commercials along with music and audio
