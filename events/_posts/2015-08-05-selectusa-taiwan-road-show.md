@@ -1,7 +1,7 @@
 ---
 permalink: "events/selectusa-taiwan-road-show.html"
 layout: sidebar
-title: Save the Date - SelectUSA Taiwan Road Show
+title: SelectUSA Taiwan Road Show
 date-display-start: August 5
 date-display-end: 6, 2015
 calendar-start: 2015-08-05
@@ -16,7 +16,7 @@ published: true
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-## Save the Date: 2015 SelectUSA Road Show to Taiwan
+## 2015 SelectUSA Road Show to Taiwan
 
 This Road Show to Taipei and Kaohsiung will offer U.S. state, local and regional economic development organizations (EDOs) the opportunity to market their locations directly to potential investors in Taiwan. Each Road Show stop will feature a seminar with sessions on how to invest in the United States. Along with scheduled networking sessions, there will be ample opportunity for attendees to visit your exhibit at the event. 
 

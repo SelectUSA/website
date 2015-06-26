@@ -1,0 +1,704 @@
+
+<link rel='stylesheet' id='fancybox-css'  href='http://cmoreira.net/responsive-interactive-maps/ext/fancybox-for-wordpress/fancybox/fancybox.css' type='text/css' media='all' />
+
+<script type="text/javascript">
+
+jQuery(function(){
+
+
+
+jQuery.fn.getTitle = function() { // Copy the title of every IMG tag and add it to its parent A so that fancybox can show titles
+
+	var arr = jQuery("a.fancybox");
+
+	jQuery.each(arr, function() {
+
+		var title = jQuery(this).children("img").attr("title");
+
+		jQuery(this).attr('title',title);
+
+	})
+
+}
+
+
+
+// Supported file extensions
+
+var thumbnails = jQuery("a:has(img)").not(".nolightbox").filter( function() { return /\.(jpe?g|png|gif|bmp)$/i.test(jQuery(this).attr('href')) });
+
+
+
+thumbnails.addClass("fancybox").attr("rel","fancybox").getTitle();
+
+jQuery("a.fancybox").fancybox({
+
+	'cyclic': false,
+
+	'autoScale': true,
+
+	'padding': 10,
+
+	'opacity': true,
+
+	'speedIn': 500,
+
+	'speedOut': 500,
+
+	'changeSpeed': 300,
+
+	'overlayShow': true,
+
+	'overlayOpacity': "0.3",
+
+	'overlayColor': "#666666",
+
+	'titleShow': true,
+
+	'titlePosition': 'inside',
+
+	'enableEscapeButton': true,
+
+	'showCloseButton': true,
+
+	'showNavArrows': true,
+
+	'hideOnOverlayClick': true,
+
+	'hideOnContentClick': false,
+
+	'width': 560,
+
+	'height': 340,
+
+	'transitionIn': "fade",
+
+	'transitionOut': "fade",
+
+	'centerOnScroll': true
+
+});
+
+
+
+
+
+})
+
+</script>
+
+<!-- END Fancybox for WordPress -->
+
+
+<style type="text/css">
+
+#map_canvas * {
+
+line-height:1.2;
+
+font-size:12px;
+
+}
+
+
+
+.google-visualization-tooltip  {
+
+margin:10px !important;
+
+padding:10px !important;
+
+}
+
+
+
+.post-meta {
+
+display:none;
+
+}
+
+</style>
+
+</head>
+<body class="home blog">
+<div class="bl_search_overlay"></div>
+	<script type="text/javascript">
+	
+		var y;
+		y = jQuery(window).scrollTop();
+		if(jQuery(window).width() > 979){
+			// Shrink menu on scroll
+			var didScroll = false;
+			jQuery(window).scroll(function() {
+			    didScroll = true;
+			});
+			setInterval(function() {
+			    if ( didScroll ) {
+			        didScroll = false;
+			        y = jQuery(window).scrollTop();
+			        if(y > jQuery('#masthead .top-banner').height() ){
+			        	jQuery('#masthead .bluth-navigation').addClass('fixed');
+			        	jQuery('#main').css('padding-top', 71);
+			        }else{
+			        	jQuery('#masthead .bluth-navigation').removeClass('fixed');
+			        	jQuery('#main').css('padding-top', '');
+			        }
+			        if(y > ( jQuery('#masthead .top-banner').height()+100 ) ){
+			        	jQuery('#masthead .bluth-navigation').addClass('shrunk');
+			        }else{
+			        	jQuery('#masthead .bluth-navigation').removeClass('shrunk');
+			        }
+
+					changeHeader();
+			    }
+			}, 50);
+		}
+		
+		jQuery(function() {
+		// if the page is in mobile mode, then don't make the header transparent!
+		if( jQuery(window).width() > 979 )
+			changeHeader();
+		else{
+			jQuery('#masthead .bluth-navigation .navbar .nav > li > a, #masthead .searchform a').animate({ color: '#777777'}, 10);
+			jQuery('#masthead .bluth-navigation').animate({ backgroundColor: '#FFFFFF'}, 100);
+		}
+
+		// listen to resize!
+	    var didresize = false;
+	    jQuery(window).resize( function() {
+
+			// if the user refreshes the page while the sticky header is active, then add some padding for a friend.
+			// if( y > jQuery('#masthead').height() )
+				// jQuery('#main').css('padding-top', (/*jQuery('#masthead').height()+*/25));
+			// else
+				// jQuery('#main').css('padding-top', (/*jQuery('#masthead').height()+*/25));
+	        // didresize = true;
+	    });
+	    setInterval(function() {
+	        if ( didresize ) {
+	            didresize = false;
+	        }
+	    }, 3000);
+
+
+
+		
+			jQuery('.navbar .nav li').mouseover(function(){
+				jQuery( this ).addClass('open');
+			});
+			jQuery('.navbar .nav li').mouseout(function(){
+				jQuery( this ).removeClass('open');
+			});
+				resetNavLine(250);
+
+		jQuery('#masthead .nav li').mouseover(function(){
+			jQuery('.nav-line').stop();
+			jQuery('.nav-line').animate({
+				left : jQuery(this).offset().left-jQuery('.bluth-navigation .container .navbar').offset().left,
+				width: jQuery(this).width()
+			}, 250);
+		});
+		jQuery('#masthead .nav li').mouseout(function(){
+			resetNavLine(250);
+		});
+	});
+
+	// change the color of the header if it's transparent
+	function changeHeader(){
+		var y;
+		y = jQuery(window).scrollTop();
+		
+		jQuery('#masthead .bluth-navigation').stop();
+			}
+	function resetNavLine(time){
+		// didScroll = true;
+		jQuery('.nav-line').stop();
+		if(jQuery('.nav').children('li').hasClass('current-menu-item')){
+			jQuery('.nav-line').animate({
+				left : jQuery('.current-menu-item').offset().left-jQuery('.bluth-navigation .container .navbar').offset().left,
+				width: jQuery('.current-menu-item').width()
+			}, time);
+		}else if(jQuery('.nav').children('li').hasClass('current-menu-ancestor')){
+			jQuery('.nav-line').animate({
+					left : jQuery('.current-menu-ancestor').offset().left-jQuery('.bluth-navigation .container .navbar').offset().left,
+					width: jQuery('.current-menu-ancestor').width()
+			}, time);
+		}else{
+			jQuery('.nav-line').animate({
+				width : 0
+			});
+		}
+	}
+	</script>
+
+
+		<div class="post-format-badge post-format-standard">
+
+			<i class="icon-pin"></i>
+
+		</div>
+
+	</div>
+
+		<div class="entry-container noimg">
+
+		<div class="entry-content">
+<div id='iwm_map_canvas' ><div id='map_canvas_2' class='i_world_map ' ><div class='iwm_placeholder'><img width='32px' src='http://cmoreira.net/responsive-interactive-maps/ext/interactive-world-maps/imgs/placeholder.png'/><br />USA</div></div></div><div id='imap2message'></div>  
+
+<div id="states" class="clearfix">
+<div class="panel-body">
+              
+            
+  <h2 >List of States and Territories</h2>
+	
+	</div>
+	<ul class="state-list">
+		<li><a class="odd" href="http://www.madeinalabama.com/">Alabama</a></li>
+		<li><a href="http://www.alaska.gov">Alaska</a></li>
+		<li><a class="odd" href="http://www.americansamoa.gov">American Samoa</a></li>
+		<li><a href="http://www.azcommerce.com">Arizona</a></li>
+		<li><a class="odd" href="http://www.arkansasedc.com">Arkansas</a></li>
+		<li><a href="http://www.business.ca.gov/">California</a></li>
+		<li><a class="odd" href="http://www.advancecolorado.com">Colorado</a></li>
+		<li><a href="http://www.ct.gov/ecd/">Connecticut</a></li>
+		<li><a class="odd" href="http://global.delaware.gov">Delaware</a></li>
+		<li><a href="http://dcbiz.dc.gov">District of Columbia</a></li>
+		<li><a class="odd" href="http://www.enterpriseflorida.com">Florida</a></li>
+		<li><a href="http://www.georgia.org">Georgia</a></li>
+		<li><a class="odd" href="http://www.investguam.com">Guam</a></li>
+		<li><a href="http://invest.hawaii.gov">Hawaii</a></li>
+	</ul>
+	<ul class="state-list">
+		<li><a class="odd" href="http://commerce.idaho.gov/">Idaho</a></li>
+		<li><a href="http://www.illinoisbiz.biz">Illinois</a></li>
+		<li><a class="odd" href="http://www.iedc.in.gov">Indiana</a></li>
+		<li><a href="http://www.iowaeconomicdevelopment.com/">Iowa</a></li>
+		<li><a class="odd" href="http://www.kansascommerce.com">Kansas</a></li>
+		<li><a href="http://www.thinkkentucky.com">Kentucky</a></li>
+		<li><a class="odd" href="http://www.opportunitylouisiana.com/">Louisiana</a></li>
+		<li><a href="http://www.mitc.com">Maine</a></li>
+		<li><a class="odd" href="http://www.business.maryland.gov">Maryland</a></li>
+		<li><a href="http://www.mass.gov/moiti/">Massachusetts</a></li>
+		<li><a class="odd" href="http://www.michiganbusiness.org/">Michigan</a></li>
+		<li><a href="http://mn.gov/deed/invest">Minnesota</a></li>
+		<li><a class="odd" href="http://www.mississippi.org">Mississippi</a></li>
+		<li><a href="http://www.missouripartnership.com">Missouri</a></li>
+	</ul>
+	<ul class="state-list">
+		<li><a class="odd" href="http://commerce.mt.gov">Montana</a></li>
+		<li><a href="http://www.neded.org">Nebraska</a></li>
+		<li><a class="odd" href="http://www.diversifynevada.com/">Nevada</a></li>
+		<li><a href="http://www.nheconomy.com">New Hampshire</a></li>
+		<li><a class="odd" href="http://www.nj.gov/state/bac/">New Jersey</a></li>
+		<li><a href="http://www.tradenm.com">New Mexico</a></li>
+		<li><a class="odd" href="http://www.esd.ny.gov">New York</a></li>
+		<li><a href="http://www.thrivenc.com/">North Carolina</a></li>
+		<li><a class="odd" href="http://www.business.nd.gov/">North Dakota</a></li>
+		<li><a href="http://www.commerce.gov.mp">Northern Mariana Islands</a></li>
+		<li><a class="odd" href="http://jobs-ohio.com/">Ohio</a></li>
+		<li><a href="http://www.okcommerce.gov">Oklahoma</a></li>
+		<li><a class="odd" href="http://www.oregon4biz.com">Oregon</a></li>
+		<li><a href="http://www.newpa.com">Pennsylvania</a></li>
+	</ul>
+	<ul class="state-list">
+		<li><a class="odd" href="http://ddec.pr.gov/en/">Puerto Rico </a></li>
+		<li><a href="http://www.commerceri.com ">Rhode Island</a></li>
+		<li><a class="odd" href="http://sccommerce.com/">South Carolina</a></li>
+		<li><a href="http://www.sdreadytowork.com">South Dakota</a></li>
+		<li><a class="odd" href="http://www.tn.gov/ecd/">Tennessee</a></li>
+		<li><a href="http://www.texaswideopenforbusiness.com">Texas</a></li>
+		<li><a class="odd" href="http://www.usvieda.org">US Virgin Islands</a></li>
+		<li><a href="http://www.business.utah.gov">Utah</a></li>
+		<li><a class="odd" href="http://www.thinkvermont.com">Vermont</a></li>
+		<li><a href="http://www.yesvirginia.org">Virginia</a></li>
+		<li><a class="odd" href="http://www.choosewashington.com/">Washington</a></li>
+		<li><a href="http://www.wvcommerce.org/">West Virginia</a></li>
+		<li><a class="odd" href="http://wedc.org">Wisconsin</a></li>
+		<li><a href="http://wyomingbusiness.org/Relocation">Wyoming</a></li>
+	</ul>
+</div>
+
+					<footer class="entry-meta clearfix">
+
+				
+
+			</footer><!-- .entry-meta -->
+
+		</div><!-- .entry-content -->
+
+	</div><!-- .entry-container -->
+
+</article><!-- #post-13 --><article id="post-7" class="post-7 post type-post status-publish format-standard sticky hentry category-world">
+
+	
+		<!-- Custom Styles for Interactive World Maps -->
+		<style type="text/css">
+		#west_bank #iwm_map_canvas {
+
+overflow:hidden;
+
+}
+
+#west_bank #map_canvas_51 {
+
+width: 300%;
+
+height: 250%;
+
+margin-left: -100%;
+
+margin-top: -25%;
+
+}
+
+
+
+#west_bank #iwm_map_canvas {
+
+overflow:hidden;
+
+}
+
+#west_bank #map_canvas_51 {
+
+width: 300%;
+
+height: 250%;
+
+margin-left: -100%;
+
+margin-top: -25%;
+
+}
+
+
+
+#sp_crop #map_canvas_52 {
+
+width: 280%;
+
+height: 210%;
+
+margin-left: -110%;
+
+margin-top: -5%;
+
+}
+
+
+
+#hide_americas #map_canvas_37 {
+
+width:200%;
+
+height:150%;
+
+margin-left:-80%;
+
+margin-top:-20%;
+
+}
+
+
+
+#africa_crop #map_canvas_18 {
+
+width: 190%;
+
+height: 150%;
+
+margin-left: -40%;
+
+margin-top: -15%;
+
+}
+
+
+
+
+
+#africa_crop #iwm_map_canvas {
+
+min-height:500px;
+
+}
+
+
+
+#iwm_map_canvas ul li {
+
+  font-size: 12px !important;
+
+  line-height: 1 !important;
+
+  color: #525252 !important;
+
+}
+
+
+
+#iwm_map_canvas {
+
+overflow:hidden;
+
+}
+
+
+
+#me_crop #iwm_map_canvas #map_canvas_38 {
+
+width: 350%;
+
+height: 350%;
+
+margin-left: -170%;
+
+margin-top: -100%;
+
+}
+
+
+
+#sa_crop #map_canvas_34 {
+
+width: 180%;
+
+height: 350%;
+
+margin-left: -30%;
+
+margin-top: -60%;
+
+}
+
+
+
+#nz_crop #map_canvas_22 {
+
+width: 190%;
+
+height: 200%;
+
+margin-left: -40%;
+
+margin-top: -28%;
+
+}
+
+
+
+#au_crop #map_canvas_39 {
+
+width: 180%;
+
+height: 160%;
+
+margin-left: -35%;
+
+margin-top: -7%;
+
+}
+
+
+
+#uk_crop #map_canvas_40 {
+
+width: 180%;
+
+height: 130%;
+
+margin-left: -35%;
+
+margin-top: -13%;
+
+}
+
+
+
+#emea_crop #map_canvas_1 {
+
+width: 350%;
+
+height: 250%;
+
+margin-left: -145%;
+
+margin-top: -53%;
+
+}
+
+
+
+#fr_crop #iwm_map_canvas {
+
+min-height:600px;
+
+}
+
+
+
+#fr_crop  #map_canvas_41 {
+
+width:140%;
+
+margin-left:-20%;
+
+}
+
+
+
+
+
+
+
+#custom_css #map_canvas_1 path {
+
+stroke-width:1;
+
+stroke:#009900;
+
+}
+
+
+
+#custom_css #map_canvas_4 circle {
+
+cursor:pointer;
+
+}
+
+
+
+#custom_css #map_canvas_20 path:not([fill^="#ffffff"]):hover {
+
+fill:red;
+
+}
+
+
+
+#it_crop #iwm_map_canvas {
+
+overflow:hidden;
+
+border-radius:50%;
+
+}
+
+
+
+#it_crop #map_canvas_20 {
+
+width:160%;
+
+height: 120%;
+
+margin-left:-30%;
+
+margin-top:-5%;
+
+}
+
+
+
+#am_crop #iwm_map_canvas {
+
+overflow:hidden;
+
+min-height:630px;
+
+}
+
+
+
+#am_crop #map_canvas_42 {
+
+width: 210%;
+
+margin-left: -55%;
+
+margin-top: -20%;
+
+}
+
+
+
+#cam_crop #iwm_map_canvas {
+
+overflow:hidden;
+
+}
+
+
+
+#cam_crop #map_canvas_50 {
+
+width: 230%;
+
+margin-left: -25%;
+
+margin-top: -87%;
+
+}
+
+
+
+#mu_crop #iwm_map_canvas {
+
+overflow:hidden;
+
+}
+
+
+
+
+
+#mu_crop #map_canvas_43 {
+
+width: 1020%;
+
+height: 760%;
+
+margin-left: -355%;
+
+margin-top: -410%;
+
+}
+
+
+
+#iw_bgimage {
+
+background-image:url(http://cmoreira.net/responsive-interactive-maps/skin/assets/img/pattern/large/cream_pixels.png);
+
+}
+
+
+		</style><link rel='stylesheet' id='imapresponsivecss-css'  href='http://cmoreira.net/responsive-interactive-maps/ext/interactive-world-maps/includes/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='iwm_front_css-css'  href='http://cmoreira.net/responsive-interactive-maps/ext/interactive-world-maps/styles.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js'></script>
+<script type='text/javascript' src='http://cmoreira.net/responsive-interactive-maps/skin/assets/js/jquery.snippet.min.js'></script>
+<script type='text/javascript' src='http://cmoreira.net/responsive-interactive-maps/skin/assets/js/jquery.nivo.slider.pack.js'></script>
+<script type='text/javascript' src='http://cmoreira.net/responsive-interactive-maps/skin/assets/js/jquery.timeago.js'></script>
+<script type='text/javascript' src='http://cmoreira.net/responsive-interactive-maps/skin/assets/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://cmoreira.net/responsive-interactive-maps/skin/assets/js/jquery.magnific-popup.js'></script>
+<script type='text/javascript' src='http://cmoreira.net/responsive-interactive-maps/skin/assets/js/mediaelement-and-player.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var blu = {"site_url":"http:\/\/cmoreira.net\/responsive-interactive-maps","ajaxurl":"http:\/\/cmoreira.net\/responsive-interactive-maps\/ajax","locale":{"no_search_results":"No results match your search.","searching":"Searching...","search_results":"Search Results","see_all":"see all","loading":"Loading...","no_more_posts":"No more posts","see_more_articles":"See more articles","no_email_provided":"No email provided","thank_you_for_subscribing":"Thank you for subscribing!"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cmoreira.net/responsive-interactive-maps/skin/assets/js/theme.min.js'></script>
+<script type='text/javascript' src='http://cmoreira.net/responsive-interactive-maps/skin/assets/js/plugins.js'></script>
+<script type='text/javascript' src='http://cmoreira.net/responsive-interactive-maps/skin/assets/js/retina.js'></script>
+<script type='text/javascript' src='http://www.google.com/jsapi'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var iwmparam = [{"apiversion":"1","usehtml":"1","id":"2","bgcolor":"#FFFFFF","stroke":"0","bordercolor":"#CCCCCC","incolor":"#F5F5F5","actcolor":"#438094","width":"","height":"","aspratio":"1","interactive":"true","tooltip":"focus","region":"US","resolution":"provinces","markersize":"10","displaymode":"regions","placestxt":"US-AK,Alaska,Click for more information,Obama (D)  will <span style=\"color:#444&#59 font-weight:bold&#59\">win<\/span> in Alaska.,#438094;\r\nUS-AL,Alabama,Click for more information,This will be the information for Alabama,#438094;\r\nUS-AR,Arkansas,Click for more information,This will be the information for Arkansas,#438094;\r\nUS-AZ,Arizona,Click for more information,This will be the information for Arizona,#438094;\r\nUS-CA,California,Click for more information,This will be the information for California,#438094;\r\nUS-CO,Colorado,Click for more information,This will be the information for Colorado,#438094;\r\nUS-CT,Connecticut,Click for more information,This will be the information for Connecticut,#438094;\r\nUS-DE,Delaware,Click for more information,This will be the information for Delaware,#438094;\r\nUS-FL,Florida,Click for more information,This will be the information for Florida,#438094;\r\nUS-GA,Georgia,Click for more information,This will be the information for Georgia,#438094;\r\nUS-HI,Hawaii,Click for more information,This will be the information for Hawaii,#438094;\r\nUS-IA,Iowa,Click for more information,This will be the information for Iowa,#438094;\r\nUS-ID,Idaho,Click for more information,This will be the information for Idaho,#438094;\r\nUS-IL,Illinois,Click for more information,This will be the information for Illinois,#438094;\r\nUS-IN,Indiana,Click for more information,This will be the information for Indiana,#438094;\r\nUS-KS,Kansas,Click for more information,This will be the information for Kansas,#438094;\r\nUS-KY,Kentucky,Click for more information,This will be the information for Kentucky,#438094;\r\nUS-LA,Louisiana,Click for more information,This will be the information for Louisiana,#438094;\r\nUS-MA,Massachusetts,Click for more information,This will be the information for Massachusetts,#438094;\r\nUS-MD,Maryland,Click for more information,This will be the information for Maryland,#438094;\r\nUS-ME,Maine,Click for more information,This will be the information for Maine,#438094;\r\nUS-MI,Michigan,Click for more information,This will be the information for Michigan,#438094;\r\nUS-MN,Minnesota,Click for more information,This will be the information for Minnesota,#438094;\r\nUS-MO,Missouri,Click for more information,This will be the information for Missouri,#438094;\r\nUS-MS,Mississippi,Click for more information,This will be the information for Mississippi,#438094;\r\nUS-MT,Montana,Click for more information,This will be the information for Montana,#438094;\r\nUS-NC,North Carolina,Click for more information,This will be the information for North Carolina,#DE3403;\r\nUS-ND,North Dakota,Click for more information,This will be the information for North Dakota,#DE3403;\r\nUS-NE,Nebraska,Click for more information,This will be the information for Nebraska,#DE3403;\r\nUS-NH,New Hampshire,Click for more information,This will be the information for New Hampshire,#DE3403;\r\nUS-NJ,New Jersey,Click for more information,This will be the information for New Jersey,#DE3403;\r\nUS-NM,New Mexico,Click for more information,This will be the information for New Mexico,#DE3403;\r\nUS-NV,Nevada,Click for more information,This will be the information for Nevada,#DE3403;\r\nUS-NY,New York,Click for more information,This will be the information for New York,#DE3403;\r\nUS-OH,Ohio,Click for more information,This will be the information for Ohio,#DE3403;\r\nUS-OK,Oklahoma,Click for more information,This will be the information for Oklahoma,#DE3403;\r\nUS-OR,Oregon,Click for more information,This will be the information for Oregon,#DE3403;\r\nUS-PA,Pennsylvania,Click for more information,This will be the information for Pennsylvania,#DE3403;\r\nUS-RI,Rhode Island,Click for more information,This will be the information for Rhode Island,#DE3403;\r\nUS-SC,South Carolina,Click for more information,This will be the information for South Carolina,#DE3403;\r\nUS-SD,South Dakota,Click for more information,This will be the information for South Dakota,#DE3403;\r\nUS-TN,Tennessee,Click for more information,This will be the information for Tennessee,#DE3403;\r\nUS-TX,Texas,Click for more information,This will be the information for Texas,#E0D39E;\r\nUS-UT,Utah,Click for more information,This will be the information for Utah,#E0D39E;\r\nUS-VA,Virginia,Click for more information,This will be the information for Virginia,#E0D39E;\r\nUS-VT,Vermont,Click for more information,This will be the information for Vermont,#E0D39E;\r\nUS-WA,Washington,Click for more information,This will be the information for Washington,#E0D39E;\r\nUS-WI,Wisconsin,Click for more information,This will be the information for Wisconsin,#E0D39E;\r\nUS-WV,West Virginia,Click for more information,This will be the information for West Virginia,#E0D39E;\r\nUS-WY,Wyoming,Click for more information,This will be the information for Wyoming,#E0D39E;","action":"i_map_action_content_below","custom_action":""},{"apiversion":"1","usehtml":"1","id":"1","bgcolor":"#FFFFFF","stroke":"0","bordercolor":"#CCCCCC","incolor":"#D6DBEB","actcolor":"#438094","width":"","height":"","aspratio":"1","interactive":"false","tooltip":"focus","region":"world","resolution":"countries","markersize":"10","displaymode":"markers02","placestxt":"40.7143528 -74.0059731,New York ,Click to display content<br><img src=\"http:\/\/cmoreira.net\/responsive-interactive-maps\/file\/2013\/10\/1382815976_US.png\">,<strong>New York Office<\/strong><br>This could be an Adress<br>Or Telephone Contact.,#F0853E;\r\n38.7252993 -9.150036399999976,Lisbon,Click to display content<br><img src=\"http:\/\/cmoreira.net\/responsive-interactive-maps\/file\/2013\/10\/1382816130_PT.png\">,<strong>Lisbon Office<\/strong><br>This could be <i>HTML<\/i>.\r\n<br><img src=\"http:\/\/cmoreira.net\/responsive-interactive-maps\/file\/2013\/10\/1382816130_PT.png\">,#369419;\r\n-22.9035393 -43.20958689999998,Rio de Janeiro,<img src=\"http:\/\/cmoreira.net\/responsive-interactive-maps\/file\/2013\/10\/1382816121_BR.png\"><br>Click to display Information,<strong>Rio de Janeiro Office<\/strong><br>This could be any <strong>HTML<\/strong> <span style=\"color:#6699cc\">content you want.<\/span>,#438094;","action":"i_map_action_content_below","custom_action":"document.getElementById('imap1message').scrollIntoView(true);\r\ndocument.getElementById('imap1message').innerHTML = ivalue_1[selectedRegion];"},{"apiversion":"1","usehtml":"1","id":"55","bgcolor":"#FFFFFF","stroke":"0","bordercolor":"#CCCCCC","incolor":"#F5F5F5","actcolor":"#438094","width":"","height":"","aspratio":"1","interactive":"true","tooltip":"focus","region":"PH","resolution":"provinces","markersize":"10","displaymode":"regions","placestxt":"\r\nPH-13,Caraga,Example,#,#55A3BD;\r\nPH-11,Davao,Example,#,#438094;","action":"none","custom_action":""},{"apiversion":"1","usehtml":"1","id":"54","bgcolor":"#FFFFFF","stroke":"0","bordercolor":"#CCCCCC","incolor":"#F5F5F5","actcolor":"#438094","width":"","height":"","aspratio":"1","interactive":"true","tooltip":"focus","region":"LK","resolution":"provinces","markersize":"10","displaymode":"regions","placestxt":"\r\nLK-9,Sabaragamuwa Province,,,#127D3D;\r\nLK-8,Uva Province,,,#127D3D;LK-2,Central Province,,,#ED852B;\r\nLK-1,Western Province,,,#127D3D;\r\nLK-3,Southern Province,,,#127D3D;\r\nLK-4, \tNorthern Province,,,#ED852B;\r\nLK-5, \tEastern Province,,,#ED852B;LK-6,North Western Province,,,#ED852B;\r\nLK-7,North Central Province,,,#127D3D;","action":"none","custom_action":""},{"apiversion":"1","usehtml":"1","id":"53","bgcolor":"#FFFFFF","stroke":"0","bordercolor":"#CCCCCC","incolor":"#F5F5F5","actcolor":"#438094","width":"","height":"","aspratio":"1","interactive":"true","tooltip":"focus","region":"ID","resolution":"provinces","markersize":"10","displaymode":"regions","placestxt":"ID-RI,Riau,Example,,#438094;\r\nID-MA,Maluku,Example,,#438094;\r\nID-BA,Bali,Example,,#438094;\r\n","action":"none","custom_action":""},{"apiversion":"1","usehtml":"1","id":"3","bgcolor":"#FAFFFF","stroke":"0","bordercolor":"#FFFFFF","incolor":"#FFFFFF","actcolor":"#438094","width":"","height":"","aspratio":"1","interactive":"true","tooltip":"focus","region":"CA","resolution":"provinces","markersize":"10","displaymode":"regions","placestxt":"CA-AB,Alberta,Alberta,http:\/\/en.wikipedia.org\/wiki\/Alberta,#FEE6CE;\r\nCA-BC,British Columbia,Colombie-Britannique,http:\/\/en.wikipedia.org\/wiki\/British_Columbia,#FEE6CE;\r\nCA-MB,Manitoba,Manitoba,http:\/\/en.wikipedia.org\/wiki\/Manitoba,#FEE6CE;\r\nCA-NB,New Brunswick,Nouveau-Brunswick,http:\/\/en.wikipedia.org\/wiki\/New_Brunswick,#FEE6CE;\r\nCA-NL,Newfoundland and Labrador,Terre-Neuve-et-Labrador,http:\/\/en.wikipedia.org\/wiki\/Newfoundland_and_Labrador,#FEE6CE;\r\nCA-NS,Nova Scotia,Nouvelle-\u00c9cosse,http:\/\/en.wikipedia.org\/wiki\/Nova_Scotia,#FDAE6B;\r\nCA-ON,Ontario,Ontario,http:\/\/en.wikipedia.org\/wiki\/Ontario,#FDAE6B;\r\nCA-PE,Prince Edward Island,\u00cele-du-Prince-\u00c9douard,http:\/\/en.wikipedia.org\/wiki\/Prince_Edward_Island,#FDAE6B;\r\nCA-QC,Quebec,Qu\u00e9bec,http:\/\/en.wikipedia.org\/wiki\/Quebec,#FDAE6B;\r\nCA-SK,Saskatchewan,Saskatchewan,http:\/\/en.wikipedia.org\/wiki\/Saskatchewan,#FDAE6B;\r\nCA-NT,Northwest Territories,Territoires du Nord-Ouest,http:\/\/en.wikipedia.org\/wiki\/Northwest_Territories,#E6550D;\r\nCA-NU,Nunavut,Nunavut,http:\/\/en.wikipedia.org\/wiki\/Nunavut,#E6550D;\r\nCA-YT,Yukon Territory,Territoire du Yukon,http:\/\/en.wikipedia.org\/wiki\/Yukon,#E6550D;","action":"i_map_action_open_url_new","custom_action":""},{"apiversion":"1","usehtml":"1","id":"2","bgcolor":"#FFFFFF","stroke":"0","bordercolor":"#CCCCCC","incolor":"#F5F5F5","actcolor":"#438094","width":"","height":"","aspratio":"1","interactive":"true","tooltip":"focus","region":"US","resolution":"provinces","markersize":"10","displaymode":"regions","placestxt":"US-AK,Alaska,Click for more information,Obama (D)  will <span style=\"color:#444&#59 font-weight:bold&#59\">win<\/span> in Alaska.,#438094;\r\nUS-AL,Alabama,Click for more information,This will be the information for Alabama,#438094;\r\nUS-AR,Arkansas,Click for more information,This will be the information for Arkansas,#438094;\r\nUS-AZ,Arizona,Click for more information,This will be the information for Arizona,#438094;\r\nUS-CA,California,Click for more information,This will be the information for California,#438094;\r\nUS-CO,Colorado,Click for more information,This will be the information for Colorado,#438094;\r\nUS-CT,Connecticut,Click for more information,This will be the information for Connecticut,#438094;\r\nUS-DE,Delaware,Click for more information,This will be the information for Delaware,#438094;\r\nUS-FL,Florida,Click for more information,This will be the information for Florida,#438094;\r\nUS-GA,Georgia,Click for more information,This will be the information for Georgia,#438094;\r\nUS-HI,Hawaii,Click for more information,This will be the information for Hawaii,#438094;\r\nUS-IA,Iowa,Click for more information,This will be the information for Iowa,#438094;\r\nUS-ID,Idaho,Click for more information,This will be the information for Idaho,#438094;\r\nUS-IL,Illinois,Click for more information,This will be the information for Illinois,#438094;\r\nUS-IN,Indiana,Click for more information,This will be the information for Indiana,#438094;\r\nUS-KS,Kansas,Click for more information,This will be the information for Kansas,#438094;\r\nUS-KY,Kentucky,Click for more information,This will be the information for Kentucky,#438094;\r\nUS-LA,Louisiana,Click for more information,This will be the information for Louisiana,#438094;\r\nUS-MA,Massachusetts,Click for more information,This will be the information for Massachusetts,#438094;\r\nUS-MD,Maryland,Click for more information,This will be the information for Maryland,#438094;\r\nUS-ME,Maine,Click for more information,This will be the information for Maine,#438094;\r\nUS-MI,Michigan,Click for more information,This will be the information for Michigan,#438094;\r\nUS-MN,Minnesota,Click for more information,This will be the information for Minnesota,#438094;\r\nUS-MO,Missouri,Click for more information,This will be the information for Missouri,#438094;\r\nUS-MS,Mississippi,Click for more information,This will be the information for Mississippi,#438094;\r\nUS-MT,Montana,Click for more information,This will be the information for Montana,#438094;\r\nUS-NC,North Carolina,Click for more information,This will be the information for North Carolina,#DE3403;\r\nUS-ND,North Dakota,Click for more information,This will be the information for North Dakota,#DE3403;\r\nUS-NE,Nebraska,Click for more information,This will be the information for Nebraska,#DE3403;\r\nUS-NH,New Hampshire,Click for more information,This will be the information for New Hampshire,#DE3403;\r\nUS-NJ,New Jersey,Click for more information,This will be the information for New Jersey,#DE3403;\r\nUS-NM,New Mexico,Click for more information,This will be the information for New Mexico,#DE3403;\r\nUS-NV,Nevada,Click for more information,This will be the information for Nevada,#DE3403;\r\nUS-NY,New York,Click for more information,This will be the information for New York,#DE3403;\r\nUS-OH,Ohio,Click for more information,This will be the information for Ohio,#DE3403;\r\nUS-OK,Oklahoma,Click for more information,This will be the information for Oklahoma,#DE3403;\r\nUS-OR,Oregon,Click for more information,This will be the information for Oregon,#DE3403;\r\nUS-PA,Pennsylvania,Click for more information,This will be the information for Pennsylvania,#DE3403;\r\nUS-RI,Rhode Island,Click for more information,This will be the information for Rhode Island,#DE3403;\r\nUS-SC,South Carolina,Click for more information,This will be the information for South Carolina,#DE3403;\r\nUS-SD,South Dakota,Click for more information,This will be the information for South Dakota,#DE3403;\r\nUS-TN,Tennessee,Click for more information,This will be the information for Tennessee,#DE3403;\r\nUS-TX,Texas,Click for more information,This will be the information for Texas,#E0D39E;\r\nUS-UT,Utah,Click for more information,This will be the information for Utah,#E0D39E;\r\nUS-VA,Virginia,Click for more information,This will be the information for Virginia,#E0D39E;\r\nUS-VT,Vermont,Click for more information,This will be the information for Vermont,#E0D39E;\r\nUS-WA,Washington,Click for more information,This will be the information for Washington,#E0D39E;\r\nUS-WI,Wisconsin,Click for more information,This will be the information for Wisconsin,#E0D39E;\r\nUS-WV,West Virginia,Click for more information,This will be the information for West Virginia,#E0D39E;\r\nUS-WY,Wyoming,Click for more information,This will be the information for Wyoming,#E0D39E;","action":"i_map_action_content_below","custom_action":""},{"apiversion":"1","usehtml":"1","id":"49","bgcolor":"#FFFFFF","stroke":"0","bordercolor":"#CCCCCC","incolor":"#F5F5F5","actcolor":"#438094","width":"","height":"","aspratio":"1","interactive":"true","tooltip":"focus","region":"CH","resolution":"provinces","markersize":"10","displaymode":"regions","placestxt":"CH-AG,Aargau ,Example,#,#438094;\r\n","action":"none","custom_action":""}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://cmoreira.net/responsive-interactive-maps/ext/interactive-world-maps/includes/shortcode.js'></script>
+<script type='text/javascript' src='http://cmoreira.net/responsive-interactive-maps/ext/interactive-world-maps/includes/responsive.js'></script>
+</body>
+</html>

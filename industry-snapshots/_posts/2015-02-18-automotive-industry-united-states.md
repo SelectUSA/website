@@ -8,8 +8,6 @@ tags: [Automotive, Manufacturing]
 published: true
 ---
 
-## The U.S. Automotive Industry 
-
 <span class="imgright">![front end of an automobile being welded together]({{ site.baseurl }}/images/automanufacturing_0-371x269.jpg)</span>
 
 The United States

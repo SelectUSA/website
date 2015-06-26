@@ -65,8 +65,7 @@ pharmaceuticals globally, but they have come to rely more heavily on research
 performed by industry partners, including smaller, innovative manufacturers.&nbsp; Pricing of innovative pharmaceuticals is
 designed to recapture R&amp;D expenditures.
 
-The**
-biopharmaceutical industry** produces medical drugs derived from life forms
+The **biopharmaceutical industry** produces medical drugs derived from life forms
 (biologics). These include proteins (including antibodies), and nucleic acids
 (DNA, RNA or antisense oligonucleotides) used for therapeutic or in vivo
 diagnostic purposes, and are produced by means other than direct extraction
@@ -79,8 +78,7 @@ commercialization, or independently financed.
 
 <span class="imgright">![pharmaceutical research workers]({{ site.baseurl }}/images/pharm2.jpg "pharmaceutical research workers")</span>
 
-**Biologics
-**(both biologics and biosimilars) include a wide range of products such as
+**Biologics** (both biologics and biosimilars) include a wide range of products such as
 vaccines, therapeutic proteins, blood and blood components, tissues, etc.&nbsp; Major pharmaceutical companies continue to
 diversify into biologics through acquisitions of biotechnology companies,
 in-licensing of products, and R&amp;D alliances.&nbsp; Some biotech firms have chosen to license

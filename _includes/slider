@@ -1,0 +1,46 @@
+<!-- Carousel
+================================================== -->
+  <div id="Carousel" class="carousel slide carousel-fade" data-ride="carousel">
+       
+         <ol class="carousel-indicators">
+    <li data-target="#Carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#Carousel" data-slide-to="1"></li>
+    <li data-target="#Carousel" data-slide-to="2"></li>
+  </ol>
+
+        <div class="carousel-inner">
+            <div class="item active" >
+                <img src="{{ site.baseurl }}/images/nyc.jpg" alt="New York City" />
+                 <div class="carousel-caption">
+            <h3 class="trn">Why Select the USA?</h3>
+            <p class="trn">Learn why the U.S. is the world’s top location for business and investment.</p>
+            <p><a href="{{ site.baseurl }}{{ post.url }}/why-select-usa.html" class="btn btn-default btn-sm" style="background:none;border-style: solid;border-color: #fff;"><span class="trn" style="color:#fff;">EXPLORE</span></a></p>
+          </div>
+            </div>
+           <div class="item">
+             <img src="{{ site.baseurl }}/images/bridge.jpg" alt="Golden Gate Bridge"   />
+             <div class="carousel-caption">
+            <h3 class="trn">Federal Programs and Incentives for Business</h3>
+            <p class="trn">Programs and incentives to help your business succeed.</p>
+            <p><a href="{{ site.baseurl }}{{ post.url }}/investment-incentives.html" class="btn btn-default btn-sm" style="background:none;border-style: solid;border-color: #fff;"><span class="trn" style="color:#fff;">FIND OUT MORE</span></a></p>
+          </div>
+            </div>
+           <div class="item">
+             <img src="{{ site.baseurl }}/images/traingrain.jpg" alt="Grain silo and train"  />
+             <div class="carousel-caption">
+            <h3 class="trn">They Chose the USA</h3>
+            <p class="trn">Learn why different businesses are choosing America to expand and invest.</p>
+            <p><a href="{{ site.baseurl }}{{ post.url }}/they-chose-usa.html" class="btn btn-default btn-sm" style="background:none;border-style: solid;border-color: #fff;"><span class="trn" style="color:#fff;">HEAR THEIR STORIES</span></a></p>
+          </div>
+          
+            </div>
+        </div>
+
+        <a class="left carousel-control" href="#Carousel" data-slide="prev">
+            
+        </a>
+        <a class="right carousel-control" href="#Carousel" data-slide="next">
+            
+        </a>
+</div>
+<!-- /.carousel -->

@@ -1,0 +1,161 @@
+@charset "utf-8";
+	.image
+{
+	background-image : url(image.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 13pt;
+	top : 6pt;
+	width : 923pt;
+	height : 818pt;
+}
+.DC-label
+{
+	background-image : url(DC-label.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 807pt;
+	top : 249pt;
+	width : 141pt;
+	height : 96pt;
+}
+.MD-label
+{
+	background-image : url(MD-label.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 837pt;
+	top : 259pt;
+	width : 111pt;
+	height : 61pt;
+}
+.DE-label
+{
+	background-image : url(DE-label.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 837pt;
+	top : 249pt;
+	width : 111pt;
+	height : 46pt;
+}
+.NJ-label
+{
+	background-image : url(NJ-label.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 847pt;
+	top : 229pt;
+	width : 101pt;
+	height : 41pt;
+}
+.CT-label
+{
+	background-image : url(CT-label.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 867pt;
+	top : 179pt;
+	width : 81pt;
+	height : 66pt;
+}
+.RI-label
+{
+	background-image : url(RI-label.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 885pt;
+	top : 172pt;
+	width : 63pt;
+	height : 48pt;
+}
+.MH-label
+{
+	background-image : url(MH-label.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 892pt;
+	top : 159pt;
+	width : 56pt;
+	height : 36pt;
+}
+.MH-label_1_
+{
+	background-image : url(MH-label_1_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 877pt;
+	top : 139pt;
+	width : 71pt;
+	height : 31pt;
+}
+.VT-label
+{
+	background-image : url(VT-label.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 852pt;
+	top : 125pt;
+	width : 96pt;
+	height : 20pt;
+}
+.AS-label
+{
+	background-image : url(AS-label.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 134pt;
+	top : 653pt;
+	width : 31pt;
+	height : 20pt;
+}
+.MP-label
+{
+	background-image : url(MP-label.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 385pt;
+	top : 653pt;
+	width : 31pt;
+	height : 20pt;
+}
+.GU-label
+{
+	background-image : url(GU-label.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 268pt;
+	top : 650pt;
+	width : 31pt;
+	height : 20pt;
+}
+.PR-label
+{
+	background-image : url(PR-label.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 626pt;
+	top : 662pt;
+	width : 31pt;
+	height : 20pt;
+}
+.VI-label
+{
+	background-image : url(VI-label.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 857pt;
+	top : 653pt;
+	width : 31pt;
+	height : 20pt;
+}
+.st0
+{
+	background : #008000;
+	background : rgba(0, 128, 0, 1);
+	position : absolute ;
+	left : 867pt;
+	top : 220pt;
+	width : 70pt;
+	height : 120pt;
+}

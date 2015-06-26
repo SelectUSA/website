@@ -8,10 +8,6 @@ tags: [Consumer Goods, Food; Beverage and Restaurant Manufacturing, Retail Trade
 published: true
 ---
 
-
-
-## The U.S. Consumer Goods Industry
-
 <span>The United States is a world
 leader in consumer goods market research, product innovation, manufacturing,
 and branding and marketing. The United States also has a highly skilled

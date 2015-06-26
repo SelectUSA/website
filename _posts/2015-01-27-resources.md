@@ -11,14 +11,14 @@ published: true
 
 ## State Designated Investment Officials
 
-*   [SelectUSA Contact List For States and Territories](/documents/2015_State_Contact_List_04-15-2015.pdf) 
+*   [SelectUSA Contact List For States and Territories]({{ site.baseurl }}{{post.url}}/documents/2015_State_Contact_List_04-15-2015.pdf) 
 
 ## Online Tools 
 
-*   **[Assess Costs Everywhere (ACE) Tool](http://acetool.commerce.gov/)&nbsp;-&nbsp;**<span>This product of the Department of Commerce's&nbsp;</span>[Economics and Statistics Administration](http://www.esa.doc.gov/)<span>&nbsp;provides manufacturers with the top reasons for investing and sourcing in the United States.&nbsp; With its analytic framework, links to public and private resources, and case studies, ACE is now available to help businesses assess total costs more accurately and enable informed decision-making.</span>
-*   <span>**[Cluster Mapping Tool ](http://www.clustermapping.us/)**-&nbsp;<span>This project, made possible in part by a grant from the&nbsp;Department of Commerce's&nbsp;[Economic Development Administration](http://www.eda.gov/),&nbsp;aims to provide policymakers and development practitioners across America with the data and tools for assessing regional cluster strengths, business environment characteristics, and innovation assets; with case studies on and toolkits for formulating development strategies; and with a directory profiling active cluster initiatives throughout the country.</span></span>
-*   <span><span>**[State Business Incentives Database](http://selectusa.stateincentives.org/?referrer=selectusa)** - This&nbsp;national database was created by the [Council for Community and Economic Research](http://www.c2er.org/) (C2ER). With almost 2,000 programs from all 50 states, as well as 5 territories and the District of Columbia, the Database is a one-stop resource&nbsp;for investors and economic developers to search and compare state incentive programs.</span></span>
-*   **[Other tools](/tools.html)**
+*   [Assess Costs Everywhere (ACE) Tool](http://acetool.commerce.gov/)&nbsp;-&nbsp;<span>This product of the Department of Commerce's&nbsp;</span>[Economics and Statistics Administration](http://www.esa.doc.gov/)<span>&nbsp;provides manufacturers with the top reasons for investing and sourcing in the United States.&nbsp; With its analytic framework, links to public and private resources, and case studies, ACE is now available to help businesses assess total costs more accurately and enable informed decision-making.</span>
+*   <span>[Cluster Mapping Tool](http://www.clustermapping.us/)<span>This project, made possible in part by a grant from the&nbsp;Department of Commerce's&nbsp;[Economic Development Administration](http://www.eda.gov/),&nbsp;aims to provide policymakers and development practitioners across America with the data and tools for assessing regional cluster strengths, business environment characteristics, and innovation assets; with case studies on and toolkits for formulating development strategies; and with a directory profiling active cluster initiatives throughout the country.</span></span>
+*   <span><span>[State Business Incentives Database](http://selectusa.stateincentives.org/?referrer=selectusa) - This&nbsp;national database was created by the [Council for Community and Economic Research](http://www.c2er.org/) (C2ER). With almost 2,000 programs from all 50 states, as well as 5 territories and the District of Columbia, the Database is a one-stop resource&nbsp;for investors and economic developers to search and compare state incentive programs.</span></span>
+*   [Other tools]({{ site.baseurl }}{{post.url}}/tools.html)
 
 ## Doing Business in the U.S.
 
@@ -28,22 +28,23 @@ published: true
 *   [Federal Laws and Regulations](http://www.usa.gov/Topics/Reference-Shelf/Laws.shtml) - Links and guides to help business owners understand their federal regulatory requirements.
 *   <span>[LocationUSA](http://www.areadevelopment.com/LocationUSA/)<span>&nbsp;is a guide for international companies looking to invest or establish operations within the United States. Location USA provides practical advice and guidance about facilities deployment, labor force skills, taxes and incentives, and more.</span></span>
 *   [State and Local Regulations](http://www.sba.gov/category/navigation-structure/starting-managing-business/starting-business/choose-register-your-busi) - Step-by-step instructions for complying with state and local regulations when starting or running a business.
-*   [Business Investment Reports](/business-investment-reports.html) - from SelectUSA and other sources.
+*   [Business Investment Reports]({{ site.baseurl }}{{post.url}}/business-investment-reports.html) - from SelectUSA and other sources.
 
 ## Private Sector Business Guides
 
-*   [Fried Frank: Coming to America: The Legal Basics](http://bit.ly/1oylzqw)
-*   [BritishAmerican Business: American British Trade &amp; Investment 2015 - The Guide to Investing in the USA](http://tradeinvest.babinc.org/ambrit)
-*   [Baker &amp; McKenzie: Legal Guide to Doing Business in the U.S.](http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1037&amp;context=lawfirms)
-*   [Deloitte: International Tax &amp; Business Guide for the U.S.A](http://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-unitedstatesguide-2011.pdf)
-*   [Ernst &amp; Young: The Inbound Guide to US Corporate Tax](http://www.ey.com/Publication/vwLUAssets/EY_US_Inbound_brochure_en/$FILE/EY-US-Inbound-brochure-en.pdf)
-*   [Gallet Dreyer &amp; Berkey, LLP: Doing Business in the USA](http://www.gdblaw.com/images/doc/BusinessUSA_Eng.pdf)
-*   [HLB International: Doing Business in the United States](http://www.hlbi.com/index.php?option=com_content&amp;view=article&amp;id=37&amp;Itemid=19)
-*   [KPMG: Investing in the U.S.: A Guide for Foreign Companies](https://www.kpmg.com/US/en/IssuesAndInsights/ArticlesPublications/Documents/invest-in-the-us-international.pdf)*   [PricewaterhouseCoopers: Doing Business in the United States: A Guide to the Key Tax Issues](http://www.pwc.com/en_US/us/tax-services/publications/assets/doing-business-in-the-us-2014.pdf)
+*   PwC: [Doing business in the United States: A guide to the key tax issues](http://www.pwc.com/en_US/us/tax-services/publications/assets/doing-business-in-the-us-2014.pdf)
+*   Fried Frank: [Coming to America: The Legal Basics](http://bit.ly/1oylzqw)
+*   BritishAmerican Business: [American British Trade &amp; Investment 2015 - The Guide to Investing in the USA](http://tradeinvest.babinc.org/ambrit)
+*   Baker &amp; McKenzie: [Legal Guide to Doing Business in the U.S.](http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1037&amp;context=lawfirms)
+*   Deloitte: [International Tax &amp; Business Guide for the U.S.A](http://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-unitedstatesguide-2011.pdf)
+*   Ernst &amp; Young: [The Inbound Guide to US Corporate Tax](http://www.ey.com/Publication/vwLUAssets/EY_US_Inbound_brochure_en/$FILE/EY-US-Inbound-brochure-en.pdf)
+*   Gallet Dreyer &amp; Berkey, LLP: [Doing Business in the USA](http://www.gdblaw.com/images/doc/BusinessUSA_Eng.pdf)
+*   HLB International: [Doing Business in the United States](http://www.hlbi.com/index.php?option=com_content&amp;view=article&amp;id=37&amp;Itemid=19)
+*   KPMG: [Investing in the U.S.: A Guide for Foreign Companies](https://www.kpmg.com/US/en/IssuesAndInsights/ArticlesPublications/Documents/invest-in-the-us-international.pdf)*   [PricewaterhouseCoopers: Doing Business in the United States: A Guide to the Key Tax Issues](http://www.pwc.com/en_US/us/tax-services/publications/assets/doing-business-in-the-us-2014.pdf)
 
 ## International Trade and Investment<a name="internationaltrade"></a>
 
-*   <div class="defaultparagraph">[BuyUSA.GOV](http://www.buyusa.gov/import/index.asp) is the U.S. Government's Commercial Service portal for companies wishing to locate U.S. Suppliers.&nbsp; The site leads to separate areas for each listed country.&nbsp; Each country page provides information on potential U.S. suppliers, suitable U.S. trade shows to visit, special programs, and local contacts.</div>
+*   [BuyUSA.GOV](http://www.buyusa.gov/import/index.asp) is the U.S. Government's Commercial Service portal for companies wishing to locate U.S. Suppliers.&nbsp; The site leads to separate areas for each listed country.&nbsp; Each country page provides information on potential U.S. suppliers, suitable U.S. trade shows to visit, special programs, and local contacts.
 *   [www.Export.gov](http://www.export.gov/) – The U.S. Government’s Official Export Assistance Portal. Find free export counseling, market research, trade leads, solve trade problems, and trade finance assistance.
 *   [Webinars on the Basics of Exporting](http://export.gov/articles/eg_main_022213.asp)
 *   [Import Assistance and Information ](http://www.cbp.gov/trade/basic-import-export)– The U.S. Customs and Border Protection within the U.S. Department of Homeland Security is the lead agency in enforcing regulations regarding the importation of your potential shipment and charging the appropriate duties and taxes.&nbsp; U.S. Customs handles all importing related questions and issues associated with bringing products into the United States.

@@ -6,10 +6,13 @@ section: 2015-summit
 published: true
 ---
  
+<a href="http://www.flickr.com/photos/selectusa/sets">
+<img src="{{ site.baseurl }}/images/summit_flickr_banner.png" alt="This image contains a picture of President Obama and a Flickr logo. Click to go to SelectUSA's photo albums on Flickr."></a>
+<br/>
 
 ## Photos from March 24, 2015 (Day 2)
 
-*Please check back soon for our photos from the second day of the Summit!*
+*Please check back soon for more of our photos from the second day of the Summit!*
 
 [Download](http://google.github.io/material-design-icons/action/svg/design/ic_get_app_24px.svg "Download") [Download all photo files and text descriptions]({{ site.baseurl }}/downloads.html)
 

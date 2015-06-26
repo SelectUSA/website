@@ -6,6 +6,7 @@ section: 2015-summit
 published: true
 ---
  
+ 
 <a href="http://www.flickr.com/photos/selectusa/sets">
 <img src="{{ site.baseurl }}/images/summit_flickr_banner.png" alt="This image contains a picture of President Obama and a Flickr logo. Click to go to SelectUSA's photo albums on Flickr."></a>
 <br/>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+		{% include head.html %}
+<body>
+	    <div class="container" id="main">
+		{% include header %}
+		{% include topnav %}
+		</br>
+		<div class="row" >
+   <div class="col-md-6 col-sm-6">
+   
+   <div class="panel panel-default">
+           <div class="panel-heading"><h3>{{page.title}}</h3></div>
+   			<div class="panel-body">
+              <a href="https://twitter.com/selectusa">SelectUSA on Twitter</a>
+ <a class="twitter-timeline" width="450" href="https://twitter.com/SelectUSA" data-widget-id="560467615035187200">Tweets by @SelectUSA</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+              <div class="clearfix"></div>
+            </div>
+         </div>
+	
+  	<div class="col-md-6 col-sm-6">
+      	 
+          
+      	 <div class="panel panel-default">
+   			<div class="panel-body">
+              
+				<div id="block-menu-menu-testimonials-chose-usa" class="block block-menu" ><h2>Blog</h2> 
+
+<div class="view view-upcoming-events view-id-upcoming_events view-display-id-page_1 advanced-filtered-search view-dom-id-1">
+{% for post in site.categories.blog  %}
+{% capture nowunix %}{{site.time  | date: '%s'}}{% endcapture %}
+{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+    {% capture currentdate %}{{post.date | date: " %B, %Y"}}{% endcapture %}
+    {% if currentdate != thedate %}
+    <h3><span class="date-display-single">  {{ currentdate }}
+    {% capture thedate %}{{currentdate}}{% endcapture %} </span></h3>
+    {% endif %}
+     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+        {% if thecycle == 'odd' %}
+          <div class="views-row-2 views-row-even views-row-last">
+        {% else %}
+          <div class="views-row-1 views-row-odd views-row-first views-row-first">
+        {% endif %}
+ 
+      <div class="views-field-title">
+          <span class="field-content">
+              <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          </span>
+      </div>
+      <div class="views-field-field-date-1-value">
+          <span class="field-content">
+            <span class="date-display-start">
+              {{post.date | date: '%B %d, %Y' }} 
+            </span>
+          </span>
+      </div>
+  </div>
+{% endfor %}
+  </div>  </div>
+  
+<h2>See all blog posts</h2>
+
+<a href="http://blog.trade.gov/category/selectusa/">Tradeology - International Trade Administration Blog</a>
+<a href="http://www.commerce.gov/tags/selectusa">SelectUSA - Department of Commerce Blog</a>
+<a href="http://www.commerce.gov/tags/foreign-direct-investment">Foreign Direct Investment - Department of Commerce Blog</a>
+</div>   
+
+<div class="clearfix"></div>
+            </div>
+            
+
+         </div>
+        
+        <div class="col-md-12 col-sm-6">
+   
+      	 
+          
+      	 <div class="panel panel-default">
+   			<div class="panel-body">
+              
+              <div class="clearfix"></div>
+              
+				{{ content }}     
+            </div>
+            
+
+         </div>
+        
+        
+  	</div>
+   
+       
+  	
+   {% include footer %}
+   		</div>
+		{% include js.html %}
+</body>
+</html>

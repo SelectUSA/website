@@ -1,40 +1,42 @@
-<style>
-label {
-font-weight: 300;
-}
-</style>
-<!DOCTYPE HTML>
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-    <link href="stylesheets/jquery-ui-1.10.2.custom.min.css" media="screen" rel="stylesheet" type="text/css">
-
-    <script src="javascripts/jquery-1.11.1.min.js" type="text/javascript"></script>
-    <script src="javascripts/jquery-ui-1.10.2.custom.min.js" type="text/javascript"></script>
-    <script src="javascripts/filter.min.js" type="text/javascript"></script>
-    <script src="articles.js" type="text/javascript"></script>
-    <script src="javascripts/index.js" type="text/javascript"></script>
+	<head>
+	<link href="{{ site.baseurl }}/stylesheets/jquery-ui-1.10.2.custom.min.css" media="screen" rel="stylesheet" type="text/css">
+    <script src="{{ site.baseurl }}/javascripts/jquery-1.11.1.min.js" type="text/javascript"></script>
+    <script src="{{ site.baseurl }}/javascripts/jquery-ui-1.10.2.custom.min.js" type="text/javascript"></script>
+    <script src="{{ site.baseurl }}/javascripts/filter.min.js" type="text/javascript"></script>
+    <script src="{{ site.baseurl }}/articles.js" type="text/javascript"></script>
+    <script src="{{ site.baseurl }}/javascripts/index.js" type="text/javascript"></script>
   </head>
   <body>
-    <div class="container">
-      <h1 class="title">Federal Programs and Incentives for Business</h1>
-      <div class="sidebar col-span-3" style="float:left;width:25%;overflow:hidden;margin-right:50px;min-height:9700px;">
-        <div class="row">
-          
-          
-        </div>
+  <div class="row" >
+   <div class="col-md-4 col-sm-6">
+   
+   <div class="panel panel-default">
+   <div class="panel-heading"><h3>Federal Programs and Incentives for Business</h3></div>
+   			<div class="panel-body">
+
+   			
         <div>
+        <p style="font-size:12px;"><strong>How to refine your search</strong>
+        
+      </br>Use the search options on the left to narrow down your search results. If you don't select any filters, you will see all incentive programs.
+
+If you select one or more filter terms in one filter category, you will see all incentive programs that match any one of the terms selected.
+     </p>
         <h4>Search by Keyword</h4>
-          <input type="text" id="searchbox" placeholder="Search...">
+          <input type="text" id="searchbox" placeholder="Search">
         </div>
         <div class="criteria" id="genre_criteria">
         </br>
-          <h4>Assistance Type</h4>
-          <div class="checkbox">
-            <label>
-              <input type="checkbox" value="All" id="all_genre"> All
-            </label>
+        <p>Results (<span id="total_movies">250</span>)</p>
+                  <div class="checkbox">
+            	<div class="btn btn-primary center-block">
+            		<label >
+              			<input type="checkbox" value="All" id="all_genre" class="hidden" ><span style="margin-left:-25px;color:#fff;">Select/Deselect All Categories</span>
+            		</label>
+            	</div>
           </div>
+          </br>
+          <h4>Assistance Type</h4>
           <div class="checkbox">
             <label>
               <input type="checkbox" value="Funding"> Funding
@@ -242,18 +244,21 @@ font-weight: 300;
               <input type="checkbox" value="Small Business Administration"> Small Business Administration
             </label>
         </div></div>
-
-      </div>
-      <h2>Search Federal Business Incentives</h2>
-      <p><h4>How to refine your search</h4>
-      Use the search options on the left to narrow down your search results. If you don't select any filters, you will see all incentive programs.
-
-Filter categories are Assistance Type, Purpose, Industry, and Agency.
-
-If you select one or more filter terms in one filter category, you will see all incentive programs that match any one of the terms selected.
-     </p>
-  
+        
       
+                <div class="clearfix"></div>
+            </div>
+         </div>
+	</div>
+	
+	
+  	<div class="col-md-8 col-sm-6">      
+      	 <div class="panel panel-default">
+   			<div class="panel-body">
+              
+              <div class="clearfix"></div>
+      <h2>Search Federal Business Incentives</h2>
+            
       <div class="sorting content float:left;width:50%;overflow:hidden;">
       </div>
      <div class="movies content col-span-9" id="movies">
@@ -264,7 +269,7 @@ If you select one or more filter terms in one filter category, you will see all 
           <div class="thumbnail">
            
           <div class="caption">
-            <a href="<%= link %>"><h4><%= name %></h4></a>
+            <a href="{{ site.baseurl }}/<%= link %>"><h4><%= name %></h4></a>
             <div class="outline">
               <%= outline %>
               </br></br>
@@ -280,5 +285,11 @@ If you select one or more filter terms in one filter category, you will see all 
           </label>
         </div>
       </script>
+      </div>
+            
+
+         </div>
+        
+  	</div>
     </body>
   </html>

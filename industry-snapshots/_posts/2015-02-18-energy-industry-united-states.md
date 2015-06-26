@@ -162,7 +162,7 @@ manufacturers and energy storage companies.&nbsp; From 2010 to 2012, more than
 in the modernization of the United States’ electricity infrastructure through
 the Stimulus Program. 
 
-[**Executive Order**](http://www.whitehouse.gov/the-press-office/2012/08/30/executive-order-accelerating-investment-industrial-energy-efficiency)** on Industrial Energy Efficiency: **&nbsp;President Obama signed an Executive Order to
+[**Executive Order on Industrial Energy Efficiency:** President Obama signed an [Executive Order](http://www.whitehouse.gov/the-press-office/2012/08/30/executive-order-accelerating-investment-industrial-energy-efficiency) to
 facilitate investments in industrial energy efficiency that will strengthen
 American manufacturing and help create jobs. &nbsp;The executive order
 establishes a new national goal of 40 gigawatts of new combined heat and power

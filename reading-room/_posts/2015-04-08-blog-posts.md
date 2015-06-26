@@ -1,6 +1,6 @@
 ---
 
-permalink: "blog.html"
+permalink: "reading-room.html"
 
 layout: sidebar
 
@@ -12,12 +12,10 @@ published: true
 
 ---
 
-## Blog Posts
-
 <a class="embedly-card" href="http://blog.trade.gov/2015/06/04/selectusa-greater-china-roadshow-connects-u-s-economic-development-officials-with-hundreds-of-potential-investors/">SelectUSA Greater China Roadshow Connects U.S. Economic Development Officials With Hundreds of Potential Investors</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<a class="embedly-card" href="http://www.commerce.gov/news/blog/2015/05/international-company-abb-invests-michigan">International Company ABB Invests in Michigan | Department of Commerce</a>
+<a class="embedly-card" href="http://www.commerce.gov/news/blog/2015/05/international-company-abb-invests-michigan">International Company ABB Invests in Michigan</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <a class="embedly-card" data-card-image="0" href="http://blog.trade.gov/2015/05/21/selectusa-greater-china-roadshow-promotes-foreign-direct-investment-opportunities-in-the-usa/">SelectUSA Greater China Roadshow Promotes Foreign Direct Investment Opportunities in the USA</a>
@@ -31,4 +29,3 @@ published: true
 
 <a class="embedly-card" href="http://www.commerce.gov/news/blog/2015/03/innovation-and-software-are-reasons-select-usa">Innovation and Software are the Reasons to Select the USA</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-

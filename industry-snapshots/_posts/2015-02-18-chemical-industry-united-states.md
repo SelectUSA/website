@@ -8,8 +8,6 @@ tags: [Chemicals and Pharmaceuticals]
 published: true
 ---
 
-## The U.S. Chemical Industry
-
 The
 chemicals industry is one of the United States’ largest manufacturing
 industries, serving both a sizable domestic market and an expanding global
@@ -34,7 +32,7 @@ educated workforce, world class research centers, protection for intellectual
 property, and a robust regulatory system make the United States a competitive
 home for chemicals firms from across the globe.
 
-## **Industry Subsectors **
+## Industry Subsectors
 
 **Basic Chemicals**: These include organic
 and inorganic chemicals, plastic resins, dyes and pigments. Plastic resins, in
@@ -65,13 +63,13 @@ detergents, and cleaners, as well as toiletries and cosmetics. While consumer
 products are an established segment of the industry, technological innovation
 and product development are important due to short product life cycles.
 
-**Federal Resources**
+## Federal Resources
 
-[_Manufacturing Extension Partnership (MEP)_](http://www.nist.gov/mep/): MEP helps U.S. firms by providing individually tailored services to help companies improve their productivity, economic competitiveness and technological capabilities. The program leverages money and resources in a cooperative effort with the federal government, state and local authorities, and the private sector. The MEP generates approximately $30 in new sales for every federal dollar invested.
+**Manufacturing Extension Partnership:** The [Manufacturing Extension Partnership (MEP)](http://www.nist.gov/mep/) helps U.S. firms by providing individually tailored services to help companies improve their productivity, economic competitiveness and technological capabilities. The program leverages money and resources in a cooperative effort with the federal government, state and local authorities, and the private sector. The MEP generates approximately $30 in new sales for every federal dollar invested.
 
-[_Advanced Manufacturing Office (AMO), Department of Energy_:](http://www1.eere.energy.gov/manufacturing/index.html) Through cost-shared projects, tools, training, and information, the AMO works with a broad spectrum of public-private partners to develop/commercialize technologies and practices that will help U.S. manufacturers succeed in the global marketplace. The Innovative Manufacturing Initiative of the AMO focuses on transformational manufacturing processes and materials with the goal of commercialization in five to seven years. The U.S. chemicals industry accounted for several of the 13 projects awarded a total of $54 million in June 2012 by the Innovative Manufacturing Initiative. 
+**Department of Energy's Advanced Manufacturing Office:** Through cost-shared projects, tools, training, and information, the [Advanced Manufacturing Office (AMO)](http://www1.eere.energy.gov/manufacturing/index.html) works with a broad spectrum of public-private partners to develop/commercialize technologies and practices that will help U.S. manufacturers succeed in the global marketplace. The Innovative Manufacturing Initiative of the AMO focuses on transformational manufacturing processes and materials with the goal of commercialization in five to seven years. The U.S. chemicals industry accounted for several of the 13 projects awarded a total of $54 million in June 2012 by the Innovative Manufacturing Initiative. 
 
-Sources:&nbsp; U.S. Census Bureau, 2010; American Chemistry Council, _Guide to the Business of Chemistry 2013_
+*Sources:&nbsp; U.S. Census Bureau, 2010; American Chemistry Council, Guide to the Business of Chemistry 2013*
 
 <span class="field field-type-link field-field-industry-assoications">
       <span class="field-label">Industry Associations:&nbsp;</span><br>

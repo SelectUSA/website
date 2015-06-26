@@ -1,0 +1,94 @@
+<!-- Static navbar -->
+      <nav class="navbar navbar-custom">
+        <div class="container-fluid">
+          <div class="navbar-header">
+          
+         <!-- <div ><a class="btn btn-default center-block hidden-lg hidden-md hidden-sm" href="{{ site.baseurl }}{{ post.url }}/frequently-asked-questions.html">FAQs</a></div>
+          <div ><a class="btn btn-default center-block hidden-lg hidden-md hidden-sm" href="{{ site.baseurl }}{{ post.url }}/contact-us.html">Contact Us</a></div> 
+          <div ><a class="btn btn-default center-block hidden-lg hidden-md hidden-sm" href="https://service.govdelivery.com/accounts/USITATRADE/subscriber/new?topic_id=USITATRADE_22">Sign Up</a></div>  -->        
+            
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar" style="border-left-width: 0px;border-top-width: 0px;border-right-width: 0px;border-bottom-width: 0px;">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul id="mob" class="nav navbar-nav">
+              <li ><a class="trn" href="{{ site.baseurl }}{{ post.url }}/">Home</a></li>
+              <li class="dropdown">
+              <a class="trn" href="{{ site.baseurl }}{{ post.url }}/about-selectusa.html"  title="SelectUSA mission and goals">About SelectUSA</a>
+              <ul class="dropdown-menu" role="menu">
+                  <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/reading-room.html" title="Blogs, news, and multimedia publications related to SelectUSA activities">Reading Room</a></li>
+                  <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/selectusa-leadership.html" title="SelectUSA Leadership">SelectUSA Leadership</a></li>
+                  <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/career-opportunities.html" title="Job Opportunities at SelectUSA">Career Opportunities</a></li>
+                </ul>
+                <li class="dropdown">
+              <a class="trn" href="{{ site.baseurl }}{{ post.url }}/why-select-usa.html" title="Why Invest in the USA?">Why Select USA?</a>
+              <ul class="dropdown-menu" role="menu">
+                  <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/investment-incentives.html" title="Federal Programs and Incentives for Businesses">Federal Incentives</a></li>
+                  <li><a class="trn" href="http://selectusa.stateincentives.org/?referrer=selectusa" title="State and Territory Programs and Incentives for Businesses">State Incentives</a></li>
+                  <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/they-chose-usa.html" title="Companies tell their investment success stories">Testimonials</a></li>
+                </ul>
+    
+              <li class="dropdown">
+                <a class="trn" href="{{ site.baseurl }}{{ post.url }}/services.html" title="Services Provided by SelectUSA">Services</a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/business-solutions-investors.html" title="Business Solutions for Investors">Business Solutions for Investors</a></li>
+                  <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/ombudsman-services.html" title="Ombudsman Service">Ombudsman</a></li>
+                  <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/advocacy-service.html" title="Advocacy Service">Advocacy</a></li>
+                  <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/single-location-promotion.html" title="Single Location Promotion">Single Location Promotion</a></li>
+                  <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/facilitated-investment-mission.html" title="Facilitated Investment Mission">Facilitated Investment Mission</a></li>
+                  <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/economic-development-organization-counseling.html" title="Economic Development Organization Counseling">Economic Development Organization Counseling</a></li>
+                </ul>
+              </li>
+              <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/industry-snapshots.html" title="Industry Snapshots">Industries</a></li>
+              <li class="dropdown">
+                <a class="trn" href="{{ site.baseurl }}{{ post.url }}/resources.html" title="Resources">Resources</a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/business-investment-reports.html" title="Investment Reports">Reports</a></li>
+                  <!--<li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/news.html" title="News">News</a></li>-->
+                </ul>
+              <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/2015-summit.html" title="SELECTUSA 2015 INVESTMENT SUMMIT">2015 Summit</a></li>
+              <li class="dropdown">
+                <a class="trn" href="{{ site.baseurl }}{{ post.url }}/events.html" title="A summary of SelectUSA&#039;s recent events">Events</a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/events.html" title="Upcoming Events">Upcoming</a></li>
+                  <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/past-events.html" title="Past Events">Past</a></li>
+                </ul>
+                
+    
+            </ul>
+             <div  class="navbar-toggle collapsed" aria-expanded="false">
+<ul class="nav navbar-nav">
+<li><a href="{{ site.baseurl }}{{ post.url }}/" >Home</a>
+<li><a href="{{ site.baseurl }}{{ post.url }}/about-selectusa.html"  title="SelectUSA mission and goals" >About SelectUSA</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/reading-room.html" title="Blogs, news, and multimedia publications related to SelectUSA activities" class="sub_nav">Reading Room</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/selectusa-leadership.html" title="SelectUSA Leadership" class="sub_nav">SelectUSA Leadership</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/career-opportunities.html" title="Job Opportunities at SelectUSA" class="sub_nav">Career Opportunities</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/why-select-usa.html" title="Why Invest in the USA?">Why Select USA?</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/investment-incentives.html" title="Federal Programs and Incentives for Businesses" class="sub_nav">Federal Incentives</a></li>
+<li><a href="http://selectusa.stateincentives.org/?referrer=selectusa" title="State and Territory Programs and Incentives for Businesses" class="sub_nav">State Incentives</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/they-chose-usa.html" title="Companies tell their investment success stories" class="sub_nav">Testimonials</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/services.html" title="Services Provided by SelectUSA">Services</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/business-solutions-investors.html" title="Business Solutions for Investors" class="sub_nav">Business Solutions for Investors</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/ombudsman-services.html" title="Ombudsman Service" class="sub_nav">Ombudsman</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/advocacy-service.html" title="Advocacy Service" class="sub_nav">Advocacy</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/single-location-promotion.html" title="Single Location Promotion" class="sub_nav">Single Location Promotion</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/facilitated-investment-mission.html" title="Facilitated Investment Mission" class="sub_nav">Facilitated Investment Mission</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/economic-development-organization-counseling.html" title="Economic Development Organization Counseling" class="sub_nav">Economic Development Organization Counseling</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/industry-snapshots.html" title="Industry Snapshots" >Industries</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/resources.html" title="Resources">Resources</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/business-investment-reports.html" title="Investment Reports" class="sub_nav">Reports</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/2015-summit.html" title="SELECTUSA 2015 INVESTMENT SUMMIT" >2015 Summit</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/events.html" title="Upcoming Events" >Upcoming Events</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/past-events.html" title="Past Events">Past Events</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/frequently-asked-questions.html" title="Past Events">FAQs</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}/contact-us.html" title="Past Events">Contact Us</a></li>
+<li><a href="https://service.govdelivery.com/accounts/USITATRADE/subscriber/new?topic_id=USITATRADE_22" title="Past Events">Sign Up</a></li>
+</ul>
+        </div>
+          </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+      </nav>

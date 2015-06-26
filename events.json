@@ -7,7 +7,7 @@
     {
       "title"    : "{{ post.title }}",
       "url"     : "{{ post.url }}",
-{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}{% if thecycle == 'odd' %}"rowdiv": "odd",{% else %}"rowdiv": "even",{% endif %}     
+{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}{% if thecycle == 'odd' %}{% if forloop.last %}"rowdiv": "odd-last",{% else %}"rowdiv": "odd",{% endif %}{% else %}{% if forloop.last %}"rowdiv": "even-last",{% else %}"rowdiv": "even",{% endif %}{% endif %}
       "location" : "{{ post.location-value }}",
       "startdate" : "{{ post.date-display-start }}",
 {% if post.date-display-end == post.date-display-start %}"enddate" : "",{% else %}"enddate" : " - {{post.date-display-end}}",{% endif %}
@@ -22,3 +22,4 @@
 {% endif %}
     {% endfor %}
 ]
+        

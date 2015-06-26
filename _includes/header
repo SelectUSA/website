@@ -1,0 +1,46 @@
+<nav class="navbar header" style="background:transparent; margin-bottom:0;">
+ 	<div >
+        <div class="navbar-header" style="height:80px;">
+          
+          <a href="{{ site.baseurl }}{{ post.url }}/" class="navbar-brand"><img src="{{ site.baseurl }}/images/SelectUSA-Logo-hr.png" width="320px"></a>
+          
+        </div>
+        
+        
+        <div class="collapse navbar-collapse" id="navbar-collapse1" style="background:transparent;padding:0;margin-bottom:-45px;">
+        <!-- 
+<div class="btn-group pull-right" style="margin-top:5px;">
+  <button class="btn btn-default btn-xs dropdown-toggle trn" type="button" data-toggle="dropdown" aria-expanded="false">
+    Select Language <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu" role="menu">
+    <li><a href="#" class="lang_selector" data-value="en">English</a></li>
+<li><a href="#" class="lang_selector trn" data-value="arabic">Arabic</a></li>
+<li><a href="#" class="lang_selector trn" data-value="chinesesimplified">Chinese (Simplified)</a></li>
+<li><a href="#" class="lang_selector trn" data-value="chinesetradtional">Chinese (Traditional)</a></li>
+<li><a href="#" class="lang_selector trn" data-value="french">French</a></li>
+<li><a href="#" class="lang_selector trn" data-value="german">German</a></li>
+<li><a href="#" class="lang_selector trn" data-value="japanese">Japanese</a></li>
+<li><a href="#" class="lang_selector trn" data-value="korean">Korean</a></li>
+<li><a href="#" class="lang_selector trn" data-value="portuguese">Portuguese</a></li>
+<li><a href="#" class="lang_selector trn" data-value="spanish">Spanish</a></li>
+  </ul>
+</div>-->
+          <ul class="nav navbar-nav navbar-right">
+             <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/frequently-asked-questions.html" title="Faqs" style="font-size:10px;color:#282828">FREQUENTLY ASKED QUESTIONS</a></li>
+             <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/contact-us.html" title="Contact" style="font-size:10px;color:#282828">CONTACT US</a></li>
+             <li><a class="trn" href="https://service.govdelivery.com/service/subscribe.html?code=USITATRADE_22 " title="Link to GovDelivery subscription sign up page" style="font-size:10px;color:#282828">SIGN UP</a></li>
+             <li><a class="trn" href="https://twitter.com/selectusa" title="Follow SelectUSA on Twitter" style="font-size:10px;color:#282828;">TWITTER</a></li>
+           </ul>
+        </div>	
+        <form class="navbar-form pull-right">
+<div class="input-group form-group-sm">
+                <input type="text" class="form-control input-sm" name="srch-term" id="srch-term">
+                <div class="input-group-btn">
+                  <button class="btn btn-default btn-primary input-sm"  type="submit" ><i class="glyphicon glyphicon-search"></i></button>
+                </div>
+              </div>
+          </form>
+          
+     </div>	
+</nav>

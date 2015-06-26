@@ -1,0 +1,53 @@
+			</br>
+   <div class="row" >
+   <div class="col-md-4 col-sm-6">
+   
+   <div class="panel panel-default">
+           <div class="panel-heading"><!--<a href="#" class="pull-right">View all</a>--> <h4 class="trn">What is SelectUSA?</h4></div>
+   			<div class="panel-body" id="intro">
+              <!--<p><img src="//placehold.it/150x150" class="img-circle pull-right"> <a href="#">The Bootstrap Playground</a></p>-->
+              <div class="clearfix"></div>
+              <span class="trn">SelectUSA seeks to highlight the many advantages the United States offers as a location for business and investment.</span> </br></br> <span class="trn">From a vast domestic market, to a transparent legal system, to the most innovative companies in the world, America is the place for business.</span>
+            </div>
+         </div>
+   
+        <div class="panel panel-default">
+          <div class="panel-heading"><a href="events.html" class="pull-right" id="all" >View all</a> <h4 class="trn">Upcoming Events</h4></div>
+   			<div class="panel-body">
+              {% include eventbox.html %}
+            </div>
+   		</div>
+   		<div class="panel panel-default">
+          <div class="panel-heading">
+   		<a class="twitter-timeline" 
+  height="350" href="https://twitter.com/SelectUSA" data-widget-id="560467615035187200">Tweets by @SelectUSA</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  </div>
+        </div>
+   		<div id="partner" class="panel panel-default">
+          <div class="panel-heading">
+            
+            <div class="panel-thumbnail"><img src="images/intellectual-property-rights.jpg" width="100%" class="img-responsive"></div>
+          <div class="panel-thumbnail"><img src="images/mep.jpg" width="100%" class="img-responsive"></div>
+          </div>
+        </div>
+
+	</div>
+  	<div id="banner" class="col-md-8 col-sm-6" >
+            {% include home-banner.html %}    
+  	</div>
+  	
+  	<div class="col-md-8 col-sm-6">
+      	 
+          
+      	 <div class="panel panel-default">
+           <div class="panel-heading"><h4 class="trn">Browse Business Incentives Offered by States and Territories</h4></div>
+   			<div class="panel-body">
+   			<span id="maptext" class="trn">Each state and territory offers its own unique set of incentives for business investment. Browse the offerings by clicking on the map or state/territory name below.</span>
+              <div class="clearfix"></div>
+            {% include map4.html %}
+                  </div>
+		 </div> 
+  	</div>
+  	
+    {% include footer %}

@@ -1,6 +1,6 @@
 name: Website
-pygments: true
-markdown: rdiscount
+highlighter: pygments
+baseurl: http://selectusa.github.io/website
 exclude:
   - .bundle
   - .git
@@ -10,5 +10,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+markdown: kramdown
 collections:
 - events

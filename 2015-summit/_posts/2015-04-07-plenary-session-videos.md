@@ -7,44 +7,48 @@ published: true
 ---
  
 <center>
-<a href=https://www.youtube.com/playlist?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p>
-<img src="{{ site.baseurl }}/images/summit_youtube_banner.png" alt="This image contains a picture of the 2015 SelectUSA Investment Summit audience and a YouTube logo. Click to go to SelectUSA's video playlist on YouTube.">
+<a href="https://www.youtube.com/playlist?list=PLDkhCtEnKilYTHaMOeALEbkuuM0x17V0p">
+<img class="img-responsive" src="{{ site.baseurl }}/images/summit_youtube_banner.png" alt="This image contains a picture of the 2015 SelectUSA Investment Summit audience and a YouTube logo. Click to go to SelectUSA's video playlist on YouTube.">
 </a>
 </center>
-<Br/>
+<br/>
 
-<table border=0 align=top><tr><Td><b>March 23, 2015:</b></td><td><b>March 24, 2015:</b></td></tr>
-<tr><Td>
-<ul><li><a href=#opening>Secretary Pritzker's Opening Remarks</a></li>
-<li><a href=#resurgence>Investment and the U.S. Economic Resurgence</a>, led by NEC Director Jeffrey Zients</li>
-<li><a href=#buffett>Warren Buffett's Video Address</a></li>
-<li><a href=#innovation>The Innovation Advantage</a>, led by White House CTO Megan Smith</li>
+<table border="0" align="top">
+<tr><td><b>March 23, 2015:</b></td><td><b>March 24, 2015:</b></td></tr>
+<tr><td>
+<ul><li><a href="#opening">Secretary Pritzker's Opening Remarks</a></li>
+<li><a href="#resurgence">Investment and the U.S. Economic Resurgence</a>, led by NEC Director Jeffrey Zients</li>
+<li><a href="#buffett">Warren Buffett's Video Address</a></li>
+<li><a href="#innovation">The Innovation Advantage</a>, led by White House CTO Megan Smith</li>
 <li><a href="#president">President Obama's Keynote Speech</a></li>
-<li><a href=#rural>Investing in Rural America</a>, led by Secretary Vilsack</li>
-<li><a href=#day1closing>Senior Adviser Valerie Jarrett's Closing Remarks</a></ul></td>
-<td><ul><li><a href=#day2opening>Secretary Lew's Opening Remarks</a></li>
-<li><a href=#advmfg>Investing in Advanced Manufacturing</a> - Perspectives from BMW and Michelin</li>
-<li><a href=#workforce>Training Your Skilled Workforce</a>, led by Secretary Perez</li>
-<li><a href=#google>Secretary Pritzker Interviews Google's Eric Schmidt</a></li>
-<li><a href=#infrastructure>Innovative Approaches to Infrastructure Investing</a>, led by Secretary Foxx</li>
-<li><a href=#kerry>Secretary Kerry's Keynote Speech</a></li>
-<li><a href=#day2closing>Secretary Pritzker's Closing Remarks</a></li></ul></td></tr></table>
+<li><a href="#rural">Investing in Rural America</a>, led by Secretary Vilsack</li>
+<li><a href="#day1closing">Senior Adviser Valerie Jarrett's Closing Remarks</a></li></ul>
+</td><td>
+<ul><li><a href="#day2opening">Secretary Lew's Opening Remarks</a></li>
+<li><a href="#advmfg">Investing in Advanced Manufacturing</a> - Perspectives from BMW and Michelin</li>
+<li><a href="#workforce">Training Your Skilled Workforce</a>, led by Secretary Perez</li>
+<li><a href="#google">Secretary Pritzker Interviews Google's Eric Schmidt</a></li>
+<li><a href="#infrastructure">Innovative Approaches to Infrastructure Investing</a>, led by Secretary Foxx</li>
+<li><a href="#kerry">Secretary Kerry's Keynote Speech</a></li>
+<li><a href="#day2closing">Secretary Pritzker's Closing Remarks</a></li></ul></td></tr></table>
 
 # **March 23, 2015:**
 
 ## <a name="opening"></a>U.S. Secretary of Commerce Penny Pritzker Delivers Welcome Remarks
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/2GYbH5WvqQE" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="500" height="298" src="https://www.youtube.com/embed/2GYbH5WvqQE" frameborder="0" allowfullscreen></iframe></div>
 
 > [Download the full video](http://trade.gov/videos/2015-susa-summit-spp-032315.mp4) (86MB)
-
+>
 > The Honorable Penny Pritzker, Secretary of Commerce of the United States, welcomes over 2,600 participants from more than 70 markets to the 2015 SelectUSA Investment Summit.
-
+>
 > [Read the full text of Secretary Pritzker's remarks](http://www.commerce.gov/news/secretary-speeches/2015/03/us-commerce-secretary-penny-pritzker-kicks-2015-selectusa-investment).
 
 ## <a name="resurgence"></a>Investment and the U.S. Economic Resurgence
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/SNnSoObMQd4" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="500" height="298" src="https://www.youtube.com/embed/SNnSoObMQd4" frameborder="0" allowfullscreen></iframe></div>
 
 > [Download the full video](http://trade.gov/videos/2015-susa-summit-investment-us-economic-resurgence-panel-032315.mp4) (132MB)
 
@@ -59,7 +63,8 @@ published: true
 
 ## <a name="buffett"></a>Warren Buffett's Video Address
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/GLKDFhCjaY4" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="500" height="298" src="https://www.youtube.com/embed/GLKDFhCjaY4" frameborder="0" allowfullscreen></iframe></div>
 
 > [Download the full video](http://trade.gov/videos/2015-susa-summit-buffett-interview-032415.mp4) (12MB)
 
@@ -67,7 +72,8 @@ published: true
 
 ## <a name="innovation"></a>The Innovation Advantage
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/Gvt9qr5kEuI" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="500" height="298" src="https://www.youtube.com/embed/Gvt9qr5kEuI" frameborder="0" allowfullscreen></iframe></div>
 
 > [Download the full video](http://trade.gov/videos/2015-susa-summit-innovation-advantage-panel-032315_1.mp4) (136MB)
 
@@ -83,7 +89,8 @@ published: true
 
 ## <a name="president"></a>President Barack Obama Gives Keynote Speech
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/-lKacDTwpiw" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="500" height="298" src="https://www.youtube.com/embed/-lKacDTwpiw" frameborder="0" allowfullscreen></iframe></div>
 
 > [Download the full video](http://trade.gov/videos/2015-susa-summit-potus-keynote-032315.m4v) (97MB)
 
@@ -93,7 +100,8 @@ published: true
 
 ## <a name="rural"></a>Investing in Rural America
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/IAR8zPQf2Hc" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="500" height="298" src="https://www.youtube.com/embed/IAR8zPQf2Hc" frameborder="0" allowfullscreen></iframe></div>
 
 > [Download the full video](http://trade.gov/videos/2015-susa-summit-investing-in-rural-america-032415.mp4) (112MB)
 
@@ -107,7 +115,8 @@ published: true
 
 ## <a name="day1closing"></a>Senior Adviser Valerie Jarrett's Closing Remarks
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/XpA-3-qn8jU" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="500" height="298" src="https://www.youtube.com/embed/XpA-3-qn8jU" frameborder="0" allowfullscreen></iframe></div>
 
 > [Download the full video](http://trade.gov/videos/2015-susa-summit-closing-remarks-open-caption-032315.mp4) (36MB)
 
@@ -117,7 +126,8 @@ published: true
 
 ## <a name="day2opening"></a>Welcome Remarks by U.S. Secretary of the Treasury Jacob Lew
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/X1vF9b2wmO8" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="500" height="298" src="https://www.youtube.com/embed/X1vF9b2wmO8" frameborder="0" allowfullscreen></iframe></div>
 
 > [Download the full video](http://trade.gov/videos/2015-susa-summit-opening-remarks-day-2-andrews-032415.mp4) (44MB)
 
@@ -127,7 +137,8 @@ published: true
 
 ## <a name="advmfg"></a>Investing in Advanced Manufacturing: Perspectives from BMW and Michelin
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/EiQU52VHzrk" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="500" height="298" src="https://www.youtube.com/embed/EiQU52VHzrk" frameborder="0" allowfullscreen></iframe></div>
 
 > [Download the full video](http://trade.gov/videos/2015-susa-summit-investing-in-advanced-manufacturing-032415.mp4) (80MB)
 
@@ -140,7 +151,8 @@ published: true
 
 ## <a name="workforce"></a>Training Your Skilled Workforce
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/FfHr47hs6bM" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="500" height="298" src="https://www.youtube.com/embed/FfHr47hs6bM" frameborder="0" allowfullscreen></iframe></div>
 
 > [Download the full video](http://trade.gov/videos/2015-susa-summit-training-a-skilled-workforce-032415.mp4) (146MB)
 
@@ -155,7 +167,8 @@ published: true
 
 ## <a name="google"></a>Secretary Pritzker Interviews Google's Eric Schmidt
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/R0PrDuO0gO4" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="500" height="298" src="https://www.youtube.com/embed/R0PrDuO0gO4" frameborder="0" allowfullscreen></iframe></div>
 
 > [Download the full video](http://trade.gov/videos/2015-susa-summit-spp-schmidt-032415.mp4) (73MB)
 
@@ -163,7 +176,8 @@ published: true
 
 ## <a name="infrastructure"></a>Innovative Approaches to Infrastructure Investing, led by Secretary Foxx
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/9ekg-QjGfqY" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="500" height="298" src="https://www.youtube.com/embed/9ekg-QjGfqY" frameborder="0" allowfullscreen></iframe></div>
 
 > [Download the full video](http://trade.gov/videos/2015-susa-summit-infrastructure-investing-032415.mp4) (130MB)
 
@@ -178,7 +192,8 @@ published: true
 
 ## <a name="kerry"></a>Secretary Kerry's Keynote Speech
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/F5x3MBGgNbU" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="500" height="298" src="https://www.youtube.com/embed/F5x3MBGgNbU" frameborder="0" allowfullscreen></iframe></div>
 
 > [Download the full video](http://trade.gov/videos/2015-susa-summit-kerry-keynote-day-2-032415.mp4) (83MB)
 
@@ -186,7 +201,8 @@ published: true
 
 ## <a name="day2closing"></a>Secretary Pritzker's Closing Remarks
 
-<iframe width="500" height="298" src="https://www.youtube.com/embed/nfbLncLJ1QM" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" width="500" height="298" src="https://www.youtube.com/embed/nfbLncLJ1QM" frameborder="0" allowfullscreen></iframe></div>
 
 > [Download the full video](http://trade.gov/videos/2015-susa-summit-spp-closing-remarks-day-2-032415.mp4) (10MB)
 

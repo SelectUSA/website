@@ -10,10 +10,11 @@ tags: [Aerospace, Manufacturing, Virginia]
 
 Rolls-Royce has begun manufacturing operations at Crosspointe - its largest site by area in North America – which opened in May 2011. Crosspointe, located in Prince George County, Virginia, is the first Rolls-Royce site built from the- ground-up in the United States. The new aerospace facility represents a total investment of approximately $500 million and expects to generate 600 new jobs by the time the facility is operational.
 
-**_“We’re delighted to be bringing so many good, high-tech and advanced manufacturing jobs to the region and look forward to building on our presence in and partnership with Virginia.”_****_&nbsp;_**
-
-**_“For us, Crosspointe is about growth – about positioning for the future. With this new _****_campus in the U.S., we are spreading our capability around the world, getting closer to our customers, growing our presence in key markets and strengthening our ability to manage business continuity risk.”
-_**_--James M. Guyette, President &amp; CIO, Rolls-Royce North America_
+>**“We’re delighted to be bringing so many good, high-tech and advanced manufacturing jobs to the region and look forward to building on our presence in and partnership with Virginia.**
+>
+>**For us, Crosspointe is about growth – about positioning for the future. With this new campus in the U.S., we are spreading our capability around the world, getting closer to our customers, growing our presence in key markets and strengthening our ability to manage business continuity risk.”**
+>
+>_- James M. Guyette, President &amp; CIO, Rolls-Royce North America_
 
 The facilities will manufacture, assemble and test a range of aerospace components and products, and will be the first to produce discs, considered one of the most critical components of the engine. Rolls-Royce has also invested in additional sites recently in the United States, including an On-Wing Care facility in Indiana and Marine Service Centers in Texas and Washington.
 

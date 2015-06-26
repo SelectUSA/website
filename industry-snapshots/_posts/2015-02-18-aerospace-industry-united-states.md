@@ -8,8 +8,6 @@ tags: [aerospace]
 published: true
 ---
 
-## The U.S. Aerospace Industry
-
 <span class="imgright">![737 on the production line]({{ site.baseurl }}/images/dv174006-262x357.jpg)</span>
 
 <span>In 2012, the U.S. aerospace
@@ -36,7 +34,7 @@ the annual increase in the number of large commercial airplanes during the next
 20 years will be 3.5 percent per year for a total of 34,000 valued at $4.5
 trillion (list prices). &nbsp;</span>
 
-## **Industry Subsectors**
+## Industry Subsectors
 
 **<span>Large Civil Aircraft
 (LCA) – </span>**<span>The United
@@ -109,7 +107,7 @@ composites, metal-working, avionics, testing equipment, and coatings.&nbsp;
 U.S.-based suppliers are highly sought after partners for aerospace
 manufacturing programs at home and abroad.</span>
 
-## **Federal Programs and Recent or Pending Legislation **
+## Federal Programs and Recent or Pending Legislation
 
 **<span>The National Space
 Policy:</span>**<span> President
@@ -179,3 +177,5 @@ facilitate exports of U.S.-based aerospace manufacturers.</span>
         </span><br>
 </span><br>
 
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/SelectUSA/lists/aerospace-news" data-widget-id="611217715131490304">Tweets from https://twitter.com/SelectUSA/lists/aerospace-news</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>

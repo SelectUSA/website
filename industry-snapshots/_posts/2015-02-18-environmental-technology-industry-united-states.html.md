@@ -7,9 +7,9 @@ industry: Environmental Technology
 published: true
 ---
 
-## The U.S. Environmental Technology Industry**&nbsp;**
+<span class="imgright">![Happy Woman in a Green Room]({{ site.baseurl }}/images/womanandgreentech_0-232x336.jpg)</span>
 
-The United States is the largest single producer of environmental technologies in the world,<span class="imgright">![Happy Woman in a Green Room]({{ site.baseurl }}/images/womanandgreentech_0-232x336.jpg)</span> representing nearly 40 percent of the $782 billion global market. According to Environmental Business International, Inc., approximately 117,000 enterprises and 1.7 million workers make up the U.S. environmental technology industry. In 2008, the industry produced $278 billion in revenue, with 47 percent from services, 21 percent from equipment; and 32 percent from resources. 
+The United States is the largest single producer of environmental technologies in the world, representing nearly 40 percent of the $782 billion global market. According to Environmental Business International, Inc., approximately 117,000 enterprises and 1.7 million workers make up the U.S. environmental technology industry. In 2008, the industry produced $278 billion in revenue, with 47 percent from services, 21 percent from equipment; and 32 percent from resources. 
 
 Small- and medium-sized businesses account for approximately 99 percent of the industry and generate approximately 20 percent of the total revenue. Large companies represent only 1 percent of private sector activity, yet account for 49 percent of revenue. Public-sector municipalities and similar entities make up the remaining 31 percent and dominate water utilities, wastewater treatment works and solid waste management. 
 
@@ -17,7 +17,7 @@ Small- and medium-sized businesses account for approximately 99 percent of the i
 
 ## Industry Subsectors 
 
-|                                      | **Revenue($bil) ** | ** U.S.Companies** | **Exports ($mil)** | **U.S. Employment ** |
+|                                      | Revenue ($bil) | U.S.Companies | Exports ($mil) | U.S. Employment |
 |--------------------------------------|--------------------|--------------------|--------------------|----------------------|
 | **Analytical Services**              | XXX                | 1,000              | 143                | 19,700               |
 | **Wastewater Treatment Works**       | 44.1               | 26,300             | 238                | 169,000              |
@@ -27,14 +27,14 @@ Small- and medium-sized businesses account for approximately 99 percent of the i
 | **Consulting & Engineering**         | 26.1               | 3,480              | 3,317              | 246,400              |
 | **Water Equipment & Chemicals**      | 26.6               | 2,030              | 9,929              | 157,300              |
 | **Instruments & Info. Systems**      | 5.2                | 690                | 2,451              | 36,100               |
-| ** Air Pollution Control Equipment** | 15.8               | 1,770              | 2,456              | 101,800              |
+| **Air Pollution Control Equipment** | 15.8               | 1,770              | 2,456              | 101,800               |
 | **Waste Management Equipment**       | 11.0               | 850                | 2,850              | 73,800               |
 | **Process & Prevention Tech.**       | 1.8                | 370                | 126                | 28,600               |
 | **Water Utilities**                  | 40.6               | 61,800             | 81                 | 162,000              |
 | **Resource Recovery**                | 24.5               | 4,650              | 14,811             | 169,100              |
-| **Total:**                           | 269.2              | 115,420            | 37,428             | 1,571,200            |
-
-**&nbsp;Source:** Environmental Business International, Inc., 2010 (San Diego, CA)
+| **TOTAL:**                           | 269.2              | 115,420            | 37,428             | 1,571,200            |
+<br>
+*&nbsp;Source: Environmental Business International, Inc., 2010 (San Diego, CA)*
 
 <span class="field field-type-link field-field-industry-assoications">
       <span class="field-label">Industry Associations:&nbsp;</span><br>

@@ -61,8 +61,7 @@ implements, accessories and components for use in construction, forestry,
 mining and utilities. Off-road diesel engines and fluid-power technology are
 also important components of off-road equipment.
 
-**Manufacturing
-Machinery: **Machinery and
+**Manufacturing Machinery:** Machinery and
 equipment used to manufacture a wide range of goods out of metal and plastic.
 Manufacturing Machinery consists of technologies that find application in many
 other manufacturing industries, such as automotive, aerospace and medical

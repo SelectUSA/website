@@ -2,70 +2,100 @@
 {% if page.title == "Reading Room" or page.section == "reading-room" %}
 <div id="block-menu-menu-2015-summit" class="block block-menu">
   <h2>SelectUSA Reading Room</h2><br>
-  <div class="content">
-    <ul class="menu">
+  <div class="custom-collapse">
+  <button class="collapse-toggle visible-xs " type="button" data-toggle="collapse" data-parent="custom-collapse" data-target="#side-menu-collapse">
+      <span class="">Menu</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+  </button>
+    <div class="list-group collapse" id="side-menu-collapse">
  {% assign sorted_pages = (site.categories.reading-room | sort: title) %}
   {% for post in sorted_pages %}
-  <li class="leaf"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  <a href="{{ site.baseurl }}{{ post.url }}" class="list-group-item dropdown-toggle">{{ post.title }}</a></li>
    {% endfor %}
-</ul>  </div>
+</div>  </div>
 </div>
 {% else %}
 {% endif %}
 
 {% if page.title == "2015 Summit" or page.section == "2015-summit" %}
 <div id="block-menu-menu-2015-summit" class="block block-menu">
-  <img src="http://www.selectusasummit.com/templates/susa_2015_v1/images/logo-52776599.png" width=260><br><br>
-  <h3>2015 SelectUSA Investment Summit:</h3>
+  <img src="{{ site.baseurl }}/images/summit_2015_logo_rgb_v1.png" width=260><br>
+  <h3><a href="{{ site.baseurl }}/2015-summit.html">2015 SelectUSA Investment Summit:</a></h3>
+  
   <div class="content">
-    <ul class="menu">
+  <div class="custom-collapse">
+  <button class="collapse-toggle visible-xs " type="button" data-toggle="collapse" data-parent="custom-collapse" data-target="#side-menu-collapse">
+      <span class="">Menu</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+  </button>
+    <div class="list-group collapse" id="side-menu-collapse">
  {% assign sorted_pages = (site.categories.2015-summit | sort: title) %}
   {% for post in sorted_pages %}
   {% if post.title == "Day Two Photos" or post.title == "Day One Photos" %}
-   <li class="leaf-sub"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+   <a href="{{ site.baseurl }}{{ post.url }}" class="list-group-item dropdown-toggle">{{ post.title}}</a>
   {% else %}
-  <li class="leaf"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  <a href="{{ site.baseurl }}{{ post.url }}" class="list-group-item dropdown-toggle">{{ post.title}}</a>
   {% endif %}
    {% endfor %}
-<li class="leaf"><a href="https://www.whitehouse.gov/the-press-office/2015/03/23/fact-sheet-president-obama-announce-new-steps-attract-foreign-investors-">White House Fact Sheet on SelectUSA</a></li>
+<a href="https://www.whitehouse.gov/the-press-office/2015/03/23/fact-sheet-president-obama-announce-new-steps-attract-foreign-investors-" class="list-group-item dropdown-toggle">White House Fact Sheet on SelectUSA</a>
 </ul> 
 <center>
 <br><i>The Summit event website can be found at</i> <B><a href=http://www.selectusasummit.com/>www.selectusasummit.com</a></b>
 </center>
-</div>
+</div>  </div></div>
 </div>
 {% else %}
 {% endif %}
 
 {% if page.title == "Testimonials" or page.section == "testimonials" %}
 <div id="block-menu-menu-testimonials-chose-usa" class="block block-menu">
-  <h2>They Chose USA</h2>
+  <h3><a href="{{ site.baseurl }}/they-chose-usa.html">They Chose USA</a></h3>
 
   <div class="content">
-    <ul class="menu">
+  <div class="custom-collapse">
+  <button class="collapse-toggle visible-xs " type="button" data-toggle="collapse" data-parent="custom-collapse" data-target="#side-menu-collapse">
+      <span class="">Menu</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+  </button>
+    <div class="list-group collapse" id="side-menu-collapse">
  {% assign sorted_pages = (site.categories.testimonials | sort: title) %}
   {% for post in sorted_pages %}
-  <li class="leaf"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  <a href="{{ site.baseurl }}{{ post.url }}" class="list-group-item dropdown-toggle">{{ post.title}}</a>
    {% endfor %}
-</ul>  </div>
+</div>  </div></div>
 </div>
 {% else %}
 {% endif %}
 
 {% if page.title == "Industry Snapshots" or page.section == "industry-snapshots" %}
 <div id="block-menu-menu-testimonials-chose-usa" class="block block-menu">
-  <h2>Industries</h2>
+  <h3><a href="{{ site.baseurl }}/industry-snapshots.html">Industries</a></h3>
 
-  <div class="content">
-    <ul class="menu">
+    <div class="content">
+    <div class="custom-collapse">
+  <button class="collapse-toggle visible-xs " type="button" data-toggle="collapse" data-parent="custom-collapse" data-target="#side-menu-collapse">
+      <span class="">Menu</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+  </button>
+    <div class="list-group collapse" id="side-menu-collapse">
  {% assign sorted_pages = (site.categories.industry-snapshots | sort: industry) %}
   {% for post in sorted_pages %}
-  <li class="leaf"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.industry}}</a></li>
+  <a href="{{ site.baseurl }}{{ post.url }}" class="list-group-item dropdown-toggle">{{ post.industry}}</a>
    {% endfor %}
-</ul>  </div>
+</div>  </div></div>
 </div>
+
 {% else %}
 {% endif %}
+
  
 
 
@@ -81,25 +111,34 @@
 
 
 {% if eventheading %} 
-  <div id="block-menu-menu-testimonials-chose-usa" class="block block-menu"><h2>Upcoming Events</h2> 
+  <div id="block-menu-menu-testimonials-chose-usa" class="block block-menu"><h3>Upcoming Events</h3> 
 
-<div class="view view-upcoming-events view-id-upcoming_events view-display-id-page_1 advanced-filtered-search view-dom-id-1">
+  <div class="content">
+  <div class="custom-collapse">
+  <button class="collapse-toggle visible-xs " type="button" data-toggle="collapse" data-parent="custom-collapse" data-target="#side-menu-collapse">
+      <span class="">Menu</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+  </button>
+    <div class="list-group collapse" id="side-menu-collapse">
+    <div class="view view-upcoming-events view-id-upcoming_events view-display-id-page_1 advanced-filtered-search view-dom-id-1">
 {% for post in site.categories.events reversed%}
 {% capture nowunix %}{{site.time  | date: '%s'}}{% endcapture %}
 {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
 {% if posttime > nowunix %}
     {% capture currentdate %}{{post.date | date: " %B, %Y"}}{% endcapture %}
     {% if currentdate != thedate %}
-    <h3><span class="date-display-single">  {{ currentdate }}
-    {% capture thedate %}{{currentdate}}{% endcapture %} </span></h3>
+    <h4><span class="date-display-single">  {{ currentdate }}
+    {% capture thedate %}{{currentdate}}{% endcapture %} </span></h4>
     {% endif %}
-     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
-          <div class="views-row-2 views-row-even views-row-last">
+         {% if forloop.last %}<div class="views-row-even-last">{% else %}<div class="views-row-even">{% endif %} 
         {% else %}
-          <div class="views-row-1 views-row-odd views-row-first views-row-first">
+        {% if forloop.last %}<div class="views-row-odd-last">{% else %}<div class="views-row-odd">{% endif %}  
         {% endif %}
- 
+        
       <div class="views-field-title">
           <span class="field-content">
               <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -127,9 +166,19 @@
   </div>
   {% else %} {% endif %}
 {% endfor %}
-  </div>  
+  </div>  </div></div></div></div>
 {% else %}
-<div id="block-menu-menu-testimonials-chose-usa" class="block block-menu"><h2>Past Events</h2>  
+<div id="block-menu-menu-testimonials-chose-usa" class="block block-menu"><h3>Past Events</h3>  
+
+ <div class="content">
+  <div class="custom-collapse">
+  <button class="collapse-toggle visible-xs " type="button" data-toggle="collapse" data-parent="custom-collapse" data-target="#side-menu-collapse">
+      <span class="">Menu</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+  </button>
+    <div class="list-group collapse" id="side-menu-collapse">
 <div class="view view-upcoming-events view-id-upcoming_events view-display-id-page_1 advanced-filtered-search view-dom-id-1">
 {% for post in site.categories.events %}
 {% capture nowunix %}{{site.time  | date: '%s'}}{% endcapture %}
@@ -137,16 +186,16 @@
 {% if posttime < nowunix %}
     {% capture currentdate %}{{post.date | date: " %B, %Y"}}{% endcapture %}
     {% if currentdate != thedate %}
-    <h3><span class="date-display-single">  {{ currentdate }}
-    {% capture thedate %}{{currentdate}}{% endcapture %} </span></h3>
+    <h4><span class="date-display-single">  {{ currentdate }}
+    {% capture thedate %}{{currentdate}}{% endcapture %} </span></h4>
     {% endif %}
-     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
-          <div class="views-row-2 views-row-even views-row-last">
+         {% if forloop.last %}<div class="views-row-even-last">{% else %}<div class="views-row-even">{% endif %} 
         {% else %}
-          <div class="views-row-1 views-row-odd views-row-first views-row-first">
+        {% if forloop.last %}<div class="views-row-odd-last">{% else %}<div class="views-row-odd">{% endif %}  
         {% endif %}
- 
+        
       <div class="views-field-title">
           <span class="field-content">
               <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -173,7 +222,7 @@
     </div>
   </div>
   {% else %} {% endif %}
-{% endfor %}</div> 
+{% endfor %}</div> </div></div></div></div>
 {% endif %}
 
   
