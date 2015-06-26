@@ -2,14 +2,11 @@
 permalink: "industry-snapshots/machinery-and-equipment-industry-united-states.html"
 layout: sidebar
 section: industry-snapshots
-title: The Machinery and Equipment Industry in the United States
+title: The Machinery & Equipment Industry in the United States
 industry: Machinery & Equipment
 tags: [Electronics and Industrial Equipment]
 published: true
 ---
-
-## The U.S. Machinery and Equipment Manufacturing Industry
-
 
 U.S. machinery industries had total domestic and foreign sales of $413.7 billion in 2011.<span class="imgright">![conveyor belt with dollar bills]({{ site.baseurl }}/images/manufacturing-301x377.jpg)</span>&nbsp;The United States is the world’s largest market for machinery, as well as the third-largest supplier.&nbsp; American manufacturers held a 58.5 percent share of the U.S. domestic market.
 
