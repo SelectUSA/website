@@ -53,11 +53,12 @@
         </div>	
 
         <form class="navbar-form pull-right" accept-charset="UTF-8" action="http://search.usa.gov/search" method="get">
-<div class="input-group form-group-sm">
- <input id="affiliate" name="affiliate" type="hidden" value="selectusa" />
-                <input type="text" class="form-control input-sm" name="srch-term" id="srch-term" autocomplete="off" >
+                <div class="input-group form-group-sm">
+                <input name="utf8" type="hidden" value="&#x2713;" />
+                  <input id="affiliate" name="affiliate" type="hidden" value="selectusa" />
+                <input type="text" class="form-control input-sm"  name="query"  id="srch-term" autocomplete="off" >
                 <div class="input-group-btn">
-                  <button class="btn btn-default btn-primary input-sm"  type="submit" ><i class="glyphicon glyphicon-search"></i></button>
+                  <button class="btn btn-default btn-primary input-sm" name="commit" type="submit" value="Search" ><i class="glyphicon glyphicon-search"></i></button>
                 </div>
               </div>
           </form>
