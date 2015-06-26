@@ -8,8 +8,6 @@ tags: [Financial Services, Professional Services (Legal, Accounting, etc.)]
 published: true
 ---
 
-## The Financial Services Industry in the United States
-
 <span class="imgright">![stock market board]({{ site.baseurl }}/images/exchange_market-347x233.jpg)</span>
 
 Financial markets in the United States are the largest
