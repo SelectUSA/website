@@ -1,6 +1,5 @@
 name: Website
 highlighter: pygments
-baseurl: http://selectusa.github.io/website
 exclude:
   - .bundle
   - .git
