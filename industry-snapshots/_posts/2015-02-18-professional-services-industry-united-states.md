@@ -8,8 +8,6 @@ tags: [Professional Services (Legal; Accounting; etc.)]
 published: true
 ---
 
-## The U.S. Professional Services Industry
-
 The United States is the world’s most desired location for professional services firms.<span class="imgright">![business people]({{ site.baseurl }}/images/businesspeople_0-357x259.jpg)</span>
 
 In today’s integrated global environment, businesses find it critical to access the talent, institutions, business processes, and client base offered in the United States. Additionally, the educational and research infrastructure present in the United States is an important asset for domestic and international professional services firms.
