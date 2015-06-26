@@ -8,8 +8,6 @@ tags: [Department of Health and Human Services]
 published: true
 ---
 
-## The U.S. Medical Device Industry
-
 <span class="imgright">![mri image]({{ site.baseurl }}/images/medicaltech_0-346x356.jpg)</span>
 
 The United States remains the largest medical
