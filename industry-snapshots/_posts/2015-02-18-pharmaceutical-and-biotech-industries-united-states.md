@@ -8,8 +8,6 @@ tags: [Chemicals and Pharmaceuticals]
 published: true
 ---
 
-## The U.S. Pharmaceutical Industry
-
 <span class="imgright">![pharmaceuticals - pills on scoop]({{ site.baseurl }}/images/pharm1.jpg)</span>
 
 The
