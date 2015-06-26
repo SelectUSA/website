@@ -2,13 +2,11 @@
 permalink: "industry-snapshots/semiconductors.html"
 layout: sidebar
 section: industry-snapshots
-title: Semiconductors
+title: The U.S. Semiconductors Industry
 industry: Semiconductors
 tags: [Semiconductors]
 published: true
 ---
-
-## The U.S. Semiconductor Industry
 
 For more than 50 years, the U.S. semiconductor industry has been at the forefront of worldwide technological development.&nbsp;&nbsp;
 
