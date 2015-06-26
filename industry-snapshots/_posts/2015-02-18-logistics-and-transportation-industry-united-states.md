@@ -8,8 +8,6 @@ tags: [Logistics and Transportation]
 published: true
 ---
 
-## The U.S. Logistics and Transportation Industry
-
 The logistics and transportation industry in the United States is highly competitive.&nbsp;By investing in this sector, multinational firms position themselves&nbsp;to better facilitate the flow of goods throughout the world’s largest consumer market.&nbsp;International and domestic companies in this industry benefit from a highly skilled workforce and relatively low costs and regulatory burdens.
 
 <span class="imgright">![Shipping Port]({{ site.baseurl }}/images/shippingport-319x260.jpg)</span> 
