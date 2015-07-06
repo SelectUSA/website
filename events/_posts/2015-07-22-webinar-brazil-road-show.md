@@ -23,7 +23,7 @@ Join us on **July 22, 2015 at 11:30 am EST** for a webinar on the SelectUSA Braz
 
 ## About the SelectUSA Brazil Road Show
 
-Brazil is of the top ten major economies in the world, and also ranks within the **top 10 fastest growing investors in the United States**. With a territory the size of the continental USA, Brazil presents a **diversified economy with well-developed industrial and services sectors**, ranging from aerospace multinationals and IT start-ups to sophisticated financial companies.
+Brazil is one of the top ten major economies in the world, and also ranks within the **top 10 fastest growing investors in the United States**. With a territory the size of the continental USA, Brazil presents a **diversified economy with well-developed industrial and services sectors**, ranging from aerospace multinationals and IT start-ups to sophisticated financial companies.
 
 Brazilian companies have been exposed to the international market for almost 25 years now (after the market opened in 1992),  and **internationalization of operations is a hot topic** in the business community.
 
