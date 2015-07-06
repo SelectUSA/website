@@ -5,7 +5,7 @@ title: Business Investment Reports
 published: true
 ---
 
-## **SelectUSA Reports
+## SelectUSA Reports
 
 <span class="imgleft"><img src="https://www.mycii.in/PublicationImages/45632.US.jpg" height=173 alt="Winning Business Investment in the United States"></span>
 
