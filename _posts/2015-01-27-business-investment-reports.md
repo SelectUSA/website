@@ -9,13 +9,21 @@ published: true
 
 <br/><br/>
 
-<span class="imgleft">![Map of SelectUSA Successes](images/selectusa_map_of_successes-208x156.jpg "Map of SelectUSA Successes")</span>
+## _Business and Investment Climate in the United States_ with CII
+
+**_March 2015_**
+
+<span class="imgleft">![Winning Business Investment in the United States](https://www.mycii.in/PublicationImages/45632.US.jpg "Winning Business Investment in the United States")</span>
+
+Published jointly by SelectUSA and the [Confederation of Indian Industry (CII)](http://www.cii.in/Index.aspx), this report serves as a ready reference guide for all companies looking to start or grow their business in the United States by outlining "Top 10 Reasons to Invest" for each U.S. state and territory.
+
+![Read](https://google.github.io/material-design-icons/action/svg/design/ic_description_24px.svg "Date") [Read the report](http://www.slideshare.net/ConfederationOfIndianIndustry/business-and-investment-climate-in-the-united-states-local-economy-state-incentives-and-growth-prospects)
 
 ## _Winning Business Investment in the United States_
 
 **_May 2014_**
 
-A new report from the Department of Commerce and
+A report from the Department of Commerce and
 the Executive Office of the President on business investment in the United
 States and the expansion of the SelectUSA program.
 
