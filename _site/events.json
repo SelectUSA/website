@@ -24,28 +24,12 @@
 
     
 
-    {
-      "title"    : "Webinar on SelectUSA India Road Show",
-      "url"     : "/events/webinar-india-road-show.html",
-"rowdiv": "odd",
-      "location" : "Online",
-      "startdate" : "June 30, 2015",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2015-06-30 00:00:00 -0400",
-         "day"   : "30",
-         "month" : "June",
-         "year"  : "2015"
-      }
-    }
-    ,
-
     
 
     {
       "title"    : "U.S. Business Seminars in Japan",
       "url"     : "/events/japan-business-seminar.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Takamatsu, Hiroshima",
       "startdate" : "July 16",
 "enddate" : " - 17, 2015",
@@ -63,7 +47,7 @@
     {
       "title"    : "SelectUSA Taiwan Road Show",
       "url"     : "/events/selectusa-taiwan-road-show.html",
-"rowdiv": "odd",
+"rowdiv": "even",
       "location" : "Taipei and Kaohsiung, Taiwan",
       "startdate" : "August 5",
 "enddate" : " - 6, 2015",
@@ -81,7 +65,7 @@
     {
       "title"    : "SelectUSA Nordic Road Show",
       "url"     : "/events/selectusa-road-show-nordics.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Oslo, Copenhagen/Malmo, Gothenburg, Stockholm, Helsinki, Tallinn",
       "startdate" : "September 14",
 "enddate" : " - 21, 2015",
@@ -99,7 +83,7 @@
     {
       "title"    : "SelectUSA India Road Show",
       "url"     : "/events/india-road-show.html",
-"rowdiv": "odd",
+"rowdiv": "even",
       "location" : "New Delhi, Mumbai, Chennai",
       "startdate" : "October 13",
 "enddate" : " - 15, 2015",
@@ -117,7 +101,7 @@
     {
       "title"    : "National Aerospace FDI Exposition",
       "url"     : "/events/save-date-national-aerospace-fdi-exposition.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Los Angeles, CA",
       "startdate" : "October 26",
 "enddate" : " - 28, 2015",
@@ -135,7 +119,7 @@
     {
       "title"    : "SelectUSA Canada 2015",
       "url"     : "/events/selectusa-canada-2015.html",
-"rowdiv": "odd",
+"rowdiv": "even",
       "location" : "Toronto, Canada",
       "startdate" : "November 17, 2015",
 "enddate" : "",
@@ -151,9 +135,9 @@
     
 
     {
-      "title"    : "Save the Date - SelectUSA Brazil Road Show",
+      "title"    : "SelectUSA Brazil Road Show",
       "url"     : "/events/selectusa-brazil-road-show.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Rio de Janeiro, São Paulo, Belo Horizonte",
       "startdate" : "December 1",
 "enddate" : " - 4, 2015",
@@ -171,7 +155,7 @@
     {
       "title"    : "SelectUSA at POWER-GEN International",
       "url"     : "/events/selectusa-power-gen-international.html",
-"rowdiv": "odd-last",
+"rowdiv": "even-last",
       "location" : "Las Vegas, NV",
       "startdate" : "December 8",
 "enddate" : " - 10, 2015",

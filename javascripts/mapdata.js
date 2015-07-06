@@ -578,7 +578,7 @@ var simplemaps_usmap_mapdata = {
 		description: 'Economic Development Division<br><u>www.idahoworks.com</u>',
 		color: 'default',
 		hover_color: 'default',
-		url: 'http://www.idahoworks.com',
+		url: 'http://commerce.idaho.gov/',
 		hide: 'no',
 		inactive: 'no',
 		zoomable: 'default'
