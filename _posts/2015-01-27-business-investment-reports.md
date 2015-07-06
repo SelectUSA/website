@@ -5,13 +5,13 @@ title: Business Investment Reports
 published: true
 ---
 
-## **SelectUSA Reports**
+## **SelectUSA Reports
+
+<span class="imgleft"><img src="https://www.mycii.in/PublicationImages/45632.US.jpg" height=173 alt="Winning Business Investment in the United States"></span>
 
 # Joint Report with CII: _Business and Investment Climate in the United States_ 
 
 **March 2015**
-
-<span class="imgleft">![Winning Business Investment in the United States](https://www.mycii.in/PublicationImages/45632.US.jpg "Winning Business Investment in the United States")</span>
 
 Published by the [Confederation of Indian Industry (CII)](http://www.cii.in/Index.aspx) in collaboration with SelectUSA, this report serves as a ready reference guide for all companies looking to start or grow their business in the United States by outlining "Top 10 Reasons to Invest" for each U.S. state and territory.
 
