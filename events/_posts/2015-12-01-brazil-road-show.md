@@ -32,3 +32,9 @@ The **SelectUSA Road Show in Brazil** will stop by the three major cities in the
 * Productive, efficient, and cost-effective program
 
 The participation fee for state and local economic development organizations is **$3,500**. This does not cover travel or other business related expenses.
+
+## Get the Details: July 22 Webinar
+
+Join us on **July 22, 2015 at 11:30 am EST** for a webinar on the SelectUSA Brazil Road Show, hosted by the U.S. Commercial Service in Brazil and SelectUSA.
+
+![RSVP](https://google.github.io/material-design-icons/content/svg/design/ic_send_24px.svg "RSVP") To RSVP for the webinar and receive the call-in details, please email  [Andre.Leal@trade.gov](mailto:Andre.Leal@trade.gov?Subject=RSVP%20for%20July%2021%20Brazil%20Road%20Show%20webinar)
