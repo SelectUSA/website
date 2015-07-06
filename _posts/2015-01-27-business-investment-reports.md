@@ -17,6 +17,8 @@ published: true
 
 Published by the [Confederation of Indian Industry (CII)](http://www.cii.in/Index.aspx) in collaboration with SelectUSA, this report serves as a ready reference guide for all companies looking to start or grow their business in the United States by outlining "Top 10 Reasons to Invest" for each U.S. state and territory.
 
+<br><br>
+
 <span class="imgleft"><img src="images/selectusa_map_of_successes-208x156.jpg" width="150" alt="Map of SelectUSA Successes"></span>
 
 # _Winning Business Investment in the United States_
