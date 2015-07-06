@@ -9,7 +9,7 @@ published: true
 
 <br/><br/>
 
-## _Business and Investment Climate in the United States_ with CII
+# _Business and Investment Climate in the United States_ with CII
 
 **_March 2015_**
 
@@ -19,7 +19,9 @@ Published jointly by SelectUSA and the [Confederation of Indian Industry (CII)](
 
 ![Read](https://google.github.io/material-design-icons/action/svg/design/ic_description_24px.svg "Date") [Read the report](http://www.slideshare.net/ConfederationOfIndianIndustry/business-and-investment-climate-in-the-united-states-local-economy-state-incentives-and-growth-prospects)
 
-## _Winning Business Investment in the United States_
+<br/><br/>
+
+# _Winning Business Investment in the United States_
 
 **_May 2014_**
 
@@ -33,7 +35,7 @@ States and the expansion of the SelectUSA program.
 
 <span class="imgleft">![FDI Report Cover](images/cover_fdi_report_2013dec31.jpg)</span>
 
-## _Foreign Direct Investment (FDI) in the United States: Drivers of U.S. Economic Competitiveness_
+# _Foreign Direct Investment (FDI) in the United States: Drivers of U.S. Economic Competitiveness_
 
 **_December 2013_***
 
@@ -44,8 +46,6 @@ FDI is a key source of capital, job creation, innovation, and cross-border trade
 ![Read](https://google.github.io/material-design-icons/action/svg/design/ic_description_24px.svg "Date") [Read the report](documents/full_report_-_fdi_in_the_united_states.pdf)
 
 ![Download](http://google.github.io/material-design-icons/action/svg/design/ic_get_app_24px.svg "Download") [Download the infographics from the report](documents/2013-12-31_figures_-_selectusa_report_-_fdi_in_the_united_states.pdf)
-
-&nbsp;
 
 * * *
 
