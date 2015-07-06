@@ -7,9 +7,9 @@ published: true
 
 ## SelectUSA Reports
 
-<span class="imgleft"><img src="https://www.mycii.in/PublicationImages/45632.US.jpg" width="150" alt="Winning Business Investment in the United States"></span>
-
 ### Joint Report with CII: _Business and Investment Climate in the United States_ 
+
+<span class="imgleft"><img src="https://www.mycii.in/PublicationImages/45632.US.jpg" height="173" alt="Winning Business Investment in the United States"></span>
 
 **March 2015**
 
@@ -19,9 +19,9 @@ Published by the [Confederation of Indian Industry (CII)](http://www.cii.in/Inde
 
 <br>
 
-<span class="imgleft"><img src="images/selectusa_map_of_successes-208x156.jpg" width="150" alt="Map of SelectUSA Successes"></span>
-
 ### _Winning Business Investment in the United States_
+
+<span class="imgleft"><img src="images/selectusa_map_of_successes-208x156.jpg" width="173" alt="Map of SelectUSA Successes"></span>
 
 **May 2014**
 
@@ -31,9 +31,9 @@ A report from the Department of Commerce and
 the Executive Office of the President on business investment in the United
 States and the expansion of the SelectUSA program.
 
-<span class="imgleft">![FDI Report Cover](images/cover_fdi_report_2013dec31.jpg)</span>
-
 ### _Foreign Direct Investment (FDI) in the United States: Drivers of U.S. Economic Competitiveness_
+
+<span class="imgleft">![FDI Report Cover](images/cover_fdi_report_2013dec31.jpg)</span>
 
 **December 2013**
 
