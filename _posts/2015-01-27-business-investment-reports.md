@@ -7,7 +7,7 @@ published: true
 
 ## SelectUSA Reports
 
-<span class="imgleft"><img src="https://www.mycii.in/PublicationImages/45632.US.jpg" height=173 alt="Winning Business Investment in the United States"></span>
+<span class="imgleft"><img src="https://www.mycii.in/PublicationImages/45632.US.jpg" height="173" alt="Winning Business Investment in the United States"></span>
 
 # Joint Report with CII: _Business and Investment Climate in the United States_ 
 
