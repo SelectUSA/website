@@ -37,8 +37,6 @@ States and the expansion of the SelectUSA program.
 
 ![Read](https://google.github.io/material-design-icons/action/svg/design/ic_description_24px.svg "Date") [Read the report](documents/full_report_-_fdi_in_the_united_states.pdf)
 
-![Download](http://google.github.io/material-design-icons/action/svg/design/ic_get_app_24px.svg "Download") [Download the infographics from the report](documents/2013-12-31_figures_-_selectusa_report_-_fdi_in_the_united_states.pdf)
-
 This paper studies the impact of FDI on the U.S. economy, the strengths and attractiveness of the United States as a destination for FDI, and the competitiveness of the United States with respect to investment trends by geography and industry sector.
 
 FDI is a key source of capital, job creation, innovation, and cross-border trade. In the United States, FDI has continued to flourish because firms worldwide recognize the United States as an innovative and stable market and the world’s largest economy. Moreover, the United States upholds its longstanding open investment policy, recognizing that the free movement of capital across borders is at the heart of today’s global economy.
