@@ -19,7 +19,7 @@ Published by the [Confederation of Indian Industry (CII)](http://www.cii.in/Inde
 
 
 
-<span class="imgleft">![Map of SelectUSA Successes](images/selectusa_map_of_successes-208x156.jpg "Map of SelectUSA Successes")</span>
+<span class="imgleft"><img src="images/selectusa_map_of_successes-208x156.jpg" width="150" alt="Map of SelectUSA Successes"></span>
 
 # _Winning Business Investment in the United States_
 
