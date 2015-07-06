@@ -9,7 +9,7 @@ published: true
 
 # Joint Report with CII: _Business and Investment Climate in the United States_ 
 
-**_March 2015_**
+**March 2015**
 
 <span class="imgleft">![Winning Business Investment in the United States](https://www.mycii.in/PublicationImages/45632.US.jpg "Winning Business Investment in the United States")</span>
 
@@ -23,7 +23,7 @@ Published by the [Confederation of Indian Industry (CII)](http://www.cii.in/Inde
 
 # _Winning Business Investment in the United States_
 
-**_May 2014_**
+**May 2014**
 
 A report from the Department of Commerce and
 the Executive Office of the President on business investment in the United
@@ -37,7 +37,7 @@ States and the expansion of the SelectUSA program.
 
 # _Foreign Direct Investment (FDI) in the United States: Drivers of U.S. Economic Competitiveness_
 
-**_December 2013_***
+**December 2013***
 
 This paper studies the impact of FDI on the U.S. economy, the strengths and attractiveness of the United States as a destination for FDI, and the competitiveness of the United States with respect to investment trends by geography and industry sector.
 
