@@ -9,7 +9,7 @@ calendar-end: 2015-07-22
 location-value: Online
 location-type: Online
 section: events
-published: false
+published: true
 ---
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}
 
@@ -23,7 +23,7 @@ Join us on **July 22, 2015 at 11:30 am EST** for a webinar on the SelectUSA Braz
 
 ## About the SelectUSA Brazil Road Show
 
-Brazil is one of the top ten major economies in the world, and also ranks within the **top 10 fastest growing investors in the United States**. With a territory the size of the continental USA, Brazil presents a **diversified economy with well-developed industrial and services sectors**, ranging from aerospace multinationals and IT start-ups to sophisticated financial companies.
+Brazil is one of the top 10 major economies in the world, and also ranks within the **top 10 fastest growing investors in the United States**. With a territory the size of the continental USA, Brazil presents a **diversified economy with well-developed industrial and services sectors**, ranging from aerospace multinationals and IT start-ups to sophisticated financial companies.
 
 Brazilian companies have been exposed to the international market for almost 25 years now (after the market opened in 1992),  and **internationalization of operations is a hot topic** in the business community.
 
@@ -40,3 +40,23 @@ The **SelectUSA Road Show in Brazil** will stop by the three major cities in the
 * Productive, efficient, and cost-effective program
 
 The participation fee for state and local economic development organizations is **$3,500**. This does not cover travel or other business related expenses.
+
+# Itinerary (to be confirmed)
+
+Date | Time | Event
+===
+Nov. 30th | Afternoon | Welcome and briefing session at the US Consulate
+General, Rio de Janeiro
+Dec. 1st | 9am-12pm | SelectUSA Investment Seminar in Rio de Janeiro
+&nbsp; | 12-2pm | Networking luncheon
+&nbsp; | 2-5pm | Matchmaking session with Rio de Janeiro investors
+&nbsp; | Evening | Depart to São Paulo by plane
+Dec. 2nd | 9am-12pm | SelectUSA Investment Seminar in São Paulo
+&nbsp; | 12-2pm | Networking luncheon
+&nbsp; | 2-5pm | Matchmaking session with São Paulo investors
+&nbsp; | Evening | Networking reception
+Dec. 3rd | 9am-12pm | Site visit to two selected potential investors
+&nbsp; | Evening | Depart to Belo Horizonte by plane
+Dec. 4th | 9am-12pm | SelectUSA Investment Seminar in Belo Horizonte
+&nbsp; | 12-2pm | Networking luncheon
+&nbsp; | 2-4pm | Matchmaking session with Belo Horizonte investors
