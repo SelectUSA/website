@@ -75,6 +75,11 @@ The first-ever Investment Summit sold out, with **more than 1,300 participants**
 
 These special trips organized by SelectUSA offer EDOs the opportunity to directly connect with investors in foreign markets to showcase their regions. Recent examples:
 
+
+*   [**China**]({{ site.baseurl }}{{post.url}}/events/save-date-selectusa-greater-china-road-show.html) - May 18-29, 2015
+*   [**Mexico**]({{ site.baseurl }}{{post.url}}/events/save-date-selectusa-mexico-road-show.html) - May 12-14, 2015
+*   **Australia and New Zealand** - September 7-12, 2014
+*   **Chile, Brazil, and Colombia** - August 26-29, 2014
 *   **Mexico** - May 20-21, 2014
 *   **Japan** - May 19-23, 2014
 *   **Korea** - May 16, 2014
