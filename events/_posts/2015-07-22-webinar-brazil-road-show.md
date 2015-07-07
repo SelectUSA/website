@@ -59,3 +59,7 @@ Dec. 3rd | 9am-12pm | Site visit to two selected potential investors
 Dec. 4th | 9am-12pm | SelectUSA Investment Seminar in Belo Horizonte
 &nbsp; | 12-2pm | Networking luncheon
 &nbsp; | 2-4pm | Matchmaking session with Belo Horizonte investors
+
+# Event flyer
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/AsRMQIPn4bSYjJ" width="476" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
