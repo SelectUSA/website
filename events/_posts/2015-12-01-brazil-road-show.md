@@ -23,7 +23,7 @@ The **SelectUSA Road Show in Brazil** will stop by the three major cities in the
 
 ![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information on registration or sponsorship, please contact [Andre.Leal@trade.gov](mailto:Andre.Leal@trade.gov) in São Paulo and [Alev.Gunay@trade.gov](mailto:alev.gunay@trade.gov) in Washington, DC
 
-## Get the Details: July 22 Webinar
+# Get the Details: July 22 Webinar
 
 Join us on **July 22, 2015 at 11:30 am EST** for a webinar on the SelectUSA Brazil Road Show, hosted by the U.S. Commercial Service in Brazil and SelectUSA.
 
