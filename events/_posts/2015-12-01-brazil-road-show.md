@@ -43,8 +43,8 @@ The participation fee for state and local economic development organizations is 
 
 Date | Time | Event
 ---| --- | ---
-Nov. 30th | Afternoon | Welcome and briefing session at the US Consulate General, Rio de Janeiro
-Dec. 1st | 9am-12pm | SelectUSA Investment Seminar in Rio de Janeiro
+Nov. 30th&nbsp;&nbsp; | Afternoon | Welcome and briefing session at the US Consulate General, Rio de Janeiro
+Dec. 1st | 9am-12pm&nbsp;&nbsp; | SelectUSA Investment Seminar in Rio de Janeiro
 &nbsp; | 12-2pm | Networking luncheon
 &nbsp; | 2-5pm | Matchmaking session with Rio de Janeiro investors
 &nbsp; | Evening | Depart to São Paulo by plane
