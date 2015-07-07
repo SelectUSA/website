@@ -575,7 +575,7 @@ var simplemaps_usmap_mapdata = {
 	},
 	'ID': { 
 		name: 'Idaho',
-		description: 'Economic Development Division<br><u>www.idahoworks.com</u>',
+		description: 'Economic Development Division<br><u>http://commerce.idaho.gov/</u>',
 		color: 'default',
 		hover_color: 'default',
 		url: 'http://commerce.idaho.gov/',
