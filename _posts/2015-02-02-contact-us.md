@@ -12,7 +12,7 @@ SelectUSA is the lead United States government effort to facilitate business inv
 
 Additionally, SelectUSA offers an Ombudsman service that can help resolve issues that may arise involving federal regulations, rules, programs, or activities related to existing, pending and potential investments.
 
-**If you would like to receive information or be contacted by a member of our team**, please send us an email at  [info@selectusa.gov](info@selectusa.gov). Include your name, contact information, industry, and as much detail regarding your inquiry as possible so we can respond appropriately. 
+**If you would like to receive information or be contacted by a member of our team**, please send us an email at  [info@selectusa.gov](mailto:info@selectusa.gov). Include your name, contact information, industry, and as much detail regarding your inquiry as possible so we can respond appropriately. 
 
 We can also be reached at 202-482-6800, Monday - Friday, 9 a.m. to 5 p.m. EST.
 
