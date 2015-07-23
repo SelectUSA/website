@@ -17,9 +17,7 @@ published: true
 
 ## National Aerospace Foreign Direct Investment Exposition
 
-#### Co-hosted by the&nbsp;[Aerospace States Association](http://aerostates.org/)&nbsp;(ASA) and the U.S. Department of Commerce 
-
-The **Aerospace States Association** is collaborating with the **U.S. Department of Commerce** to stage an aerospace FDI Exposition on October 26-28, 2015 in Los Angeles, California. This business event will bring foreign investors together with U.S. companies, economic development organizations, state officials, and service providers for networking, one-on-one meetings, and educational panels focused on economic dynamics and regulations geared specifically to aerospace manufacturing in the United States.
+The U.S. Department of Commerce is partnering with the Aerospace States Association to host the first-ever National Aerospace FDI Exposition on October 26-28, 2015 in Los Angeles, California. The expo will bring foreign investors together with U.S. companies, economic development organizations, state officials, and service providers to showcase the investment opportunities in the U.S. aerospace manufacturing sector. This event is not just for aerospace companies—it’s also a great opportunity for smaller firms to learn how they can better integrate into the aerospace supply chain in the United States. 
 
 ![Website](https://google.github.io/material-design-icons/action/svg/design/ic_exit_to_app_24px.svg "Website") Event details can be found on the [National Aerospace FDI Exposition homepage](http://www.aeroinvestmentexpo.com/)
 
