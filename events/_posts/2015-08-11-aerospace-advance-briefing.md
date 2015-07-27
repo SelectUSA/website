@@ -13,7 +13,7 @@ published: true
 ---
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}
 
-![Time](http://google.github.io/material-design-icons/action/svg/design/ic_schedule_24px.svg "Time") 2-5 pm P
+![Time](http://google.github.io/material-design-icons/action/svg/design/ic_schedule_24px.svg "Time") 2-5 pm PST
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
