@@ -13,6 +13,8 @@ published: true
 ---
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}
 
+![Time](http://google.github.io/material-design-icons/action/svg/design/ic_schedule_24px.svg "Time") 2-5 pm P
+
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
 # Advance Briefing for the National Aerospace Foreign Direct Investment Expo (Oct 26-28, 2015)
@@ -25,6 +27,6 @@ There is a **$35 registration fee** to participate in the advance briefing, eith
 
 Webinar information will be provided on Tuesday, August 4th via email.
 
-
+![Website](https://google.github.io/material-design-icons/action/svg/design/ic_exit_to_app_24px.svg "Website") To learn more about the briefing and the Expo, check out the [Advance Briefing flyer](http://cdn2.hubspot.net/hubfs/103829/docs/CMTC-Events/CMTC-Events-FDI-Advance-Briefing-8-11-2015v3.pdf?t=1437664049646)
 
 ![RSVP](https://google.github.io/material-design-icons/content/svg/design/ic_send_24px.svg "RSVP") To RSVP for the in-person or online briefing, please fill out the [registration form](http://cdn2.hubspot.net/hubfs/103829/docs/CMTC-Events/CMTC-Events-FDI-Advance-Briefing-Registration-Form.pdf?t=1437435784702) and send to [Dion Jackson](mailto:dljackso@usc.edu?subject=Register%20for%20Advance%20Briefing%20on%20Aerospace%20Expo)
