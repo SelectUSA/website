@@ -21,7 +21,7 @@ published: true
 
 The USC Center for Economic Development, in partnership with the Advanced Manufacturing Partnership for Southern California, will host an advance briefing at the University of Southern California on **Tuesday, August 11, 2015 from 2 PM to 5 PM** (also accessible via webinar).
 
-The purpose of this event is to inform and prepare potential participants to engage in the first ever [National Aerospace Foreign Direct Investment (FDI) Expo](events/national-aerospace-fdi-exposition.html), being held in Los Angeles, California, October 26-28, 2015.
+The purpose of this event is to inform and prepare potential participants to engage in the first ever [National Aerospace Foreign Direct Investment (FDI) Expo](http://aeroinvestmentexpo.com/), being held in Los Angeles, California, October 26-28, 2015.
 
 There is a **$35 registration fee** to participate in the advance briefing, either in person or online. Briefing attendees will receive a **$250 discount on the registration fee for the Expo**.
 
