@@ -22,10 +22,10 @@ finance the export of U.S. manufactured goods and agricultural products. In
 had&nbsp;a $23.0 billion surplus in financial services and insurance trade
 (excluding re-insurance, the financial services and insurance sectors had a
 surplus of $59.5 billion.) The financial services and insurance sectors employed
-5.87 million people in 2012. The securities subsector of the industry shows
+[5.99 million](http://data.bls.gov/pdq/SurveyOutputServlet;jsessionid=8D4E940E270A33400EFB2E5AC02F01E5.tc_instance4) people in 2014. The securities subsector of the industry shows
 great potential for employment growth, with a 12 percent increase expected by
-2018. According to the U.S. Department of Labor, 818,000 people were employed
-in the securities and investment sector at the end of 2012.
+2018. According to the U.S. Department of Labor, [888,600 people](http://data.bls.gov/pdq/SurveyOutputServlet;jsessionid=68F42618DE7B3F5FEAC551FE910AF1EB.tc_instance4) were employed
+in the securities and investment sector at the end of 2014.
 
 Investment in the U.S. financial services industry offers
 significant advantages for financial firms. In 2012, at least 132 of Fortune’s
