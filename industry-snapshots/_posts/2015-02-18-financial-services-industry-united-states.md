@@ -12,7 +12,7 @@ published: true
 
 Financial markets in the United States are the largest
 and most liquid in the world. In 2014, finance and insurance represented 7.2
-percent (or $1.26 trillion) of&nbsp;U.S. gross domestic product. Leadership in
+percent (or [$1.26 trillion](http://www.bea.gov/iTable/iTable.cfm?ReqID=51&step=1#reqid=51&step=51&isuri=1&5114=a&5102=1)) of&nbsp;U.S. gross domestic product. Leadership in
 this large, high-growth sector translates into substantial economic activity
 and direct and indirect job creation in the United States.&nbsp; 
 
