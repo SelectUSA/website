@@ -75,9 +75,8 @@ The first-ever Investment Summit sold out, with **more than 1,300 participants**
 
 These special trips organized by SelectUSA offer EDOs the opportunity to directly connect with investors in foreign markets to showcase their regions. Recent examples:
 
-
-*   [**China**]({{ site.baseurl }}{{post.url}}/events/save-date-selectusa-greater-china-road-show.html) - May 18-29, 2015
-*   [**Mexico**]({{ site.baseurl }}{{post.url}}/events/save-date-selectusa-mexico-road-show.html) - May 12-14, 2015
+*   [**Greater China**]({{base.url}}/events/save-date-selectusa-greater-china-road-show.html) - May 18-29, 2015
+*   [**Mexico**]({{base.url}}/events/save-date-selectusa-mexico-road-show.html) - May 12-14, 2015
 *   **Australia and New Zealand** - September 7-12, 2014
 *   **Chile, Brazil, and Colombia** - August 26-29, 2014
 *   **Mexico** - May 20-21, 2014
@@ -95,6 +94,7 @@ These special trips organized by SelectUSA offer EDOs the opportunity to directl
 
 SelectUSA has increased its presence at industry events both domestically and overseas where investors want to learn more about U.S. locations. SelectUSA sets up the USA Investment Center to help EDOs showcase their regions, organizes a seminar to help EDOs network with investors, or highlights SelectUSA services for investors. Recent examples:
 
+*   [**International Franchise Expo**]({{base.url}}/events/selectusa-international-franchise-expo.html) - June 18-20, 2015 in New York, NY
 *   [**Offshore Technology Conference**]({{ site.baseurl }}{{post.url}}/events/selectusa-offshore-technology-conference-otc.html) - May 4-7, 2015 in Houston, TX
 *   [**Hannover Messe**]({{ site.baseurl }}{{post.url}}/events/selectusa-hannover-messe.html) - April 13-17, 2015 in Hannover, Germany
 *   [**Canadian International Auto Show (CIAS)**]({{ site.baseurl }}{{post.url}}/events/selectusa-investment-center-canadian-international-auto-show-cias.html) - February 12, 2015 in Toronto, Canada
