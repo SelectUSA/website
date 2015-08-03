@@ -95,6 +95,7 @@ These special trips organized by SelectUSA offer EDOs the opportunity to directl
 SelectUSA has increased its presence at industry events both domestically and overseas where investors want to learn more about U.S. locations. SelectUSA sets up the USA Investment Center to help EDOs showcase their regions, organizes a seminar to help EDOs network with investors, or highlights SelectUSA services for investors. Recent examples:
 
 *   [**International Franchise Expo**]({{base.url}}/events/selectusa-international-franchise-expo.html) - June 18-20, 2015 in New York, NY
+*   [**BIO International Convention**]({{base.url}}/events/selectusa-bio-2015.html) - June 15-18, 2015 in Philadelphia, PA
 *   [**Offshore Technology Conference**]({{ site.baseurl }}{{post.url}}/events/selectusa-offshore-technology-conference-otc.html) - May 4-7, 2015 in Houston, TX
 *   [**Hannover Messe**]({{ site.baseurl }}{{post.url}}/events/selectusa-hannover-messe.html) - April 13-17, 2015 in Hannover, Germany
 *   [**Canadian International Auto Show (CIAS)**]({{ site.baseurl }}{{post.url}}/events/selectusa-investment-center-canadian-international-auto-show-cias.html) - February 12, 2015 in Toronto, Canada
