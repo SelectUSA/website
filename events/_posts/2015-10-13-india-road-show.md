@@ -15,15 +15,11 @@ published: true
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-# NEW: Optional Kolkata Stop on October 16th
-
-Want to meet potential investors in East India?
-
 # SelectUSA India Road Show
 
-Join the first-ever India SelectUSA Roadshow! This four-city Road Show to **New Delhi, Mumbai, Chennai, and Kolkata (optional)** will offer U.S. state, local and regional economic development organizations (EDOs) the opportunity to **market their locations directly to potential investors** throughout India.
+Join the first-ever India SelectUSA Roadshow! This four-city Road Show to **New Delhi, Mumbai, Chennai, and Kolkata** will offer U.S. state, local and regional economic development organizations (EDOs) the opportunity to **market their locations directly to potential investors** throughout India.
 
-Each Road Show stop will feature a **half-day seminar** with sessions on how to invest and expand in the United States. The proposed seminars will attract approximately 120 senior executives in each city and include content about investment visas, legal and financial issues, investment opportunities and successful investment strategies. Along with scheduled **networking sessions**, there will be ample opportunity for attendees to visit your **exhibit **at the event.
+Each Road Show stop will feature a **half-day seminar** with sessions on how to invest and expand in the United States. The proposed seminars will attract approximately 120 senior executives in each city and include content about investment visas, legal and financial issues, investment opportunities and successful investment strategies. Along with scheduled **networking sessions**, there will be ample opportunity for attendees to visit your **exhibit** at the event.
 
 **India is the fourth fastest growing source of FDI into the United States.** Hundreds of dynamic companies are headquartered in the Road Show stops, and many of these companies are looking to invest in the United States. Top U.S. government officials, including leaders in the Department of Commerce and SelectUSA, has made multiple visits to India and welcomed a [high-quality delegation of Indian investors](https://www.flickr.com/photos/selectusa/17608354832/in/photolist-aF4ige-aF4igK-aF4igt-aF4igp-aF4igz-sPZqqG-a3cFbC) to our 2015 SelectUSA Investment Summit. **The pump is primed for Indian investment into your region, and this road show is a great opportunity to meet investors face-to-face**.
 
@@ -47,16 +43,19 @@ Join us on **June 30, 2015 at 12:30 pm EST** for a webinar on the SelectUSA Indi
 
 The participation fee for state and local economic development organizations is **$550**. This does not cover travel or other business related expenses.
 
-# Tentative Itinerary
+# Itinerary
 
 * Arrive New Delhi on October 12
-* Event in New Delhi on October 13 at Hotel (TBC) 8:30 am - 2:30 pm
+* Event in New Delhi on October 13 at Hotel (TBC) 8:30 am-2:30 pm
 * Travel from New Delhi to Mumbai the evening of October 13
-  * Recommended flight: Jet Airways 9W 362 departs New Delhi at 6:25 pm; arrives Mumbai at 8:30 pm
-* Event in Mumbai on October 14 at Hotel (TBC) 8:30 am -2:30 pm
+  * *Recommended flight:* Jet Airways 9W 362 departs New Delhi at 6:25 pm; arrives Mumbai at 8:30 pm
+* Event in Mumbai on October 14 at Hotel (TBC) 8:30 am-2:30 pm
 * Travel from Mumbai to Chennai the evening of October 14
-  * Recommended flight: Jet Airways 9W 467 departs Mumbai at 7:35 pm; arrives Chennai at 9:35 pm
-* Event in Chennai on October 15 at Hotel (TBC) 8:30 am -2:30 pm
-* Return to the United States on the evening of October 15
+  * *Recommended flight:* Jet Airways 9W 461 departs Mumbai at 6:05 pm; arrives Chennai at 8:10 pm
+* Event in Chennai on October 15 at Hotel (TBC) 8:30 am-2:30 pm
+* Travel from Chennai to Kolkata the evening of October 15
+  * *Recommended flight:* IndiGo 6E 277 departs Chennai at 8:40 pm; arrives Kolkata at 10:45 pm
+* Event in Kolkata on October 16 at Hotel (TBC) 10:00 am-2:00 pm
+* Return to the United States the evening of October 16
 
 A block of hotel rooms will be reserved in all four cities for participants.
