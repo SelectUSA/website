@@ -1,7 +1,7 @@
 ---
 permalink: "aerofdi/why-participate.html"
 layout: sidebar
-title: Why Participate in the Expo?
+title: Why Participate?
 section: aerofdi
 published: true
 ---
