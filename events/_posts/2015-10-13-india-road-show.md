@@ -41,7 +41,7 @@ Join us on **June 30, 2015 at 12:30 pm EST** for a webinar on the SelectUSA Indi
 * Logistics assistance, including hotel and flight recommendations that fit the roadshow schedule
 * Productive, efficient, and cost-effective program
 
-The participation fee for state and local economic development organizations is **$550**. This does not cover travel or other business related expenses.
+The participation fee for state and local economic development organizations is **$640**. This does not cover travel or other business related expenses.
 
 # Itinerary
 
