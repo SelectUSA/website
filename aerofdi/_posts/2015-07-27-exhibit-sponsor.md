@@ -24,7 +24,9 @@ Organizations can also **advertise in the Expo program** without purchasing a bo
 
 ## Sponsorship Opportunities
 
+All sponsorship packages include complimentary Expo registrations, tickets to the Lt. Governors Circle Breakfast, membership to the Aerospace States Association, and broad recognition in the Expo's promotional materials and website. Certain levels of sponsors will also receive hotel accomodations and booth space in the Exhibition Hall.
 
+Please see the Sponsorship flyer below for more details on the top six sponsorship levels, or view the [full list of opportunities](http://aeroinvestmentexpo.com/sponsors-exhibitors/sponsorship-opportunities) on the official Expo website.
 
 ![Download](https://google.github.io/material-design-icons/action/svg/design/ic_get_app_24px.svg "Download") [Download the Sponsorship Opportunities flyer](https://www.dropbox.com/s/9ywbi2qq84q22ex/Sponsorship%20Opportunities%20-%20National%20Aerospace%20FDI%20Expo.pdf?dl=1)
 
