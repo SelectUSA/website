@@ -10,7 +10,7 @@
       <span class="icon-bar"></span>
   </button>
     <div class="list-group collapse" id="side-menu-collapse">
- {% assign sorted_pages = (site.categories.reading-room | sort: title) %}
+ {% assign sorted_pages = (site.categories.aerofdi | sort: title) %}
   {% for post in sorted_pages %}
   <a href="{{ site.baseurl }}{{ post.url }}" class="list-group-item dropdown-toggle">{{ post.title }}</a></li>
    {% endfor %}
