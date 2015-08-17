@@ -14,7 +14,7 @@ You can view the wide range of **advertising, exhibitor, and sponsorship** oppor
 
 ## Ad and Exhibitor Opportunities
 
-As an **Exhibitor at the Expo** ($5,000), your organization will receive an 8'x10' booth in the Exhibition Hall, two complimentary Expo registrations, a half-page ad in the Expo program, your logo displayed on the Expo website, and a two-year membership to the Aerospace States Association. A larger booth space can be purchased for $2,500 per additional 8’x10’ space.
+As an **Exhibitor at the Expo** ($5,000), your organization will receive an 8'x10' booth in the Exhibition Hall, two complimentary Expo registrations, a half-page ad in the Expo program, your logo displayed on the Expo website, and a two-year membership to the Aerospace States Association. Larger booth areas can be purchased for $2,500 per additional 8’x10’ space.
 
 Organizations can also **advertise in the Expo program** without purchasing a booth, with rates ranging from $100 for a three-line recognition (with logo) to $2,000 for two full pages in the program. More details on all five advertising levels can be found in the flyer below.
 
