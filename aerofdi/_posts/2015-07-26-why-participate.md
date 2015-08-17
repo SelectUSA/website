@@ -12,7 +12,7 @@ The United States is a great home for aerospace manufacturers and suppliers from
 
 The Expo can help aerospace companies and investors better understand the U.S. market by hearing from government and industry experts, participating in workshops on topics like regulations and contracting, and meeting one-on-one with U.S. economic development organizations.
 
-![Download](http://google.github.io/material-design-icons/action/svg/design/ic_get_app_24px.svg "Download") [Download the International Companies flyer](https://www.dropbox.com/s/wn2ta2utug45vkc/International%20FIrms%20Flyer%20-%20National%20Aerospace%20FDI%20Expo.pdf?dl=1)
+![Download](https://google.github.io/material-design-icons/action/svg/design/ic_get_app_24px.svg "Download") [Download the International Companies flyer](https://www.dropbox.com/s/wn2ta2utug45vkc/International%20FIrms%20Flyer%20-%20National%20Aerospace%20FDI%20Expo.pdf?dl=1)
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/4MCX7AVI3vd4hZ" width="477" height="510" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
@@ -26,7 +26,7 @@ If you'd like to bring investors to your site, [Expo organizers](http://selectus
 
 Small and medium-size enterprises are especially welcome.
 
-![Download](http://google.github.io/material-design-icons/action/svg/design/ic_get_app_24px.svg "Download") [Download the U.S. Companies flyer](https://www.dropbox.com/s/hg0k6i32a7sp6og/US%20Firms%20Flyer%20-%20National%20Aerospace%20FDI%20Expo.pdf?dl=1)
+![Download](https://google.github.io/material-design-icons/action/svg/design/ic_get_app_24px.svg "Download") [Download the U.S. Companies flyer](https://www.dropbox.com/s/hg0k6i32a7sp6og/US%20Firms%20Flyer%20-%20National%20Aerospace%20FDI%20Expo.pdf?dl=1)
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/C6Y1LyyeKVUQMX" width="477" height="510" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
