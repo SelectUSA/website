@@ -1,4 +1,24 @@
 
+{% if page.section == "aerofdi" %}
+<div id="block-menu-menu-2015-summit" class="block block-menu">
+  <h2>National Aerospace FDI Expo</h2><br>
+  <div class="custom-collapse">
+  <button class="collapse-toggle visible-xs " type="button" data-toggle="collapse" data-parent="custom-collapse" data-target="#side-menu-collapse">
+      <span class="">Menu</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+  </button>
+    <div class="list-group collapse" id="side-menu-collapse">
+ {% assign sorted_pages = (site.categories.reading-room | sort: title) %}
+  {% for post in sorted_pages %}
+  <a href="{{ site.baseurl }}{{ post.url }}" class="list-group-item dropdown-toggle">{{ post.title }}</a></li>
+   {% endfor %}
+</div>  </div>
+</div>
+{% else %}
+{% endif %}
+
 {% if page.title == "Reading Room" or page.section == "reading-room" %}
 <div id="block-menu-menu-2015-summit" class="block block-menu">
   <h2>SelectUSA Reading Room</h2><br>
