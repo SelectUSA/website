@@ -8,6 +8,10 @@ published: true
 
 ## International Companies
 
+The United States is a great home for aerospace manufacturers and suppliers from around the world. As a leading investment location, we offer a large market for aerospace products such as aircraft parts, a stable business climate, a skilled and productive workforce, a competitive research and development environment, and a world-class export platform. 
+
+The Expo can help aerospace companies and investors better understand the U.S. market by hearing from government and industry experts, participating in workshops on topics like regulations and contracting, and meeting one-on-one with U.S. economic development organizations.
+
 ![Download](http://google.github.io/material-design-icons/action/svg/design/ic_get_app_24px.svg "Download") [Download the International Companies flyer](https://www.dropbox.com/s/wn2ta2utug45vkc/International%20FIrms%20Flyer%20-%20National%20Aerospace%20FDI%20Expo.pdf?dl=1)
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/4MCX7AVI3vd4hZ" width="477" height="510" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
@@ -18,5 +22,8 @@ published: true
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/C6Y1LyyeKVUQMX" width="477" height="510" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
-## U.S. Economic Development Organizations
+## U.S. Economic Development Organizations (EDOs)
 
+Direct investment from foreign aerospace manufacturers and suppliers into the United States is increasing, and represents a significant and growing contribution to the country’s aerospace sector and the U.S. overall economy.
+
+The Expo can help U.S. EDOs keep up with the latest trends in the aerospace sector, and to identify beneficial U.S. government and industry experts and resources. EDOs can also [showcase the advantages of their location](http://selectusa.commerce.gov/aerofdi/exhibit-sponsor.html), and meet one-on-one with international aerospace companies interested in investing in the United States.
