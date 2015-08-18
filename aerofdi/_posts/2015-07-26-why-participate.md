@@ -6,9 +6,9 @@ section: aerofdi
 published: true
 ---
 
-<span class="imgright"><a href="{{ site.baseurl }}/documents/AeroFDI_Intl_Firms_Flyer.pdf"><img src="{{ site.baseurl }}/documents/AeroFDI_Intl_Firms_Flyer.jpg" alt="First page of International Companies flyer" height="175"></a></span>
-
 ## International Companies
+
+<span class="imgright"><a href="{{ site.baseurl }}/documents/AeroFDI_Intl_Firms_Flyer.pdf"><img src="{{ site.baseurl }}/documents/AeroFDI_Intl_Firms_Flyer.jpg" alt="First page of International Companies flyer" height="200"></a></span>
 
 The United States is a great home for aerospace manufacturers and suppliers from around the world. As a leading investment location, we offer a large market for aerospace products, a stable business climate, a skilled and productive workforce, a competitive research and development environment, and a world-class export platform. 
 
@@ -16,9 +16,9 @@ By participating in the Expo, aerospace companies and investors can gain insight
 
 ![Download]({{ site.baseurl }}/icons/download.svg "Download") [Download the International Companies flyer]({{ site.baseurl }}/documents/AeroFDI_Intl_Firms_Flyer.pdf)
 
-<span class="imgright"><a href="{{ site.baseurl }}/documents/AeroFDI_US_Firms_Flyer.pdf"><img src="{{ site.baseurl }}/documents/AeroFDI_US_Firms_Flyer.jpg" alt="First page of U.S. Companies flyer" height="175"></a></span>
-
 ## U.S. Companies
+
+<span class="imgright"><a href="{{ site.baseurl }}/documents/AeroFDI_US_Firms_Flyer.pdf"><img src="{{ site.baseurl }}/documents/AeroFDI_US_Firms_Flyer.jpg" alt="First page of U.S. Companies flyer" height="200"></a></span>
 
 The Expo is a great opportunity to strengthen your current business lines or expand into new ones by tapping a significant and often overlooked resource: foreign direct investment, or FDI.
 
