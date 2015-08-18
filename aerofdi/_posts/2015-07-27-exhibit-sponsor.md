@@ -12,9 +12,9 @@ Service providers, aerospace suppliers, and associations can also take advantage
 
 You can view the wide range of **advertising, exhibitor, and sponsorship** opportunities below, and see the [current list of exhibitors and sponsors](http://aeroinvestmentexpo.com/sponsors-exhibitors/current-sponsors) on the official Expo website.
 
-<span class="imgright"><a href="{{ site.baseurl }}/documents/AeroFDI_Ad_Exhibitor_Opportunities.pdf"><img src="{{ site.baseurl }}/documents/AeroFDI_Ad_Exhibitor_Opportunities.jpg" alt="Thumbnail of Ad and Exhibitor Opportunities flyer" width="175"></a></span>
-
 ## Ad and Exhibitor Opportunities
+
+<span class="imgright"><a href="{{ site.baseurl }}/documents/AeroFDI_Ad_Exhibitor_Opportunities.pdf"><img src="{{ site.baseurl }}/documents/AeroFDI_Ad_Exhibitor_Opportunities.jpg" alt="Thumbnail of Ad and Exhibitor Opportunities flyer" width="200"></a></span>
 
 As an **exhibitor at the Expo** ($5,000), your organization will receive an 8'x10' booth in the Exhibition Hall, two complimentary Expo registrations, a half-page ad in the Expo program, your logo displayed on the Expo website, and a two-year membership to the Aerospace States Association. Larger booth areas can be purchased for $2,500 per additional 8’x10’ space.
 
@@ -22,9 +22,9 @@ Organizations and service providers can also **advertise in the Expo program** w
 
 ![Download]({{ site.baseurl }}/icons/download.svg "Download") [Download the Ad and Exhibitor Opportunities flyer]({{ site.baseurl }}/documents/AeroFDI_Ad_Exhibitor_Opportunities.pdf)
 
-<span class="imgright"><a href="{{ site.baseurl }}/documents/AeroFDI_Sponsorship_Opportunities.pdf"><img src="{{ site.baseurl }}/documents/AeroFDI_Sponsorship_Opportunities.jpg" alt="Thumbnail of Sponsorship Opportunities flyer" width="175"></a></span>
-
 ## Sponsorship Opportunities
+
+<span class="imgright"><a href="{{ site.baseurl }}/documents/AeroFDI_Sponsorship_Opportunities.pdf"><img src="{{ site.baseurl }}/documents/AeroFDI_Sponsorship_Opportunities.jpg" alt="Thumbnail of Sponsorship Opportunities flyer" width="200"></a></span>
 
 All **sponsorship packages** include complimentary Expo registrations, tickets to the Lt. Governors Circle Breakfast, membership to the Aerospace States Association, and broad recognition in the Expo's promotional materials and website. Certain levels of sponsors will also receive hotel accomodations and booth space in the Exhibition Hall.
 
