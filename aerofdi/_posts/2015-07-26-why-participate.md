@@ -8,13 +8,13 @@ published: true
 
 ## International Companies
 
+<span class="imgleft"><a href="{{ site.baseurl }}/documents/AeroFDI_Intl_Firms_Flyer.pdf"><img src="{{ site.baseurl }}/documents/AeroFDI_Intl_Firms_Flyer.jpg" alt="First page of agenda" height="300"></a></span>
+
 The United States is a great home for aerospace manufacturers and suppliers from around the world. As a leading investment location, we offer a large market for aerospace products such as aircraft parts, a stable business climate, a skilled and productive workforce, a competitive research and development environment, and a world-class export platform. 
 
 The Expo can help aerospace companies and investors better understand the U.S. market by hearing from government and industry experts, participating in workshops on topics like regulations and contracting, and meeting one-on-one with U.S. economic development organizations.
 
-![Download](https://google.github.io/material-design-icons/action/svg/design/ic_get_app_24px.svg "Download") [Download the International Companies flyer](https://www.dropbox.com/s/wn2ta2utug45vkc/International%20FIrms%20Flyer%20-%20National%20Aerospace%20FDI%20Expo.pdf?dl=1)
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/4MCX7AVI3vd4hZ" width="477" height="510" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+![Download]({{ site.baseurl }}/icons/download.svg "Download") [Download the International Companies flyer]({{ site.baseurl }}/documents/AeroFDI_Intl_Firms_Flyer.pdf)
 
 ## U.S. Companies
 
