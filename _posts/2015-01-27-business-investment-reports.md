@@ -13,7 +13,7 @@ published: true
 
 **March 2015**
 
-![Read](https://google.github.io/material-design-icons/action/svg/design/ic_description_24px.svg "Date") [Read the report](http://www.slideshare.net/ConfederationOfIndianIndustry/business-and-investment-climate-in-the-united-states-local-economy-state-incentives-and-growth-prospects)
+![Read]({{ site.baseurl }}/icons/document.svg "Read") [Read the report](http://www.slideshare.net/ConfederationOfIndianIndustry/business-and-investment-climate-in-the-united-states-local-economy-state-incentives-and-growth-prospects)
 
 Published by the [Confederation of Indian Industry (CII)](http://www.cii.in/Index.aspx) in collaboration with SelectUSA, this report serves as a ready reference guide for all companies looking to start or grow their business in the United States by outlining "Top 10 Reasons to Invest" for each U.S. state and territory.
 
@@ -25,7 +25,7 @@ Published by the [Confederation of Indian Industry (CII)](http://www.cii.in/Inde
 
 **May 2014**
 
-![Read](https://google.github.io/material-design-icons/action/svg/design/ic_description_24px.svg "Date") [Read the report](http://www.whitehouse.gov/sites/default/files/docs/winning_business_investment_in_the_united_states.pdf)
+![Read]({{ site.baseurl }}/icons/document.svg "Read") [Read the report](http://www.whitehouse.gov/sites/default/files/docs/winning_business_investment_in_the_united_states.pdf)
 
 A report from the Department of Commerce and
 the Executive Office of the President on business investment in the United
@@ -35,11 +35,11 @@ States and the expansion of the SelectUSA program.
 
 ### _Foreign Direct Investment (FDI) in the United States: Drivers of U.S. Economic Competitiveness_
 
-<span class="imgleft">![FDI Report Cover](images/cover_fdi_report_2013dec31.jpg)</span>
+<span class="imgleft">![FDI Report Cover]({{ site.baseurl }}/images/cover_fdi_report_2013dec31.jpg)</span>
 
 **December 2013**
 
-![Read](https://google.github.io/material-design-icons/action/svg/design/ic_description_24px.svg "Date") [Read the report](documents/full_report_-_fdi_in_the_united_states.pdf)
+![Read]({{ site.baseurl }}/icons/document.svg "Read") [Read the report]({{ site.baseurl }}/documents/full_report_-_fdi_in_the_united_states.pdf)
 
 This paper studies the impact of FDI on the U.S. economy, the strengths and attractiveness of the United States as a destination for FDI, and the competitiveness of the United States with respect to investment trends by geography and industry sector.
 
