@@ -113,7 +113,7 @@ SelectUSA has increased its presence at industry events both domestically and ov
 
 ## International Seminars and Special Events
 
-Through outreach to investors in global markets, SelectUSA helps them get the information they need to make critical decisions about their investments. &nbsp;At seminars and other events, SelectUSA offers resources, identifies relevant federal programs, demystifies federal rules and regulations, and links businesses with partners or resources at the sate or local levels. &nbsp;Recent examples:
+Through outreach to investors in global markets, SelectUSA helps them get the information they need to make critical decisions about their investments. &nbsp;At seminars and other events, SelectUSA offers resources, identifies relevant federal programs, demystifies federal rules and regulations, and links businesses with partners or resources at the state or local levels. &nbsp;Recent examples:
 
 <span class="imgright">![Investment Seminar in Greece](images/4355_eveth_-300x200.jpg "Investment Seminar in Greece")</span>
 
