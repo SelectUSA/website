@@ -13,45 +13,54 @@ published: true
 
 <div class="tab-content">
   <div id="home" class="tab-pane fade in active">
+  <br/>
     <p>Explore the latest statistics on foreign direct investment (FDI) in the United States and its impact on U.S. jobs, exports, and innovation. This updated fact sheet now includes the rankings of the largest and fastest-growing sources of FDI in the United States.</p>
     <p><img src=”” class="img-responsive" alt=””></p>
   </div>
   <div id="menu1" class="tab-pane fade">
     <p><h4>Select an international market:</h4></p>
     <p>
-    <div class="table-responsive">
-  <table class="table">
-    <tbody>
-      <tr>
-        <td>Australia</td>
-        <td>Austria</td>
-        <td>Belgium</td>
-        <td>Brazil</td>
-      </tr>
-      <tr>
-        <td>Canada</td>
-        <td>China</td>
-        <td>Colombia</td>
-        <td>Denmark</td>
-      </tr>
-      <tr>
-        <td>Finland</td>
-        <td>France</td>
-        <td>Germany</td>
-        <td>Hong Kong</td>
-      </tr>
-      <tr>
-        <td>Colombia</td>
-        <td>Denmark</td>
-        <td>Finland</td>
-      </tr>
-      <tr>
-        <td>Colombia</td>
-        <td>Denmark</td>
-        <td>Finland</td>
-      </tr>
-    </tbody>
-  </table>
+<div class="row">
+  <div class="col-sm-3">
+*	[Australia]({{ site.baseurl }}/country-fact-sheets/2015-03-02 SelectUSA Australia Fact Sheet.pdf)
+*	[Austria]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Austria Fact Sheet.pdf)
+*	[Belgium]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Belgium Fact Sheet.pdf)
+*	[Brazil]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Brazil Fact Sheet.pdf)
+*	[Canada]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Canada Fact Sheet.pdf)
+*	[China]({{ site.baseurl }}/country-fact-sheets/2015-3-2 SelectUSA China Fact Sheet.pdf)
+*	[Colombia]({{ site.baseurl }}/country-fact-sheets/2015-02-27 SelectUSA Colombia Fact Sheet.pdf)
+*	[Denmark]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Denmark Fact Sheet.pdf)
+  </div>
+  <div class="col-sm-3">
+*	[Finland]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Finland Fact Sheet.pdf)
+*	[France]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA France Fact Sheet.pdf)
+*	[Germany]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Germany Fact Sheet.pdf)
+*	[Hong Kong]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Hong Kong Fact Sheet.pdf)
+*	[India]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA India Fact Sheet.pdf)
+* [Ireland]({{ site.baseurl }}/country-fact-sheets/2015-02-24 SelectUSA Ireland Fact Sheet.pdf)
+*	[Israel]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Israel Fact Sheet.pdf)
+*	[Italy]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Italy Fact Sheet.pdf)
+  </div>
+  <div class="col-sm-3">
+*	[Japan]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Japan Fact Sheet.pdf)
+*	[Kuwait]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Kuwait Fact Sheet.pdf)
+*	[Mexico]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Mexico Fact Sheet.pdf)
+*	[The Netherlands]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Netherlands Fact Sheet.pdf)
+*	[New Zealand]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA New Zealand Fact Sheet.pdf)
+*	[Norway]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Norway Fact Sheet.pdf)
+*	[Saudi Arabia]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Saudi Arabia Fact Sheet.pdf)
+*	[Singapore]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Singapore Fact Sheet.pdf)
+  </div>
+  <div class="col-sm-3">
+*	[South Africa]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA South Africa Fact Sheet.pdf)
+*	[South Korea]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA South Korea Fact Sheet.pdf)
+*	[Spain]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Spain Fact Sheet.pdf)
+*	[Sweden]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Sweden Fact Sheet.pdf)
+*	[Switzerland]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Switzerland Fact Sheet.pdf)
+*	[Taiwan]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Taiwan Fact Sheet.pdf)
+*	[UAE]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA UAE Fact Sheet.pdf)
+*	[UK]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA UK Fact Sheet.pdf)
+  </div>
 </div>
   </p>
   </div>
@@ -85,38 +94,10 @@ published: true
 
 
 
-*	[Australia]({{ site.baseurl }}/country-fact-sheets/2015-03-02 SelectUSA Australia Fact Sheet.pdf)
-*	[Austria]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Austria Fact Sheet.pdf)
-*	[Belgium]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Belgium Fact Sheet.pdf)
-*	[Brazil]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Brazil Fact Sheet.pdf)
-*	[Canada]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Canada Fact Sheet.pdf)
-*	[China]({{ site.baseurl }}/country-fact-sheets/2015-3-2 SelectUSA China Fact Sheet.pdf)
-*	[Colombia]({{ site.baseurl }}/country-fact-sheets/2015-02-27 SelectUSA Colombia Fact Sheet.pdf)
-*	[Denmark]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Denmark Fact Sheet.pdf)
-*	[Finland]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Finland Fact Sheet.pdf)
-*	[France]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA France Fact Sheet.pdf)
-*	[Germany]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Germany Fact Sheet.pdf)
-*	[Hong Kong]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Hong Kong Fact Sheet.pdf)
-*	[India]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA India Fact Sheet.pdf)
-* [Ireland]({{ site.baseurl }}/country-fact-sheets/2015-02-24 SelectUSA Ireland Fact Sheet.pdf)
-*	[Israel]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Israel Fact Sheet.pdf)
-*	[Italy]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Italy Fact Sheet.pdf)
-*	[Japan]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Japan Fact Sheet.pdf)
-*	[Kuwait]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Kuwait Fact Sheet.pdf)
-*	[Mexico]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Mexico Fact Sheet.pdf)
-*	[The Netherlands]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Netherlands Fact Sheet.pdf)
-*	[New Zealand]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA New Zealand Fact Sheet.pdf)
-*	[Norway]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Norway Fact Sheet.pdf)
-*	[Saudi Arabia]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Saudi Arabia Fact Sheet.pdf)
-*	[Singapore]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Singapore Fact Sheet.pdf)
-*	[South Africa]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA South Africa Fact Sheet.pdf)
-*	[South Korea]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA South Korea Fact Sheet.pdf)
-*	[Spain]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Spain Fact Sheet.pdf)
-*	[Sweden]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Sweden Fact Sheet.pdf)
-*	[Switzerland]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Switzerland Fact Sheet.pdf)
-*	[Taiwan]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Taiwan Fact Sheet.pdf)
-*	[UAE]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA UAE Fact Sheet.pdf)
-*	[UK]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA UK Fact Sheet.pdf)
+
+
+
+
 
 ## FDI Fact Sheets by U.S. State/Territory
 
