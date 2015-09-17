@@ -21,19 +21,29 @@ published: true
   <div class="col-sm-3">
   
   <div class="list-group">
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-02 SelectUSA Australia Fact Sheet.pdf" class="list-group-item active">Australia</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-02 SelectUSA Australia Fact Sheet.pdf" class="list-group-item">Australia</a>
   <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Austria Fact Sheet.pdf" class="list-group-item">Austria</a>
   <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Belgium Fact Sheet.pdf" class="list-group-item">Belgium</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Brazil Fact Sheet.pdf" class="list-group-item">Brazil</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Canada Fact Sheet.pdf" class="list-group-item">Canada</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-3-2 SelectUSA China Fact Sheet.pdf" class="list-group-item">China</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-02-27 SelectUSA Colombia Fact Sheet.pdf" class="list-group-item">Colombia</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Denmark Fact Sheet.pdf" class="list-group-item">Denmark</a>
 </div>
-
-*	[Brazil]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Brazil Fact Sheet.pdf)
-*	[Canada]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Canada Fact Sheet.pdf)
-*	[China]({{ site.baseurl }}/country-fact-sheets/2015-3-2 SelectUSA China Fact Sheet.pdf)
-*	[Colombia]({{ site.baseurl }}/country-fact-sheets/2015-02-27 SelectUSA Colombia Fact Sheet.pdf)
-*	[Denmark]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Denmark Fact Sheet.pdf)
-
   </div>
+  
   <div class="col-sm-3">
+
+  <div class="list-group">
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-02 SelectUSA Australia Fact Sheet.pdf" class="list-group-item">Finland</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Austria Fact Sheet.pdf" class="list-group-item">France</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Belgium Fact Sheet.pdf" class="list-group-item">Germany</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Brazil Fact Sheet.pdf" class="list-group-item">Hong Kong</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Canada Fact Sheet.pdf" class="list-group-item">India</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-3-2 SelectUSA China Fact Sheet.pdf" class="list-group-item">Ireland</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-02-27 SelectUSA Colombia Fact Sheet.pdf" class="list-group-item">Israel</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Denmark Fact Sheet.pdf" class="list-group-item">Italy</a>
+</div>
 
 *	[Finland]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Finland Fact Sheet.pdf)
 *	[France]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA France Fact Sheet.pdf)
