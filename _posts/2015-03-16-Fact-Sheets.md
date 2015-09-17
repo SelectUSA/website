@@ -1,7 +1,7 @@
 ---
 permalink: "fact-sheets.html"
 layout: default
-title: FDI Fact Sheets
+title: SelectUSA Fact Sheets
 published: true
 ---
 
@@ -13,10 +13,11 @@ published: true
 
 <div class="tab-content">
   <div id="home" class="tab-pane fade in active">
-  <p><span class="imgleft"><img src=”” class="img-responsive" alt=””></span>Explore the latest statistics on foreign direct investment (FDI) in the United States and its impact on U.S. jobs, exports, and innovation. This updated fact sheet now includes the rankings of the largest and fastest-growing sources of FDI in the United States.</p></div>
+  <p><span class="imgleft"><img src="" class="img-responsive" alt=""></span>Explore the latest statistics on foreign direct investment (FDI) in the United States and its impact on U.S. jobs, exports, and innovation. This updated fact sheet now includes the rankings of the largest and fastest-growing sources of FDI in the United States.</p>
+  <p><p></div>
   
   <div id="menu1" class="tab-pane fade">
-    <p><h4>Select an international market:</h4></p>
+    <p>Select an international market below to learn more about its investments in the United States:</p>
 <div class="row">
   <div class="col-sm-3">
   
@@ -35,48 +36,43 @@ published: true
   <div class="col-sm-3">
 
   <div class="list-group">
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-02 SelectUSA Australia Fact Sheet.pdf" class="list-group-item">Finland</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Austria Fact Sheet.pdf" class="list-group-item">France</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Belgium Fact Sheet.pdf" class="list-group-item">Germany</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Brazil Fact Sheet.pdf" class="list-group-item">Hong Kong</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Canada Fact Sheet.pdf" class="list-group-item">India</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-3-2 SelectUSA China Fact Sheet.pdf" class="list-group-item">Ireland</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-02-27 SelectUSA Colombia Fact Sheet.pdf" class="list-group-item">Israel</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Denmark Fact Sheet.pdf" class="list-group-item">Italy</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Finland Fact Sheet.pdf" class="list-group-item">Finland</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA France Fact Sheet.pdf" class="list-group-item">France</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Germany Fact Sheet.pdf" class="list-group-item">Germany</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Hong Kong Fact Sheet.pdf" class="list-group-item">Hong Kong</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA India Fact Sheet.pdf" class="list-group-item">India</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-02-24 SelectUSA Ireland Fact Sheet.pdf" class="list-group-item">Ireland</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Israel Fact Sheet.pdf" class="list-group-item">Israel</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Italy Fact Sheet.pdf" class="list-group-item">Italy</a>
 </div>
-
-*	[Finland]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Finland Fact Sheet.pdf)
-*	[France]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA France Fact Sheet.pdf)
-*	[Germany]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Germany Fact Sheet.pdf)
-*	[Hong Kong]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Hong Kong Fact Sheet.pdf)
-*	[India]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA India Fact Sheet.pdf)
-* [Ireland]({{ site.baseurl }}/country-fact-sheets/2015-02-24 SelectUSA Ireland Fact Sheet.pdf)
-*	[Israel]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Israel Fact Sheet.pdf)
-*	[Italy]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Italy Fact Sheet.pdf)
 
   </div>
   <div class="col-sm-3">
   
-*	[Japan]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Japan Fact Sheet.pdf)
-*	[Kuwait]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Kuwait Fact Sheet.pdf)
-*	[Mexico]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Mexico Fact Sheet.pdf)
-*	[The Netherlands]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Netherlands Fact Sheet.pdf)
-*	[New Zealand]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA New Zealand Fact Sheet.pdf)
-*	[Norway]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Norway Fact Sheet.pdf)
-*	[Saudi Arabia]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Saudi Arabia Fact Sheet.pdf)
-*	[Singapore]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Singapore Fact Sheet.pdf)
-
+  <div class="list-group">
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Japan Fact Sheet.pdf" class="list-group-item">Japan</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Kuwait Fact Sheet.pdf" class="list-group-item">Kuwait</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Mexico Fact Sheet.pdf" class="list-group-item">Mexico</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Netherlands Fact Sheet.pdf" class="list-group-item">The Netherlands</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA New Zealand Fact Sheet.pdf" class="list-group-item">New Zealand</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Norway Fact Sheet.pdf" class="list-group-item">Norway</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Saudi Arabia Fact Sheet.pdf" class="list-group-item">Saudi Arabia</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Singapore Fact Sheet.pdf" class="list-group-item">Singapore</a>
+</div>
+  
   </div>
   <div class="col-sm-3">
-
-*	[South Africa]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA South Africa Fact Sheet.pdf)
-*	[South Korea]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA South Korea Fact Sheet.pdf)
-*	[Spain]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Spain Fact Sheet.pdf)
-*	[Sweden]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Sweden Fact Sheet.pdf)
-*	[Switzerland]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Switzerland Fact Sheet.pdf)
-*	[Taiwan]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Taiwan Fact Sheet.pdf)
-*	[UAE]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA UAE Fact Sheet.pdf)
-*	[UK]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA UK Fact Sheet.pdf)
+  
+  <div class="list-group">
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA South Africa Fact Sheet.pdf" class="list-group-item">South Africa</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA South Korea Fact Sheet.pdf" class="list-group-item">South Korea</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Spain Fact Sheet.pdf" class="list-group-item">Spain</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Sweden Fact Sheet.pdf" class="list-group-item">Sweden</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Switzerland Fact Sheet.pdf" class="list-group-item">Switzerland</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Taiwan Fact Sheet.pdf" class="list-group-item">Taiwan</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA UAE Fact Sheet.pdf" class="list-group-item">UAE</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA UK Fact Sheet.pdf" class="list-group-item">UK</a>
+</div>
 
   </div>
 </div>
@@ -84,39 +80,69 @@ published: true
   </div>
   
   <div id="menu2" class="tab-pane fade">
-    <h4>Select a U.S. state or territory:</h4>
-    <p>Some content in menu 2.</p>
+    <p>Select a U.S. state or territory below to learn more about FDI's impact on its economy:</p>
+
+<div class="row">
+  <div class="col-sm-3">
+  
+  <div class="list-group">
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-02 SelectUSA Australia Fact Sheet.pdf" class="list-group-item">Australia</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Austria Fact Sheet.pdf" class="list-group-item">Austria</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Belgium Fact Sheet.pdf" class="list-group-item">Belgium</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Brazil Fact Sheet.pdf" class="list-group-item">Brazil</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Canada Fact Sheet.pdf" class="list-group-item">Canada</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-3-2 SelectUSA China Fact Sheet.pdf" class="list-group-item">China</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-02-27 SelectUSA Colombia Fact Sheet.pdf" class="list-group-item">Colombia</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Denmark Fact Sheet.pdf" class="list-group-item">Denmark</a>
+</div>
+  </div>
+  
+  <div class="col-sm-3">
+
+  <div class="list-group">
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Finland Fact Sheet.pdf" class="list-group-item">Finland</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA France Fact Sheet.pdf" class="list-group-item">France</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Germany Fact Sheet.pdf" class="list-group-item">Germany</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Hong Kong Fact Sheet.pdf" class="list-group-item">Hong Kong</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA India Fact Sheet.pdf" class="list-group-item">India</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-02-24 SelectUSA Ireland Fact Sheet.pdf" class="list-group-item">Ireland</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Israel Fact Sheet.pdf" class="list-group-item">Israel</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Italy Fact Sheet.pdf" class="list-group-item">Italy</a>
+</div>
+
+  </div>
+  <div class="col-sm-3">
+  
+  <div class="list-group">
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Japan Fact Sheet.pdf" class="list-group-item">Japan</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Kuwait Fact Sheet.pdf" class="list-group-item">Kuwait</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Mexico Fact Sheet.pdf" class="list-group-item">Mexico</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Netherlands Fact Sheet.pdf" class="list-group-item">The Netherlands</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA New Zealand Fact Sheet.pdf" class="list-group-item">New Zealand</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Norway Fact Sheet.pdf" class="list-group-item">Norway</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Saudi Arabia Fact Sheet.pdf" class="list-group-item">Saudi Arabia</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Singapore Fact Sheet.pdf" class="list-group-item">Singapore</a>
+</div>
+  
+  </div>
+  <div class="col-sm-3">
+  
+  <div class="list-group">
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA South Africa Fact Sheet.pdf" class="list-group-item">South Africa</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA South Korea Fact Sheet.pdf" class="list-group-item">South Korea</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Spain Fact Sheet.pdf" class="list-group-item">Spain</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Sweden Fact Sheet.pdf" class="list-group-item">Sweden</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Switzerland Fact Sheet.pdf" class="list-group-item">Switzerland</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Taiwan Fact Sheet.pdf" class="list-group-item">Taiwan</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA UAE Fact Sheet.pdf" class="list-group-item">UAE</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA UK Fact Sheet.pdf" class="list-group-item">UK</a>
+</div>
+
   </div>
 </div>
 
-<button type="button" class="btn btn-info"><a href="#" class="btn btn-default" role="button"><span class="label label-warning">NEW</span> FDI in the USA Fact Sheet</a></button>
-
-<div class="dropdown">
-  <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown"><span class="label label-warning">NEW</span> FDI in the USA Fact Sheet</button>
+  </div>
 </div>
-
-## FDI Fact Sheets by Source Market
-
-<div class="dropdown">
-  <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown"><span class="label label-warning">NEW</span> International Fact Sheets
-  <span class="caret"></span></button>
-  <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
-    <li role="presentation"><a role="menuitem" href="{{ site.baseurl }}/country-fact-sheets/2015-03-02 SelectUSA Australia Fact Sheet.pdf">Australia</a></li>
-    <li role="presentation"><a role="menuitem" href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Austria Fact Sheet.pd">Austria</a></li>
-    <li role="presentation"><a role="menuitem" href="#">JavaScript</a></li>
-    <li role="presentation" class="divider"></li>
-    <li role="presentation"><a role="menuitem" href="#">About Us</a></li>
-  </ul>
-</div>
-
-<img src="" class="img-responsive" alt="">
-
-
-
-
-
-
-
 
 ## FDI Fact Sheets by U.S. State/Territory
 
