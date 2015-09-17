@@ -6,19 +6,19 @@ published: true
 ---
 
 <ul class="nav nav-pills nav-justified">
-  <li class="active"><a data-toggle="pill" href="#home">FDI in the USA <span class="label label-warning">NEW</span></a></li>
-  <li><a data-toggle="pill" href="#menu1">International Fact Sheets <span class="label label-warning">NEW</span></a></li>
+  <li class="active"><a data-toggle="pill" href="#home">FDI in the USA</a></li>
+  <li><a data-toggle="pill" href="#menu1">International Fact Sheets</a></li>
   <li><a data-toggle="pill" href="#menu2">Domestic Fact Sheets</a></li>
 </ul>
 
 <div class="tab-content">
   <div id="home" class="tab-pane fade in active">
-    Explore the latest statistics on foreign direct investment (FDI) in the United States and its impact on U.S. jobs, exports, and innovation. This updated fact sheet now includes the rankings of the largest and fastest-growing sources of FDI in the United States.<br/>
-    <img src=”” class="img-responsive" alt=””>
-    
+    <p>Explore the latest statistics on foreign direct investment (FDI) in the United States and its impact on U.S. jobs, exports, and innovation. This updated fact sheet now includes the rankings of the largest and fastest-growing sources of FDI in the United States.</p>
+    <p><img src=”” class="img-responsive" alt=””></p>
   </div>
   <div id="menu1" class="tab-pane fade">
-    <h4>Select an international market:</h4>
+    <p><h4>Select an international market:</h4></p>
+    <p>
     <div class="table-responsive">
   <table class="table">
     <tbody>
@@ -53,6 +53,7 @@ published: true
     </tbody>
   </table>
 </div>
+  </p>
   </div>
   <div id="menu2" class="tab-pane fade">
     <h4>Select a U.S. state or territory:</h4>
