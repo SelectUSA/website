@@ -5,21 +5,22 @@ title: FDI Fact Sheets
 published: true
 ---
 
-<ul class="nav nav-tabs">
-  <li class="active"><a data-toggle="tab" href="#home">FDI in the United States</a></li>
-  <li><a data-toggle="tab" href="#menu1">International Fact Sheets</a></li>
-  <li><a data-toggle="tab" href="#menu2">Domestic Fact Sheets</a></li>
+<ul class="nav nav-pills nav-justified">
+  <li class="active"><a data-toggle="pill" href="#home">FDI in the USA <span class="label label-warning">NEW</span></a></li>
+  <li><a data-toggle="pill" href="#menu1">International Fact Sheets <span class="label label-warning">NEW</span></a></li>
+  <li><a data-toggle="pill" href="#menu2">Domestic Fact Sheets</a></li>
 </ul>
 
 <div class="tab-content">
   <div id="home" class="tab-pane fade in active">
-    <h3>FDI in the United States</h3>
-    <p>Some content.</p>
+    Explore the latest statistics on foreign direct investment (FDI) in the United States and its impact on U.S. jobs, exports, and innovation. This updated fact sheet now includes the rankings of the largest and fastest-growing sources of FDI in the United States.<br/>
+    <img src=”” class="img-responsive" alt=””>
+    
   </div>
   <div id="menu1" class="tab-pane fade">
-    <h3>Select an international market:</h3>
+    <h4>Select an international market:</h4>
     <div class="table-responsive">
-  <table class="table table-striped">
+  <table class="table">
     <tbody>
       <tr>
         <td>Australia</td>
@@ -36,12 +37,22 @@ published: true
         <td>Denmark</td>
         <td>Finland</td>
       </tr>
+      <tr>
+        <td>Colombia</td>
+        <td>Denmark</td>
+        <td>Finland</td>
+      </tr>
+      <tr>
+        <td>Colombia</td>
+        <td>Denmark</td>
+        <td>Finland</td>
+      </tr>
     </tbody>
   </table>
 </div>
   </div>
   <div id="menu2" class="tab-pane fade">
-    <h3>Select a U.S. state or territory:</h3>
+    <h4>Select a U.S. state or territory:</h4>
     <p>Some content in menu 2.</p>
   </div>
 </div>
