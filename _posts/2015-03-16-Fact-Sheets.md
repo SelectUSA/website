@@ -5,13 +5,7 @@ title: SelectUSA Fact Sheets
 published: true
 ---
 
-<ul class="nav nav-pills nav-justified">
-  <li class="active"><a data-toggle="pill" href="#home">FDI in the USA</a></li>
-  <li><a data-toggle="pill" href="#menu1">International Fact Sheets</a></li>
-  <li><a data-toggle="pill" href="#menu2">Domestic Fact Sheets</a></li>
-</ul>
-
-## FDI in the USA
+## FDI in the USA <span class="label label-warning">New</span>
 
 <span class="imgleft"><img src="" class="img-responsive" alt=""></span> 
   
@@ -19,7 +13,7 @@ Explore the latest statistics on foreign direct investment (FDI) in the United S
 
 <img src="{{ site.baseurl }}/icons/download.svg" class="img-responsive" alt="Download"> Download the FDI in the USA Fact Sheet
   
-## International Fact Sheets
+## International Fact Sheets <span class="label label-warning">New</span>
   
 Select an international market below to learn more about its investments in the United States:
 
