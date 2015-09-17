@@ -15,17 +15,18 @@ published: true
   <div id="home" class="tab-pane fade in active">
   <div class="row">
   <div class="col-sm-4"><img src=”” class="img-responsive" alt=””></div>
-  <div class="col-sm-8"><p>Explore the latest statistics on foreign direct investment (FDI) in the United States and its impact on U.S. jobs, exports, and innovation. This updated fact sheet now includes the rankings of the largest and fastest-growing sources of FDI in the United States.</p></div>
-</div>
+  <div class="col-sm-8"><p>Explore the latest statistics on foreign direct investment (FDI) in the United States and its impact on U.S. jobs, exports, and innovation. This updated fact sheet now includes the rankings of the largest and fastest-growing sources of FDI in the United States.</p></div></div>
   <div id="menu1" class="tab-pane fade">
     <p><h4>Select an international market:</h4></p>
-    <p>
 <div class="row">
   <div class="col-sm-3">
   
-*	[Australia]({{ site.baseurl }}/country-fact-sheets/2015-03-02 SelectUSA Australia Fact Sheet.pdf)
-*	[Austria]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Austria Fact Sheet.pdf)
-*	[Belgium]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Belgium Fact Sheet.pdf)
+  <div class="list-group">
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-02 SelectUSA Australia Fact Sheet.pdf" class="list-group-item active">Australia</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Austria Fact Sheet.pdf" class="list-group-item">Austria</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Belgium Fact Sheet.pdf" class="list-group-item">Belgium</a>
+</div>
+
 *	[Brazil]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Brazil Fact Sheet.pdf)
 *	[Canada]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Canada Fact Sheet.pdf)
 *	[China]({{ site.baseurl }}/country-fact-sheets/2015-3-2 SelectUSA China Fact Sheet.pdf)
@@ -70,8 +71,9 @@ published: true
 
   </div>
 </div>
-  </p>
+
   </div>
+  
   <div id="menu2" class="tab-pane fade">
     <h4>Select a U.S. state or territory:</h4>
     <p>Some content in menu 2.</p>
