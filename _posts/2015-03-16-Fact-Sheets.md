@@ -5,7 +5,23 @@ title: SelectUSA Fact Sheets
 published: true
 ---
 
+##
+
+
+
 ## FDI Fact Sheets by Source Market
+
+<div class="dropdown">
+  <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">International Fact Sheets
+  <span class="caret"></span></button>
+  <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+    <li role="presentation"><a role="menuitem" href="{{ site.baseurl }}/country-fact-sheets/2015-03-02 SelectUSA Australia Fact Sheet.pdf">Australia</a></li>
+    <li role="presentation"><a role="menuitem" href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Austria Fact Sheet.pd">Austria</a></li>
+    <li role="presentation"><a role="menuitem" href="#">JavaScript</a></li>
+    <li role="presentation" class="divider"></li>
+    <li role="presentation"><a role="menuitem" href="#">About Us</a></li>
+  </ul>
+</div>
 
 *	[Australia]({{ site.baseurl }}/country-fact-sheets/2015-03-02 SelectUSA Australia Fact Sheet.pdf)
 *	[Austria]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Austria Fact Sheet.pdf)
@@ -20,7 +36,7 @@ published: true
 *	[Germany]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Germany Fact Sheet.pdf)
 *	[Hong Kong]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Hong Kong Fact Sheet.pdf)
 *	[India]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA India Fact Sheet.pdf)
-* 	[Ireland]({{ site.baseurl }}/country-fact-sheets/2015-02-24 SelectUSA Ireland Fact Sheet.pdf)
+* [Ireland]({{ site.baseurl }}/country-fact-sheets/2015-02-24 SelectUSA Ireland Fact Sheet.pdf)
 *	[Israel]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Israel Fact Sheet.pdf)
 *	[Italy]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Italy Fact Sheet.pdf)
 *	[Japan]({{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Japan Fact Sheet.pdf)
@@ -95,5 +111,3 @@ published: true
 *   [West Virginia]({{ site.baseurl }}/state-fact-sheets/2015-03-17 FDI State Fact Sheet - West Virginia.pdf)
 *   [Wisconsin]({{ site.baseurl }}/state-fact-sheets/2015-02-24 Wisconsin Fact Sheet.pdf)
 *   [Wyoming]({{ site.baseurl }}/state-fact-sheets/2015-02-11 Wyoming Fact Sheet.pdf)
-
-
