@@ -86,14 +86,20 @@ published: true
   <div class="col-sm-3">
   
   <div class="list-group">
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-02 SelectUSA Australia Fact Sheet.pdf" class="list-group-item">Australia</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Austria Fact Sheet.pdf" class="list-group-item">Austria</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Belgium Fact Sheet.pdf" class="list-group-item">Belgium</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Brazil Fact Sheet.pdf" class="list-group-item">Brazil</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Canada Fact Sheet.pdf" class="list-group-item">Canada</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-3-2 SelectUSA China Fact Sheet.pdf" class="list-group-item">China</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-02-27 SelectUSA Colombia Fact Sheet.pdf" class="list-group-item">Colombia</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Denmark Fact Sheet.pdf" class="list-group-item">Denmark</a>
+  <a href="{{ site.baseurl }}/state-fact-sheets/2015-03-02 Alabama Fact Sheet.pdf" class="list-group-item">Alabama</a>
+  <a href="{{ site.baseurl }}/state-fact-sheets/2015-03-03 Alaska State Fact Sheet.pdf" class="list-group-item">Alaska</a>
+  <a href="{{ site.baseurl }}/state-fact-sheets/2015-03-02 Arizona State Fact Sheet.pdf" class="list-group-item">Arizona</a>
+  <a href="{{ site.baseurl }}/state-fact-sheets/2015-03-02 FDI State Fact Sheet - Arkansas.pdf" class="list-group-item">Arkansas</a>
+  <a href="{{ site.baseurl }}/state-fact-sheets/2015-03-16 FDI State Fact Sheet - California.pdf" class="list-group-item">California</a>
+  <a href="{{ site.baseurl }}/state-fact-sheets/2015-02-09 FDI State Fact Sheet - Colorado.pdf" class="list-group-item">Colorado</a>
+  <a href="{{ site.baseurl }}/state-fact-sheets/2015-03-02 FDI State Fact Sheet - Connecticut.pdf" class="list-group-item">Connecticut</a>
+  <a href="{{ site.baseurl }}/state-fact-sheets/2015-03-16 FDI State Fact Sheet - Delaware.pdf" class="list-group-item">Delaware</a>
+  <a href="{{ site.baseurl }}/state-fact-sheets/2015-02-09 FDI State Fact Sheet - District of Columbia.pdf" class="list-group-item">District of Colombia</a>
+  <a href="{{ site.baseurl }}/state-fact-sheets/2015-02-09 FDI State Fact Sheet - Florida.pdf" class="list-group-item">Florida</a>
+  <a href="{{ site.baseurl }}/state-fact-sheets/2015-03-16 FDI State Fact Sheet - Georgia.pdf" class="list-group-item">Georgia</a>
+  <a href="{{ site.baseurl }}/state-fact-sheets/2015-02-09 Hawaii.pdf" class="list-group-item">Hawaii</a>
+  <a href="{{ site.baseurl }}/state-fact-sheets/2015-03-03 FDI State Fact Sheet - Idaho.pdf" class="list-group-item">Idaho</a>
+  <a href="{{ site.baseurl }}/state-fact-sheets/2015-01-10 FDI State Fact Sheet - Illinois.pdf" class="list-group-item">Illinois</a>
 </div>
   </div>
   
@@ -146,20 +152,7 @@ published: true
 
 ## FDI Fact Sheets by U.S. State/Territory
 
-*   [Alabama]({{ site.baseurl }}/state-fact-sheets/2015-03-02 Alabama Fact Sheet.pdf)
-*   [Alaska]({{ site.baseurl }}/state-fact-sheets/2015-03-03 Alaska State Fact Sheet.pdf)
-*   [Arizona]({{ site.baseurl }}/state-fact-sheets/2015-03-02 Arizona State Fact Sheet.pdf)
-*   [Arkansas]({{ site.baseurl }}/state-fact-sheets/2015-03-02 FDI State Fact Sheet - Arkansas.pdf)
-*   [California]({{ site.baseurl }}/state-fact-sheets/2015-03-16 FDI State Fact Sheet - California.pdf)
-*   [Colorado]({{ site.baseurl }}/state-fact-sheets/2015-02-09 FDI State Fact Sheet - Colorado.pdf)
-*   [Connecticut]({{ site.baseurl }}/state-fact-sheets/2015-03-02 FDI State Fact Sheet - Connecticut.pdf)
-*   [Delaware]({{ site.baseurl }}/state-fact-sheets/2015-03-16 FDI State Fact Sheet - Delaware.pdf)
-*   [District of Colombia]({{ site.baseurl }}/state-fact-sheets/2015-02-09 FDI State Fact Sheet - District of Columbia.pdf)
-*   [Florida]({{ site.baseurl }}/state-fact-sheets/2015-02-09 FDI State Fact Sheet - Florida.pdf)
-*   [Georgia]({{ site.baseurl }}/state-fact-sheets/2015-03-16 FDI State Fact Sheet - Georgia.pdf)
-*   [Hawaii]({{ site.baseurl }}/state-fact-sheets/2015-02-09 Hawaii.pdf)
-*   [Idaho]({{ site.baseurl }}/state-fact-sheets/2015-03-03 FDI State Fact Sheet - Idaho.pdf)
-*   [Illinois]({{ site.baseurl }}/state-fact-sheets/2015-01-10 FDI State Fact Sheet - Illinois.pdf)
+*   [A
 *   [Indiana]({{ site.baseurl }}/state-fact-sheets/2015-03-16 Indiana FDI Fact Sheet.pdf)
 *   [Iowa]({{ site.baseurl }}/state-fact-sheets/2015-02-10 FDI State Fact Sheet - Iowa.pdf)
 *   [Kansas]({{ site.baseurl }}/state-fact-sheets/2015-02-10 FDI State Fact Sheet - Kansas.pdf)
