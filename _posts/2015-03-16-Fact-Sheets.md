@@ -5,6 +5,47 @@ title: FDI Fact Sheets
 published: true
 ---
 
+<ul class="nav nav-tabs">
+  <li class="active"><a data-toggle="tab" href="#home">FDI in the United States</a></li>
+  <li><a data-toggle="tab" href="#menu1">International Fact Sheets</a></li>
+  <li><a data-toggle="tab" href="#menu2">Domestic Fact Sheets</a></li>
+</ul>
+
+<div class="tab-content">
+  <div id="home" class="tab-pane fade in active">
+    <h3>FDI in the United States</h3>
+    <p>Some content.</p>
+  </div>
+  <div id="menu1" class="tab-pane fade">
+    <h3>Select an international market:</h3>
+    <div class="table-responsive">
+  <table class="table table-striped">
+    <tbody>
+      <tr>
+        <td>Australia</td>
+        <td>Austria</td>
+        <td>Belgium</td>
+      </tr>
+      <tr>
+        <td>Brazil</td>
+        <td>Canada</td>
+        <td>China</td>
+      </tr>
+      <tr>
+        <td>Colombia</td>
+        <td>Denmark</td>
+        <td>Finland</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  </div>
+  <div id="menu2" class="tab-pane fade">
+    <h3>Select a U.S. state or territory:</h3>
+    <p>Some content in menu 2.</p>
+  </div>
+</div>
+
 <button type="button" class="btn btn-info"><a href="#" class="btn btn-default" role="button"><span class="label label-warning">NEW</span> FDI in the USA Fact Sheet</a></button>
 
 <div class="dropdown">
