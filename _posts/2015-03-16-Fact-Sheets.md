@@ -26,16 +26,19 @@ published: true
         <td>Australia</td>
         <td>Austria</td>
         <td>Belgium</td>
+        <td>Brazil</td>
       </tr>
       <tr>
-        <td>Brazil</td>
         <td>Canada</td>
         <td>China</td>
-      </tr>
-      <tr>
         <td>Colombia</td>
         <td>Denmark</td>
+      </tr>
+      <tr>
         <td>Finland</td>
+        <td>France</td>
+        <td>Germany</td>
+        <td>Hong Kong</td>
       </tr>
       <tr>
         <td>Colombia</td>
