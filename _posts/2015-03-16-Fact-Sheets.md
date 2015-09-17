@@ -115,8 +115,8 @@ Select a U.S. state or territory below to learn more about FDI's impact on its e
   <a href="{{ site.baseurl }}/state-fact-sheets/2015-03-16 FDI State Fact Sheet - Michigan.pdf" class="list-group-item">Michigan</a>
   <a href="{{ site.baseurl }}/state-fact-sheets/2015-02-10 FDI State Fact Sheet - Minnesota.pdf" class="list-group-item">Minnesota</a>
   <a href="{{ site.baseurl }}/state-fact-sheets/2015-02-12 FDI State Fact Sheet - Mississippi.pdf" class="list-group-item">Mississippi</a>
-  <a href="{{ site.baseurl }}/state-fact-sheets/2015-02-10 FDI State Fact Sheet - Missouri.pdf">Missouri</a>
-  <a href="{{ site.baseurl }}/state-fact-sheets/2015-03-03 Montana State Fact Sheet.pdf">Montana</a>
+  <a href="{{ site.baseurl }}/state-fact-sheets/2015-02-10 FDI State Fact Sheet - Missouri.pdf" class="list-group-item">Missouri</a>
+  <a href="{{ site.baseurl }}/state-fact-sheets/2015-03-03 Montana State Fact Sheet.pdf" class="list-group-item">Montana</a>
 </div>
 
   </div>
