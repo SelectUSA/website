@@ -1,5 +1,5 @@
 ---
-permalink: "selectusa-fact-sheets.html"
+permalink: "fact-sheets.html"
 layout: default
 title: SelectUSA Fact Sheets
 published: true
