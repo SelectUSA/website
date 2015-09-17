@@ -13,9 +13,8 @@ published: true
 
 <div class="tab-content">
   <div id="home" class="tab-pane fade in active">
-  <div class="row">
-  <div class="col-sm-4"><img src=”” class="img-responsive" alt=””></div>
-  <div class="col-sm-8"><p>Explore the latest statistics on foreign direct investment (FDI) in the United States and its impact on U.S. jobs, exports, and innovation. This updated fact sheet now includes the rankings of the largest and fastest-growing sources of FDI in the United States.</p></div></div>
+  <p><span class="imgleft"><img src=”” class="img-responsive" alt=””></span>Explore the latest statistics on foreign direct investment (FDI) in the United States and its impact on U.S. jobs, exports, and innovation. This updated fact sheet now includes the rankings of the largest and fastest-growing sources of FDI in the United States.</p></div>
+  
   <div id="menu1" class="tab-pane fade">
     <p><h4>Select an international market:</h4></p>
 <div class="row">
