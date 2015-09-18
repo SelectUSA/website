@@ -5,7 +5,7 @@ title: SelectUSA Fact Sheets
 published: true
 ---
 
-## FDI in the USA  <span class="label label-warning">Updated</span>
+## FDI in the USA
 
 <div class="row">
   <div class="col-sm-2">
@@ -24,7 +24,7 @@ published: true
 
 </div>
 
-## International Fact Sheets  <span class="label label-warning">Updated</span>
+## International Fact Sheets
   
 Select an international market below to learn more about its investments in the United States:
 
