@@ -21,56 +21,56 @@ Select an international market below to learn more about its investments in the 
   <div class="col-sm-3">
   
   <div class="list-group">
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-02 SelectUSA Australia Fact Sheet.pdf" class="list-group-item">Australia</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Austria Fact Sheet.pdf" class="list-group-item">Austria</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Belgium Fact Sheet.pdf" class="list-group-item">Belgium</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Brazil Fact Sheet.pdf" class="list-group-item">Brazil</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Canada Fact Sheet.pdf" class="list-group-item">Canada</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-3-2 SelectUSA China Fact Sheet.pdf" class="list-group-item">China</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-02-27 SelectUSA Colombia Fact Sheet.pdf" class="list-group-item">Colombia</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Denmark Fact Sheet.pdf" class="list-group-item">Denmark</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Australia%20Fact%20Sheet.pdf" class="list-group-item">Australia</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Austria%20Fact%20Sheet.pdf" class="list-group-item">Austria</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Belgium%20Fact%20Sheet.pdf" class="list-group-item">Belgium</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Brazil%20Fact%20Sheet.pdf" class="list-group-item">Brazil</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Canada%20Fact%20Sheet.pdf" class="list-group-item">Canada</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20China%20Fact%20Sheet.pdf" class="list-group-item">China</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Colombia%20Fact%20Sheet.pdf" class="list-group-item">Colombia</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Denmark%20Fact%20Sheet.pdf" class="list-group-item">Denmark</a>
 </div>
   </div>
   
   <div class="col-sm-3">
 
   <div class="list-group">
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Finland Fact Sheet.pdf" class="list-group-item">Finland</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA France Fact Sheet.pdf" class="list-group-item">France</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Germany Fact Sheet.pdf" class="list-group-item">Germany</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Hong Kong Fact Sheet.pdf" class="list-group-item">Hong Kong</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA India Fact Sheet.pdf" class="list-group-item">India</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-02-24 SelectUSA Ireland Fact Sheet.pdf" class="list-group-item">Ireland</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Israel Fact Sheet.pdf" class="list-group-item">Israel</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Italy Fact Sheet.pdf" class="list-group-item">Italy</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Finland%20Fact%20Sheet.pdf" class="list-group-item">Finland</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20France%20Fact%20Sheet.pdf" class="list-group-item">France</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Germany%20Fact%20Sheet.pdf" class="list-group-item">Germany</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Hong%20Kong%20Fact%20Sheet.pdf" class="list-group-item">Hong Kong</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20India%20Fact%20Sheet.pdf" class="list-group-item">India</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Ireland%20Fact%20Sheet.pdf" class="list-group-item">Ireland</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Israel%20Fact%20Sheet.pdf" class="list-group-item">Israel</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Italy%20Fact%20Sheet.pdf" class="list-group-item">Italy</a>
 </div>
 
   </div>
   <div class="col-sm-3">
   
   <div class="list-group">
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Japan Fact Sheet.pdf" class="list-group-item">Japan</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Kuwait Fact Sheet.pdf" class="list-group-item">Kuwait</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Mexico Fact Sheet.pdf" class="list-group-item">Mexico</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Netherlands Fact Sheet.pdf" class="list-group-item">The Netherlands</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA New Zealand Fact Sheet.pdf" class="list-group-item">New Zealand</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Norway Fact Sheet.pdf" class="list-group-item">Norway</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Saudi Arabia Fact Sheet.pdf" class="list-group-item">Saudi Arabia</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Singapore Fact Sheet.pdf" class="list-group-item">Singapore</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Japan%20Fact%20Sheet.pdf" class="list-group-item">Japan</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Kuwait%20Fact%20Sheet.pdf" class="list-group-item">Kuwait</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Mexico%20Fact%20Sheet.pdf" class="list-group-item">Mexico</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Netherlands%20Fact%20Sheet.pdf" class="list-group-item">The Netherlands</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20New%20Zealand%20Fact%20Sheet.pdf" class="list-group-item">New Zealand</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Norway%20Fact%20Sheet.pdf" class="list-group-item">Norway</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Saudi%20Arabia%20Fact%20Sheet.pdf" class="list-group-item">Saudi Arabia</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Singapore%20Fact%20Sheet.pdf" class="list-group-item">Singapore</a>
 </div>
   
   </div>
   <div class="col-sm-3">
   
   <div class="list-group">
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA South Africa Fact Sheet.pdf" class="list-group-item">South Africa</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA South Korea Fact Sheet.pdf" class="list-group-item">South Korea</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Spain Fact Sheet.pdf" class="list-group-item">Spain</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Sweden Fact Sheet.pdf" class="list-group-item">Sweden</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Switzerland Fact Sheet.pdf" class="list-group-item">Switzerland</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA Taiwan Fact Sheet.pdf" class="list-group-item">Taiwan</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA UAE Fact Sheet.pdf" class="list-group-item">UAE</a>
-  <a href="{{ site.baseurl }}/country-fact-sheets/2015-03-01 SelectUSA UK Fact Sheet.pdf" class="list-group-item">UK</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20South%20Africa%20Fact%20Sheet.pdf" class="list-group-item">South Africa</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20South%20Korea%20Fact%20Sheet.pdf" class="list-group-item">South Korea</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Spain%20Fact%20Sheet.pdf" class="list-group-item">Spain</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Sweden%20Fact%20Sheet.pdf" class="list-group-item">Sweden</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Switzerland%20Fact%20Sheet.pdf" class="list-group-item">Switzerland</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20Taiwan%20Fact%20Sheet.pdf" class="list-group-item">Taiwan</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20United%20Arab%20Emirates%20Fact%20Sheet.pdf" class="list-group-item">UAE</a>
+  <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20UK%20Fact%20Sheet.pdf" class="list-group-item">UK</a>
 </div>
 
   </div>
