@@ -12,7 +12,11 @@ published: true
 
 <p>Explore the latest statistics on foreign direct investment (FDI) in the United States and its impact on U.S. jobs, exports, and innovation. This updated fact sheet now includes the rankings of the largest and fastest-growing sources of FDI in the United States.</p>
 
-<p><img src="{{ site.baseurl }}/icons/download.svg" alt="Download"> <a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20FDI%20in%20the%20USA%202-sided%20Fact%20Sheet.pdf">Download the FDI in the USA Fact Sheet</a></p>
+<p>
+<a href="{{ site.baseurl }}/country-fact-sheets/2015-09-10%20FDI%20in%20the%20USA%202-sided%20Fact%20Sheet.pdf" class="btn">
+    <span class="glyphicon glyphicon-download-alt"></span> Download the FDI in the USA Fact Sheet
+  </a>
+  </p>
   </div>
   
  <div class="col-sm-2">
