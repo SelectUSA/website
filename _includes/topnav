@@ -48,7 +48,7 @@
                 <a class="trn" href="{{ site.baseurl }}{{ post.url }}/resources.html" title="Resources">Resources</a>
                 <ul class="dropdown-menu" role="menu">
                   <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/business-investment-reports.html" title="Investment Reports">Reports</a></li>
-                  <!--<li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/news.html" title="News">News</a></li>-->
+                  <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/fact-sheets.html" title="FDI Fact Sheets">FDI Fact Sheets</a></li>
                 </ul>
               <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/2015-summit.html" title="SELECTUSA 2015 INVESTMENT SUMMIT">2015 Summit</a></li>
               <li class="dropdown">
