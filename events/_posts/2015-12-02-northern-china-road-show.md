@@ -9,7 +9,7 @@ calendar-end: 2015-12-08
 location-value: Beijing, Hohhot, Urumqi
 location-type: International
 section: events
-published: true
+published: false
 ---
 
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") December (exact dates TBD)
