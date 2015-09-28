@@ -11,9 +11,9 @@ location-type: International
 section: events
 published: true
 ---
-![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
+![Date]({{ site.baseurl }}/images/event.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
-![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
+![Location]({{ site.baseurl }}/images/location_city.svg "Location") {{ page.location-value }}
 
 ## **SelectUSA Nordic Road Show**
 
