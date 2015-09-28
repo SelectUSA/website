@@ -11,9 +11,9 @@ location-type: International
 section: events
 published: true
 ---
-![Date]({{ site.baseurl }}/images/event.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
+![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
-![Location]({{ site.baseurl }}/images/location_city.svg "Location") {{ page.location-value }}
+![Location]({{ site.baseurl }}/icons/location_city.svg "Location") {{ page.location-value }}
 
 # SelectUSA India Road Show
 
