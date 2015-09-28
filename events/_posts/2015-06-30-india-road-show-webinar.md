@@ -11,15 +11,15 @@ location-type: Online
 section: events
 published: true
 ---
-![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}
+![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}
 
-![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
+![Location]({{ site.baseurl }}/icons/location_city.svg "Location") {{ page.location-value }}
 
 # Webinar on SelectUSA's Upcoming India Road Show (Oct 13-15, 2015)
 
 Join us on **June 30, 2015 at 12:30 pm EST** for a webinar on the SelectUSA India Road Show, hosted by the U.S. Commercial Service in India and SelectUSA.
 
-![RSVP](https://google.github.io/material-design-icons/content/svg/design/ic_send_24px.svg "RSVP") To RSVP for the webinar and receive the call-in details, please email  [Seth.Isenberg@trade.gov](mailto:seth.isenberg@trade.gov?subject=RSVP%20for%20SelectUSA%20India%20Road%20Show%20Webinar)
+![RSVP]({{ site.baseurl }}/icons/send.svg "RSVP") To RSVP for the webinar and receive the call-in details, please email  [Seth.Isenberg@trade.gov](mailto:seth.isenberg@trade.gov?subject=RSVP%20for%20SelectUSA%20India%20Road%20Show%20Webinar)
 
 ## About the SelectUSA India Road Show
 
@@ -29,7 +29,7 @@ Each Road Show stop will feature a **half-day seminar** with sessions on how to 
 
 **India is the fourth fastest growing source of FDI into the United States.** Hundreds of dynamic companies are headquartered in the Road Show stops, and many of these companies are looking to invest in the United States. Top U.S. government officials, including leaders in the Department of Commerce and SelectUSA, has made multiple visits to India and welcomed a [high-quality delegation of Indian investors](https://www.flickr.com/photos/selectusa/17608354832/in/photolist-aF4ige-aF4igK-aF4igt-aF4igp-aF4igz-sPZqqG-a3cFbC) to our 2015 SelectUSA Investment Summit. **The pump is primed for Indian investment into your region, and this road show is a great opportunity to meet investors face-to-face**.
 
-![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information on registration or sponsorship, please contact [Paul.Frost@trade.gov](mailto:Paul.Frost@trade.gov) in New Delhi and [Seth.Isenberg@trade.gov](mailto:Seth.Isenberg@trade.gov) in Washington, DC
+![Contact]({{ site.baseurl }}/icons/question_answer.svg "Contact") For more information on registration or sponsorship, please contact [Paul.Frost@trade.gov](mailto:Paul.Frost@trade.gov) in New Delhi and [Seth.Isenberg@trade.gov](mailto:Seth.Isenberg@trade.gov) in Washington, DC
 
 # What will U.S. EDO participants receive?
 
