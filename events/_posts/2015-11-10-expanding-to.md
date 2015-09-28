@@ -19,6 +19,6 @@ published: true
 
 The first day of the [2015 Virtual International Investment & Expansion Summit](http://expandingto.com/ourvirtualevents/) will focus on how to invest in the United States. Cross-border investors will have the opportunity to network with each other and connect with government agencies (including SelectUSA), economic development organizations (EDOs), professional service providers, and market entry professionals.
 
-SelectUSA Investment Specialists Seth Isenberg and Andre Leal will speak at the event about investing in the United States, and will bew3 available at the virtual SelectUSA booth to answer any questions you may have. 
+SelectUSA Investment Specialists Seth Isenberg and Andre Leal will speak at the event about investing in the United States, and will be available at the virtual SelectUSA booth to answer any questions you may have. 
 
 ![Contact]({{ site.baseurl }}/icons/question_answer.svg "Contact") If you're interested in attending the Virtual Summit or chatting with a SelectUSA representative there, please contact Seth Isenberg at [seth.isenberg@trade.gov](mailto:seth.isenberg@trade.gov)
