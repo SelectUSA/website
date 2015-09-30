@@ -39,3 +39,8 @@ We're thrilled to announce that the 2016 SelectUSA Investment Summit will take p
 
 ## What Happened at the 2015 Summit?
 
+By all accounts, the [2015 SelectUSA Investment Summit](http://selectusa.commerce.gov/2015-summit.html) hosted by President Barack Obama on March 23-24 was a tremendous success for the United States and the entrepreneurs who invest in our communities.
+
+We welcomed close to 2,600 participants to Washington this March from more than 70 international markets, including companies and business associations as well as economic development organizations (EDOs) from all 50 U.S. states, the District of Columbia, Puerto Rico, and Guam.
+
+**To learn more about the last Summit and view [photos](http://selectusa.commerce.gov/2015-summit/day-one-photos.html) and [videos](http://selectusa.commerce.gov/2015-summit/plenary-session-videos.html) from the event, please visit our [2015 Summit page](http://selectusa.commerce.gov/2015-summit.html).**
