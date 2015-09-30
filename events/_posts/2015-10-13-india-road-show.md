@@ -23,7 +23,7 @@ Each Road Show stop will feature a **half-day seminar** with sessions on how to 
 
 **India is the fourth fastest growing source of FDI into the United States.** Hundreds of dynamic companies are headquartered in the Road Show stops, and many of these companies are looking to invest in the United States. Top U.S. government officials, including leaders in the Department of Commerce and SelectUSA, has made multiple visits to India and welcomed a [high-quality delegation of Indian investors](https://www.flickr.com/photos/selectusa/17608354832/in/photolist-aF4ige-aF4igK-aF4igt-aF4igp-aF4igz-sPZqqG-a3cFbC) to our 2015 SelectUSA Investment Summit. **The pump is primed for Indian investment into your region, and this road show is a great opportunity to meet investors face-to-face**.
 
-![Contact]({{ site.baseurl }}/icons/question_answer.svgg "Contact") For more information on registration or sponsorship, please contact [Paul.Frost@trade.gov](mailto:Paul.Frost@trade.gov) in New Delhi and [Seth.Isenberg@trade.gov](mailto:Seth.Isenberg@trade.gov) in Washington, DC
+![Contact]({{ site.baseurl }}/icons/question_answer.svg "Contact") For more information on registration or sponsorship, please contact [Paul.Frost@trade.gov](mailto:Paul.Frost@trade.gov) in New Delhi and [Seth.Isenberg@trade.gov](mailto:Seth.Isenberg@trade.gov) in Washington, DC
 
 <!--# Get the Details: Webinar on June 30th
 
