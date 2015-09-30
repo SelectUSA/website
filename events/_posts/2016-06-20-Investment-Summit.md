@@ -2,9 +2,9 @@
 permalink: "2016-summit.html"
 layout: sidebar
 title: SelectUSA Investment Summit
-date-display-start: June 19
+date-display-start: June 20
 date-display-end: 21, 2016
-calendar-start: 2016-06-19
+calendar-start: 2016-06-20
 calendar-end: 2016-06-21
 location-value: Washington, DC
 location-type: Domestic
@@ -17,9 +17,9 @@ published: false
 
 (insert SelectUSA Summit Save the Date graphic)
 
-# Save the Date: 2016 SelectUSA Investment Summit
+# Save the Date for the 2016 Summit
 
-We're thrilled to announce that the 2016 SelectUSA Investment Summit will take place on June 20-21, 2016 in Washington, DC at the Washington Hilton. 
+We're thrilled to announce that the 2016 SelectUSA Investment Summit will take place on **June 20-21, 2016** in Washington, DC at the **Washington Hilton**. 
 
 
 
@@ -40,3 +40,6 @@ We're thrilled to announce that the 2016 SelectUSA Investment Summit will take p
 </ol>
 </fieldset>
 </form>
+
+# What Happened at the 2015 Summit?
+
