@@ -37,6 +37,8 @@ We're thrilled to announce that the 2016 SelectUSA Investment Summit will take p
 </fieldset>
 </form>
 
+<p><B>Are you interested in becoming a Summit sponsor or exhibitor?</b> Please contact Laurie Powell at (703) 740-1966 or <a href="mailto:Lpowell@eventPower.com?Subject=2016%20SelectUSA%20Summit%3A%20Sponsor%20and%20Exhibitor%20Info">Lpowell@eventPower.com</a>.</p>
+
 ## What Happened at the 2015 Summit?
 
 By all accounts, the [2015 SelectUSA Investment Summit](http://selectusa.commerce.gov/2015-summit.html) hosted by President Barack Obama on March 23-24 was a tremendous success for the United States and the entrepreneurs who invest in our communities.
