@@ -15,7 +15,7 @@ published: false
 
 ![Location]({{ site.baseurl }}/icons/location_city.svg "Location") Washington Hilton, {{ page.location-value }}
 
-(insert SelectUSA Summit Save the Date graphic)
+![Logo of 2016 Summit](../images/Summit-2016-Save-The-Date-for-web.png )
 
 ## Save the Date for the 2016 Summit
 
