@@ -30,39 +30,9 @@
 
     
 
-    {
-      "title"    : "SelectUSA Taiwan Road Show",
-      "url"     : "/events/selectusa-taiwan-road-show.html",
-"rowdiv": "odd",
-      "location" : "Taipei and Kaohsiung, Taiwan",
-      "startdate" : "August 5",
-"enddate" : " - 6, 2015",
-      "date"     : {
-         "full"   : "2015-08-05 00:00:00 -0400",
-         "day"   : "05",
-         "month" : "August",
-         "year"  : "2015"
-      }
-    }
-    ,
-
     
 
-    {
-      "title"    : "SelectUSA Nordic Road Show",
-      "url"     : "/events/selectusa-road-show-nordics.html",
-"rowdiv": "even",
-      "location" : "Oslo, Copenhagen/Malmo, Gothenburg, Stockholm, Helsinki, Tallinn",
-      "startdate" : "September 14",
-"enddate" : " - 21, 2015",
-      "date"     : {
-         "full"   : "2015-09-14 00:00:00 -0400",
-         "day"   : "14",
-         "month" : "September",
-         "year"  : "2015"
-      }
-    }
-    ,
+    
 
     
 
@@ -70,9 +40,9 @@
       "title"    : "SelectUSA India Road Show",
       "url"     : "/events/india-road-show.html",
 "rowdiv": "odd",
-      "location" : "New Delhi, Mumbai, Chennai",
+      "location" : "New Delhi, Mumbai, Chennai, Kolkata",
       "startdate" : "October 13",
-"enddate" : " - 15, 2015",
+"enddate" : " - 16, 2015",
       "date"     : {
          "full"   : "2015-10-13 00:00:00 -0400",
          "day"   : "13",
@@ -86,7 +56,7 @@
 
     {
       "title"    : "National Aerospace FDI Exposition",
-      "url"     : "/events/save-date-national-aerospace-fdi-exposition.html",
+      "url"     : "/events/national-aerospace-fdi-exposition.html",
 "rowdiv": "even",
       "location" : "Los Angeles, CA",
       "startdate" : "October 26",
@@ -95,6 +65,42 @@
          "full"   : "2015-10-26 00:00:00 -0400",
          "day"   : "26",
          "month" : "October",
+         "year"  : "2015"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA at Web Summit",
+      "url"     : "/events/dublin-web-summit.html",
+"rowdiv": "odd",
+      "location" : "Dublin",
+      "startdate" : "November 3",
+"enddate" : " - 5, 2015",
+      "date"     : {
+         "full"   : "2015-11-03 00:00:00 -0500",
+         "day"   : "03",
+         "month" : "November",
+         "year"  : "2015"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA at the International Investment & Expansion Virtual Summit",
+      "url"     : "/events/expanding-to.html",
+"rowdiv": "even",
+      "location" : "Online",
+      "startdate" : "November 10, 2015",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2015-11-10 00:00:00 -0500",
+         "day"   : "10",
+         "month" : "November",
          "year"  : "2015"
       }
     }

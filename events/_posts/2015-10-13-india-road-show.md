@@ -11,11 +11,56 @@ location-type: International
 section: events
 published: true
 ---
-![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
+**U.S. Commercial Service Presents:**
+
+2015 India SelectUSA Roadshow: ![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
 ![Location]({{ site.baseurl }}/icons/location_city.svg "Location") {{ page.location-value }}
 
-# SelectUSA India Road Show
+October 13: New Delhi – [Click here for Agenda](http://www.export.gov/india/build/groups/public/@eg_in/documents/webcontent/eg_in_090233.pdf)
+
+October 14: Mumbai – [Click here for Agenda](http://www.export.gov/india/build/groups/public/@eg_in/documents/webcontent/eg_in_090234.pdf)
+
+October 15: Chennai – [Click here for Agenda](http://www.export.gov/india/build/groups/public/@eg_in/documents/webcontent/eg_in_090271.pdf)
+
+October 16: Kolkata – [Click here for Agenda](http://www.export.gov/india/build/groups/public/@eg_in/documents/webcontent/eg_in_090236.pdf)
+
+**YOU MUST COMPLETE THE REGISTRATION FORM IN ORDER TO ATTEND ROADSHOW. THERE WILL BE NO ON-VENUE REGISTRATIONS AT THE EVENT**
+
+SelectUSA is the lead United States government effort to facilitate business investment in the United States. It can serve as a starting point for all of your business investment needs.
+For the first time, the United States government will conduct a four-city Road Show in New Delhi, Mumbai, Chennai and Kolkata to connect Indian investors with official representatives from some of the state economic development organizations in an effort to promote investment in the United States.
+The seminars will have a capacity of approximately 120 senior executives in each city. Participants will learn about investment visas, legal and financial issues, investment opportunities and successful investment strategies. In the Roadshow you will:
+
+*  Learn about incentives that are offered to investors in various states and counties
+*  Interact with subject matter experts in one-on-one consultations about your business needs
+*  Have access to senior U.S. Government officials to discuss your investment objectives
+
+**Cost:** The participation fee to attend the Road Show is INR3000. It does not cover travel or other business related expenses.
+
+**Registration deadline:** Applications will be taken on a first come, first served basis. To confirm your participation in the road show, please send in the completed registration form on or before **October 5, 2015** to E-mail: [rahul.padmanabha@N0SPAMtrade.gov](rahul.padmanabha@N0SPAMtrade.gov)
+
+**The event in each city will include:**
+
+* Networking with panelists and local participants
+* Presentations on the following topics:
+* Foreign Investment Environment in the United States
+* Legal Aspects to Consider when Investing in the United States
+* Financial Aspects to Consider when Investing in the United States
+* Different Resources and Support available to Potential Investors
+* Investment Visas
+* Success Stories
+
+**For more information please contact:**
+
+**Rahul Padmanabha**
+
+Bengaluru, India
+
+Phone: +91 80 2227 3143; Cell phone: +91 96 1120 4466
+
+E-mail: [rahul.padmanabha@N0SPAMtrade.gov](rahul.padmanabha@N0SPAMtrade.gov)
+
+<!--# SelectUSA India Road Show
 
 Join the first-ever India SelectUSA Roadshow! This four-city Road Show to **New Delhi, Mumbai, Chennai, and Kolkata** will offer U.S. state, local and regional economic development organizations (EDOs) the opportunity to **market their locations directly to potential investors** throughout India.
 
@@ -25,12 +70,12 @@ Each Road Show stop will feature a **half-day seminar** with sessions on how to 
 
 ![Contact]({{ site.baseurl }}/icons/question_answer.svg "Contact") For more information on registration or sponsorship, please contact [Paul.Frost@trade.gov](mailto:Paul.Frost@trade.gov) in New Delhi and [Seth.Isenberg@trade.gov](mailto:Seth.Isenberg@trade.gov) in Washington, DC
 
-<!--# Get the Details: Webinar on June 30th
+# Get the Details: Webinar on June 30th
 
 Join us on **June 30, 2015 at 12:30 pm EST** for a webinar on the SelectUSA India Road Show, hosted by the U.S. Commercial Service in India and SelectUSA.
 
 ![RSVP](https://google.github.io/material-design-icons/content/svg/design/ic_send_24px.svg "RSVP") To RSVP for the webinar and receive the call-in details, please email  [Seth.Isenberg@trade.gov](mailto:seth.isenberg@trade.gov?subject=RSVP%20for%20SelectUSA%20India%20Road%20Show%20Webinar)
--->
+
 
 # What will U.S. EDO participants receive?
 
@@ -59,4 +104,4 @@ The participation fee for state and local economic development organizations is 
 * Event in Kolkata on October 16 at Hotel (TBC) 10:00 am-2:00 pm
 * Return to the United States the evening of October 16
 
-A block of hotel rooms will be reserved in all four cities for participants.
+A block of hotel rooms will be reserved in all four cities for participants.-->

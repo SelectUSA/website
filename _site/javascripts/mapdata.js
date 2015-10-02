@@ -485,10 +485,10 @@ var simplemaps_usmap_mapdata = {
 	},
 	'MT': { 
 		name: 'Montana',
-		description: 'Governor’s Office of Economic Development<br><u>commerce.mt.gov</u>',
+		description: 'Governor’s Office of Economic Development<br><u>business.mt.gov</u>',
 		color: 'default',
 		hover_color: 'default',
-		url: 'http://commerce.mt.gov',
+		url: 'http://business.mt.gov/',
 		hide: 'no',
 		inactive: 'no',
 		zoomable: 'default'
