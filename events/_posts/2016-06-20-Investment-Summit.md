@@ -36,7 +36,7 @@ We're thrilled to announce that the 2016 SelectUSA Investment Summit will take p
 </ol>
 </fieldset>
 </form>
-<br/>
+
 <p><B>Are you interested in becoming a Summit sponsor or exhibitor?</b> Please contact Laurie Powell at (703) 740-1966 or <a href="mailto:Lpowell@eventPower.com?Subject=2016%20SelectUSA%20Summit%3A%20Sponsor%20and%20Exhibitor%20Info">Lpowell@eventPower.com</a> for more information.</p>
 
 -------
