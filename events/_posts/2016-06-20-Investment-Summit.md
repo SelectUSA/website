@@ -24,7 +24,7 @@ We're thrilled to announce that the 2016 SelectUSA Investment Summit will take p
 <form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/USITATRADE/subscribers/qualify" method="post"><input name="authenticity_token" type="hidden" value="00Wr5tZTxeMtot3Fym92FHbIi+HZ1xbS/p8Ax4HO3LI=" />
 <input id="topic_id" name="topic_id" type="hidden" value="USITATRADE_979" />
 <fieldset class="emailblast">
-<div>
+<div><br/>
 <p><B>Do you want to be among the first to know when registration goes live?</b> Please enter your email address below to receive 1-2 weekly email updates from SelectUSA.</p>
 </div>
 <ol class='form'>
@@ -36,8 +36,10 @@ We're thrilled to announce that the 2016 SelectUSA Investment Summit will take p
 </ol>
 </fieldset>
 </form>
-
+<br/>
 <p><B>Are you interested in becoming a Summit sponsor or exhibitor?</b> Please contact Laurie Powell at (703) 740-1966 or <a href="mailto:Lpowell@eventPower.com?Subject=2016%20SelectUSA%20Summit%3A%20Sponsor%20and%20Exhibitor%20Info">Lpowell@eventPower.com</a> for more information.</p>
+
+-------
 
 ## What Happened at the 2015 Summit?
 
