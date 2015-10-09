@@ -4,13 +4,14 @@ layout: sidebar
 title: "SelectUSA at POWER-GEN International"
 "date-display-start": December 8
 "date-display-end": "10, 2015"
-"calendar-start": 2015-12-08T00:00:00.000Z
-"calendar-end": 2015-12-10T00:00:00.000Z
+"calendar-start": {}
+"calendar-end": {}
 "location-value": "Las Vegas, NV"
 "location-type": Domestic
 section: events
-published: true
+published: false
 ---
+
 
 
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
