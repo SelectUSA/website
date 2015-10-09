@@ -1,16 +1,17 @@
 ---
 permalink: "events/selectusa-power-gen-international.html"
-layout: sidebar
-title: SelectUSA at POWER-GEN International
-date-display-start: December 8
-date-display-end: 10, 2015
-calendar-start: 2015-12-08
-calendar-end: 2015-12-10
-location-value:  Las Vegas, NV
-location-type: Domestic
+layout: null
+title: "SelectUSA at POWER-GEN International"
+"date-display-start": December 8
+"date-display-end": "10, 2015"
+"calendar-start": 2015-12-08T00:00:00.000Z
+"calendar-end": 2015-12-10T00:00:00.000Z
+"location-value": "Las Vegas, NV"
+"location-type": Domestic
 section: events
 published: true
 ---
+
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
@@ -22,4 +23,3 @@ Meet with a SelectUSA representative at **[2015&nbsp;POWER-GEN International](ht
 With a record-setting expected attendance of **more than 22,000 attendees and 1,400 exhibitors**, there's simply no other place to be for **education, networking and new business development**.
 
 Please stay tuned for more details as we draw closer to the event, and&nbsp;don't hesitate to&nbsp;**[contact us](/contact-us)**&nbsp;if you're interested in meeting with us!
-   
