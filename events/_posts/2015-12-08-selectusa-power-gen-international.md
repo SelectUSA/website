@@ -1,6 +1,6 @@
 ---
 permalink: "events/selectusa-power-gen-international.html"
-layout: null
+layout: sidebar
 title: "SelectUSA at POWER-GEN International"
 "date-display-start": December 8
 "date-display-end": "10, 2015"
@@ -11,6 +11,7 @@ title: "SelectUSA at POWER-GEN International"
 section: events
 published: true
 ---
+
 
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
