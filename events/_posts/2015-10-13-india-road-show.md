@@ -2,15 +2,16 @@
 permalink: "events/india-road-show.html"
 layout: sidebar
 title: SelectUSA India Road Show
-date-display-start: October 13
-date-display-end: 16, 2015
-calendar-start: 2015-10-13
-calendar-end: 2015-10-16
-location-value: New Delhi, Mumbai, Chennai, Kolkata
-location-type: International
+"date-display-start": October 13
+"date-display-end": "16, 2015"
+"calendar-start": {}
+"calendar-end": {}
+"location-value": "New Delhi, Mumbai, Chennai, Kolkata"
+"location-type": International
 section: events
 published: true
 ---
+
 **U.S. Commercial Service Presents:**
 
 2015 India SelectUSA Roadshow: ![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
@@ -35,7 +36,7 @@ The seminars will have a capacity of approximately 120 senior executives in each
 *  Interact with subject matter experts in one-on-one consultations about your business needs
 *  Have access to senior U.S. Government officials to discuss your investment objectives
 
-**Cost:** The participation fee to attend the Road Show is INR3000. It does not cover travel or other business related expenses.
+**Cost:** The participation fee to attend the Road Show is INR3000. It does not cover travel or other business related expenses. **We will accept cash payments.** 
 
 **Registration deadline:** Applications will be taken on a first come, first served basis. To confirm your participation in the road show, please send in the completed registration form on or before **October 5, 2015** to E-mail: [rahul.padmanabha@N0SPAMtrade.gov](rahul.padmanabha@N0SPAMtrade.gov)
 
