@@ -2,7 +2,6 @@
 published: false
 ---
 
-
 ---
 permalink: "events/selectusa-nz-biz-seminar.html"
 layout: sidebar
@@ -16,6 +15,7 @@ location-type: International
 section: events
 published: true
 ---
+
 ## SelectUSA New Zealand Business Seminar
 
 
