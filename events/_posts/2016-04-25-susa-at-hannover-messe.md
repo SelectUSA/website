@@ -16,8 +16,8 @@ published: true
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
 ## SelectUSA at Hannover Messe 2016
-![HM16Banner_white_largest.jpg]({{site.baseurl}}/events/_posts/HM16Banner_white_largest.jpg)
 
+<span class="imgcenter">!![HM16Banner_white_largest.jpg]({{site.baseurl}}/events/_posts/HM16Banner_white_largest.jpg)</span>
 
 [Hannover Messe](http://www.hannovermesse.de/home) is and has long been the largest industrial trade show in the world and one of the premier event platforms to spark international business opportunities. The greatest and most-advanced manufacturing technologies are showcased and economic development growth is facilitated. This upcoming April – and for the first time ever – the United States will be the official Partner Country.
 
