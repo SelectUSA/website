@@ -1,14 +1,16 @@
 ---
 permalink: "events/selectusa-hannover-messe-2016.html"
 layout: sidebar
-"date-display-start": "April 25"
+"date-display-start": April 25
 "date-display-end": "29"
-"calendar-start": 2016-04-25T00:00:00.000Z
-"calendar-end": 2016-04-29T00:00:00.000Z
+"calendar-start": {}
+"calendar-end": {}
 "location-value": "Hannover, Germany"
 "location-type": International
 section: events
+published: true
 ---
+
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
@@ -21,7 +23,10 @@ section: events
 
 As [Partner Country](http://www.hannovermesse.de/en/program/partner-country/), the U.S. will attract unique and focused attention from the international business, manufacturing, and media communities. Exhibitors from the U.S. will have the highest amount of exposure to over 220,000 visitors and thousands of journalists and bloggers, as well as 6,000 other economic development and industrial exhibitors from 27 exhibit halls.
 
-Hannover Messe 2016 will present U.S. economic development organizations with golden opportunities to attract FDI to their states, territories and regions. There will be increased visibility, signage, and TV and press coverage accompanying the seminars and discussions. [**Register today!**](http://www.export.gov/pennsylvania/pittsburgh/hm16interestregistration/index.asp)
+Hannover Messe 2016 will present U.S. economic development organizations with golden opportunities to attract FDI to their states, territories and regions. There will be increased visibility, signage, and TV and press coverage accompanying the seminars and discussions. 
+
+![RSVP](https://google.github.io/material-design-icons/content/svg/design/ic_send_24px.svg "RSVP") ## Register today! [submit this form](http://www.export.gov/pennsylvania/pittsburgh/hm16interestregistration/index.asp) 
+[**Register today!**](
 
 EDOs should contact the German American Chamber of Commerce's (GACC) Director of Consulting Services Virginia Rounds in Chicago at [rounds@gaccmidwest.org](mailto:rounds@gaccmidwest.org?Subject=Hannover%20Messe%202016%20EDO%20registration) (312) 494-2163. The primary person of contact in Germany for the U.S. Investment Pavilion is Regional Senior Investment Specialist Jana Dorband - [Jana.Dorband@trade.gov](mailto:Jana.Dorband@trade.gov?Subject=Hannover%20Messe%202016%20EDO%20registration) +49.30.8305.1919.
 
