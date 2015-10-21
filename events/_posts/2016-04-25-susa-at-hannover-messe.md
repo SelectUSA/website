@@ -10,8 +10,9 @@ layout: sidebar
 "location-value": "Hannover, Germany"
 "location-type": International
 section: events
-published: true
+published: false
 ---
+
 
 
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
