@@ -3,13 +3,16 @@ permalink: "events/selectusa-hannover-messe-2016.html"
 layout: sidebar
 "date-display-start": April 25
 "date-display-end": "29"
-"calendar-start": {}
-"calendar-end": {}
+"calendar-start": 
+  "Sun Apr 24 2016 20:00:00 GMT-0400 (Eastern Daylight Time)": null
+"calendar-end": 
+  "Thu Apr 28 2016 20:00:00 GMT-0400 (Eastern Daylight Time)": null
 "location-value": "Hannover, Germany"
 "location-type": International
 section: events
 published: true
 ---
+
 
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
@@ -17,7 +20,7 @@ published: true
 
 ## SelectUSA at Hannover Messe 2016
 
-<span class="imgcenter">[HM16Banner_white_largest.jpg]({{site.baseurl}}/events/_posts/HM16Banner_white_largest.jpg)</span>
+![SelectUSA at Hannover Messe 2016]({{site.baseurl}}/images/HM16Banner_white_largest.jpg)
 
 [Hannover Messe](http://www.hannovermesse.de/home) is and has long been the largest industrial trade show in the world and one of the premier event platforms to spark international business opportunities. The greatest and most-advanced manufacturing technologies are showcased and economic development growth is facilitated. This upcoming April – and for the first time ever – the United States will be the official Partner Country.
 
