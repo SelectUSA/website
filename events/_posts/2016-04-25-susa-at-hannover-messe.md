@@ -14,13 +14,9 @@ published: true
 title: SelectUSA at Hannover Messe
 ---
 
-
-
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
-
-## SelectUSA at Hannover Messe 2016
 
 ![SelectUSA at Hannover Messe 2016]({{site.baseurl}}/images/HM16Banner_white_largest.jpg)
 
