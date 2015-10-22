@@ -10,8 +10,9 @@ layout: sidebar
 "location-value": "Hannover, Germany"
 "location-type": International
 section: events
-published: false
+published: true
 ---
+
 
 
 
