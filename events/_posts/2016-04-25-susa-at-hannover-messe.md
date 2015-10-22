@@ -3,14 +3,15 @@ permalink: "events/selectusa-hannover-messe-2016.html"
 layout: sidebar
 "date-display-start": April 25
 "date-display-end": "29, 2016"
-"calendar-start": 2016-04-25T00:00:00.000Z
-"calendar-end": 2016-04-29T00:00:00.000Z
+"calendar-start": 2015-04-25T00:00:00.000Z
+"calendar-end": 2015-04-29T00:00:00.000Z
 "location-value": "Hannover, Germany"
 "location-type": International
 section: events
 published: true
 title: SelectUSA at Hannover Messe 2016
 ---
+
 
 
 
