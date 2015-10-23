@@ -1,10 +1,10 @@
 ---
 permalink: "events/selectusa-hannover-messe-2016.html"
 layout: sidebar
-"date-display-start": April 25
-"date-display-end": "29, 2016"
-"calendar-start": {}
-"calendar-end": {}
+"date-display-start": "Mon, 04/25/2016"
+"date-display-end": "Fri, 04/29/2016"
+"calendar-start": 2016-04-25T00:00:00.000Z
+"calendar-end": 2016-04-29T00:00:00.000Z
 "location-value": "Hannover, Germany"
 "location-type": International
 section: events
@@ -12,20 +12,6 @@ published: true
 title: SelectUSA at Hannover Messe 2016
 ---
 
-
----
-permalink: "events/selectusa-hannover-messe-2016.html"
-layout: sidebar
-title: SelectUSA at Hannover Messe 2016
-date-display-start: Mon, 04/25/2016
-date-display-end: Fri, 04/29/2016
-calendar-start: 2016-04-25
-calendar-end: 2016-04-29
-location-value:  Hannover, Germany 
-location-type: International
-section: events
-published: true
----
 
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
