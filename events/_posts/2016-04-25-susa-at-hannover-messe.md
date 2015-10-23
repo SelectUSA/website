@@ -13,8 +13,19 @@ title: SelectUSA at Hannover Messe 2016
 ---
 
 
-
-
+---
+permalink: "events/selectusa-hannover-messe-2016.html"
+layout: sidebar
+title: SelectUSA at Hannover Messe 2016
+date-display-start: Mon, 25/04/2015
+date-display-end: Fri, 29/04/2015
+calendar-start: 2015-04-25
+calendar-end: 2015-04-29
+location-value:  Hannover, Germany 
+location-type: International
+section: events
+published: true
+---
 
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
