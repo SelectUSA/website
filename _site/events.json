@@ -36,39 +36,7 @@
 
     
 
-    {
-      "title"    : "SelectUSA India Road Show",
-      "url"     : "/events/india-road-show.html",
-"rowdiv": "odd",
-      "location" : "New Delhi, Mumbai, Chennai, Kolkata",
-      "startdate" : "October 13",
-"enddate" : " - 16, 2015",
-      "date"     : {
-         "full"   : "2015-10-13 00:00:00 -0400",
-         "day"   : "13",
-         "month" : "October",
-         "year"  : "2015"
-      }
-    }
-    ,
-
     
-
-    {
-      "title"    : "National Aerospace FDI Exposition",
-      "url"     : "/events/national-aerospace-fdi-exposition.html",
-"rowdiv": "even",
-      "location" : "Los Angeles, CA",
-      "startdate" : "October 26",
-"enddate" : " - 28, 2015",
-      "date"     : {
-         "full"   : "2015-10-26 00:00:00 -0400",
-         "day"   : "26",
-         "month" : "October",
-         "year"  : "2015"
-      }
-    }
-    ,
 
     
 
@@ -109,9 +77,27 @@
     
 
     {
+      "title"    : "SelectUSA at the New Zealand Business Seminar",
+      "url"     : "/events/selectusa-nz-biz-seminar.html",
+"rowdiv": "odd",
+      "location" : "Auckland, Christchurch and Wellington, New Zealand",
+      "startdate" : "November 17",
+"enddate" : " - 19, 2015",
+      "date"     : {
+         "full"   : "2015-11-17 00:00:00 -0500",
+         "day"   : "17",
+         "month" : "November",
+         "year"  : "2015"
+      }
+    }
+    ,
+
+    
+
+    {
       "title"    : "SelectUSA Canada 2015",
       "url"     : "/events/selectusa-canada-2015.html",
-"rowdiv": "odd",
+"rowdiv": "even",
       "location" : "Toronto, Canada",
       "startdate" : "November 17, 2015",
 "enddate" : "",
@@ -129,7 +115,7 @@
     {
       "title"    : "SelectUSA Brazil Road Show",
       "url"     : "/events/selectusa-brazil-road-show.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Rio de Janeiro, São Paulo, Belo Horizonte",
       "startdate" : "December 1",
 "enddate" : " - 4, 2015",
@@ -145,17 +131,35 @@
     
 
     {
-      "title"    : "SelectUSA at POWER-GEN International",
-      "url"     : "/events/selectusa-power-gen-international.html",
-"rowdiv": "odd-last",
-      "location" : "Las Vegas, NV",
-      "startdate" : "December 8",
-"enddate" : " - 10, 2015",
+      "title"    : "SelectUSA at Hannover Messe 2016",
+      "url"     : "/events/selectusa-hannover-messe-2016.html",
+"rowdiv": "even",
+      "location" : "Hannover, Germany",
+      "startdate" : "April 25",
+"enddate" : " - 29, 2016",
       "date"     : {
-         "full"   : "2015-12-08 00:00:00 -0500",
-         "day"   : "08",
-         "month" : "December",
-         "year"  : "2015"
+         "full"   : "2016-04-25 00:00:00 -0400",
+         "day"   : "25",
+         "month" : "April",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA Investment Summit",
+      "url"     : "/2016-summit.html",
+"rowdiv": "odd-last",
+      "location" : "Washington, DC",
+      "startdate" : "June 19",
+"enddate" : " - 21, 2016",
+      "date"     : {
+         "full"   : "2016-06-20 00:00:00 -0400",
+         "day"   : "20",
+         "month" : "June",
+         "year"  : "2016"
       }
     }
     
