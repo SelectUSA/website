@@ -1,14 +1,16 @@
 ---
-permalink: "hm16conference_call.html"
+permalink: hm16conference_call.html
 layout: sidebar
 "date-display-start": November 6
-"date-display-end": 
-"calendar-start": 2015-11-06T00:00:00.000Z
-"calendar-end": 2015-11-06T00:00:00.000Z
-"location-value": "Online"
+"date-display-end": null
+"calendar-start": {}
+"calendar-end": {}
+"location-value": Online
 "location-type": Online
 section: events
+published: true
 ---
+
 ![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
 ![Location]({{ site.baseurl }}/icons/location_city.svg "Location") Online {{ page.location-value }}
