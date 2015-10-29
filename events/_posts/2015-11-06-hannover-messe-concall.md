@@ -1,28 +1,3 @@
----
-
-permalink: "events/selectusa-bio-2015.html"
-
-layout: sidebar
-
-title: SelectUSA at BIO 2015
-
-date-display-start: June 15 - Required
-
-date-display-end: 18, 2015 - If event is one day only, duplicate date-display-start here
-
-calendar-start: 2015-06-15
-
-calendar-end: 2015-06-18
-
-location-value: Philadelphia, PA - Required - Additional cities can be added using a comma.
-
-location-type: Domestic - Choose from International, Domestic, and Online
-
-section: events
-
-published: true
-
----
 
 ## Hannover Messe 2016 -- Conference Call
 
