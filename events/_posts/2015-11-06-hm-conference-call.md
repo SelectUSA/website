@@ -8,7 +8,7 @@ layout: sidebar
 "location-value": Online
 "location-type": Online
 section: events
-published: false
+published: true
 ---
 
 ---
