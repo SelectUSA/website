@@ -8,7 +8,7 @@ layout: sidebar
 "location-value": Online
 "location-type": Online
 section: events
-published: true
+published: false
 ---
 
 ![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
