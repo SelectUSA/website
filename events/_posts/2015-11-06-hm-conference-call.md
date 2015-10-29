@@ -11,6 +11,32 @@ section: events
 published: false
 ---
 
+---
+
+permalink: "events/hm-conference-call.html"
+
+layout: sidebar
+
+title: Hannover Messe 2016 Conference Call
+
+date-display-start: November 6, 2015
+
+date-display-end: November 6, 2015
+
+calendar-start: 2015-11-06
+
+calendar-end: 2015-11-06
+
+location-value: Online
+
+location-type: Online
+
+section: events
+
+published: true
+
+---
+
 ![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
 ![Location]({{ site.baseurl }}/icons/location_city.svg "Location") Online {{ page.location-value }}
