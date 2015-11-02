@@ -1,3 +1,27 @@
+ --- 
+ permalink: "events/2015-11-06-hannover-messe-concall.html" 
+
+ layout: sidebar 
+
+ title: Hannover Messe 2016 Conference Call
+
+ date-display-start: November 06, 2015
+
+ date-display-end: November 06, 2015
+
+ calendar-start: 2015-11-06
+
+ calendar-end: 2015-11-06
+
+ location-value: Conference Call
+
+ location-type: Online
+
+ section: events 
+
+ published: true 
+ --- 
+
 ## Hannover Messe 2016 -- Conference Call
 
 ![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
