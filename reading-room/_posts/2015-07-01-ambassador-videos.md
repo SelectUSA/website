@@ -1,16 +1,17 @@
 ---
-
 permalink: "ambassador-videos.html"
-
 layout: sidebar
-
-title: U.S. Ambassador Interviews on SelectUSA
-
-section: reading-room
-
+title: U.S. Ambassadors Interviews on SelectUSA
+section: "reading-room"
 published: true
-
 ---
+
+
+## <a name="hammer"></a>U.S. Ambassador to Chile Michael A. Hammer Highlights the Benefits of Investing in the United States
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item"  width="500" height="298"
+src="https://www.youtube.com/watch?v=117F6j9amRw" frameborder="0" allowfullscreen></iframe></div>
 
 ## <a name="baucus"></a>U.S. Ambassador to China Max S. Baucus Discusses FDI Into the United States
 
