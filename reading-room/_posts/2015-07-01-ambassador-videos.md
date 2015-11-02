@@ -7,10 +7,6 @@ published: true
 ---
 
 
-## <a name="hammer"></a>U.S. Ambassador to Chile Michael A. Hammer Highlights the Benefits of Investing in the United States (Part 1)
-
-<div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/117F6j9amRw" frameborder="0" allowfullscreen></iframe>
 
 ## <a name="baucus"></a>U.S. Ambassador to China Max S. Baucus Discusses FDI Into the United States
 
