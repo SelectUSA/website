@@ -4,7 +4,7 @@
 
  layout: sidebar 
 
- title: Hannover Messe 2016 Conference CAll
+ title: Hannover Messe 2016 Conference Call
 
  date-display-start: November 06, 2015
 
@@ -20,7 +20,7 @@
 
  section: events 
 
- published: true 
+ published: false 
 
  --- 
 
