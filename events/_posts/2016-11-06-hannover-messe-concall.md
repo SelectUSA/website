@@ -1,6 +1,6 @@
  --- 
 
- permalink: "events/_posts/2016-11-06-hannover-messe-concall.md" 
+ permalink: "_posts/2016-11-06-hannover-messe-concall.md" 
 
  layout: sidebar 
 
@@ -20,7 +20,7 @@
 
  section: events 
 
- published: false 
+ published: true 
 
  --- 
 
