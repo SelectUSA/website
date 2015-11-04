@@ -14,7 +14,7 @@ published: true
 > [Download the full video](http://trade.gov/videos/susa-ambassador-michael-hammer-110215-1.mp4) (14MB)
 >
 >
-> U.S. Ambassador to Chile Michael A. Hammer, in an interview for SelectUSA, addresses Chilean business investors and highlights the benefits and reasons they should invest in the United States. 
+> U.S. Ambassador to Chile Michael A. Hammer, in an interview for SelectUSA with an introduction in Spanish, addresses Chilean business investors and highlights the benefits and reasons they should invest in the United States. 
 
 ## <a name="hammer"></a>U.S. Ambassador to Chile Michael A. Hammer Discusses SelectUSA and the Investment Summit (Part 2)
 
