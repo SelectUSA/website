@@ -17,7 +17,7 @@ published: true
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-# SelectUSA Seminar at Guangzhou Auto Show
+# Guangzhou, China Auto Show
 
 Join SelectUSA for a Seminar at the Guangzhou Auto Show. SelectUSA will be hosting a seminar at the Guangzhou Auto Show, where the U.S. Commerce Service, China will take economic development organizations to meet with potential investors and companies in the auto industry and introduce investment opportunities in their respective states and regions. 
 
