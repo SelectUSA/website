@@ -40,39 +40,7 @@
 
     
 
-    {
-      "title"    : "SelectUSA at Web Summit",
-      "url"     : "/events/dublin-web-summit.html",
-"rowdiv": "odd",
-      "location" : "Dublin",
-      "startdate" : "November 3",
-"enddate" : " - 5, 2015",
-      "date"     : {
-         "full"   : "2015-11-03 00:00:00 -0500",
-         "day"   : "03",
-         "month" : "November",
-         "year"  : "2015"
-      }
-    }
-    ,
-
     
-
-    {
-      "title"    : "Hannover Messe 2016 Conference Call",
-      "url"     : "/events/2015-11-06-hannover-messe-concall.html",
-"rowdiv": "even",
-      "location" : "Conference Call",
-      "startdate" : "November 6, 2015",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2015-11-06 00:00:00 -0500",
-         "day"   : "06",
-         "month" : "November",
-         "year"  : "2015"
-      }
-    }
-    ,
 
     
 
@@ -131,9 +99,27 @@
     
 
     {
+      "title"    : "SelectUSA Seminar at Guangzhou Auto Show",
+      "url"     : "/events/guangzhou-auto-show.html",
+"rowdiv": "even",
+      "location" : "",
+      "startdate" : "November 21, 2015",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2015-11-21 00:00:00 -0500",
+         "day"   : "21",
+         "month" : "November",
+         "year"  : "2015"
+      }
+    }
+    ,
+
+    
+
+    {
       "title"    : "SelectUSA Brazil Road Show",
       "url"     : "/events/selectusa-brazil-road-show.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Rio de Janeiro, São Paulo, Belo Horizonte",
       "startdate" : "December 1",
 "enddate" : " - 4, 2015",
@@ -151,7 +137,7 @@
     {
       "title"    : "SelectUSA at Hannover Messe 2016",
       "url"     : "/events/selectusa-hannover-messe-2016.html",
-"rowdiv": "odd",
+"rowdiv": "even",
       "location" : "Hannover, Germany",
       "startdate" : "April 25",
 "enddate" : " - 29, 2016",
@@ -169,7 +155,7 @@
     {
       "title"    : "SelectUSA Investment Summit",
       "url"     : "/2016-summit.html",
-"rowdiv": "even-last",
+"rowdiv": "odd-last",
       "location" : "Washington, DC",
       "startdate" : "June 19",
 "enddate" : " - 21, 2016",
