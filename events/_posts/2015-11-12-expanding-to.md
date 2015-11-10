@@ -6,8 +6,8 @@ date-display-start: November 12, 2015
 date-display-end: November 12, 2015
 calendar-start: 2015-11-12T00:00:00.000Z
 calendar-end: 2015-11-12T00:00:00.000Z
-location-value: Domestic
-location-type: Online
+location-value: Online
+location-type: Domestic
 section: events
 published: true
 ---
