@@ -1,16 +1,17 @@
 ---
-permalink: events/expanding-to.html
+permalink: "events/expanding-to.html"
 layout: sidebar
-title: SelectUSA at the International Investment & Expansion Virtual Summit
-date-display-start: November 12, 2015
-date-display-end: November 12, 2015
-calendar-start: 2015-11-12T00:00:00.000Z
-calendar-end: 2015-11-12T00:00:00.000Z
-location-value: Online
-location-type: Domestic
+title: "SelectUSA at the International Investment & Expansion Virtual Summit"
+"date-display-start": "November 12, 2015"
+"date-display-end": "November 12, 2015"
+"calendar-start": 2015-11-12T00:00:00.000Z
+"calendar-end": 2015-11-12T00:00:00.000Z
+"location-value": Online
+"location-type": Domestic
 section: events
 published: true
 ---
+
 
 
 
