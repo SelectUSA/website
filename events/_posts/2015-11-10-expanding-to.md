@@ -2,19 +2,21 @@
 permalink: "events/expanding-to.html"
 layout: sidebar
 title: "SelectUSA at the International Investment & Expansion Virtual Summit"
-"date-display-start": "November 10, 2015"
-"date-display-end": "November 10, 2015"
+"date-display-start": "November 12, 2015"
+"date-display-end": "November 12, 2015"
 "calendar-start": {}
-"calendar-end": {}
+"calendar-end": 2015-11-12T00:00:00.000Z
 "location-value": Online
 "location-type": Online
 section: events
 published: true
+"calendar-star": 2015-11-12T00:00:00.000Z
 ---
+
 
 ![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}
 
-![Time]({{ site.baseurl }}/icons/time.svg "Time") 8 am - 12 pm EST
+![Time]({{ site.baseurl }}/icons/time.svg "Time") 9 am - 1:10 pm EST
 
 ![Location]({{ site.baseurl }}/icons/location_city.svg "Location") {{ page.location-value }}
 
@@ -39,11 +41,11 @@ Dates & Times:
 
 ### **Part 1:**"Expanding to the United States!"
 
-Date: 11/10/15
+Date: 11/12/15
 
-Time: 9:00 am - 1:00 pm EST
+Time: 9:00 am - 1:10 pm EST
 
 If you plan to attend, don't forget to stop by the SelectUSA Virtual Booth and network with other attendees in the SelectUSA/IEDC breakout lounge.
 
 
-![Contact]({{ site.baseurl }}/icons/question_answer.svg "Contact") If you're interested in attending the Virtual Summit or chatting with a SelectUSA representative there, please contact [Seth Isenberg](mailto:seth.isenberg@trade.gov). 
+![Contact]({{ site.baseurl }}/icons/question_answer.svg "Contact") If you're interested in attending the Virtual Summit or chatting with a SelectUSA representative there, please contact [Seth Isenberg](mailto:seth.isenberg@trade.gov).
