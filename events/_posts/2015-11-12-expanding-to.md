@@ -7,10 +7,11 @@ title: "SelectUSA at the International Investment & Expansion Virtual Summit"
 "calendar-start": 2015-11-12T00:00:00.000Z
 "calendar-end": 2015-11-12T00:00:00.000Z
 "location-value": Online
-"location-type": Domestic
+"location-type": Online
 section: events
 published: true
 ---
+
 
 
 
