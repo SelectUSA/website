@@ -46,28 +46,12 @@
 
     
 
-    {
-      "title"    : "SelectUSA at the New Zealand Business Seminar",
-      "url"     : "/events/selectusa-nz-biz-seminar.html",
-"rowdiv": "odd",
-      "location" : "Auckland, Christchurch and Wellington, New Zealand",
-      "startdate" : "November 17",
-"enddate" : " - 19, 2015",
-      "date"     : {
-         "full"   : "2015-11-17 00:00:00 -0500",
-         "day"   : "17",
-         "month" : "November",
-         "year"  : "2015"
-      }
-    }
-    ,
-
     
 
     {
       "title"    : "SelectUSA Canada 2015",
       "url"     : "/events/selectusa-canada-2015.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Toronto, Canada",
       "startdate" : "November 17, 2015",
 "enddate" : "",
@@ -85,7 +69,7 @@
     {
       "title"    : "SelectUSA Seminar at Guangzhou Auto Show",
       "url"     : "/events/guangzhou-auto-show.html",
-"rowdiv": "odd",
+"rowdiv": "even",
       "location" : "",
       "startdate" : "November 21, 2015",
 "enddate" : "",
@@ -103,7 +87,7 @@
     {
       "title"    : "SelectUSA Brazil Road Show",
       "url"     : "/events/selectusa-brazil-road-show.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Rio de Janeiro, São Paulo, Belo Horizonte",
       "startdate" : "December 1",
 "enddate" : " - 4, 2015",
@@ -121,7 +105,7 @@
     {
       "title"    : "SelectUSA at Hannover Messe 2016",
       "url"     : "/events/selectusa-hannover-messe-2016.html",
-"rowdiv": "odd",
+"rowdiv": "even",
       "location" : "Hannover, Germany",
       "startdate" : "April 25",
 "enddate" : " - 29, 2016",
@@ -139,7 +123,7 @@
     {
       "title"    : "SelectUSA Investment Summit",
       "url"     : "/2016-summit.html",
-"rowdiv": "even-last",
+"rowdiv": "odd-last",
       "location" : "Washington, DC",
       "startdate" : "June 19",
 "enddate" : " - 21, 2016",
