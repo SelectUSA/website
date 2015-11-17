@@ -6,6 +6,16 @@ section: "reading-room"
 published: true
 ---
 
+## <a name="heyman"></a>U.S. Ambassador to Canada Bruce Heyman on Investing in the United States
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item"  width="500" height="298" src="https://youtu.be/U6ZRbUX6_9Y" frameborder="0" allowfullscreen></iframe></div>
+  
+> [Download the full video](http://trade.gov/videos/susa-ambassador-bruce-heyman-111715.mp4) (12MB)
+>
+>
+> U.S. Ambassador to Canada Bruce Heyman, in an interview for SelectUSA, talks about the resilience of the U.S. economy and outlines why Canadian businesses should consider expanding and investing in the United States. 
+
 ## <a name="hammer"></a>U.S. Ambassador to Chile Michael A. Hammer Highlights the Benefits of Investing in the United States (Part 1)
 
 <div class="embed-responsive embed-responsive-16by9">
