@@ -9,7 +9,7 @@ published: true
 ## <a name="heyman"></a>U.S. Ambassador to Canada Bruce Heyman on Investing in the United States
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item"  width="500" height="298" src="https://youtu.be/U6ZRbUX6_9Y" frameborder="0" allowfullscreen></iframe></div>
+  <iframe class="embed-responsive-item"  width="500" height="298" src="https://www.youtube.com/embed/U6ZRbUX6_9Y" frameborder="0" allowfullscreen></iframe></div>
   
 > [Download the full video](http://trade.gov/videos/susa-ambassador-bruce-heyman-111715.mp4) (12MB)
 >
