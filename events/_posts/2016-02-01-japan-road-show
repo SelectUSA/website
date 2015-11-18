@@ -2,8 +2,8 @@
 permalink: "events/japan-road-show.html"
 layout: sidebar
 title: SelectUSA Japan Road Show
-date-display-start: February 1, 2015
-date-display-end: February 5, 2015
+date-display-start: February 1, 2016
+date-display-end: 5, 2016
 calendar-start: 2016-02-01
 calendar-end: 2016-02-05
 location-value: Tokyo, Nagoya, Osaka, and Fukuoka (Japan)
@@ -12,9 +12,9 @@ section: events
 published: true
 ---
 
-![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") February 1-5, 2016
+![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
-![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") Tokyo, Nagoya, Osaka, and Fukuoka (Japan) {{ page.location-value }}
+![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
 # Save the Date: Japan Road Show
 
@@ -24,12 +24,12 @@ On February 1st, SelectUSA, in cooperation with the U.S. Commercial Service Japa
 
 ## Space will be limited to approximately 100 participants per seminar so don’t miss your chance to join us!
 
-Itinerary: 
--	February 1st (Monday): Tokyo (Venue TBD)
--	February 2nd (Tuesday): Tokyo (Tokyo Chamber of Commerce)
--	February 3rd (Wednesday): Nagoya (Nagoya Chamber of Commerce)
--	February 4th (Thursday): Osaka (Osaka Chamber of Commerce)
--	February 5th (Friday): Fukuoka (Fukuoka American Center)
+**Itinerary:** 
+*	February 1st (Monday): Tokyo (Venue TBD)
+*	February 2nd (Tuesday): Tokyo (Tokyo Chamber of Commerce)
+*	February 3rd (Wednesday): Nagoya (Nagoya Chamber of Commerce)
+*	February 4th (Thursday): Osaka (Osaka Chamber of Commerce)
+*	February 5th (Friday): Fukuoka (Fukuoka American Center)
 
 Co-Organizers: JETRO, Nikkei, Tokyo Chamber of Commerce, Nagoya Chamber of Commerce, Osaka Chamber of Commerce, Organization for Small & Medium Enterprises and Regional Innovation
 
