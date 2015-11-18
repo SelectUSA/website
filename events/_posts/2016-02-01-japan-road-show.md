@@ -23,12 +23,12 @@ Japan and the United States have [one of the strongest and most interconnected t
 
 On February 1st, SelectUSA, in cooperation with the U.S. Commercial Service Japan and the U.S. consulates in Nagoya and Fukuoka, will begin the Japan Road Show in Tokyo. Over the following days in Nagoya, Osaka, and Fukuoka, the seminars will focus on the U.S. legal and regulatory systems, investment visas, and case studies. On February 2nd, a special event is planned for investors to meet with EDOs to discuss specific investment projects and opportunities. Networking receptions after the seminars will give U.S. economic development organizations (EDOs) the opportunity to meet one-on-one with Japanese investors. 
 
-**Itinerary:** 
-- **Monday, February 1st:** Tokyo (Venue TBD)
-- **Tuesday, February 2nd:** Tokyo (Tokyo Chamber of Commerce)
-- **Wednesday, February 3rd:** Nagoya (Nagoya Chamber of Commerce)
-- **Thursday, February 4th:** Osaka (Osaka Chamber of Commerce)
-- **Friday, February 5th:** Fukuoka (Fukuoka American Center)
+# Itinerary:
+* **Monday, February 1st:** Tokyo (Venue TBD)
+* **Tuesday, February 2nd:** Tokyo (Tokyo Chamber of Commerce)
+* **Wednesday, February 3rd:** Nagoya (Nagoya Chamber of Commerce)
+* **Thursday, February 4th:** Osaka (Osaka Chamber of Commerce)
+* **Friday, February 5th:** Fukuoka (Fukuoka American Center)
 
 **Co-Organizers:** JETRO, Nikkei, Tokyo Chamber of Commerce, Nagoya Chamber of Commerce, Osaka Chamber of Commerce, Organization for Small & Medium Enterprises and Regional Innovation
 
