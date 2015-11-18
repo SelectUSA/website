@@ -2,12 +2,12 @@
 permalink: "events/japan-road-show.html"
 layout: sidebar
 title: SelectUSA Japan Road Show
-"date-display-start": February 1
-"date-display-end": "5, 2016"
-"calendar-start": {}
-"calendar-end": {}
-"location-value": "Tokyo, Nagoya, Osaka, and Fukuoka"
-"location-type": International
+date-display-start: February 1
+date-display-end: 5, 2016
+calendar-start: 2016-02-01
+calendar-end: 2016-02-05
+location-value: Tokyo, Nagoya, Osaka, and Fukuoka
+location-type: International
 section: events
 published: true
 ---
