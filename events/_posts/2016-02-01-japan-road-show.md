@@ -22,18 +22,18 @@ published: true
 
 On February 1st, SelectUSA, in cooperation with the U.S. Commercial Service Japan and the U.S. consulates in Nagoya and Fukuoka, will begin the Japan Road Show in Tokyo. Over the following days in Nagoya, Osaka, and Fukuoka, the seminars will focus on the U.S. legal and regulatory systems, investment visas, and case studies. On February 2nd, a special event is planned for investors to meet with EDOs to discuss specific investment projects and opportunities. Networking receptions after the seminars will give U.S. economic development organizations (EDOs) the opportunity to meet one-on-one with Japanese investors. 
 
-## Space will be limited to approximately 100 participants per seminar so don’t miss your chance to join us!
+**Space will be limited to approximately 100 participants per seminar so don’t miss your chance to join us!**
 
 **Itinerary:** 
-*	February 1st (Monday): Tokyo (Venue TBD)
-*	February 2nd (Tuesday): Tokyo (Tokyo Chamber of Commerce)
-*	February 3rd (Wednesday): Nagoya (Nagoya Chamber of Commerce)
-*	February 4th (Thursday): Osaka (Osaka Chamber of Commerce)
-*	February 5th (Friday): Fukuoka (Fukuoka American Center)
+- February 1st (Monday): Tokyo (Venue TBD)
+- February 2nd (Tuesday): Tokyo (Tokyo Chamber of Commerce)
+- February 3rd (Wednesday): Nagoya (Nagoya Chamber of Commerce)
+- February 4th (Thursday): Osaka (Osaka Chamber of Commerce)
+- February 5th (Friday): Fukuoka (Fukuoka American Center)
 
-Co-Organizers: JETRO, Nikkei, Tokyo Chamber of Commerce, Nagoya Chamber of Commerce, Osaka Chamber of Commerce, Organization for Small & Medium Enterprises and Regional Innovation
+**Co-Organizers:** JETRO, Nikkei, Tokyo Chamber of Commerce, Nagoya Chamber of Commerce, Osaka Chamber of Commerce, Organization for Small & Medium Enterprises and Regional Innovation
 
-Sponsors: METI, MOFA, Japan Association of Corporate Executives, Japanese Business Federation, American Chamber of Commerce in Japan, Tokyo Metropolitan Government, Mitsubishi, Tokyo UFJ Bank (we can add more as the time nears)
+**Sponsors:** METI, MOFA, Japan Association of Corporate Executives, Japanese Business Federation, American Chamber of Commerce in Japan, Tokyo Metropolitan Government, Mitsubishi, Tokyo UFJ Bank (we can add more as the time nears)
 
-![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For registration information, please contact [Junko.Chino@trade.gov] (mailto:junko.chino@trade.gov) in Tokyo or [Keida.Ackerman@trade.gov] (mailto:keida.ackerman@trade.gov) in Washington, DC.
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For registration information, please contact [Junko.Chino@trade.gov](mailto:junko.chino@trade.gov)in Tokyo or [Keida.Ackerman@trade.gov](mailto:keida.ackerman@trade.gov) in Washington, DC.
 
