@@ -11,11 +11,12 @@ location-type: International
 section: events
 published: true
 ---
+
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-## Save the Date: Japan Road Show
+## Japan Road Show
 
 **Join the SelectUSA Japan Road Show!** Japan and the United States have [one of the strongest and most interconnected trade and economic relationships in the world](http://selectusa.commerce.gov/country-fact-sheets/2015-09-10 Japan Fact Sheet.pdf). Nearly 13 percent of all FDI into the United States comes from Japan – **over $374 billion** – and **over 718,000 U.S. workers are employed by Japanese-owned firms.** Those firms contribute **$67.6 billion to U.S. exports and over $6 billion to research and development spending** in the United States.  
 
