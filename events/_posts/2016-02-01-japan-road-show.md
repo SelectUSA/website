@@ -1,16 +1,17 @@
 ---
-permalink: events/japan-road-show.html
+permalink: "events/japan-road-show.html"
 layout: sidebar
 title: SelectUSA Japan Road Show
-date-display-start: February 1
-date-display-end: 5, 2016
-calendar-start: 2016-02-01
-calendar-end: 2016-02-05
-location-value: Tokyo, Nagoya, Osaka, and Fukuoka (Japan)
-location-type: International
+"date-display-start": February 1
+"date-display-end": "5, 2016"
+"calendar-start": {}
+"calendar-end": {}
+"location-value": "Tokyo, Nagoya, Osaka, and Fukuoka (Japan)"
+"location-type": International
 section: events
 published: true
 ---
+
 
 
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
@@ -23,7 +24,6 @@ published: true
 
 On February 1st, SelectUSA, in cooperation with the U.S. Commercial Service Japan and the U.S. consulates in Nagoya and Fukuoka, will begin the Japan Road Show in Tokyo. Over the following days in Nagoya, Osaka, and Fukuoka, the seminars will focus on the U.S. legal and regulatory systems, investment visas, and case studies. On February 2nd, a special event is planned for investors to meet with EDOs to discuss specific investment projects and opportunities. Networking receptions after the seminars will give U.S. economic development organizations (EDOs) the opportunity to meet one-on-one with Japanese investors. 
 
-**Space will be limited to approximately 100 participants per seminar so don’t miss your chance to join us!**
 
 **Itinerary:** 
 - February 1st (Monday): Tokyo (Venue TBD)
