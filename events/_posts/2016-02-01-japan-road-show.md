@@ -2,15 +2,16 @@
 permalink: "events/japan-road-show.html"
 layout: sidebar
 title: SelectUSA Japan Road Show
-date-display-start: February 1
-date-display-end: 5, 2016
-calendar-start: 2016-02-01
-calendar-end: 2016-02-05
-location-value: Tokyo, Nagoya, Osaka, and Fukuoka
-location-type: International
+"date-display-start": February 1
+"date-display-end": "5, 2016"
+"calendar-start": {}
+"calendar-end": {}
+"location-value": "Tokyo, Nagoya, Osaka, and Fukuoka"
+"location-type": International
 section: events
 published: true
 ---
+
 
 
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
@@ -30,8 +31,5 @@ On February 1st, SelectUSA, in cooperation with the U.S. Commercial Service Japa
 * **Thursday, February 4th:** Osaka (Osaka Chamber of Commerce)
 * **Friday, February 5th:** Fukuoka (Fukuoka American Center)
 
-**Co-Organizers:** JETRO, Nikkei, Tokyo Chamber of Commerce, Nagoya Chamber of Commerce, Osaka Chamber of Commerce, Organization for Small & Medium Enterprises and Regional Innovation
-
-**Sponsors:** METI, MOFA, Japan Association of Corporate Executives, Japanese Business Federation, American Chamber of Commerce in Japan, Tokyo Metropolitan Government, Mitsubishi, Tokyo UFJ Bank (we can add more as the time nears)
 
 ![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For registration information, please contact [Junko.Chino@trade.gov](mailto:junko.chino@trade.gov) in Tokyo or [Keida.Ackerman@trade.gov](mailto:keida.ackerman@trade.gov) in Washington, DC.
