@@ -2,12 +2,12 @@
 permalink: "events/japan-road-show.html"
 layout: sidebar
 title: SelectUSA Japan Road Show
-"date-display-start": February 1
-"date-display-end": "5, 2016"
-"calendar-start": {}
-"calendar-end": {}
-"location-value": "Tokyo, Nagoya, Osaka, and Fukuoka"
-"location-type": International
+date-display-start: February 1
+date-display-end: 5, 2016
+calendar-start: 2016-02-01
+calendar-end: 2016-02-05
+location-value: Tokyo, Nagoya, Osaka, and Fukuoka
+location-type: International
 section: events
 published: true
 ---
@@ -20,7 +20,7 @@ published: true
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
-## Join the SelectUSA Japan Road Show!
+## Save the Date: SelectUSA Japan Road Show!
 
 Japan and the United States have [one of the strongest and most interconnected trade and economic relationships in the world](http://selectusa.commerce.gov/country-fact-sheets/2015-09-10 Japan Fact Sheet.pdf). Nearly 13 percent of all FDI into the United States comes from Japan – **over $374 billion** – and **over 718,000 U.S. workers are employed by Japanese-owned firms.** Those firms contribute **$67.6 billion to U.S. exports and over $6 billion to research and development spending** in the United States.  
 
