@@ -15,6 +15,7 @@ published: true
 
 
 
+
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
@@ -26,11 +27,11 @@ Japan and the United States have [one of the strongest and most interconnected t
 On February 1st, SelectUSA will begin the Japan Road Show in Tokyo, traveling on to Nagoya, Osaka, and Fukuoka. Seminars for investors will focus on the U.S. legal and regulatory systems, investment visas, and case studies. More details on events, networking opportunities, and one-on-one meetings between investors and U.S. economic developers will be shared soon.  
 
 # Itinerary:
-* **Monday, February 1st:** Tokyo (Venue TBD)
-* **Tuesday, February 2nd:** Tokyo (Tokyo Chamber of Commerce)
-* **Wednesday, February 3rd:** Nagoya (Nagoya Chamber of Commerce)
-* **Thursday, February 4th:** Osaka (Osaka Chamber of Commerce)
-* **Friday, February 5th:** Fukuoka (Fukuoka American Center)
+* **Monday, February 1st:** 
+* **Tuesday, February 2nd:** 
+* **Wednesday, February 3rd:** 
+* **Thursday, February 4th:** 
+* **Friday, February 5th:** 
 
 
 ![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information and to register your interest, please contact [SelectUSAJapan@trade.gov](mailto:selectusajapan@trade.gov) in Tokyo or [Keida.Ackerman@trade.gov](mailto:keida.ackerman@trade.gov) in Washington, DC.
