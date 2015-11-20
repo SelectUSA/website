@@ -27,11 +27,10 @@ Japan and the United States have [one of the strongest and most interconnected t
 On February 1st, SelectUSA will begin the Japan Road Show in Tokyo, traveling on to Nagoya, Osaka, and Fukuoka. Seminars for investors will focus on the U.S. legal and regulatory systems, investment visas, and case studies. More details on events, networking opportunities, and one-on-one meetings between investors and U.S. economic developers will be shared soon.  
 
 # Itinerary:
-* **Monday, February 1st:** 
-* **Tuesday, February 2nd:** 
-* **Wednesday, February 3rd:** 
-* **Thursday, February 4th:** 
-* **Friday, February 5th:** 
+* **February 1-2: Tokyo** 
+* **February 3: Nagoya** 
+* **February 4: Osaka** 
+* **February 5: Fukuoka** 
 
 
 ![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information and to register your interest, please contact [SelectUSAJapan@trade.gov](mailto:selectusajapan@trade.gov) in Tokyo or [Keida.Ackerman@trade.gov](mailto:keida.ackerman@trade.gov) in Washington, DC.
