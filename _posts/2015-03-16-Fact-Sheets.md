@@ -2,7 +2,7 @@
 permalink: "fact-sheets.html"
 layout: default
 title: SelectUSA Fact Sheets
-published: true
+published: false
 ---
 
 ## FDI in the USA
