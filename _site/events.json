@@ -48,39 +48,7 @@
 
     
 
-    {
-      "title"    : "SelectUSA Canada 2015",
-      "url"     : "/events/selectusa-canada-2015.html",
-"rowdiv": "odd",
-      "location" : "Toronto, Canada",
-      "startdate" : "November 17, 2015",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2015-11-18 00:00:00 -0500",
-         "day"   : "18",
-         "month" : "November",
-         "year"  : "2015"
-      }
-    }
-    ,
-
     
-
-    {
-      "title"    : "SelectUSA Seminar at Guangzhou Auto Show",
-      "url"     : "/events/guangzhou-auto-show.html",
-"rowdiv": "even",
-      "location" : "",
-      "startdate" : "November 21, 2015",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2015-11-21 00:00:00 -0500",
-         "day"   : "21",
-         "month" : "November",
-         "year"  : "2015"
-      }
-    }
-    ,
 
     
 
@@ -103,9 +71,27 @@
     
 
     {
+      "title"    : "SelectUSA Japan Road Show",
+      "url"     : "/events/japan-road-show.html",
+"rowdiv": "even",
+      "location" : "Tokyo, Nagoya, Osaka, and Fukuoka",
+      "startdate" : "February 1",
+"enddate" : " - 5, 2016",
+      "date"     : {
+         "full"   : "2016-02-01 00:00:00 -0500",
+         "day"   : "01",
+         "month" : "February",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
       "title"    : "SelectUSA at Hannover Messe 2016",
       "url"     : "/events/selectusa-hannover-messe-2016.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Hannover, Germany",
       "startdate" : "April 25",
 "enddate" : " - 29, 2016",
@@ -123,7 +109,7 @@
     {
       "title"    : "SelectUSA Investment Summit",
       "url"     : "/2016-summit.html",
-"rowdiv": "odd-last",
+"rowdiv": "even-last",
       "location" : "Washington, DC",
       "startdate" : "June 19",
 "enddate" : " - 21, 2016",
