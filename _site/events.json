@@ -71,6 +71,42 @@
     
 
     {
+      "title"    : "SelectUSA Japan Road Show – Conference Call",
+      "url"     : "/japan-road-show.html",
+"rowdiv": "even",
+      "location" : "Online Conference Call",
+      "startdate" : "December 3, 2015",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2015-12-03 00:00:00 -0500",
+         "day"   : "03",
+         "month" : "December",
+         "year"  : "2015"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA Silk Road China Road Show",
+      "url"     : "/japan-road-show.html",
+"rowdiv": "odd",
+      "location" : "Beijing, Urumqi, and Chengdu",
+      "startdate" : "January 13",
+"enddate" : " - 20, 2016",
+      "date"     : {
+         "full"   : "2016-01-13 00:00:00 -0500",
+         "day"   : "13",
+         "month" : "January",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
       "title"    : "SelectUSA Japan Road Show",
       "url"     : "/events/japan-road-show.html",
 "rowdiv": "even",
