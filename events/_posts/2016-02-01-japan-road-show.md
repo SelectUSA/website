@@ -19,6 +19,7 @@ published: true
 
 
 
+
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
@@ -36,4 +37,4 @@ On February 1st, SelectUSA will begin the Japan Road Show in Tokyo, traveling on
 * **February 5: Fukuoka** 
 
 
-![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") Be among the first to receive updates by e-mailing [SelectUSAJapan@trade.gov](mailto:selectusajapan@trade.gov). For further information, please contact [Keida.Ackerman@trade.gov](mailto:keida.ackerman@trade.gov) in Washington, DC.
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") Be among the first to receive updates by e-mailing Yutaka (Tommy) Okutomi at [SelectUSAJapan@trade.gov](mailto:selectusajapan@trade.gov). For further information, please contact [Keida.Ackerman@trade.gov](mailto:keida.ackerman@trade.gov) in Washington, DC.
