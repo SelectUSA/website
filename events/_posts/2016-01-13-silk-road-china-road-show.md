@@ -19,16 +19,16 @@ published: true
 
 ### Save the Date: SelectUSA Silk Road China Road Show!
 
-China is the fastest growing source of foreign direct investment to the United States and the world’s second largest economy. On January 13-20, U.S. economic developers (EDOs) will have the chance to meet with Chinese investors in Beijing, Urumqi, and Chengdu. Programming will vary by city and exact venues as well as more details will be announced soon. 
+China is the fastest growing source of foreign direct investment to the United States and the world’s second largest economy. On January 13-20, U.S. economic developers (EDOs) will have the chance to meet with Chinese investors in Beijing, Urumqi, and Chengdu. Each stop will have opportunities to present to and network with Chinese investors.
 
   * January 13: Beijing
   * January 15: Urumqi
   * January 18: Chengdu
 
-Each stop will have opportunities to present to and network with Chinese investors.
+**Cost: $1,200 per EDO; $160 for each additional delegate.**
 
-**Cost: $1,200 per EDO; $160 for each additional delegate**
+**Space is limited and on a first-come, first-served basis.**
 
-**Space will be limited and once registration starts, it will be on a first-come, first-served basis.**
+---
 
-![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact")For more information, please contact [Shujuan Cao](Shujuan.cao@trade.gov) or [Sonny Cui](Cui.shiyang@trade.gov) in China or [John McKiel](john.m,ckiel@trade.gov) in Washington, DC.
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information, please contact [Shujuan Cao](Shujuan.cao@trade.gov) or [Sonny Cui](Cui.shiyang@trade.gov) in China or [John McKiel](john.m,ckiel@trade.gov) in Washington, DC.
