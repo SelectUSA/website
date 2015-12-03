@@ -22,6 +22,6 @@ Canada is the 4th largest source of foreign direct investment (FDI) in the Unite
 
 Join the new edition of the annual SelectUSA Manufacturing Forum at the Canadian International Auto Show (CIAS) in Toronto. Designed by the U.S. Commerce Service (USCS) Toronto, the event will feature companies from the Canadian Automotive and advanced manufacturing technology sectors. U.S. Economic Development Organizations (EDOs) will be able to meet with Canadian investors, hear about manufacturing from U.S. Government officials, gain access to the exclusive CIAS Opening Day, and take advantage of networking opportunities.  
 
-![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information and registration, please contact [Kaitlyn Hou 侯瑶](mailto:Bojan.Opsenica@trade.gov), Investment Specialist, U.S. Commercial Service Toronto, Tel: +1-416-595-5412 Ext. 224 
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information and registration, please contact [Bojan Opsenica](mailto:Bojan.Opsenica@trade.gov), Investment Specialist, U.S. Commercial Service Toronto, Tel: +1-416-595-5412 Ext. 224 
 
 #Space is limited!
