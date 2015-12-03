@@ -29,6 +29,6 @@ Each stop will have opportunities to present to and network with Chinese investo
 
 **Cost: $1,200 per EDO; $160 for each additional delegate**
 
-##### Space will be limited and once registration starts, it will be on a first-come, first-served basis.
+**Space will be limited and once registration starts, it will be on a first-come, first-served basis.**
 
-For more information, please contact [Shujuan Cao](Shujuan.cao@trade.gov) or [Sonny Cui](Cui.shiyang@trade.gov) in China or [John McKiel](john.m,ckiel@trade.gov) in Washington, DC.
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact")For more information, please contact [Shujuan Cao](Shujuan.cao@trade.gov) or [Sonny Cui](Cui.shiyang@trade.gov) in China or [John McKiel](john.m,ckiel@trade.gov) in Washington, DC.
