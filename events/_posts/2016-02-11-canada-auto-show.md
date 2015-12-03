@@ -22,6 +22,4 @@ Join us for the new edition of the annual SelectUSA Manufacturing Forum at the C
 
 Canada is the 4th largest source of foreign direct investment (FDI) in the United States: $311 billion USD (2014). 
 
-![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information and registration, please contact [Bojan Opsenica](mailto:Bojan.Opsenica@trade.gov), Investment Specialist, U.S. Commercial Service Toronto, Tel: +1-416-595-5412 Ext. 224. 
-
-##### Space is limited!
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information and registration, please contact [Bojan Opsenica](mailto:Bojan.Opsenica@trade.gov), Investment Specialist, U.S. Commercial Service Toronto, Tel: +1-416-595-5412 Ext. 224. **Space is limited!**
