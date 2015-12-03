@@ -1,16 +1,19 @@
 ---
 permalink: "events/canada-auto-show.html"
 layout: sidebar
-title: SelectUSA Manufacturing Forum at the Canadian International Auto Show
+title: Canadian International Auto Show (CIAS)
 "date-display-start": "February 11, 2016"
 "date-display-end": "February 11, 2016"
-"calendar-start": {}
-"calendar-end": {}
+"calendar-start": 2016-02-11T00:00:00.000Z
+"calendar-end": 2016-02-11T00:00:00.000Z
 "location-value": "Toronto, Canada"
 "location-type": International
 section: events
 published: true
+"calendar-start\"": 2016-02-11T00:00:00.000Z
+"calendar-end\"": 2016-02-11T00:00:00.000Z
 ---
+
 
 
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") Feburary 11, 2016
