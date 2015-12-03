@@ -2,12 +2,12 @@
 permalink: "silk-road-china-road-show.html"
 layout: sidebar
 title: SelectUSA Silk Road China Road Show
-"date-display-start": January 13
-"date-display-end": "20, 2016"
-"calendar-start": 2016-01-13T00:00:00.000Z
-"calendar-end": 2016-01-20T00:00:00.000Z
-"location-value": "Beijing, Urumqi, and Chengdu"
-"location-type": International
+date-display-start: January 13
+date-display-end: 20, 2016
+calendar-start: 2016-01-13T00:00:00.000Z
+calendar-end: 2016-01-20T00:00:00.000Z
+location-value: Beijing, Urumqi, and Chengdu
+location-type: International
 section: events
 published: true
 ---
@@ -17,16 +17,18 @@ published: true
 
 ![Location]({{ site.baseurl }}/icons/location_city.svg "Location") {{ page.location-value }}
 
-##Save the Date: SelectUSA Silk Road China Road Show!
+### Save the Date: SelectUSA Silk Road China Road Show!
 
-China is the fastest growing source of foreign direct investment to the United States and the world’s second largest economy. On January 13-20, U.S. economic developers will have the chance to meet with Chinese investors in Beijing, Urumqi, and Chengdu. Programming will vary by city and exact venues as well as more details will be announced soon. Space will be limited and once registration starts, it will be on a first-come, first-served basis.
+China is the fastest growing source of foreign direct investment to the United States and the world’s second largest economy. On January 13-20, U.S. economic developers (EDOs) will have the chance to meet with Chinese investors in Beijing, Urumqi, and Chengdu. Programming will vary by city and exact venues as well as more details will be announced soon. 
 
--January 13: Beijing
--January 15: Urumqi
--January 18: Chengdu
+  * January 13: Beijing
+  * January 15: Urumqi
+  * January 18: Chengdu
 
 Each stop will have opportunities to present to and network with Chinese investors.
 
-*Cost: $1,200 per EDO, $160 for each additional delegate*
+**Cost: $1,200 per EDO; $160 for each additional delegate**
+
+##### Space will be limited and once registration starts, it will be on a first-come, first-served basis.
 
 For more information, please contact [Shujuan Cao](Shujuan.cao@trade.gov) or [Sonny Cui](Cui.shiyang@trade.gov) in China or [John McKiel](john.m,ckiel@trade.gov) in Washington, DC.
