@@ -12,7 +12,7 @@ section: events
 published: true
 ---
 
-### SelectUSA Israel Catalog Show (Open Day)
+### SelectUSA Open Day -- Israel Catalog Show
 
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
 
