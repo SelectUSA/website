@@ -9,16 +9,15 @@ published: true
 
 ### **An Overview**
 <span class="imgright">![SelectUSA Logo with Open for Business Sign](images/selectusa_logo_open_for_business-227x211.png "SelectUSA Open for Business")</span>
-The USA is the premier location for new business investment, tops among all countries. &nbsp;According to Department of Commerce data
-released in Spring 2014, foreign direct investment flows into the United States
-and its territories rose from $160 billion in 2012 to $187.5 billion in 2013. &nbsp;Additionally, U.S.-owned companies that are expanding facilities, adding new facilities, or bringing back jobs from abroad invest hundreds of billions more dollars in the United States. &nbsp;
+The United States is the premier location for new business investment, tops among all countries. &nbsp;According to the latest Department of Commerce data,foreign direct investment stock into the United States
+and its territories rose to over $2.9 trillion at the end of 2014. &nbsp;In that same year, new greenfield investment alone totaled $16.5 billion dollars in the United States. &nbsp;
 
 <span class="imgleft">![Stock Ticker](images/why2.jpg "Stock Ticker")</span>
 
-The US economy, with a GDP of more than $16 trillion, and a population of over 318
-million, offers investors extraordinary attractions and many possible locations.&nbsp; The United States has a lucrative and open consumer market of over 318 million Americans, as well as access via free trade agreements to about 425 million more customers for goods and services that are produced in the United States. 
+The U.S. economy, with a GDP of more than $17 trillion, and a population of over 320
+million, offers investors extraordinary attractions and many possible locations.&nbsp; The United States has a lucrative and open consumer market, as well as access via free trade agreements to about 425 million more customers for goods and services that are produced in the United States. 
 
-The American work force is well-educated, productive, innovative, and mobile, and the United States has the flexibility through the American educational system to fashion training programs for the jobs of today and tomorrow.&nbsp; The United States also has the world’s best university system, one that hosts and spins off research and development (R&amp;D) programs that contribute to the country’s strong R&amp;D activities.
+The American workforce is well-educated, productive, innovative, and mobile, and the United States has the flexibility through the American educational system to fashion training programs for the jobs of today and tomorrow.&nbsp; The United States university system has a strong competitive advantage globally, fostering an innovation ecosystem that hosts and spins off research and development (R&amp;D) programs that contribute to the country’s strong R&amp;D activities.
 
 <span class="imgright">![Circuitboard](images/why3.jpg "Circuitboard")</span>
 
@@ -32,7 +31,7 @@ With a land area that is the third largest in the world and encompasses an abund
 
 <span class="imgleft">![Woman with Laptop](images/why4.jpg "Woman with Laptop")</span>
 
-The United States is holds the world’s most attractive consumer market, with a GDP of over $16 trillion and a population of more than 318 million people, resulting in a per capita GDP that is among the highest for the world’s major developed economies (<span>$53,042 as of 2013)</span>. &nbsp;The U.S. market is diverse in consumer tastes and has a range of income levels, thus permitting success for a wide variety of goods and services.&nbsp; Whether it be a computer or other electronic device, a movie or a song, a large passenger airplane, or oil drilling equipment, trends in global markets often start in the United States.&nbsp; Brands are not considered truly global until they penetrate the U.S. market.
+The United States holds the world’s most attractive consumer market, with a GDP of over $17 trillion and a population of more than 320 million people, resulting in a per capita GDP that is among the highest for the world’s major developed economies (<span>$54,340 as of 2014)</span>. &nbsp;The U.S. market is diverse in consumer tastes and has a range of income levels, thus permitting success for a wide variety of goods and services.&nbsp; Whether it be a computer or other electronic device, a movie or a song, a large passenger airplane, or oil drilling equipment, trends in global markets often start in the United States.&nbsp; Brands are not considered truly global until they penetrate the U.S. market.
 
 In addition, the United States has entered into [free trade agreements with 20 other countries](http://www.ustr.gov/trade-agreements/free-trade-agreements), providing access to&nbsp;more than&nbsp;425&nbsp;million more customers for U.S. goods and services.
 
@@ -40,7 +39,7 @@ Businesses operating in small markets in other countries can become large, dynam
 
 **Competitive Investment and Business Climate**
 
-The stable U.S. government and business climate have lead to the United States topping the 2015 [A.T. Kearney Foreign Direct Investment Confidence Index](https://www.atkearney.com/research-studies/foreign-direct-investment-confidence-index/2015) for the third year in a row.&nbsp; Indeed, the United States is the world’s most attractive market for venture capital and private equity funding.&nbsp; ([Ernst &amp; Young&nbsp;and IESE Business School’s 2014 Global Venture Capital and Private Equity Country Attractiveness Index](http://blog.iese.edu/vcpeindex/).)
+The stable U.S. government and business climate have led to the United States topping the 2015 [A.T. Kearney Foreign Direct Investment Confidence Index](https://www.atkearney.com/research-studies/foreign-direct-investment-confidence-index/2015) for the third year in a row.&nbsp; Indeed, the United States is the world’s most attractive market for venture capital and private equity funding.&nbsp; ([Ernst &amp; Young&nbsp;and IESE Business School’s 2014 Global Venture Capital and Private Equity Country Attractiveness Index](http://blog.iese.edu/vcpeindex/).)
 
 Among countries with more than 10 million people, the United States is consistently ranked among the best in the world for its overall competitiveness (World Economic Forum, _[Global Competitiveness Report 2014-15](http://www.weforum.org/reports/global-competitiveness-report-2014-2015)_), as well as for its overall “ease of doing business.”&nbsp; ([World Bank, _Doing Business 2015_](http://www.doingbusiness.org/reports/global-reports/doing-business-2015).)
 
@@ -48,13 +47,13 @@ Among countries with more than 10 million people, the United States is consisten
 
 <span class="imgright">![Chemistry Teacher](images/why5.jpg "Chemistry Teacher")</span>
 
-The American work force is highly educated. Forty-three percent of Americans between the ages of 25 to 64 have completed a level of education beyond high school, which is fifth among all developed countries and considerably more than the OECD average of 32 percent.&nbsp; ([Organization for Economic Cooperation and Development](http://www.oecd.org/unitedstates/United%20States-EAG2014-Country-Note.pdf).)
+The American workforce is highly educated. Over 57 percent of Americans in the civilian labor force over the age of 25 have completed a level of education beyond high school.&nbsp; ([U.S. Bureau of Labor Statistics](http://www.oecd.org/unitedstates/United%20States-EAG2014-Country-Note.pdf).)
 
 <span class="imgleft">![Port Workers](images/why6.jpg "Port Workers")</span>
 
 U.S. workers are also among the world’s most productive, both in the value of a worker’s output per hour or over the course of a year.
 
-The more than 153 million workers in the U.S. civilian labor force are diverse, flexible in the workplace, and mobile. &nbsp; They have a long history of adapting to circumstances and stepping up to opportunities that present themselves. &nbsp; It is part of the American spirit.
+The more than 157 million workers in the U.S. civilian labor force are diverse, flexible in the workplace, and mobile. &nbsp; They have a long history of adapting to circumstances and stepping up to opportunities that present themselves. &nbsp; It is part of the American spirit.
 
 **World’s Top Universities and Colleges**
 
