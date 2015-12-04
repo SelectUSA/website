@@ -22,7 +22,7 @@ On February 11, 2016, the Israel Venture Capital Research Center (IVC) will host
 
 **The participation fee is $300. Up to 60 copies of promotional literature, brochures, etc. must be sent by January 10, 2016.** 
 
---
+---
 
-![Contact]({{ site.baseurl }}/icons/question_answer.svg "Contact") For all other information, please contact [Sigal Mendelovich] (mailto:sigal.mendelovich@trade.gov) in Tel Aviv at +972-3-519-8525.
+![Contact]({{ site.baseurl }}/icons/question_answer.svg "Contact") For all other information, please contact [Sigal Mendelovich](mailto:sigal.mendelovich@trade.gov) in Tel Aviv at +972-3-519-8525.
 
