@@ -25,4 +25,6 @@ Canada is the 4th largest source of foreign direct investment (FDI) in the Unite
 
 ---
 
-![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information and registration, please contact [Bojan Opsenica](mailto:Bojan.Opsenica@trade.gov), Investment Specialist, U.S. Commercial Service Toronto, Tel: +1-416-595-5412 Ext. 224. Paid registration is now open to U.S. Economic Development Organizations. **Space is limited!**
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information and registration, please contact [Bojan Opsenica](mailto:Bojan.Opsenica@trade.gov), Investment Specialist, U.S. Commercial Service Toronto, Tel: +1-416-595-5412 Ext. 224. 
+
+**Paid registration is now open to U.S. Economic Development Organizations. Space is limited!**
