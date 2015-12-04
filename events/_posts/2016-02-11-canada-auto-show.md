@@ -4,8 +4,8 @@ layout: sidebar
 title: Canadian International Auto Show
 date-display-start: February 11, 2016
 date-display-end: February 11, 2016
-calendar-start: 2016-02-11T00:00:00.000Z
-calendar-end: 2016-02-11T00:00:00.000Z
+calendar-start: 2016-02-11
+calendar-end: 2016-02-11
 location-value: Toronto, Canada
 location-type: International
 section: events
