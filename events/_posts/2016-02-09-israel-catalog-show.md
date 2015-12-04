@@ -1,5 +1,5 @@
 ---
-permalink: "events/selectusa-israel-catalog-show.html"
+permalink: "events/israel-catalog-show1.html"
 title: Israel Catalog Show
 layout: sidebar
 date-display-start: February 9, 2016
