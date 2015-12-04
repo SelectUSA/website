@@ -1,5 +1,5 @@
 ---
-permalink: "events/israel-catalog-show2.html"
+permalink: "events/israel-catalog-show1.html"
 title: SelectUSA Israel Catalog Show
 layout: sidebar
 date-display-start: January 20, 2016
@@ -14,7 +14,7 @@ published: true
 
 ### SelectUSA Open Day -- Israel Catalog Show
 
-![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
+![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") January 20, 2016
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
