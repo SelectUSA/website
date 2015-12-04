@@ -12,7 +12,7 @@ section: events
 published: true
 ---
 
-![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") Feburary 11, 2016
+![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") February 11, 2016
 
 ![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
 
