@@ -9,7 +9,7 @@ calendar-end: 2016-02-09T00:00:00.000Z
 location-value: Tel Aviv, Israel
 location-type: International
 section: events
-published: false
+published: true
 ---
 
 ### SelectUSA at the Israel Venture Capital Research Center Seminar
