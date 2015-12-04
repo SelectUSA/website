@@ -1,11 +1,11 @@
 ---
 permalink: "events/israel-catalog-show1.html"
-title: Israel Catalog Show
+title: SelectUSA Israel Catalog Show
 layout: sidebar
 date-display-start: February 9, 2016
 date-display-end: February 9, 2016
-calendar-start: 2016-02-09T00:00:00.000Z
-calendar-end: 2016-02-09T00:00:00.000Z
+calendar-start: 2016-02-09
+calendar-end: 2016-02-09
 location-value: Tel Aviv, Israel
 location-type: International
 section: events
