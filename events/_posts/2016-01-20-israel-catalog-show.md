@@ -1,11 +1,11 @@
 ---
-permalink: "events/selectusa-israel-catalog-show.html"
+permalink: "events/israel-catalog-show2.html"
 title: SelectUSA Israel Catalog Show
 layout: sidebar
 date-display-start: January 20, 2016
 date-display-end: January 20, 2016
-calendar-start: 2016-01-20T00:00:00.000Z
-calendar-end: 2016-01-20T00:00:00.000Z
+calendar-start: 2016-01-20
+calendar-end: 2016-01-20
 location-value: Tel Aviv, Israel
 location-type: International
 section: events
@@ -22,6 +22,6 @@ SelectUSA, in collaboration with the United States Commercial Service (USCS) Isr
 
 **The participation fee is $300. Up to 60 copies of promotional literature, brochures, etc. must be sent by January 10, 2016.** 
 
---
+---
 
-![Contact]({{ site.baseurl }}/icons/question_answer.svg "Contact") For all other information, please contact [Sigal Mendelovich] (mailto:sigal.mendelovich@trade.gov) in Tel Aviv at +972-3-519-8525.
+![Contact]({{ site.baseurl }}/icons/question_answer.svg "Contact") For all other information, please contact [Sigal Mendelovich](mailto:sigal.mendelovich@trade.gov) in Tel Aviv at +972-3-519-8525.
