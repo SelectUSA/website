@@ -17,7 +17,7 @@ published: true
 
 ![Time]({{ site.baseurl }}/icons/time.svg "Time") 8 p.m. EST / 5 p.m. PST (9 a.m. December 15th in China)
 
-![Location]({{ site.baseurl }}/icons/location_city.svg "Location") {{ page.location-value }}
+![Location]({{ site.baseurl }}/icons/location_city.svg "Location") {{ page.location-value }} {{ page.location-type }}
 
 
 
