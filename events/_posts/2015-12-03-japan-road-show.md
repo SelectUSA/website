@@ -12,7 +12,7 @@ section: events
 published: true
 ---
 
-![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
+![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}
 
 ![Time]({{ site.baseurl }}/icons/time.svg "Time") 4 p.m. EST / 1 p.m. PST
 
