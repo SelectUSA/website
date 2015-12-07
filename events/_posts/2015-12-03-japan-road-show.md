@@ -16,7 +16,7 @@ published: true
 
 ![Time]({{ site.baseurl }}/icons/time.svg "Time") 4 p.m. EST / 1 p.m. PST
 
-![Location]({{ site.baseurl }}/icons/location_city.svg "Location") {{ page.location-value }} {{ page.location-type }}
+![Location]({{ site.baseurl }}/icons/location_city.svg "Location") {{ page.location-value }}/{{ page.location-type }}
 
 The Japan Road Show is fast approaching (February 1-5, 2016) and we want to help U.S. economic developers connect with investors from the second largest source of foreign direct investment (FDI) to the United States. Please join us for a conference call on the Japan Road Show on Thursday, December 3rd, at 4 p.m. EST / 1 p.m. PST. We will discuss the focus of the four-city road show and how U.S. economic development organizations can participate.
  
