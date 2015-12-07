@@ -1,7 +1,7 @@
 ---
 permalink: "silk-road-conference-call.html"
 layout: sidebar
-title: SelectUSA Silk Road China Road Show (Conference Call)
+title: SelectUSA Silk Road China Road Show – Conference Call
 date-display-start: December 14, 2015
 date-display-end: December 14, 2015
 calendar-start: 2015-12-14
@@ -13,7 +13,7 @@ published: true
 ---
 
 
-![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}-{{ page.date-display-end}}
+![Date]({{ site.baseurl }}/icons/event.svg "Date") {{ page.date-display-start}}
 
 ![Time]({{ site.baseurl }}/icons/time.svg "Time") 8 p.m. EST / 5 p.m. PST (9 a.m. December 15th in China)
 
