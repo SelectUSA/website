@@ -4,13 +4,14 @@ layout: sidebar
 title: SelectUSA Japan Road Show
 "date-display-start": February 1
 "date-display-end": "5, 2016"
-"calendar-start": 2016-02-01
-"calendar-end": 2016-02-05
+"calendar-start": {}
+"calendar-end": {}
 "location-value": "Tokyo, Nagoya, Osaka, and Fukuoka"
 "location-type": International
 section: events
 published: true
 ---
+
 
 
 
@@ -37,4 +38,4 @@ On February 1st, SelectUSA will begin the Japan Road Show in Tokyo, traveling on
 * **February 5: Fukuoka** 
 
 
-![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") Be among the first to receive updates by e-mailing Yutaka (Tommy) Okutomi at [SelectUSAJapan@trade.gov](mailto:selectusajapan@trade.gov). For further information, please contact [Keida.Ackerman@trade.gov](mailto:keida.ackerman@trade.gov) in Washington, DC.
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") Be among the first to receive updates by e-mailing [SelectUSAJapan@trade.gov](mailto:selectusajapan@trade.gov). For further information, please contact [Keida.Ackerman@trade.gov](mailto:keida.ackerman@trade.gov) in Washington, DC.
