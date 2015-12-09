@@ -25,5 +25,5 @@ The Silk Road China Road Show is January 13-20, 2016 and space is limited (and f
 
 ---
 
-![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information and to register, please contact [Micah Escobedo](Micah.Escobedo@trade.gov), Communications Specialist.
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information and to register, please contact [Micah Escobedo](mailto:Micah.Escobedo@trade.gov?Subject=Silk%20Road%20Conference%20Call).
 
