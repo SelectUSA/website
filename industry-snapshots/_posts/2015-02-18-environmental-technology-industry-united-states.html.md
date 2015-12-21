@@ -17,8 +17,8 @@ Small- and medium-sized businesses account for approximately 99 percent of the i
 
 ## Industry Subsectors 
 
-|                                      | Revenue ($bil) | U.S.Companies | Exports ($mil) | U.S. Employment |
-|:--------------------------------------:|:--------------------:|:--------------------:|:--------------------:|:---------------------:|
+|                                      | Revenue ($bil)     | U.S.Companies      | Exports ($mil)     | U.S. Employment      |
+|--------------------------------------|--------------------|--------------------|--------------------|----------------------|
 | **Analytical Services**              | XXX                | 1,000              | 143                | 19,700               |
 | **Wastewater Treatment Works**       | 44.1               | 26,300             | 238                | 169,000              |
 | **Solid Waste Management**           | 51.1               | 9,850              | 153                | 265,300              |
@@ -27,7 +27,7 @@ Small- and medium-sized businesses account for approximately 99 percent of the i
 | **Consulting & Engineering**         | 26.1               | 3,480              | 3,317              | 246,400              |
 | **Water Equipment & Chemicals**      | 26.6               | 2,030              | 9,929              | 157,300              |
 | **Instruments & Info. Systems**      | 5.2                | 690                | 2,451              | 36,100               |
-| **Air Pollution Control Equipment** | 15.8               | 1,770              | 2,456              | 101,800               |
+| **Air Pollution Control Equipment**  | 15.8               | 1,770              | 2,456              | 101,800              |
 | **Waste Management Equipment**       | 11.0               | 850                | 2,850              | 73,800               |
 | **Process & Prevention Tech.**       | 1.8                | 370                | 126                | 28,600               |
 | **Water Utilities**                  | 40.6               | 61,800             | 81                 | 162,000              |
