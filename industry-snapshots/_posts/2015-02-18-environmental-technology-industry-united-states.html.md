@@ -33,7 +33,9 @@ Small- and medium-sized businesses account for approximately 99 percent of the i
 | **Water Utilities**                  | 40.6               | 61,800             | 81                 | 162,000              |
 | **Resource Recovery**                | 24.5               | 4,650              | 14,811             | 169,100              |
 | **TOTAL:**                           | 269.2              | 115,420            | 37,428             | 1,571,200            |
+
 <br>
+
 *&nbsp;Source: Environmental Business International, Inc., 2010 (San Diego, CA)*
 
 <span class="field field-type-link field-field-industry-assoications">
