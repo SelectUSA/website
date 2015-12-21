@@ -18,7 +18,7 @@ Small- and medium-sized businesses account for approximately 99 percent of the i
 ## Industry Subsectors 
 
 |                                      | Revenue ($bil) | U.S.Companies | Exports ($mil) | U.S. Employment |
-|--------------------------------------|--------------------|--------------------|--------------------|----------------------|
+|:--------------------------------------:|:--------------------:|:--------------------:|:--------------------:|:---------------------:|
 | **Analytical Services**              | XXX                | 1,000              | 143                | 19,700               |
 | **Wastewater Treatment Works**       | 44.1               | 26,300             | 238                | 169,000              |
 | **Solid Waste Management**           | 51.1               | 9,850              | 153                | 265,300              |
