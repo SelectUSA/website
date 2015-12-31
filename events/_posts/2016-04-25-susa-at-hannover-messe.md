@@ -32,3 +32,18 @@ EDOs should contact [David Campbell](mailto:david.campbell@trade.gov) at SelectU
 For information on company exhibition options, please visit [Export.gov](http://www.export.gov/germany/TradeShowsEvents/FeaturedGermanTradeShows/hannoverfair/index.asp) or contact Hannover Fairs USA (HFUSA) CEO Larry Turner at [lturner@hfusa.com](mailto:lturner@hfusa.com?Subject=Hannover%20Messe%202016%20company%20exhibitor%20registration) (773) 796-4250 
 
 For more information, please visit the International Trade Administration's [Hannover Messe page](http://trade.gov/events/hannovermesse/).
+
+### News on Hannover Messe 2016
+Excitement has grown since President Obama announced that he will attend Hannover Messe in April. He will be the first sitting U.S. president in history to attend the seven decade-old industrial trade show. With the United States as the official Partner Country and President Obama's attendance, the upcoming show will be one of the most important trade and industry promotion platform events ever. 
+<dl>
+  <dd>"Hannover Messe presents a unique opportunity to showcase American innovation and ingenuity and to highlight the United States as a prime investment destination." - White House press secretary Josh Earnest</dd>
+</dl>
+[The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2015/12/30/with-european-trade-deal-unfinished-obama-to-head-to-germany-in-the-spring/?postshare=2991451572219310&tid=ss_tw): "With European trade deal unfinished, Obama to head to Germany in the spring"
+
+[The Wall Street Journal](http://blogs.wsj.com/washwire/2015/12/30/obama-to-travel-to-germany-for-meeting-with-angela-merkel-trade-show/): "Obama to Travel to Germany for Meeting With Merkel, Trade Show"
+
+[USA Today](http://www.usatoday.com/story/news/politics/2015/12/30/obama-germany-trip-hannover-trade-fair-angela-merkel-2016/78084822/): "Obama to make fifth trip to Germany in 2016"
+
+[Politico](http://www.politico.eu/article/obama-sets-trade-mission-to-germany-merkel-ttip/): "Obama sets trade mission to Germany"
+
+[Reuters](http://www.reuters.com/article/us-usa-germany-idUSKBN0UD1PA20151230): "Obama to meet Merkel, attend Hannover trade show in April"
