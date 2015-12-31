@@ -34,7 +34,7 @@ For information on company exhibition options, please visit [Export.gov](http://
 For more information, please visit the International Trade Administration's [Hannover Messe page](http://trade.gov/events/hannovermesse/).
 
 ### News on Hannover Messe 2016
-> "Hannover Messe presents a unique opportunity to showcase American innovation and ingenuity and to highlight the United States as a prime investment destination." - White House Press Secretary Josh Earnest
+> "[Hannover Messe] presents a unique opportunity to showcase American innovation and ingenuity and to highlight the United States as a prime investment destination." - White House Press Secretary Josh Earnest
 
 * [The White House](https://www.whitehouse.gov/the-press-office/2015/12/30/statement-press-secretary-presidents-travel-germany): "Statement by the Press Secretary on the President’s Travel to Germany"
 
