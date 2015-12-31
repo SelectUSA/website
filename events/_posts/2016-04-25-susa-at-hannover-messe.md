@@ -39,14 +39,14 @@ For more information, please visit the International Trade Administration's [Han
 White House Press Secretary Josh Earnest
 
 
-[The White House](https://www.whitehouse.gov/the-press-office/2015/12/30/statement-press-secretary-presidents-travel-germany): "Statement by the Press Secretary on the President’s Travel to Germany"
+* [The White House](https://www.whitehouse.gov/the-press-office/2015/12/30/statement-press-secretary-presidents-travel-germany): "Statement by the Press Secretary on the President’s Travel to Germany"
 
-*[The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2015/12/30/with-european-trade-deal-unfinished-obama-to-head-to-germany-in-the-spring/?postshare=2991451572219310&tid=ss_tw): "With European trade deal unfinished, Obama to head to Germany in the spring"
+* [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2015/12/30/with-european-trade-deal-unfinished-obama-to-head-to-germany-in-the-spring/?postshare=2991451572219310&tid=ss_tw): "With European trade deal unfinished, Obama to head to Germany in the spring"
 
-*[The Wall Street Journal](http://blogs.wsj.com/washwire/2015/12/30/obama-to-travel-to-germany-for-meeting-with-angela-merkel-trade-show/): "Obama to Travel to Germany for Meeting With Merkel, Trade Show"
+* [The Wall Street Journal](http://blogs.wsj.com/washwire/2015/12/30/obama-to-travel-to-germany-for-meeting-with-angela-merkel-trade-show/): "Obama to Travel to Germany for Meeting With Merkel, Trade Show"
 
-*[USA Today](http://www.usatoday.com/story/news/politics/2015/12/30/obama-germany-trip-hannover-trade-fair-angela-merkel-2016/78084822/): "Obama to make fifth trip to Germany in 2016"
+* [USA Today](http://www.usatoday.com/story/news/politics/2015/12/30/obama-germany-trip-hannover-trade-fair-angela-merkel-2016/78084822/): "Obama to make fifth trip to Germany in 2016"
 
-*[Politico](http://www.politico.eu/article/obama-sets-trade-mission-to-germany-merkel-ttip/): "Obama sets trade mission to Germany"
+* [Politico](http://www.politico.eu/article/obama-sets-trade-mission-to-germany-merkel-ttip/): "Obama sets trade mission to Germany"
 
-*[Reuters](http://www.reuters.com/article/us-usa-germany-idUSKBN0UD1PA20151230): "Obama to meet Merkel, attend Hannover trade show in April"
+* [Reuters](http://www.reuters.com/article/us-usa-germany-idUSKBN0UD1PA20151230): "Obama to meet Merkel, attend Hannover trade show in April"
