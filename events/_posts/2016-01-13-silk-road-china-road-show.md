@@ -3,7 +3,7 @@ permalink: "silk-road-china-road-show.html"
 layout: sidebar
 title: SelectUSA Silk Road China Road Show
 date-display-start: January 13
-date-display-end: 20, 2016
+date-display-end: 18, 2016
 calendar-start: 2016-01-13
 calendar-end: 2016-01-18
 location-value: Beijing, Urumqi, and Chengdu
