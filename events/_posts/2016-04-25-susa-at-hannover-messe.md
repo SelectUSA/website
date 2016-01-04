@@ -47,3 +47,6 @@ For more information, please visit the International Trade Administration's [Han
 * [Politico](http://www.politico.eu/article/obama-sets-trade-mission-to-germany-merkel-ttip/): "Obama sets trade mission to Germany"
 
 * [Reuters](http://www.reuters.com/article/us-usa-germany-idUSKBN0UD1PA20151230): "Obama to meet Merkel, attend Hannover trade show in April"
+
+
+Did you know that Germany is the third-largest source of FDI to the United States? Check out our [fact sheet](http://selectusa.commerce.gov/country-fact-sheets/2015-09-10%20Germany%20Fact%20Sheet.pdf).
