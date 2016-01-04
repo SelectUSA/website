@@ -32,3 +32,5 @@ China is the fastest growing source of foreign direct investment to the United S
 ---
 
 ![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information, please contact [Shujuan Cao](mailto:Shujuan.cao@trade.gov) or [Sonny Cui](mailto:Cui.shiyang@trade.gov) in China or [John McKiel](mailto:john.m,ckiel@trade.gov) in Washington, DC.
+
+For more information on FDI from China, check out our [fact sheet](http://selectusa.commerce.gov/country-fact-sheets/2015-09-10%20China%20Fact%20Sheet.pdf).
