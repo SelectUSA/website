@@ -5,7 +5,7 @@ title: SelectUSA Silk Road China Road Show
 date-display-start: January 13
 date-display-end: 20, 2016
 calendar-start: 2016-01-13
-calendar-end: 2016-01-20
+calendar-end: 2016-01-18
 location-value: Beijing, Urumqi, and Chengdu
 location-type: International
 section: events
@@ -19,7 +19,7 @@ published: true
 
 ### Save the Date: SelectUSA Silk Road China Road Show!
 
-China is the fastest growing source of foreign direct investment to the United States and the world’s second largest economy. On January 13-20, U.S. economic developers (EDOs) will have the chance to meet with Chinese investors in Beijing, Urumqi, and Chengdu. Each stop will have opportunities to present to and network with Chinese investors.
+China is the fastest growing source of foreign direct investment to the United States and the world’s second largest economy. On January 13-18, U.S. economic developers (EDOs) will have the chance to meet with Chinese investors in Beijing, Urumqi, and Chengdu. Each stop will have opportunities to present to and network with Chinese investors.
 
   * January 13: Beijing
   * January 15: Urumqi
