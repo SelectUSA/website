@@ -38,7 +38,7 @@ For more information, please visit the International Trade Administration's [Han
 
 * [The White House](https://www.whitehouse.gov/the-press-office/2015/12/30/statement-press-secretary-presidents-travel-germany): "Statement by the Press Secretary on the President’s Travel to Germany"
 
-* [Deutsche Messe AG](http://www.hannovermesse.de/de/info/fuer-journalisten/presseinformationen/pressemitteilungen/pressemitteilungen-deutsche-messe/?id=755713&lang=GB&page=&page_size=20&bereich=&unterbereich=)
+* [Deutsche Messe AG](http://www.hannovermesse.de/de/info/fuer-journalisten/presseinformationen/pressemitteilungen/pressemitteilungen-deutsche-messe/?id=755713&lang=GB&page=&page_size=20&bereich=&unterbereich=): "U.S. President Obama to open HANNOVER MESSE 2016"
 
 * [The Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2015/12/30/with-european-trade-deal-unfinished-obama-to-head-to-germany-in-the-spring/?postshare=2991451572219310&tid=ss_tw): "With European trade deal unfinished, Obama to head to Germany in the spring"
 
