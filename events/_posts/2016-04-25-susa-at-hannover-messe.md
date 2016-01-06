@@ -50,5 +50,6 @@ For more information, please visit the International Trade Administration's [Han
 
 * [Reuters](http://www.reuters.com/article/us-usa-germany-idUSKBN0UD1PA20151230): "Obama to meet Merkel, attend Hannover trade show in April"
 
+Stay up-to-date on the latest news for Hannover Messe 2016 on Twitter with [#HM16USA](https://twitter.com/hashtag/HM16USA?src=hash).
 
 Did you know that Germany is the third-largest source of FDI to the United States? Check out our [fact sheet](http://selectusa.commerce.gov/country-fact-sheets/2015-09-10%20Germany%20Fact%20Sheet.pdf).
