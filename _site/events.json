@@ -59,5 +59,131 @@
     
 
     
+
+    {
+      "title"    : "SelectUSA Silk Road China Road Show",
+      "url"     : "/silk-road-china-road-show.html",
+"rowdiv": "odd",
+      "location" : "Beijing, Urumqi, and Chengdu",
+      "startdate" : "January 13",
+"enddate" : " - 18, 2016",
+      "date"     : {
+         "full"   : "2016-01-13 00:00:00 -0500",
+         "day"   : "13",
+         "month" : "January",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA Israel Catalog Show",
+      "url"     : "/events/israel-catalog-show1.html",
+"rowdiv": "even",
+      "location" : "Tel Aviv, Israel",
+      "startdate" : "January 20, 2016",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2016-01-20 00:00:00 -0500",
+         "day"   : "20",
+         "month" : "January",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA Japan Road Show",
+      "url"     : "/events/japan-road-show.html",
+"rowdiv": "odd",
+      "location" : "Tokyo, Nagoya, Osaka, and Fukuoka",
+      "startdate" : "February 1",
+"enddate" : " - 5, 2016",
+      "date"     : {
+         "full"   : "2016-02-01 00:00:00 -0500",
+         "day"   : "01",
+         "month" : "February",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA Israel Catalog Show",
+      "url"     : "/events/israel-catalog-show2.html",
+"rowdiv": "even",
+      "location" : "Tel Aviv, Israel",
+      "startdate" : "February 9, 2016",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2016-02-09 00:00:00 -0500",
+         "day"   : "09",
+         "month" : "February",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "Canadian International Auto Show",
+      "url"     : "/events/canada-auto-show.html",
+"rowdiv": "odd",
+      "location" : "Toronto, Canada",
+      "startdate" : "February 11, 2016",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2016-02-11 00:00:00 -0500",
+         "day"   : "11",
+         "month" : "February",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA at Hannover Messe 2016",
+      "url"     : "/events/selectusa-hannover-messe-2016.html",
+"rowdiv": "even",
+      "location" : "Hannover, Germany",
+      "startdate" : "April 25",
+"enddate" : " - 29, 2016",
+      "date"     : {
+         "full"   : "2016-04-25 00:00:00 -0400",
+         "day"   : "25",
+         "month" : "April",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA Investment Summit",
+      "url"     : "/2016-summit.html",
+"rowdiv": "odd-last",
+      "location" : "Washington, DC",
+      "startdate" : "June 19",
+"enddate" : " - 21, 2016",
+      "date"     : {
+         "full"   : "2016-06-20 00:00:00 -0400",
+         "day"   : "20",
+         "month" : "June",
+         "year"  : "2016"
+      }
+    }
+    
+
+    
 ]
         

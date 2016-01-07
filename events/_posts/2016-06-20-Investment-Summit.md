@@ -15,7 +15,7 @@ published: true
 
 ![Location]({{ site.baseurl }}/icons/location_city.svg "Location") Washington Hilton, {{ page.location-value }}
 
-![Logo of 2016 Summit](../images/susa_summit_with_date.jpg )
+![Logo of 2016 Summit](../images/Summit-2016-Save-The-Date-for-web.png )
 
 ## [Registration for the 2016 Investment Summit is Open](http://selectusasummit.us/apply/)!
 
