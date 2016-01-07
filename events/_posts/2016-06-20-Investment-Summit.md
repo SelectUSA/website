@@ -15,29 +15,17 @@ published: true
 
 ![Location]({{ site.baseurl }}/icons/location_city.svg "Location") Washington Hilton, {{ page.location-value }}
 
-![Logo of 2016 Summit](../images/Summit-2016-Save-The-Date-for-web.png )
+![Logo of 2016 Summit](../images/susa_summit_with_date.jpg )
 
-## Save the Date for the 2016 Summit
+## [Registration for the 2016 Investment Summit is Open!](http://selectusasummit.us/)
 
-We're thrilled to announce that the 2016 SelectUSA Investment Summit will take place on **June 19-21, 2016** in Washington, DC at the **Washington Hilton**. 
+We are thrilled to announce that registration for the [third Investment Summit is now open](http://selectusasummit.us/)! It will be held June 19-21, 2016, in Washington, D.C. This year's theme is "The Innovation Advantage" and will feature investment opportunities from every corner of the United States for global investors. High-profile business and government leaders will share their insights on the latest innovations and trends.
 
-<form accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/USITATRADE/subscribers/qualify" method="post"><input name="authenticity_token" type="hidden" value="00Wr5tZTxeMtot3Fym92FHbIi+HZ1xbS/p8Ax4HO3LI=" />
-<input id="topic_id" name="topic_id" type="hidden" value="USITATRADE_979" />
-<fieldset class="emailblast">
-<div><br/>
-<p><B>Do you want to be among the first to know when registration goes live?</b> Please enter your email address below to receive 1-2 weekly email updates from SelectUSA.</p>
-</div>
-<ol class='form'>
-<li class='email_fields' style='display: block'>
-<label for="email">Email Address</label>
-<input class="long" id="email" name="email" type="text" />  <input class="form_button" name="commit" type="submit" value="Submit" />
+Participants will include international and domestic companies of all sizes seeking to establish or expand operations in the United States. Economic developers from across the state, regional and local levels will also be there, ready to facilitate and spark business investment. 
 
-</li>
-</ol>
-</fieldset>
-</form>
+The Summit will include an exhibition hall where U.S. economic development organizations (EDOs) can host individual or joint booths, displaying the advantages of their locations and connecting with international investors. Participants will also be able [submit topic and speaker proposals for the SelectUSA Academy](http://selectusasummit.us/summit-academy-program/), a pre-Summit orientation that covers the fundamentals of investing and promoting investment in the United States. 
 
-<p><B>Are you interested in becoming a Summit sponsor or exhibitor?</b> Please contact Laurie Powell at (703) 740-1966 or <a href="mailto:Lpowell@eventPower.com?Subject=2016%20SelectUSA%20Summit%3A%20Sponsor%20and%20Exhibitor%20Info">Lpowell@eventPower.com</a> for more information.</p>
+![RSVP](https://google.github.io/material-design-icons/content/svg/design/ic_send_24px.svg "RSVP") **To register, please visit [http://selectusasummit.us/apply/.](http://selectusasummit.us/apply/)**
 
 -------
 
@@ -45,6 +33,8 @@ We're thrilled to announce that the 2016 SelectUSA Investment Summit will take p
 
 By all accounts, the [2015 SelectUSA Investment Summit](http://selectusa.commerce.gov/2015-summit.html) hosted by President Barack Obama on March 23-24 was a tremendous success for the United States and the entrepreneurs who invest in our communities.
 
-We welcomed close to 2,600 participants to Washington this March from more than 70 international markets, including companies and business associations as well as economic development organizations (EDOs) from all 50 U.S. states, the District of Columbia, Puerto Rico, and Guam.
+We welcomed close to 2,600 participants to Washington this March from more than 70 international markets, including companies and business associations, as well as EDOs from all 50 U.S. states, the District of Columbia, Puerto Rico, and Guam. Global CEOs and other business leaders representing major international firms such as BMW, Google, Nissan, Sony, and many more joined entrepreneurs at the Summit who have successfully grown their startups and SMEs in the United States.
+
+Participants of our last Summit announced approximately $3.6 billion in new U.S. investments, supporting an estimated 7,779 U.S. jobs, according to data compiled by *fDi Markets* through September 2015.
 
 **To learn more about the last Summit and view [photos](http://selectusa.commerce.gov/2015-summit/day-one-photos.html) and [videos](http://selectusa.commerce.gov/2015-summit/plenary-session-videos.html) from the event, please visit our [2015 Summit page](http://selectusa.commerce.gov/2015-summit.html).**
