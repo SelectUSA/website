@@ -41,5 +41,5 @@ On February 1st, SelectUSA will begin the Japan Road Show in Tokyo, traveling on
 ![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") Be among the first to receive updates by e-mailing [SelectUSAJapan@trade.gov](mailto:selectusajapan@trade.gov). For further information, please contact [Keida.Ackerman@trade.gov](mailto:keida.ackerman@trade.gov) in Washington, DC.
 
 For more information on FDI from Japan, check out our [fact sheet](http://selectusa.commerce.gov/country-fact-sheets/2015-09-10%20Japan%20Fact%20Sheet.pdf).
----
-**Registration for the Japan Road Show is now closed**
+-------
+#### **Registration for the Japan Road Show is now closed.**
