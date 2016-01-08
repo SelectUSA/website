@@ -29,7 +29,7 @@ published: true
 
 Japan and the United States have [one of the strongest and most interconnected trade and economic relationships in the world](http://selectusa.commerce.gov/country-fact-sheets/2015-09-10 Japan Fact Sheet.pdf). Nearly 13 percent of all FDI into the United States comes from Japan – **over $374 billion** – and **over 718,000 U.S. workers are employed by Japanese-owned firms.** Those firms contribute **$67.6 billion to U.S. exports and over $6 billion to research and development spending** in the United States.  
 
-On February 1st, SelectUSA will begin the Japan Road Show in Tokyo, traveling on to Nagoya, Osaka, and Fukuoka. There will be events in each city connecting potential investors with economic development organizations and service providers. Potential seminar topics include the U.S. legal and regulatory systems, investment visas, and case studies. More details will be shared soon.  
+On February 1st, SelectUSA will begin the Japan Road Show in Tokyo, traveling on to Nagoya, Osaka, and Fukuoka. There will be events in each city connecting potential investors with economic development organizations and service providers. Potential seminar topics include the U.S. legal and regulatory systems, investment visas, and case studies. 
 
 # Itinerary:
 * **February 1-2: Tokyo** 
@@ -41,3 +41,5 @@ On February 1st, SelectUSA will begin the Japan Road Show in Tokyo, traveling on
 ![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") Be among the first to receive updates by e-mailing [SelectUSAJapan@trade.gov](mailto:selectusajapan@trade.gov). For further information, please contact [Keida.Ackerman@trade.gov](mailto:keida.ackerman@trade.gov) in Washington, DC.
 
 For more information on FDI from Japan, check out our [fact sheet](http://selectusa.commerce.gov/country-fact-sheets/2015-09-10%20Japan%20Fact%20Sheet.pdf).
+---
+**Registration for the Japan Road Show is now closed**
