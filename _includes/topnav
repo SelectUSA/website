@@ -29,7 +29,7 @@
               <ul class="dropdown-menu" role="menu">
                   <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/investment-incentives.html" title="Federal Programs and Incentives for Businesses">Federal Incentives</a></li>
                   <li><a class="trn" href="http://selectusa.stateincentives.org/?referrer=selectusa" title="State and Territory Programs and Incentives for Businesses">State Incentives</a></li>
-                  <li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/they-chose-usa.html" title="Companies tell their investment success stories">Testimonials</a></li>
+                  <!--<li><a class="trn" href="{{ site.baseurl }}{{ post.url }}/they-chose-usa.html" title="Companies tell their investment success stories">Testimonials</a></li>-->
                 </ul>
 
               <li class="dropdown">
