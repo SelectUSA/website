@@ -1,6 +1,6 @@
 ---
 permalink: "testimonials/bombardier.html"
-layout: sidebar
+layout: 
 title: Bombardier
 section: testimonials
 published: false
