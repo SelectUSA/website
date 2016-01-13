@@ -30,4 +30,4 @@ SelectUSA, together with the American Chamber of Commerce in France (AmCham Fran
 
 ---
 
-![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information or to register, please visit AmCham France's website or contact [Marie-Josee Andrieu](mailto:marie-josee.andrieu@trade.gov?Subject=AmCham%20France%20%26%20SelectUSA%20Pitch%20Competition%20Info%20Request).
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information or to register, please visit AmCham France's [website](http://www.amchamfrance.org/en/event/GLOBAL-GROWTH-LAUNCHPAD/961) or contact [Marie-Josee Andrieu](mailto:marie-josee.andrieu@trade.gov?Subject=AmCham%20France%20%26%20SelectUSA%20Pitch%20Competition%20Info%20Request).
