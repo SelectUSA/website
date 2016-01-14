@@ -22,6 +22,7 @@ published: true
 SelectUSA, together with the American Chamber of Commerce in France (AmCham France), will hold a business competition in Paris on January 21, 2016. The goal of the event is to help startups that are beginning to go global. Participants will pitch their companies' potential to a jury of international innovators and business leaders. The winner will receive an extensive prize that could help propel his or her company to new heights in the world of international business.
 
 **The prize package includes the following (and much more):**
+
 * Round-trip tickets to the United States
 * Soft landing tour in the United States custom built for your company and hosted by SelectUSA
 * World-class consultations with experts from all sectors: legal, commercial, human resources, and much more
