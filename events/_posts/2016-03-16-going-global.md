@@ -1,5 +1,5 @@
 ---
-permalink: "events/chem-industries-fdi-sem.html"
+permalink: "events/going-global.html"
 layout: sidebar
 title: SelectUSA Going Global Seminar
 date-display-start: March 16, 2016
