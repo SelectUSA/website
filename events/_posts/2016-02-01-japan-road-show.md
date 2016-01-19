@@ -42,4 +42,4 @@ On February 1st, SelectUSA will begin the Japan Road Show in Tokyo, traveling on
 
 For more information on FDI from Japan, check out our [fact sheet](http://selectusa.commerce.gov/country-fact-sheets/2015-09-10%20Japan%20Fact%20Sheet.pdf).
 -------
-### **Registration for the Japan Road Show is now closed.**
+**Registration for the Japan Road Show is now closed.**
