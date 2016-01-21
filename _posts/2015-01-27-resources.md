@@ -11,7 +11,7 @@ published: true
 
 ## State Designated Investment Officials
 
-*   [SelectUSA Contact List For States and Territories]({{ site.baseurl }}{{ post.url }}/documents/2015-State-Contact-List-07-31-2015.pdf) 
+*   [SelectUSA Contact List For States and Territories]({{ site.baseurl }}{{ post.url }}/documents/2015-State-Contact-List-12-22-2015.pdf) 
 
 ## Online Tools 
 
