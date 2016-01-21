@@ -3,7 +3,7 @@ permalink: "events/going-global.html"
 layout: sidebar
 title: SelectUSA Going Global Seminars
 date-display-start: March 14, 2016
-date-display-end: March 23, 2016
+date-display-end: 23, 2016
 calendar-start: 2016-03-14
 calendar-end: 2016-03-23
 location-value: Rennes, Lyon, Marseille & Nice, France
@@ -19,7 +19,7 @@ published: true
 
 ### SelectUSA Going Global Seminars in France
 
-From March 14-23, we will hold regional seminars for French companies and investors that are looking to expand in the United States. The seminars, each titled "Going Global - Formulating Your Company's Investment in the United States," will feature insight and presentations from representatives of the U.S. Embassy in France, including SelectUSA's Marie-Josee Andrieu, and French business leaders. Attendees will hear about how to successfully establish their U.S. investments, the visa process, a case study on French companies that have thrived in the United States, and the upcoming Investment Summit in June.
+From March 14-23, we will hold regional seminars for French companies and investors that are looking to expand in the United States. The seminars will be held in Rennes, Lyon, Marseille and Nice. Each program, titled "Going Global - Formulating Your Company's Investment in the United States," will feature insight and presentations from representatives of the U.S. Embassy in France, including SelectUSA's Marie-Josee Andrieu, and French business leaders. Attendees will hear about how to successfully establish their U.S. investments, the visa process, a case study on French companies that have thrived in the United States, and the upcoming Investment Summit in June.
 
 ---
 
