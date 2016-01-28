@@ -26,3 +26,5 @@ On February 9, 2016, the Israel Venture Capital Research Center (IVC) will host 
 
 ![Contact]({{ site.baseurl }}/icons/question_answer.svg "Contact") For all other information, please contact [Sigal Mendelovich](mailto:sigal.mendelovich@trade.gov) in Tel Aviv at +972-3-519-8525.
 
+---
+Are you curious about FDI from Israel? Check out our fact sheet [here](http://selectusa.commerce.gov/country-fact-sheets/Israel_Fact_Sheet.pdf).
