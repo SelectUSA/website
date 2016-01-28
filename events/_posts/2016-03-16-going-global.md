@@ -24,3 +24,7 @@ From March 14-23, we will hold regional seminars for French companies and invest
 ---
 
 ![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information, please contact [Marie-Josee Andrieu](mailto:Marie-Josee.Andrieu@trade.gov?Subject=SelectUSA%20Going%20Global%20Seminars%20Info%20Request).
+
+---
+
+France is the [5th largest source of FDI in the United States](http://selectusa.commerce.gov/country-fact-sheets/France_Fact_Sheet.pdf).
