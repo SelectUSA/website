@@ -21,7 +21,7 @@ published: true
 
 Italy and the United States have strong economic ties. **Italian foreign direct investment (FDI) stock in the U.S. [exceeds $28 billion](http://selectusa.commerce.gov/country-fact-sheets/Italy_Fact_Sheet.pdf)** and **124,700 U.S. workers are employed by Italian-owned firms.** Those firms contribute **$24.6 billion to U.S. exports** and **over $2.3 billion to research and development spending** in the United States.
 
-On February 17th, we will hold a seminar in Milan and travel on to Florence the following day. Organized in cooperation with two major local industrial associations, the events will promote the SelectUSA 2016 Investment Summit and connect potential investors with individual U.S. economic development organizations. Attendees will hear about case studies from Italian companies that have successfully invested in the United States.
+On February 17th, we will hold a seminar in Milan and travel on to Florence the following day. Organized in cooperation with two major local industrial associations, the events will promote the [2016 Investment Summit](http://selectusasummit.us/) and connect potential investors with individual U.S. economic development organizations. Attendees will hear about case studies from Italian companies that have successfully invested in the United States.
 
 ---
 
