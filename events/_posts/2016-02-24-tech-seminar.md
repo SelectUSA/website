@@ -19,7 +19,7 @@ published: true
 
 ### SelectUSA Tech Seminar in Milan, Italy
 
-This seminar is geared toward technology startups and entrepreneurs and will cover the practicalities of expanding into the United States. Guest speakers will discuss the accounting, legal, and immigration implications for setting up in the U.S. while experts will also talk about accessing finance. Attendees will have the chance to hear from Italian entrepreneurs about their success stories
+This seminar is geared toward technology startups and entrepreneurs and will cover the practicalities of expanding into the United States. Guest speakers will discuss the accounting, legal, and immigration implications for setting up in the U.S. while experts will also talk about accessing finance. Attendees will have the chance to hear from Italian entrepreneurs about their success stories.
 
 ---
 
