@@ -131,7 +131,7 @@ Nowhere is this more evident than
         &nbsp; Whirlpool recently announced that it would move the production
         of a line of front-load commercial washers from abroad to Clyde, adding
         new jobs locally. &nbsp;This is just the latest in a series of
-        investments that the company has been making across the country..
+        investments that the company has been making across the country. 
 
 &nbsp;
 

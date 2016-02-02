@@ -163,9 +163,27 @@
     
 
     {
+      "title"    : "TEST",
+      "url"     : "/events/pw.html",
+"rowdiv": "even",
+      "location" : "Brussels, Belgium",
+      "startdate" : "February 24, 2016",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2016-02-24 00:00:00 -0500",
+         "day"   : "24",
+         "month" : "February",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
       "title"    : "SelectUSA Tech Seminar",
       "url"     : "/events/tech-seminar-italy.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Milan, Italy",
       "startdate" : "February 24, 2016",
 "enddate" : "",
@@ -183,7 +201,7 @@
     {
       "title"    : "SelectUSA at the U.S.-Turkey Investment Summit",
       "url"     : "/events/us-turkey-summit.html",
-"rowdiv": "odd",
+"rowdiv": "even",
       "location" : "Washington, D.C.",
       "startdate" : "February 24, 2016",
 "enddate" : "",
@@ -201,7 +219,7 @@
     {
       "title"    : "SelectUSA Going Global Seminars",
       "url"     : "/events/going-global.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Rennes, Lyon, Marseille & Nice, France",
       "startdate" : "March 14",
 "enddate" : " - 23, 2016",
@@ -219,7 +237,7 @@
     {
       "title"    : "SelectUSA at Hannover Messe 2016",
       "url"     : "/events/selectusa-hannover-messe-2016.html",
-"rowdiv": "odd",
+"rowdiv": "even",
       "location" : "Hannover, Germany",
       "startdate" : "April 25",
 "enddate" : " - 29, 2016",
@@ -237,7 +255,7 @@
     {
       "title"    : "SelectUSA Investment Summit",
       "url"     : "/2016-summit.html",
-"rowdiv": "even-last",
+"rowdiv": "odd-last",
       "location" : "Washington, DC",
       "startdate" : "June 19",
 "enddate" : " - 21, 2016",
