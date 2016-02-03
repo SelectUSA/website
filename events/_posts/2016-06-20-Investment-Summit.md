@@ -23,7 +23,7 @@ We are thrilled to announce that registration for the [third Investment Summit i
 
 Participants will include international and domestic companies of all sizes seeking to establish or expand operations in the United States. Economic developers from across the state, regional and local levels will also be there, ready to facilitate and spark business investment. 
 
-The Summit will include an exhibition hall where U.S. economic development organizations (EDOs) can host individual or joint booths, displaying the advantages of their locations and connecting with international investors. Participants will also be able [submit topic and speaker proposals for the SelectUSA Academy](http://selectusasummit.us/summit-academy-program/), a pre-Summit orientation that covers the fundamentals of investing and promoting investment in the United States.
+The Summit will include an exhibition hall where U.S. economic development organizations (EDOs) can host individual or joint booths, displaying the advantages of their locations and connecting with international investors. Participants will also be able [submit topic and speaker proposals for the SelectUSA Academy](http://selectusasummit.us/summit-academy-program/), a pre-Summit orientation that covers the fundamentals of investing and promoting investment in the United States. 
 
 ![RSVP](https://google.github.io/material-design-icons/content/svg/design/ic_send_24px.svg "RSVP") **To register, please visit [http://selectusasummit.us/apply/.](http://selectusasummit.us/apply/)**
 
