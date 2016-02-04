@@ -1,0 +1,32 @@
+---
+permalink: "events/iedc-fed-forum2016.html"
+layout: sidebar
+title: SelectUSA at the IEDC FED Forum 2016
+date-display-start: April 3
+date-display-end: 5, 2016
+calendar-start: 2016-04-03
+calendar-end: 2016-04-05
+location-value: Arlington, VA
+location-type: Domestic
+section: events
+published: true
+---
+
+
+![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") April 3-5, 2016
+
+![Location](http://google.github.io/material-design-icons/social/svg/design/ic_location_city_24px.svg "Location") {{ page.location-value }}
+
+### SelectUSA at the IEDC FED Forum 2016
+
+The International Economic Development Council (IEDC) will hold its annual FED Forum in Arlington, VA, April 3-5. The IEDC is considered one of the top economic development oragnizations in the world and the FED Forum is a great opportunity to hear about the federal resources available to economic development. SelectUSA will open the event with a Summit Prep session where we will discuss how participants can attend and what they can expect.
+
+The topics discussed will include:
+* What to expect at the Summit
+* What needs to be known now
+* What investors are looking for when they meet with economic developers
+* Previous Summit attendees' experiences
+
+---
+
+For more information on the forum, please visit the IEDC [website](http://www.iedcevents.org/FederalForum/index.html).
