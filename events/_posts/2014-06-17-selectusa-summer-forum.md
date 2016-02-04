@@ -2,8 +2,8 @@
 permalink: "events/selectusa-summer-forum.html"
 layout: sidebar
 title: SelectUSA Summer Forum
-date-display-start: Tue, 06/17/2014
-date-display-end:  Tue, 06/17/2014
+date-display-start: June 17, 2014
+date-display-end:  June 17, 2014
 calendar-start: 2014-06-17
 calendar-end: 2014-06-17
 location-value:  Washington, DC
@@ -131,7 +131,7 @@ Nowhere is this more evident than
         &nbsp; Whirlpool recently announced that it would move the production
         of a line of front-load commercial washers from abroad to Clyde, adding
         new jobs locally. &nbsp;This is just the latest in a series of
-        investments that the company has been making across the country. 
+        investments that the company has been making across the country.
 
 &nbsp;
 

@@ -1,7 +1,7 @@
 ---
 permalink: "events/amcham-selectusa-pitch.html"
 layout: sidebar
-title: AmCham & SelectUSA Startup Pitch Competition
+title: AmCham and SelectUSA Startup Pitch Competition
 date-display-start: January 21, 2016
 date-display-end: January 21, 2016
 calendar-start: 2016-01-21

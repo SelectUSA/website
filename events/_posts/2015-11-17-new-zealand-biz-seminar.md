@@ -2,12 +2,12 @@
 permalink: "events/selectusa-nz-biz-seminar.html"
 layout: sidebar
 title: SelectUSA at the New Zealand Business Seminar
-"date-display-start": November 17
-"date-display-end": "19, 2015"
-"calendar-start": 2015-11-17T00:00:00.000Z
-"calendar-end": 2015-11-19T00:00:00.000Z
-"location-value": "Auckland, Christchurch and Wellington, New Zealand"
-"location-type": International
+date-display-start: November 17
+date-display-end: 19, 2015
+calendar-start: 2015-11-17
+calendar-end: 2015-11-19
+location-value: Auckland, Christchurch and Wellington, New Zealand
+location-type: International
 section: events
 published: true
 ---

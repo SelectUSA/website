@@ -11,12 +11,12 @@ author:
 image-url: 
 
 
-<span class="imgright">[![Template]()](/blog/1999/01/01/template.html)</span>
+<span class="imgright">[![Template]()](/blog/1999/01/01/template.txt)</span>
 
 ![Date](https://google.github.io/material-design-icons/action/svg/design/ic_event_24px.svg "Date") 1999-01-01 00:00:00 -0500
 
 ![Author](https://google.github.io/material-design-icons/action/svg/design/ic_account_box_24px.svg "Author") _By ****, TITLE_
 
-![Source](https://google.github.io/material-design-icons/action/svg/design/ic_home_24px.svg "Source") _This post originally appeared on the [International Trade Administration blog](/blog/1999/01/01/template.html)._
+![Source](https://google.github.io/material-design-icons/action/svg/design/ic_home_24px.svg "Source") _This post originally appeared on the [International Trade Administration blog](/blog/1999/01/01/template.txt)._
 
 

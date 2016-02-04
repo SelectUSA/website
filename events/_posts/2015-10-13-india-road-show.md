@@ -2,12 +2,12 @@
 permalink: "events/india-road-show.html"
 layout: sidebar
 title: SelectUSA India Road Show
-"date-display-start": October 13
-"date-display-end": "16, 2015"
-"calendar-start": {}
-"calendar-end": {}
-"location-value": "New Delhi, Mumbai, Chennai, Kolkata"
-"location-type": International
+date-display-start: October 13
+date-display-end: 16, 2015
+calendar-start: 2015-10-13
+calendar-end: 2015-10-16
+location-value: New Delhi, Mumbai, Chennai, Kolkata
+location-type: International
 section: events
 published: true
 ---

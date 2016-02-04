@@ -2,8 +2,8 @@
 permalink: "events/northern-china-road-show.html"
 layout: sidebar
 title: SelectUSA Northern China Road Show
-date-display-start: December, 2015
-date-display-end: December, 2015
+date-display-start: December 2
+date-display-end: 8, 2015
 calendar-start: 2015-12-02
 calendar-end: 2015-12-08
 location-value: Beijing, Hohhot, Urumqi
