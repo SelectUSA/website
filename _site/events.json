@@ -217,6 +217,42 @@
     
 
     {
+      "title"    : "SelectUSA at the IEDC FED Forum 2016",
+      "url"     : "/events/iedc-fed-forum2016.html",
+"rowdiv": "odd",
+      "location" : "Arlington, VA",
+      "startdate" : "April 3",
+"enddate" : " - 5, 2016",
+      "date"     : {
+         "full"   : "2016-04-03 00:00:00 -0400",
+         "day"   : "03",
+         "month" : "April",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "SelectUSA at LiveXchange 2016",
+      "url"     : "/events/biz-facilities-livexchange2016.html",
+"rowdiv": "even",
+      "location" : "Ft. Lauderdale, FL",
+      "startdate" : "April 17",
+"enddate" : " - 19, 2016",
+      "date"     : {
+         "full"   : "2016-04-17 00:00:00 -0400",
+         "day"   : "17",
+         "month" : "April",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
       "title"    : "SelectUSA at Hannover Messe 2016",
       "url"     : "/events/selectusa-hannover-messe-2016.html",
 "rowdiv": "odd",
