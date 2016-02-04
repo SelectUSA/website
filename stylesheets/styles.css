@@ -345,9 +345,7 @@ display:none;
 #maptext {
 display:none;
 }
-#banner {
-display:none;
-}
+
 /* Resolve conflicts w/ mobile site nav color.
 .navbar-custom {
 background-color:#036;
@@ -457,9 +455,7 @@ color#fff;
 #partner {
 display:none;
 }
-#banner {
-display:none;
-}
+
 .imgright {
  float:none;
  margin-left:0;
