@@ -75,15 +75,16 @@ The first-ever Investment Summit sold out, with **more than 1,300 participants**
 
 These special trips organized by SelectUSA offer EDOs the opportunity to directly connect with investors in foreign markets to showcase their regions. Recent examples:
 
+*   [**Japan**](http://selectusa.commerce.gov/events/japan-road-show.html) - February 1-5, 2016   
+*   [**Silk Road China Road Show**](http://selectusa.commerce.gov/silk-road-china-road-show.html) - January 13-18, 2016
+*   [**Brazil**](http://selectusa.commerce.gov/events/selectusa-brazil-road-show.html) - December 1-4, 2015
+*   [**India**](http://selectusa.commerce.gov/events/india-road-show.html) - October 13-16, 2015
+*   [**Nordic**](http://selectusa.commerce.gov/events/selectusa-road-show-nordics.html) - September 14-21, 2015
+*   [**Taiwan**](http://selectusa.commerce.gov/events/selectusa-taiwan-road-show.html) - August 5-6, 2015
 *   [**Greater China**]({{base.url}}/events/save-date-selectusa-greater-china-road-show.html) - May 18-29, 2015
 *   [**Mexico**]({{base.url}}/events/save-date-selectusa-mexico-road-show.html) - May 12-14, 2015
 *   **Australia and New Zealand** - September 7-12, 2014
 *   **Chile, Brazil, and Colombia** - August 26-29, 2014
-*   **Mexico** - May 20-21, 2014
-*   **Japan** - May 19-23, 2014
-*   **Korea** - May 16, 2014
-*   **Pearl River Delta** - April 14-18, 2014
-*   **Spain** - November 19-21, 2013
 
 &nbsp;
 
@@ -94,6 +95,7 @@ These special trips organized by SelectUSA offer EDOs the opportunity to directl
 
 SelectUSA has increased its presence at industry events both domestically and overseas where investors want to learn more about U.S. locations. SelectUSA sets up the USA Investment Center to help EDOs showcase their regions, organizes a seminar to help EDOs network with investors, or highlights SelectUSA services for investors. Recent examples:
 
+*   [**SelectUSA at CES 2016**](http://selectusa.commerce.gov/events/selectusa-ces2016.html) - January 5-9, 2016
 *   [**International Franchise Expo**]({{base.url}}/events/selectusa-international-franchise-expo.html) - June 18-20, 2015 in New York, NY
 *   [**BIO International Convention**]({{base.url}}/events/selectusa-bio-2015.html) - June 15-18, 2015 in Philadelphia, PA
 *   [**Offshore Technology Conference**]({{ site.baseurl }}{{post.url}}/events/selectusa-offshore-technology-conference-otc.html) - May 4-7, 2015 in Houston, TX
@@ -103,11 +105,6 @@ SelectUSA has increased its presence at industry events both domestically and ov
 *   **BIO International Convention** - June 25, 2014 in San Diego, CA
 *   **International Franchise Expo** - June 19-21, 2014 in New York, NY
 *   **POWERGEN Europe** - June 3-5, 2014 in Cologne, Germany
-*   **Israel Innovation Conference** - May 20, 2014 in Tel Aviv, Israel
-*   **Offshore Technology Conference** - May 5-8, 2014 in Houston, TX
-*   **Hannover Messe** - April 7-11, 2014 in Hannover, Germany
-*   **International Film &amp; TV Market** - March 25, 2014 in Hong Kong, China
-*   **Candian International Auto Show** - February 13, 2014 in Toronto, Canada
 
 * * *
 
@@ -117,25 +114,13 @@ Through outreach to investors in global markets, SelectUSA helps them get the in
 
 <span class="imgright">![Investment Seminar in Greece](images/4355_eveth_-300x200.jpg "Investment Seminar in Greece")</span>
 
-*   **Doing Business in the United States** - June 20, 2014 in Chengdu, China
-*   **SelectUSA Workshop for the Thessaloniki
-Chamber of Commerce &amp; Industry: Doing Business in the United States** - May 28, 2014 in Thessaloniki, Greece
-*   **SelectUSA for Startups** - May 20-21, 2014 in Bern, Switzerland
-*   **SelectUSA Workshop** - May 14, 2014 in Dusseldorf, Germany
-*   **Forumulating Your Company's Aeronautics/Electronics Investment** - May 13, 2014 in Toulouse, France
-*   **SelectUSA Program Presentation at the “GET Funded &amp;
-International” session eHealth Forum** - May 12, 2014 in Athens, Greece
-*   **Turkish American Business Council** - May 7, 2014 in Istanbul, Turkey
-*   **Council of the American States in Europe** - April 22-25, 2014 in Brussels, Belgium; The Hague, Netherlands; Paris, France
-*   **Austrian Investment Forum** - April 2-3, 2014 in Vienna and Linz, Austria
-*   **SelectUSA Workshop for Greek Delegates** - March 19, 2014 in Athens, Greece
-*   **USA: A Market in Strong Recovery** - March 11-12, 2014 in Naples and Bari, Italy
-*   **SelectUSA for Startups** - March 10, 2014 in London, United Kingdom
-*   **Korea SelectUSA Roundtable and Delegation Visit** - March 6, 2014 in Seoul, Korea
-*   **SelectUSA Showcase and Reception** - in Tokyo, Japan
-*   **SelectUSA Seminar** - February 21, 2014 in Fukuoka, Japan
-*   **VL Summit** - February 4, 2014 in Copenhagen, Denmark
-*   **SelectUSA Seminar** - January 31, 2014 in Sendai, Japan
-*   **SelectUSA Business/Investor Visa Workshop** - January 16, 2014 in Munich, Germany&nbsp;
-*   **Asian Financial Forum** - January 13-14, 2014 in Hong Kong, China
-*   **SelectUSA Investment Showcase** - November 22, 2013 in Munich, Germany    
+*   [**Paris Île-de-France Regional CCI Forum**](http://selectusa.commerce.gov/events/icc-paris.html) - January 28, 2016 in Paris, France
+*   [**AmCham & SelectUSA Startup Pitch Competition**](http://selectusa.commerce.gov/events/icc-paris.html) - January 21, 2016 in Paris, France
+*   [**Israel Catalog Show**](http://selectusa.commerce.gov/events/israel-catalog-show1.html) - January 20, 2016 in Tel Aviv, Israel
+*   [**SelectUSA at Asian Financial Forum 2016**](http://selectusa.commerce.gov/events/selectusa-aff-2016.html) - January 18-19, 2016 in Hong Kong, China
+*   [**Seminar at Guangzhou Auto Show**](http://selectusa.commerce.gov/events/guangzhou-auto-show.html) - November 21, 2015 in Guangzhou, China
+*   [**SelectUSA Canada 2015**](http://selectusa.commerce.gov/events/selectusa-canada-2015.html) - November 17, 2015 in Toronto, Canada
+*   [**New Zealand Business Seminar**](http://selectusa.commerce.gov/events/selectusa-nz-biz-seminar.html) - November 17-19, 2015 in Auckland, Christchurch and Wellington, New Zealand
+*   [**SelectUSA at the International Investment & Expansion Virtual Summit**](http://selectusa.commerce.gov/events/expanding-to.html) - November 12, 2015 (Online event)
+*   [**SelectUSA at Web Summit**]() - November 3-5, 2015 in Dublin, Ireland
+*   [**National Aerospace FDI Exposition**](http://selectusa.commerce.gov/events/national-aerospace-fdi-exposition.html) - October 26-28, 2015 in Los Angeles, CA
