@@ -13,3 +13,5 @@ markdown: kramdown
 future: true
 collections:
 - events
+gems:
+  - jekyll-redirect-from
