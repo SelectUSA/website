@@ -25,7 +25,7 @@ SelectUSA's London specialist, [Gus Franklyn-Bute](mailto:gus.franklynbute@trade
 
 ---
 
-![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information, please contact [Gus Franklyn-Bute](mailto:gus.franklynbute@trade.gov?Subject=SelectUSA%20in%20the%20UK%20Seminars%20Inquiry). To register for the seminar, please visit techUK's [website](http://www.techuk.org/events/seminar/item/7180-connect-and-grow-in-the-us-through-innovative-security).
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information, please contact [Gus Franklyn-Bute](mailto:gus.franklynbute@trade.gov?Subject=SelectUSA%20at%20the%20Fairfax%20County/techUK%20Seminar%20-%20Inquiry). To register for the seminar, please visit techUK's [website](http://www.techuk.org/events/seminar/item/7180-connect-and-grow-in-the-us-through-innovative-security).
 
 ---
 
