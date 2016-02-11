@@ -1,7 +1,7 @@
 ---
 permalink: "events/italy-seminars-feb2016.html"
 layout: sidebar
-title: SelectUSA Italy Seminars
+title: Italy Seminars
 date-display-start: February 17
 date-display-end: 18, 2016
 calendar-start: 2016-02-17
