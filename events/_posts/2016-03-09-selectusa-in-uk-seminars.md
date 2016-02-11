@@ -25,19 +25,19 @@ On March 9, SelectUSA will participate in two seminars in London for UK companie
 &nbsp;
 **"Thinking of doing business in the U.S.?" Seminar**
 
-Kingston Smith, a founding member of KS International – a worldwide association of independent accountancy firms – is hosting a [seminar](http://www.kingstonsmithw1.co.uk/event/thinking-of-doing-business-in-the-us/) for UK companies in the media sector for whom expansion into the United States is their next step. The seminar will give insight into tax, legal, financing, liability, compliance and employment considerations.
+[Kingston Smith](http://www.kingstonsmithw1.co.uk/), a founding member of KS International – a worldwide association of independent accountancy firms – is hosting a [seminar](http://www.kingstonsmithw1.co.uk/event/thinking-of-doing-business-in-the-us/) for UK companies in the media sector for whom expansion into the United States is their next step. The seminar will give insight into tax, legal, financing, liability, compliance and employment considerations.
 
 &nbsp;
 &nbsp;
 **Connect and Grow in the U.S. Through Innovative Security" Seminar**
 
-The Fairfax County Economic Development Authority of Virginia has partnered with techUK to host a [half-day seminar](http://www.techuk.org/events/seminar/item/7180-connect-and-grow-in-the-us-through-innovative-security) for cyber security companies, specifically small and medium sized enterprises, on expanding their business into the United States. techUK represents more than 900 UK member companies and technologies, who employ about half of all tech sector jobs in the UK. These companies range from leading FTSE 100 corporations to new innovative start-ups. The seminar will provide insight into how to do business in the complex U.S. market and address key opportunities and challenges for cyber security companies considering their U.S. investment strategy.
+The [Fairfax County Economic Development Authority](http://www.fairfaxcountyeda.org/) of Virginia has partnered with [techUK](http://www.techuk.org/) to host a [half-day seminar](http://www.techuk.org/events/seminar/item/7180-connect-and-grow-in-the-us-through-innovative-security) for cyber security companies, specifically small and medium sized enterprises, on expanding their business into the United States. techUK represents more than 900 UK member companies and technologies, who employ about half of all tech sector jobs in the UK. These companies range from leading FTSE 100 corporations to new innovative start-ups. The seminar will provide insight into how to do business in the complex U.S. market and address key opportunities and challenges for cyber security companies considering their U.S. investment strategy.
 
-[Gus Franklyn-Bute](mailto:gus.franklynbute@trade.gov?Subject=SelectUSA%20in%20the%20UK%20Seminars%20Inquiry) will speak at both seminars on the support that SelectUSA provides to UK firms actively focusing on developing their U.S. growth strategy.
+SelectUSA's London specialist, [Gus Franklyn-Bute](mailto:gus.franklynbute@trade.gov?Subject=SelectUSA%20in%20the%20UK%20Seminars%20Inquiry), will speak at both seminars on the support we provide to UK firms wanting to enhance their U.S. growth strategy.
 
 ---
 
-![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information, please contact [Gus Franklyn-Bute](mailto:gus.franklynbute@trade.gov?Subject=SelectUSA%20in%20the%20UK%20Seminars%20Inquiry) with SelectUSA in London. To register for the seminars, please visit the respective websites: [Kingston Smith](http://www.kingstonsmithw1.co.uk/event/thinking-of-doing-business-in-the-us/) and [techUK](http://www.techuk.org/events/seminar/item/7180-connect-and-grow-in-the-us-through-innovative-security).
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information, please contact [Gus Franklyn-Bute](mailto:gus.franklynbute@trade.gov?Subject=SelectUSA%20in%20the%20UK%20Seminars%20Inquiry). To register for the seminars, please visit the respective websites: [Kingston Smith](http://www.kingstonsmithw1.co.uk/event/thinking-of-doing-business-in-the-us/) and [techUK](http://www.techuk.org/events/seminar/item/7180-connect-and-grow-in-the-us-through-innovative-security).
 
 ---
 
