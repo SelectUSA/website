@@ -1,7 +1,7 @@
 ---
 permalink: "events/selectusa-hannover-messe-2016.html"
 layout: sidebar
-title: SelectUSA at Hannover Messe 2016
+title: Hannover Messe 2016
 date-display-start: April 25
 date-display-end: 29, 2016
 calendar-start: 2016-04-25
