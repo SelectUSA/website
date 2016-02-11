@@ -1,7 +1,7 @@
 ---
 permalink: "events/selectusa-in-uk-seminar1.html"
 layout: sidebar
-title: SelectUSA at the Kingston Smith Seminar
+title: Kingston Smith Seminar
 date-display-start: March 9, 2016
 date-display-end: March 9, 2016
 calendar-start: 2016-03-09
@@ -23,7 +23,7 @@ published: true
 
 ---
 
-![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information, please contact [Gus Franklyn-Bute](mailto:gus.franklynbute@trade.gov?Subject=SelectUSA%20the%20Kingston%20Smith%20Semina,r%20Inquiry). To register, please visit Kingston Smith's [website](http://www.kingstonsmithw1.co.uk/event/thinking-of-doing-business-in-the-us/)
+![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information, please contact [Gus Franklyn-Bute](mailto:gus.franklynbute@trade.gov?Subject=SelectUSA%20at%20the%20Kingston%20Smith%20Seminar%20-%20Inquiry). To register, please visit Kingston Smith's [website](http://www.kingstonsmithw1.co.uk/event/thinking-of-doing-business-in-the-us/)
 
 ---
 
