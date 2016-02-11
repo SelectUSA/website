@@ -1,7 +1,7 @@
 ---
 permalink: "events/going-global.html"
 layout: sidebar
-title: SelectUSA Going Global Seminars
+title: Going Global Seminars
 date-display-start: March 15
 date-display-end: 23, 2016
 calendar-start: 2016-03-15
