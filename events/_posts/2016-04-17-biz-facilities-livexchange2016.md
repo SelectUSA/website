@@ -1,7 +1,7 @@
 ---
 permalink: "events/biz-facilities-livexchange2016.html"
 layout: sidebar
-title: SelectUSA at LiveXchange 2016
+title: LiveXchange 2016
 date-display-start: April 17
 date-display-end: 19, 2016
 calendar-start: 2016-04-17
