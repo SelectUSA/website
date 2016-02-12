@@ -114,6 +114,8 @@ Through outreach to investors in global markets, SelectUSA helps them get the in
 
 <span class="imgright">![Investment Seminar in Greece](images/4355_eveth_-300x200.jpg "Investment Seminar in Greece")</span>
 
+*   [Manufacturing Forum at Canadian International Auto Show](http://selectusa.commerce.gov/events/canada-auto-show.html) - February 11, 2016 in Toronto, Canada
+*   [ICA's FDI Training Seminar](http://selectusa.commerce.gov/events/selectusa-ica-workshop-2016.html) - February 11-12, 2016 in Chicago, IL
 *   [**Paris Île-de-France Regional CCI Forum**](http://selectusa.commerce.gov/events/icc-paris.html) - January 28, 2016 in Paris, France
 *   [**AmCham & SelectUSA Startup Pitch Competition**](http://selectusa.commerce.gov/events/icc-paris.html) - January 21, 2016 in Paris, France
 *   [**Israel Catalog Show**](http://selectusa.commerce.gov/events/israel-catalog-show1.html) - January 20, 2016 in Tel Aviv, Israel
@@ -122,5 +124,3 @@ Through outreach to investors in global markets, SelectUSA helps them get the in
 *   [**SelectUSA Canada 2015**](http://selectusa.commerce.gov/events/selectusa-canada-2015.html) - November 17, 2015 in Toronto, Canada
 *   [**New Zealand Business Seminar**](http://selectusa.commerce.gov/events/selectusa-nz-biz-seminar.html) - November 17-19, 2015 in Auckland, Christchurch and Wellington, New Zealand
 *   [**SelectUSA at the International Investment & Expansion Virtual Summit**](http://selectusa.commerce.gov/events/expanding-to.html) - November 12, 2015 (Online event)
-*   [**SelectUSA at Web Summit**]() - November 3-5, 2015 in Dublin, Ireland
-*   [**National Aerospace FDI Exposition**](http://selectusa.commerce.gov/events/national-aerospace-fdi-exposition.html) - October 26-28, 2015 in Los Angeles, CA
