@@ -101,10 +101,6 @@ and product development are important due to short product life cycles.
 <span class="field field-type-link field-field-industry-publications">
       <span class="field-label">Industry Publications:&nbsp;</span><br>
     <span class="field-items">
-            <span class="field-item odd">
-                    [Chemical and Engineering News ](http://www.cen-online.org/)        </span><br>
-              <span class="field-item even">
-                    Chemical Economics Handbook         </span><br>
               <span class="field-item odd">
                     [Chemical Industry News: ICIS ](http://www.icis.com/home/default.aspx)        </span><br>
               <span class="field-item even">
