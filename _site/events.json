@@ -72,80 +72,16 @@
 
     
 
-    {
-      "title"    : "SelectUSA Israel Catalog Show",
-      "url"     : "/events/israel-catalog-show2.html",
-"rowdiv": "odd",
-      "location" : "Tel Aviv, Israel",
-      "startdate" : "February 9, 2016",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2016-02-09 00:00:00 -0500",
-         "day"   : "09",
-         "month" : "February",
-         "year"  : "2016"
-      }
-    }
-    ,
+    
+
+    
+
+    
 
     
 
     {
-      "title"    : "Canadian International Auto Show",
-      "url"     : "/events/canada-auto-show.html",
-"rowdiv": "even",
-      "location" : "Toronto, Canada",
-      "startdate" : "February 11, 2016",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2016-02-11 00:00:00 -0500",
-         "day"   : "11",
-         "month" : "February",
-         "year"  : "2016"
-      }
-    }
-    ,
-
-    
-
-    {
-      "title"    : "SelectUSA at ICAs FDI Training Seminar",
-      "url"     : "/events/selectusa-ica-workshop-2016.html",
-"rowdiv": "odd",
-      "location" : "Chicago, IL",
-      "startdate" : "February 11",
-"enddate" : " - 12, 2016",
-      "date"     : {
-         "full"   : "2016-02-11 00:00:00 -0500",
-         "day"   : "11",
-         "month" : "February",
-         "year"  : "2016"
-      }
-    }
-    ,
-
-    
-
-    {
-      "title"    : "SelectUSA Italy Seminars",
-      "url"     : "/events/italy-seminars-feb2016.html",
-"rowdiv": "even",
-      "location" : "Milan and Florence, Italy",
-      "startdate" : "February 17",
-"enddate" : " - 18, 2016",
-      "date"     : {
-         "full"   : "2016-02-17 00:00:00 -0500",
-         "day"   : "17",
-         "month" : "February",
-         "year"  : "2016"
-      }
-    }
-    ,
-
-    
-
-    {
-      "title"    : "SelectUSA Chemical Industries FDI Seminar",
+      "title"    : "Chemical Industries FDI Seminar",
       "url"     : "/events/chem-industries-fdi-sem.html",
 "rowdiv": "odd",
       "location" : "Brussels, Belgium",
@@ -163,7 +99,7 @@
     
 
     {
-      "title"    : "SelectUSA Tech Seminar",
+      "title"    : "Tech Seminar",
       "url"     : "/events/tech-seminar-italy.html",
 "rowdiv": "even",
       "location" : "Milan, Italy",
@@ -181,7 +117,7 @@
     
 
     {
-      "title"    : "SelectUSA at the US Turkey Investment Summit",
+      "title"    : "U.S.-Turkey Investment Summit",
       "url"     : "/events/us-turkey-summit.html",
 "rowdiv": "odd",
       "location" : "Washington, DC",
@@ -199,11 +135,29 @@
     
 
     {
-      "title"    : "SelectUSA Going Global Seminars",
-      "url"     : "/events/going-global.html",
+      "title"    : "Kingston Smith Seminar",
+      "url"     : "/events/selectusa-in-uk-seminar1.html",
 "rowdiv": "even",
+      "location" : "London, United Kingdom",
+      "startdate" : "March 9, 2016",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2016-03-09 00:00:00 -0500",
+         "day"   : "09",
+         "month" : "March",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "Going Global Seminars",
+      "url"     : "/events/going-global.html",
+"rowdiv": "odd",
       "location" : "Rennes, Lyon, Marseille and Nice, France",
-      "startdate" : "March 14",
+      "startdate" : "March 15",
 "enddate" : " - 23, 2016",
       "date"     : {
          "full"   : "2016-03-16 00:00:00 -0400",
@@ -217,7 +171,25 @@
     
 
     {
-      "title"    : "SelectUSA at the IEDC FED Forum 2016",
+      "title"    : "Fairfax County EDA/techUK Seminar",
+      "url"     : "/events/selectusa-in-uk-seminar2.html",
+"rowdiv": "even",
+      "location" : "London, United Kingdom",
+      "startdate" : "March 16, 2016",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2016-03-16 00:00:00 -0400",
+         "day"   : "16",
+         "month" : "March",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "IEDC FED Forum 2016",
       "url"     : "/events/iedc-fed-forum2016.html",
 "rowdiv": "odd",
       "location" : "Arlington, VA",
@@ -235,7 +207,7 @@
     
 
     {
-      "title"    : "SelectUSA at LiveXchange 2016",
+      "title"    : "LiveXchange 2016",
       "url"     : "/events/biz-facilities-livexchange2016.html",
 "rowdiv": "even",
       "location" : "Ft. Lauderdale, FL",
@@ -253,7 +225,7 @@
     
 
     {
-      "title"    : "SelectUSA at Hannover Messe 2016",
+      "title"    : "Hannover Messe 2016",
       "url"     : "/events/selectusa-hannover-messe-2016.html",
 "rowdiv": "odd",
       "location" : "Hannover, Germany",
