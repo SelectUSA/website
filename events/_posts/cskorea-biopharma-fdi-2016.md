@@ -3,7 +3,7 @@ permalink: "events/cskorea-biopharma-fdi-2016.html"
 layout: sidebar
 title: Biopharma FDI Promotion Event
 date-display-start: March 30
-date-display-end: 30, 2016
+date-display-end: March 30, 2016
 calendar-start: 2016-03-30
 calendar-end: 2016-03-30
 location-value: Seoul, South Korea
