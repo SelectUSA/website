@@ -15,6 +15,6 @@ All internship positions listed here are located in Washington, DC at the U.S. D
 
 Applications will be accepted on a rolling basis.
 
-* [Investment Promotion](documents/investment_promotion_and_facilitation_internship.pdf)
+* [Investment Promotion](documents/investment_promotion_internship.pdf)
 * [Communications and Outreach](documents/communications__outreach_internship.pdf)
 * [Operations Management](documents/operations_management_internship.pdf)
