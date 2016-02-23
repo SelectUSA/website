@@ -27,4 +27,4 @@ published: true
 
 ---
 
-Did you know that the UK is the largest source of foreign direct investment (FDI) in the United States? Over one million U.S. jobs are supported by U.S. affiliates of UK firms. For more information on FDI from the UK, check out our [fact sheet](http://selectusa.commerce.gov/country-fact-sheets/UK_Fact_Sheet.pdf).
+Did you know that the UK is the largest source of foreign direct investment (FDI) in the United States? Over one million U.S. jobs are supported by U.S. affiliates of UK firms. For more information on FDI from the UK, check out our [fact sheet](http://selectusa.commerce.gov/country-fact-sheets/United_Kingdom_Fact_Sheet.pdf).
