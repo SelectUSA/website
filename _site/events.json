@@ -80,64 +80,16 @@
 
     
 
-    {
-      "title"    : "Chemical Industries FDI Seminar",
-      "url"     : "/events/chem-industries-fdi-sem.html",
-"rowdiv": "odd",
-      "location" : "Brussels, Belgium",
-      "startdate" : "February 24, 2016",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2016-02-24 00:00:00 -0500",
-         "day"   : "24",
-         "month" : "February",
-         "year"  : "2016"
-      }
-    }
-    ,
-
     
 
-    {
-      "title"    : "Tech Seminar",
-      "url"     : "/events/tech-seminar-italy.html",
-"rowdiv": "even",
-      "location" : "Milan, Italy",
-      "startdate" : "February 24, 2016",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2016-02-24 00:00:00 -0500",
-         "day"   : "24",
-         "month" : "February",
-         "year"  : "2016"
-      }
-    }
-    ,
-
     
-
-    {
-      "title"    : "U.S.-Turkey Investment Summit",
-      "url"     : "/events/us-turkey-summit.html",
-"rowdiv": "odd",
-      "location" : "Washington, DC",
-      "startdate" : "February 24, 2016",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2016-02-24 00:00:00 -0500",
-         "day"   : "24",
-         "month" : "February",
-         "year"  : "2016"
-      }
-    }
-    ,
 
     
 
     {
       "title"    : "CALED Webinar",
       "url"     : "/events/caled-webinar.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Webinar",
       "startdate" : "March 2, 2016",
 "enddate" : "",
@@ -155,7 +107,7 @@
     {
       "title"    : "Kingston Smith Seminar",
       "url"     : "/events/selectusa-in-uk-seminar1.html",
-"rowdiv": "odd",
+"rowdiv": "even",
       "location" : "London, United Kingdom",
       "startdate" : "March 9, 2016",
 "enddate" : "",
@@ -173,7 +125,7 @@
     {
       "title"    : "Nordic-American Chambers Presentation",
       "url"     : "/events/nordic-american-chambers2016.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Washington, D.C.",
       "startdate" : "March 15, 2016",
 "enddate" : "",
@@ -191,7 +143,7 @@
     {
       "title"    : "Going Global Seminars",
       "url"     : "/events/going-global.html",
-"rowdiv": "odd",
+"rowdiv": "even",
       "location" : "Rennes, Lyon, Marseille and Nice, France",
       "startdate" : "March 15",
 "enddate" : " - 23, 2016",
@@ -209,7 +161,7 @@
     {
       "title"    : "Fairfax County EDA/techUK Seminar",
       "url"     : "/events/selectusa-in-uk-seminar2.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "London, United Kingdom",
       "startdate" : "March 16, 2016",
 "enddate" : "",
@@ -227,7 +179,7 @@
     {
       "title"    : "Biopharma FDI Promotion Event",
       "url"     : "/events/cskorea-biopharma-fdi-2016.html",
-"rowdiv": "odd",
+"rowdiv": "even",
       "location" : "Seoul, South Korea",
       "startdate" : "March 30",
 "enddate" : " - March 30, 2016",
@@ -245,7 +197,7 @@
     {
       "title"    : "IEDC FED Forum 2016",
       "url"     : "/events/iedc-fed-forum2016.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Arlington, VA",
       "startdate" : "April 3",
 "enddate" : " - 5, 2016",
@@ -263,7 +215,7 @@
     {
       "title"    : "LiveXchange 2016",
       "url"     : "/events/biz-facilities-livexchange2016.html",
-"rowdiv": "odd",
+"rowdiv": "even",
       "location" : "Ft. Lauderdale, FL",
       "startdate" : "April 17",
 "enddate" : " - 19, 2016",
@@ -281,7 +233,7 @@
     {
       "title"    : "Hannover Messe 2016",
       "url"     : "/events/selectusa-hannover-messe-2016.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Hannover, Germany",
       "startdate" : "April 25",
 "enddate" : " - 29, 2016",
@@ -299,7 +251,7 @@
     {
       "title"    : "SelectUSA Investment Summit",
       "url"     : "/2016-summit.html",
-"rowdiv": "odd-last",
+"rowdiv": "even-last",
       "location" : "Washington, DC",
       "startdate" : "June 19",
 "enddate" : " - 21, 2016",
