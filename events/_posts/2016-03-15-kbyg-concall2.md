@@ -1,7 +1,7 @@
 ---
 permalink: "events/kbyg-concall2.html"
 layout: sidebar
-title: "Know Before You Go" Call
+title: Know Before You Go Call
 date-display-start: March 15, 2016
 date-display-end: March 15, 2016
 calendar-start: 2016-03-15
