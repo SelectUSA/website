@@ -37,7 +37,7 @@ As a SelectUSA seminar participant, you will recieve:
 
 ![Contact](https://google.github.io/material-design-icons/action/svg/design/ic_question_answer_24px.svg "Contact") For more information and registration, please contact [Heesook Baik](mailto:heesook.baik@trade.gov?Subject=SelectUSA%20Korea%20Biopharma%20FDI%20Event%20Info%20Request) (+82-2-397-4172) in Seoul.
 
-You can also view the event flyer [here](website/documents/Korea-Biopharma-Investment-Seminar.pdf). 
+You can also view the event flyer [here](http://selectusa.commerce.gov/documents/Korea-Biopharma-Investment-Seminar.pdf). 
 
 ---
 
