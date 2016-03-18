@@ -18,7 +18,7 @@ published: true
 
 ### SelectUSA at the USEAC Roundtable in Raleigh, NC
 
-On March 28, SelectUSA Senior International Investment Specialist Alev Günay will be guest speaking during a roundtable hosted by the U.S. Export Assistance Center (USEAC) in Raliegh. The roundtable will target North Carolina-based economic development organizations (EDOs), and investors, as well as service providers supporting foreign direct investment (FDI) in the U.S. The aim of the roundtable is to discuss support available from SelectUSA for attracting FDI into the state of North Carolina, while also allowing the USEAC to further deepen relations with the state’s EDOs.
+On March 28, SelectUSA Senior International Investment Specialist Alev Günay will be guest speaking during a roundtable hosted by the U.S. Export Assistance Center (USEAC) in Raliegh. The roundtable will target North Carolina-based economic development organizations (EDOs), and investors, as well as service providers supporting foreign direct investment (FDI) in the U.S. The aim of the roundtable is to discuss support available from SelectUSA for attracting FDI into the state of North Carolina.
 
 ### Roundtable location & start time:
 
