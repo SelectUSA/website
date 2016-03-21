@@ -1,6 +1,6 @@
 ---
 permalink: anne-mckinney.html
-layout: Generic
+layout: default
 title: Anne McKinney
 published: true
 ---
