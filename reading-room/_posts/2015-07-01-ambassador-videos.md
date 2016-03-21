@@ -15,6 +15,16 @@ published: true
 >
 > U.S. Ambassador to Switzerland and Liechtenstein Suzi LeVine, in an interview for SelectUSA, talks about the attractiveness of the United States as an investment destination and why Swiss companies are investing here.
 
+## <a name="levine"></a>Suzi LeVine, U.S. Ambassador to Switzerland and Liechtenstein, Highlights the SelectUSA Investment Summit (Part 2)
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item"  width="500" height="298" src="https://www.youtube.com/embed/Rp35vZjnHHY" frameborder="0" allowfullscreen></iframe></div>
+  
+> [Download the full video](http://trade.gov/videos/susa-ambassador-suzi-levine-032116-2.mp4) (9MB)
+>
+>
+> U.S. Ambassador to Switzerland and Liechtenstein Suzi LeVine, in an interview for SelectUSA, talks about the attractiveness of the United States as an investment destination and why Swiss companies are investing here.
+
 ## <a name="heyman"></a>U.S. Ambassador to Canada Bruce Heyman on Investing in the United States
 
 <div class="embed-responsive embed-responsive-16by9">
