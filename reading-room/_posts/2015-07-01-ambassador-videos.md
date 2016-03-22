@@ -5,6 +5,37 @@ title: U.S. Ambassadors Interviews on SelectUSA
 section: "reading-room"
 published: true
 ---
+
+## <a name="silliman"></a>Douglas Silliman, U.S. Ambassador to Kuwait, on Benefits of Investing in the United States. (Part 1)
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item"  width="500" height="298" src="https://www.youtube.com/embed/jAPiGCH2MXI" frameborder="0" allowfullscreen></iframe></div>
+  
+> [Download the full video](http://trade.gov/videos/susa-ambassador-douglas-silliman-032216-1.mp4) (16MB)
+>
+>
+> U.S. Ambassador to Kuwait Douglas Silliman, in an interview for SelectUSA, discusses the business advantages of investing in the United States and why Kuwaitis are looking to invest here.
+
+## <a name="barzun"></a>Matthew Barzun, U.S. Ambassador to the U.K., on Investing in the United States. (Part 1)
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item"  width="500" height="298" src="https://www.youtube.com/embed/QqvBkpm8nLk" frameborder="0" allowfullscreen></iframe></div>
+  
+> [Download the full video](http://trade.gov/videos/susa-ambassador-matthew-barzun-032116-1.mp4) (9MB)
+>
+>
+> U.S. Ambassador to the United Kingdom Matthew Barzun, in an interview for SelectUSA, discusses the business advantages of investing in the United States.
+
+## <a name="barzun"></a>Matthew Barzun, Matthew Barzun, U.S. Ambassador to the U.K., on the SelectUSA Investment Summit (Part 2)
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item"  width="500" height="298" src="https://www.youtube.com/embed/5jrXyTyYYKs" frameborder="0" allowfullscreen></iframe></div>
+  
+> [Download the full video](http://trade.gov/videos/susa-ambassador-matthew-barzun-032116-2.mp4) (8MB)
+>
+>
+> U.S. Ambassador to the United Kingdom Matthew Barzun, in an interview for SelectUSA, highlights the benefits of the SelectUSA Investment Summit for companies looking to grow their businesses.
+
 ## <a name="levine"></a>Suzi LeVine, U.S. Ambassador to Switzerland and Liechtenstein, on Why the United States Is a Top Investment Destination (Part 1)
 
 <div class="embed-responsive embed-responsive-16by9">
