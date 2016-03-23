@@ -35,3 +35,8 @@ The United Nations Conference on Trade and Development (UNCTAD) published its [G
 **How:**  Please e-mail Micah Escobedo to register ([micah.escobedo@trade.gov](mailto:micah.escobedo@trade.gov?Subject=UNCTAD%20Numbers%20Call%20Registration)).
 
 ---
+
+###Conference Call Materials
+
+* [Presentation](http://selectusa.commerce.gov/documents/Understanding_the_Latest_FDI_in_Numbers_Presentation.pdf)
+* [BEA Infographic](http://selectusa.commerce.gov/documents/New_BEA_FDI_Data_Infographic.pdf)
