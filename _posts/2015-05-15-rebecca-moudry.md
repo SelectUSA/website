@@ -7,7 +7,7 @@ published: true
 
 
 <span class="imgright">![Rebecca Moudry](images/RM-headshot-small.jpg)
-**Acting Director of Investment<br/>Promotion & Facilitation, SelectUSA**
+**Deputy Director of Investment Services, SelectUSA**
 **U.S. Department of Commerce**</span>
 
 
