@@ -5,7 +5,7 @@ title: Anne McKinney
 published: true
 ---
 
-<span class="imgright">![Anne McKinney](images/AM_headshot_small.jpg.jpg)
+<span class="imgright">![Anne McKinney](images/AM_headshot_small.jpg)
 **Director of Investment, SelectUSA**
 **U.S. Department of Commerce**</span>
 
