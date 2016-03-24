@@ -18,10 +18,10 @@ published: true
 <P>&nbsp;<A title="Felicia Pullam Biography" href="felicia-pullam.html">Read Bio &gt;&gt;</a></p>
 <P>&nbsp;</p>
 
-<P><img style="FLOAT: left; VERTICAL-ALIGN: middle" title="Anne McKinney" alt="Anne McKinney" src="images/____.jpg" width="78" height="100" />&nbsp;<STRONG>Anne McKinney<BR /></strong>&nbsp;Director of Investment, SelectUSA<BR />&nbsp;U.S. Department of Commerce</p>
+<P><img style="FLOAT: left; VERTICAL-ALIGN: middle" title="Anne McKinney" alt="Anne McKinney" src="images/AM_headshot_small.jpg" width="78" height="100" />&nbsp;<STRONG>Anne McKinney<BR /></strong>&nbsp;Director of Investment, SelectUSA<BR />&nbsp;U.S. Department of Commerce</p>
 <P>&nbsp;<A title="Anne McKinney Biography" href="anne-mckinney.html">Read Bio &gt;&gt;</a></p>
 <P>&nbsp;</p>
 
-<P><img style="FLOAT: left; VERTICAL-ALIGN: middle" title="Rebecca Moudry" alt="Anne McKinney" src="images/RM-headshot-small.jpg.jpg" width="78" height="100" />&nbsp;<STRONG>Rebecca Moudry<BR /></strong>&nbsp; Deputy Director of Investment, SelectUSA<BR />&nbsp;U.S. Department of Commerce</p>
+<P><img style="FLOAT: left; VERTICAL-ALIGN: middle" title="Rebecca Moudry" alt="Rebecca Moudry" src="images/RM-headshot-small.jpg.jpg" width="78" height="100" />&nbsp;<STRONG>Rebecca Moudry<BR /></strong>&nbsp; Deputy Director of Investment, SelectUSA<BR />&nbsp;U.S. Department of Commerce</p>
 <P>&nbsp;<A title="Rebecca Moudry Biography" href="rebecca-moudry.html">Read Bio &gt;&gt;</a></p>
 <P>&nbsp;</p>
