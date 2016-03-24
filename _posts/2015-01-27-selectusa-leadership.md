@@ -23,5 +23,5 @@ published: true
 <P>&nbsp;</p>
 
 <P><img style="FLOAT: left; VERTICAL-ALIGN: middle" title="Rebecca Moudry" alt="Anne McKinney" src="images/RM-headshot-small.jpg.jpg" width="78" height="100" />&nbsp;<STRONG>Rebecca Moudry<BR /></strong>&nbsp; Deputy Director of Investment, SelectUSA<BR />&nbsp;U.S. Department of Commerce</p>
-<P>&nbsp;<A title="Rebecca Moudry Biography" href="2015-05-15-rebecca-moudry.html">Read Bio &gt;&gt;</a></p>
+<P>&nbsp;<A title="Rebecca Moudry Biography" href="rebecca-moudry.html">Read Bio &gt;&gt;</a></p>
 <P>&nbsp;</p>
