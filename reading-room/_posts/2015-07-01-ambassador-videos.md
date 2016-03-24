@@ -16,6 +16,16 @@ published: true
 >
 > U.S. Ambassador to Kuwait Douglas Silliman, in an interview for SelectUSA, discusses the business advantages of investing in the United States and why Kuwaitis are looking to invest here.
 
+## <a name="silliman"></a>Douglas Silliman, U.S. Ambassador to Kuwait, on the SelectUSA Investment Summit (Part 2)
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item"  width="500" height="298" src="https://www.youtube.com/embed/jAPiGCH2MXI" frameborder="0" allowfullscreen></iframe></div>
+  
+> [Download the full video](http://trade.gov/videos/susa-ambassador-douglas-silliman-032216-2.m4v) (20MB)
+>
+>
+> U.S. Ambassador to Kuwait Douglas Silliman, in an interview for SelectUSA, highlights the SelectUSA Investment Summit and the program. 
+
 ## <a name="barzun"></a>Matthew Barzun, U.S. Ambassador to the U.K., on Investing in the United States. (Part 1)
 
 <div class="embed-responsive embed-responsive-16by9">
