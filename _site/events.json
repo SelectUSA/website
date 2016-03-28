@@ -90,106 +90,28 @@
 
     
 
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
     {
-      "title"    : "SXSW 2016",
-      "url"     : "/events/sxsw2016.html",
+      "title"    : "Raleigh USEAC Roundtable",
+      "url"     : "/events/useac-roundtable-march2016.html",
 "rowdiv": "odd",
-      "location" : "Austin, TX",
-      "startdate" : "March 14, 2016",
+      "location" : "Raleigh, NC",
+      "startdate" : "March 28, 2016",
 "enddate" : "",
       "date"     : {
-         "full"   : "2016-03-14 00:00:00 -0400",
-         "day"   : "14",
-         "month" : "March",
-         "year"  : "2016"
-      }
-    }
-    ,
-
-    
-
-    {
-      "title"    : "Know Before You Go Call",
-      "url"     : "/events/kbyg-concall2.html",
-"rowdiv": "even",
-      "location" : "Conference Call",
-      "startdate" : "March 15, 2016",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2016-03-15 00:00:00 -0400",
-         "day"   : "15",
-         "month" : "March",
-         "year"  : "2016"
-      }
-    }
-    ,
-
-    
-
-    {
-      "title"    : "Nordic-American Chambers Presentation",
-      "url"     : "/events/nordic-american-chambers2016.html",
-"rowdiv": "odd",
-      "location" : "Washington, D.C.",
-      "startdate" : "March 15, 2016",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2016-03-15 00:00:00 -0400",
-         "day"   : "15",
-         "month" : "March",
-         "year"  : "2016"
-      }
-    }
-    ,
-
-    
-
-    {
-      "title"    : "Going Global Seminars",
-      "url"     : "/events/going-global.html",
-"rowdiv": "even",
-      "location" : "Rennes, Lyon, Marseille and Nice, France",
-      "startdate" : "March 15",
-"enddate" : " - 23, 2016",
-      "date"     : {
-         "full"   : "2016-03-16 00:00:00 -0400",
-         "day"   : "16",
-         "month" : "March",
-         "year"  : "2016"
-      }
-    }
-    ,
-
-    
-
-    {
-      "title"    : "Fairfax County EDA/techUK Seminar",
-      "url"     : "/events/selectusa-in-uk-seminar2.html",
-"rowdiv": "odd",
-      "location" : "London, United Kingdom",
-      "startdate" : "March 16, 2016",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2016-03-16 00:00:00 -0400",
-         "day"   : "16",
-         "month" : "March",
-         "year"  : "2016"
-      }
-    }
-    ,
-
-    
-
-    {
-      "title"    : "UNCTAD Numbers Conference Call",
-      "url"     : "/events/unctad-concall.html",
-"rowdiv": "even",
-      "location" : "Conference Call",
-      "startdate" : "March 23, 2016",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2016-03-23 00:00:00 -0400",
-         "day"   : "23",
+         "full"   : "2016-03-28 00:00:00 -0400",
+         "day"   : "28",
          "month" : "March",
          "year"  : "2016"
       }
@@ -201,7 +123,7 @@
     {
       "title"    : "Biopharma FDI Promotion Event",
       "url"     : "/events/cskorea-biopharma-fdi-2016.html",
-"rowdiv": "odd",
+"rowdiv": "even",
       "location" : "Seoul, South Korea",
       "startdate" : "March 30, 2016",
 "enddate" : "",
@@ -219,13 +141,31 @@
     {
       "title"    : "IEDC FED Forum 2016",
       "url"     : "/events/iedc-fed-forum2016.html",
-"rowdiv": "even",
+"rowdiv": "odd",
       "location" : "Arlington, VA",
       "startdate" : "April 3",
 "enddate" : " - 5, 2016",
       "date"     : {
          "full"   : "2016-04-03 00:00:00 -0400",
          "day"   : "03",
+         "month" : "April",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
+      "title"    : "eCommerce Seminar",
+      "url"     : "/events/ecommerce-seminar.html",
+"rowdiv": "even",
+      "location" : "London, UK",
+      "startdate" : "April 15, 2016",
+"enddate" : "",
+      "date"     : {
+         "full"   : "2016-04-15 00:00:00 -0400",
+         "day"   : "15",
          "month" : "April",
          "year"  : "2016"
       }
@@ -271,9 +211,27 @@
     
 
     {
+      "title"    : "French-American Business Week",
+      "url"     : "/events/fabw2016.html",
+"rowdiv": "odd",
+      "location" : "Washington, D.C.",
+      "startdate" : "May 18",
+"enddate" : " - 19, 2016",
+      "date"     : {
+         "full"   : "2016-05-18 00:00:00 -0400",
+         "day"   : "18",
+         "month" : "May",
+         "year"  : "2016"
+      }
+    }
+    ,
+
+    
+
+    {
       "title"    : "SelectUSA Investment Summit",
       "url"     : "/2016-summit.html",
-"rowdiv": "odd-last",
+"rowdiv": "even-last",
       "location" : "Washington, DC",
       "startdate" : "June 19",
 "enddate" : " - 21, 2016",
