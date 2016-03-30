@@ -51,6 +51,10 @@ FDI is a key source of capital, job creation, innovation, and cross-border trade
 
 &nbsp;
 
+**International Trade Administration**
+
+*   [Industry & Analysis Economics Brief: Jobs Attributable to Foreign Direct Investment in the United States](http://www.trade.gov/mas/ian/build/groups/public/@tg_ian/documents/webcontent/tg_ian_005496.pdf)
+
 **United Nations Conference on Trade and Development (UNCTAD)&nbsp;**
 
 *   [Global Investment Trends Monitor](http://unctad.org/en/PublicationsLibrary/webdiaeia2016d1_en.pdf)&nbsp;(January 2016)
