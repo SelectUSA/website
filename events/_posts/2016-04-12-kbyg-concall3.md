@@ -37,7 +37,9 @@ During the conference call, we will discuss:
 
 **How do I join?** Please e-mail [SUSAEvents@trade.gov](mailto:SUSAEvents@trade.gov?Subject=Know%20Before%20You%20Go%20Conference%20Call%20Registration) to receive dial-in information and additional documents in advance of the call.
 
-_[Download the U.S. State & Local Night flyer](http://selectusa.commerce.gov/documents/State_Night_flyer.pdf)_(&nbsp;)
+
+_[Download the U.S. State & Local Night flyer](http://selectusa.commerce.gov/documents/State_Night_flyer.pdf)_
+
 _[Download the Embassy Night flyer](http://selectusa.commerce.gov/documents/embassy_night.pdf)_
 
 ---
