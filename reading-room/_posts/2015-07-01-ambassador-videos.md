@@ -19,7 +19,7 @@ published: true
 ## <a name="silliman"></a>Douglas Silliman, U.S. Ambassador to Kuwait, on the SelectUSA Investment Summit (Part 2)
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item"  width="500" height="298" src="https://www.youtube.com/embed/jAPiGCH2MXI" frameborder="0" allowfullscreen></iframe></div>
+  <iframe class="embed-responsive-item"  width="500" height="298" src="https://www.youtube.com/embed/LQBqI-V2Wyg" frameborder="0" allowfullscreen></iframe></div>
   
 > [Download the full video](http://trade.gov/videos/susa-ambassador-douglas-silliman-032216-2.m4v) (20MB)
 >
