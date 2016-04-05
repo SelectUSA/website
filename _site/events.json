@@ -102,52 +102,22 @@
 
     
 
-    {
-      "title"    : "Raleigh USEAC Roundtable",
-      "url"     : "/events/useac-roundtable-march2016.html",
-"rowdiv": "odd",
-      "location" : "Raleigh, NC",
-      "startdate" : "March 28, 2016",
-"enddate" : "",
-      "date"     : {
-         "full"   : "2016-03-28 00:00:00 -0400",
-         "day"   : "28",
-         "month" : "March",
-         "year"  : "2016"
-      }
-    }
-    ,
+    
+
+    
 
     
 
     {
-      "title"    : "Biopharma FDI Promotion Event",
-      "url"     : "/events/cskorea-biopharma-fdi-2016.html",
-"rowdiv": "even",
-      "location" : "Seoul, South Korea",
-      "startdate" : "March 30, 2016",
+      "title"    : "Know Before You Go Call",
+      "url"     : "/events/kbyg-concall3.html",
+"rowdiv": "odd",
+      "location" : "Conference Call",
+      "startdate" : "April 12, 2016",
 "enddate" : "",
       "date"     : {
-         "full"   : "2016-03-30 00:00:00 -0400",
-         "day"   : "30",
-         "month" : "March",
-         "year"  : "2016"
-      }
-    }
-    ,
-
-    
-
-    {
-      "title"    : "IEDC FED Forum 2016",
-      "url"     : "/events/iedc-fed-forum2016.html",
-"rowdiv": "odd",
-      "location" : "Arlington, VA",
-      "startdate" : "April 3",
-"enddate" : " - 5, 2016",
-      "date"     : {
-         "full"   : "2016-04-03 00:00:00 -0400",
-         "day"   : "03",
+         "full"   : "2016-04-12 00:00:00 -0400",
+         "day"   : "12",
          "month" : "April",
          "year"  : "2016"
       }
