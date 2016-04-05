@@ -7,6 +7,30 @@ published: true
 
 ## SelectUSA Reports
 
+### Industry & Analysis Economics Brief: Jobs Attributable to Foreign Direct Investment in the United States (February 2016) 
+
+<span class="imgleft"><img src="images/economics-breif.png" height="173" alt="Winning Business Investment in the United States" style="border-style: solid;border-width: 1px;border-color:#f1f1f1;"></span>
+
+**International Trade Administration**
+
+![Read]({{ site.baseurl }}/icons/document.svg "Read") [Read the report](http://www.trade.gov/mas/ian/build/groups/public/@tg_ian/documents/webcontent/tg_ian_005496.pdf)
+
+This report is produced by the Office of Trade and Economic Analysis of the International Trade Administration’s Office of Industry and Analysis. It estimates the total number of indirect jobs attributable to FDI in the United States. For a complete list of reports, along with links to other trade data and analysis, visit [www.trade.gov/mas/ian](www.trade.gov/mas/ian).
+
+<br><br>
+
+### Global Investment Trends Monitor (January 2016) 
+
+<span class="imgleft"><img src="images/unctad.png" height="173" alt="Winning Business Investment in the United States" style="border-style: solid;border-width: 1px;border-color:#f1f1f1;"></span>
+
+**United Nations Conference on Trade and Development (UNCTAD)**
+
+![Read]({{ site.baseurl }}/icons/document.svg "Read") [Read the report](http://unctad.org/en/PublicationsLibrary/webdiaeia2016d1_en.pdf)
+
+This report, published by the United Nations Conference on Trade and Development (UNCTAD), highlights trends in global FDI flows showing an increase in 2015 to an estimated US$1.7 trillion, their highest level since 2007.
+
+<br><br><br><br>
+
 ### Joint Report with CII: _Business and Investment Climate in the United States_ 
 
 <span class="imgleft"><img src="https://www.mycii.in/PublicationImages/45632.US.jpg" height="173" alt="Winning Business Investment in the United States"></span>
