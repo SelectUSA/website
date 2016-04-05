@@ -5,7 +5,7 @@ title: Business Investment Reports
 published: true
 ---
 
-## SelectUSA Reports
+## FDI Reports
 
 ### Industry & Analysis Economics Brief: Jobs Attributable to Foreign Direct Investment in the United States (February 2016) 
 
@@ -75,13 +75,8 @@ FDI is a key source of capital, job creation, innovation, and cross-border trade
 
 &nbsp;
 
-**International Trade Administration**
-
-*   [Industry & Analysis Economics Brief: Jobs Attributable to Foreign Direct Investment in the United States](http://www.trade.gov/mas/ian/build/groups/public/@tg_ian/documents/webcontent/tg_ian_005496.pdf)&nbsp;(February 2016)
-
 **United Nations Conference on Trade and Development (UNCTAD)&nbsp;**
 
-*   [Global Investment Trends Monitor](http://unctad.org/en/PublicationsLibrary/webdiaeia2016d1_en.pdf)&nbsp;(January 2016)
 *   [World Investment Report](http://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1245)&nbsp;(June 2015)
 
 **Brookings Institution**
