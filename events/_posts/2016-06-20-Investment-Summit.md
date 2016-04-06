@@ -27,6 +27,8 @@ The Summit will include an exhibition hall where U.S. economic development organ
 
 ![RSVP](https://google.github.io/material-design-icons/content/svg/design/ic_send_24px.svg "RSVP") **To register, please visit [http://selectusasummit.us/apply/.](http://selectusasummit.us/apply/)**
 
+**Read and download the agenda [here](http://selectusa.commerce.gov/documents/2016_Investment_Summit_Agenda.pdf).**
+
 -------
 
 ## What Happened at the 2015 Summit?
