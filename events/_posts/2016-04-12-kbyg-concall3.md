@@ -37,6 +37,7 @@ During the conference call, we will discuss:
 
 **How do I join?** Please e-mail [SUSAEvents@trade.gov](mailto:SUSAEvents@trade.gov?Subject=Know%20Before%20You%20Go%20Conference%20Call%20Registration) to receive dial-in information and additional documents in advance of the call.
 
+_[Read and download the Summit agenda](http://selectusa.commerce.gov/documents/2016_Investment_Summit_Agenda.pdf)._
 
 _[Download the U.S. State & Local Night flyer](http://selectusa.commerce.gov/documents/State_Night_flyer.pdf)_
 
