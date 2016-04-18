@@ -18,3 +18,4 @@ Applications will be accepted on a rolling basis.
 * [Investment Promotion](documents/investment_promotion_internship.pdf)
 * [Communications and Outreach](documents/communications__outreach_internship.pdf)
 * [Operations Management](documents/operations_management_internship.pdf)
+* [Office of the Executive Director](documents/Front Office Internship Opportunity Flyer_April 2016.pdf)
