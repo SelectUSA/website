@@ -118,7 +118,7 @@ Through outreach to investors in global markets, SelectUSA helps them get the in
 * [**SelectUSA at LiveXchange 2016**](http://selectusa.commerce.gov/events/biz-facilities-livexchange2016.html) - April 17-19, 2016 in Ft. Lauderdale, FL
 * [**eCommerce Seminar**](http://selectusa.commerce.gov/events/ecommerce-seminar.html) - April 15, 2016 in London, UK
 * [**SelectUSA at the IEDC FED Forum 2016**](http://selectusa.commerce.gov/events/iedc-fed-forum2016.html) - April 3-5, 2016 in Arlington, VA
-* [Biopharma FDI Promotion Event](http://selectusa.commerce.gov/events/cskorea-biopharma-fdi-2016.html) - March 30, 2016 in Seoul, South Korea
+* [**Biopharma FDI Promotion Event**](http://selectusa.commerce.gov/events/cskorea-biopharma-fdi-2016.html) - March 30, 2016 in Seoul, South Korea
 *   [**Manufacturing Forum at Canadian International Auto Show**](http://selectusa.commerce.gov/events/canada-auto-show.html) - February 11, 2016 in Toronto, Canada
 *   [**ICA's FDI Training Seminar**](http://selectusa.commerce.gov/events/selectusa-ica-workshop-2016.html) - February 11-12, 2016 in Chicago, IL
 *   [**Paris Île-de-France Regional CCI Forum**](http://selectusa.commerce.gov/events/icc-paris.html) - January 28, 2016 in Paris, France
