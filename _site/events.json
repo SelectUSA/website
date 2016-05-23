@@ -108,17 +108,29 @@
 
     
 
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
     {
-      "title"    : "Know Before You Go Call",
-      "url"     : "/events/kbyg-concall3.html",
+      "title"    : "International Franchise Expo",
+      "url"     : "/events/IFE_2016.html",
 "rowdiv": "odd",
-      "location" : "Conference Call",
-      "startdate" : "April 12, 2016",
-"enddate" : "",
+      "location" : "New York, NY",
+      "startdate" : "June 16",
+"enddate" : " - 18, 2016",
       "date"     : {
-         "full"   : "2016-04-12 00:00:00 -0400",
-         "day"   : "12",
-         "month" : "April",
+         "full"   : "2016-06-16 00:00:00 -0400",
+         "day"   : "16",
+         "month" : "June",
          "year"  : "2016"
       }
     }
@@ -127,70 +139,16 @@
     
 
     {
-      "title"    : "eCommerce Seminar",
-      "url"     : "/events/ecommerce-seminar.html",
+      "title"    : "Seminar for FinTech Startups",
+      "url"     : "/events/sem_fintech.html",
 "rowdiv": "even",
       "location" : "London, UK",
-      "startdate" : "April 15, 2016",
+      "startdate" : "June 16, 2016",
 "enddate" : "",
       "date"     : {
-         "full"   : "2016-04-15 00:00:00 -0400",
-         "day"   : "15",
-         "month" : "April",
-         "year"  : "2016"
-      }
-    }
-    ,
-
-    
-
-    {
-      "title"    : "LiveXchange 2016",
-      "url"     : "/events/biz-facilities-livexchange2016.html",
-"rowdiv": "odd",
-      "location" : "Ft. Lauderdale, FL",
-      "startdate" : "April 17",
-"enddate" : " - 19, 2016",
-      "date"     : {
-         "full"   : "2016-04-17 00:00:00 -0400",
-         "day"   : "17",
-         "month" : "April",
-         "year"  : "2016"
-      }
-    }
-    ,
-
-    
-
-    {
-      "title"    : "Hannover Messe 2016",
-      "url"     : "/events/selectusa-hannover-messe-2016.html",
-"rowdiv": "even",
-      "location" : "Hannover, Germany",
-      "startdate" : "April 25",
-"enddate" : " - 29, 2016",
-      "date"     : {
-         "full"   : "2016-04-25 00:00:00 -0400",
-         "day"   : "25",
-         "month" : "April",
-         "year"  : "2016"
-      }
-    }
-    ,
-
-    
-
-    {
-      "title"    : "French-American Business Week",
-      "url"     : "/events/fabw2016.html",
-"rowdiv": "odd",
-      "location" : "Washington, D.C.",
-      "startdate" : "May 18",
-"enddate" : " - 19, 2016",
-      "date"     : {
-         "full"   : "2016-05-18 00:00:00 -0400",
-         "day"   : "18",
-         "month" : "May",
+         "full"   : "2016-06-16 00:00:00 -0400",
+         "day"   : "16",
+         "month" : "June",
          "year"  : "2016"
       }
     }
@@ -201,7 +159,7 @@
     {
       "title"    : "SelectUSA Investment Summit",
       "url"     : "/2016-summit.html",
-"rowdiv": "even-last",
+"rowdiv": "odd-last",
       "location" : "Washington, DC",
       "startdate" : "June 19",
 "enddate" : " - 21, 2016",
