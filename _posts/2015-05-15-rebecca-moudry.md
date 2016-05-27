@@ -1,5 +1,7 @@
 ---
 permalink: "rebecca-moudry.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: default
 title: Rebecca Moudry
 published: true

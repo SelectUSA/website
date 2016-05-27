@@ -1,5 +1,7 @@
 ---
 permalink: "economic-development-organization-counseling.html"
+redirect_to:
+  - https://www.selectusa.gov/services-for-EDOs
 layout: default
 title: Economic Development Organization Counseling
 published: true

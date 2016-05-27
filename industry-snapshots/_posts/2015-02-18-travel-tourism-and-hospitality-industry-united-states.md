@@ -1,5 +1,7 @@
 ---
 permalink: "industry-snapshots/travel-tourism-and-hospitality-industry-united-states.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: sidebar
 section: industry-snapshots
 title: The Travel, Tourism and Hospitality Industry in the United States

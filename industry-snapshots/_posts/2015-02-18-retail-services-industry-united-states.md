@@ -1,5 +1,7 @@
 ---
 permalink: "industry-snapshots/retail-services-industry-united-states.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: sidebar
 section: industry-snapshots
 title: The Retail Services Industry in the United States

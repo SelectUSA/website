@@ -1,5 +1,7 @@
 ---
 permalink: "industry-snapshots/professional-services-industry-united-states.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: sidebar
 section: industry-snapshots
 title: The Professional Services Industry in the United States

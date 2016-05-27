@@ -1,5 +1,7 @@
 ---
 permalink: "events/webinar-brazil-road-show.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: Webinar on SelectUSA Brazil Road Show
 date-display-start: July 22, 2015

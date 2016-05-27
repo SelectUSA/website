@@ -1,5 +1,7 @@
 ---
 permalink: "2015-summit/participants.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-summit
 layout: sidebar
 title: Summit Participants
 section: 2015-summit

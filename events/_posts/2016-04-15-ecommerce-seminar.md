@@ -1,5 +1,7 @@
 ---
 permalink: "events/ecommerce-seminar.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: eCommerce Seminar
 date-display-start: April 15, 2016

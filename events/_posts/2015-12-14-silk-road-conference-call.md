@@ -1,5 +1,7 @@
 ---
 permalink: "silk-road-conference-call.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA Silk Road China Road Show – Conference Call
 date-display-start: December 14, 2015

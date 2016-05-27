@@ -1,5 +1,7 @@
 ---
 permalink: "felicia-pullam.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: default
 title: Felicia Pullam
 published: true

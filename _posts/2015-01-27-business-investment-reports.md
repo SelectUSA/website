@@ -1,5 +1,7 @@
 ---
 permalink: "business-investment-reports.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: default
 title: Business Investment Reports
 published: true

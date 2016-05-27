@@ -1,5 +1,7 @@
 ---
 permalink: "peggy-philbin.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: default
 title: Peggy Philbin
 published: true

@@ -1,5 +1,7 @@
 ---
 permalink: "events/coming_to_america_susa_uk.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: Coming to America
 date-display-start: April 21, 2016

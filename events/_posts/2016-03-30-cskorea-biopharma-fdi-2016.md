@@ -1,5 +1,7 @@
 ---
 permalink: "events/cskorea-biopharma-fdi-2016.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: Biopharma FDI Promotion Event
 date-display-start: March 30, 2016

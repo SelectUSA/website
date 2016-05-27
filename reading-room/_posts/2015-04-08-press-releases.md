@@ -1,7 +1,8 @@
 ---
 
 permalink: "press-releases.html"
-
+redirect_to:
+  - https://www.selectusa.gov/press-releases
 layout: sidebar
 
 title: Press Releases and Speeches

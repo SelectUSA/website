@@ -1,5 +1,7 @@
 ---
 permalink: "japan-road-show.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA Japan Road Show – Conference Call
 date-display-start: December 3, 2015

@@ -1,5 +1,7 @@
 ---
 permalink: "events/selectusa-in-uk-seminar2.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: Fairfax County EDA/techUK Seminar
 date-display-start: March 16, 2016

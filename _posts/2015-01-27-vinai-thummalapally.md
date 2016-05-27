@@ -1,5 +1,7 @@
 ---
 permalink: "vinai-thummalapally.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: default
 title: Vinai Thummalapally
 published: true

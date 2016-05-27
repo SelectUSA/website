@@ -1,5 +1,7 @@
 ---
 permalink: "blog/top-global-business-executives-participate-2015-selectusa-investment.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: default
 section: blog
 title: Top Global Business Executives to Participate in 2015 SelectUSA Investment Summit

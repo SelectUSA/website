@@ -1,5 +1,7 @@
 ---
 permalink: "events/amcham-selectusa-pitch.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: AmCham and SelectUSA Startup Pitch Competition
 date-display-start: January 21, 2016

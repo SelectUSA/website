@@ -1,5 +1,7 @@
 ---
 permalink: "2016-summit.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-summit
 layout: sidebar
 title: SelectUSA Investment Summit
 date-display-start: June 19

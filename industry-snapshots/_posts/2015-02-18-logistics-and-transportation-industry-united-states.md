@@ -1,5 +1,7 @@
 ---
 permalink: "industry-snapshots/logistics-and-transportation-industry-united-states.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: sidebar
 section: industry-snapshots
 title: The Logistics and Transportation Industry in the United States

@@ -1,5 +1,7 @@
 ---
 permalink: "silk-road-china-road-show.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA Silk Road China Road Show
 date-display-start: January 13

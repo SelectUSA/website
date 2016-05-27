@@ -1,5 +1,7 @@
 ---
 permalink: "industry-snapshots/machinery-and-equipment-industry-united-states.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: sidebar
 section: industry-snapshots
 title: The Machinery & Equipment Industry in the United States

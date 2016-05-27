@@ -1,5 +1,7 @@
 ---
 permalink: "infrastructure-101-webinar-series.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: default
 title: Infrastructure 101 Webinar Series
 published: true

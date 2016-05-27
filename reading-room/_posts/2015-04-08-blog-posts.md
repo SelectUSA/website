@@ -1,7 +1,8 @@
 ---
 
 permalink: "reading-room.html"
-
+redirect_to:
+  - https://www.selectusa.gov/blog-posts
 layout: sidebar
 
 title: Blog Posts

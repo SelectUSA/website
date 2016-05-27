@@ -1,5 +1,7 @@
 ---
 permalink: "upcoming-events.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: default
 title: Upcoming Events
 published: true

@@ -1,5 +1,7 @@
 ---
 permalink: "resources.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: default
 title: Resources
 published: true

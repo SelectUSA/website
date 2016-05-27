@@ -1,5 +1,7 @@
 ---
 permalink: "baldrige-performance-excellence-program.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: default
 title: Baldrige Performance Excellence Program
 published: true

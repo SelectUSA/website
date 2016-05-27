@@ -1,5 +1,7 @@
 ---
 permalink: "industry-snapshots/energy-industry-united-states.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: sidebar
 section: industry-snapshots
 title: The Energy Industry in the United States

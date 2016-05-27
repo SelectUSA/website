@@ -1,5 +1,7 @@
 ---
 permalink: "events/caled-webinar.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: CALED Webinar
 date-display-start: March 2, 2016

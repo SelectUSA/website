@@ -1,5 +1,7 @@
 ---
 permalink: "events/sem_fintech.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: Seminar for FinTech Startups
 date-display-start: June 16, 2016

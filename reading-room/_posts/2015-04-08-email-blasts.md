@@ -1,7 +1,8 @@
 ---
 
 permalink: "email-updates.html"
-
+redirect_to:
+  - https://www.selectusa.gov/
 layout: sidebar
 
 title: Email Updates

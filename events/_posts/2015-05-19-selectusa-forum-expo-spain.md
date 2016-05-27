@@ -1,5 +1,7 @@
 ---
 permalink: "events/selectusa-forum-expo-spain.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA Forum & Expo in Spain
 date-display-start: May 19, 2015

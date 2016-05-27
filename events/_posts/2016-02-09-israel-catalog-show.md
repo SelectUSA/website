@@ -1,5 +1,7 @@
 ---
 permalink: "events/israel-catalog-show2.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 title: SelectUSA Israel Catalog Show
 layout: sidebar
 date-display-start: February 9, 2016

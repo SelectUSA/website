@@ -1,5 +1,7 @@
 ---
 permalink: "events/going-global.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: Going Global Seminars
 date-display-start: March 15

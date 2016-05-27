@@ -1,5 +1,7 @@
 ---
 permalink: "events/guangzhou-auto-show.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA Seminar at Guangzhou Auto Show
 date-display-start: November 21, 2015

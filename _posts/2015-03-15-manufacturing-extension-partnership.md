@@ -1,5 +1,7 @@
 ---
 permalink: manufacturing-extension-partnership.html
+redirect_to:
+  - https://www.selectusa.gov/
 layout: default
 title: Manufacturing Extension Partnership (MEP)
 published: true

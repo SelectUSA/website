@@ -1,5 +1,7 @@
 ---
 permalink: "2015-summit/day-one-photos.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-summit
 layout: sidebar
 title: Day One Photos
 section: 2015-summit

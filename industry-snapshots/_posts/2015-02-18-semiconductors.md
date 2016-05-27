@@ -1,5 +1,7 @@
 ---
 permalink: "industry-snapshots/semiconductors.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: sidebar
 section: industry-snapshots
 title: The U.S. Semiconductors Industry

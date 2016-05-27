@@ -1,5 +1,7 @@
 ---
 permalink: "advocacy-service.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: default
 title: Advocacy Service
 published: true

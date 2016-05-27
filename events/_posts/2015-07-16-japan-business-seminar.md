@@ -1,5 +1,7 @@
 ---
 permalink: "events/japan-business-seminar.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: U.S. Business Seminars in Japan
 date-display-start: July 16

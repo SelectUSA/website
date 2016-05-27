@@ -1,5 +1,7 @@
 ---
 permalink: "events/nordic-american-chambers2016.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: Nordic-American Chambers Presentation
 date-display-start: March 15, 2016

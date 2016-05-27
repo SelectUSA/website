@@ -1,5 +1,7 @@
 ---
 permalink: "blog/what-is-the-selectusa-academy.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: sidebar
 section: blog
 title: What is the SelectUSA Academy?}

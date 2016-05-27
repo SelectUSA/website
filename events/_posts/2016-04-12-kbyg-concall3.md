@@ -1,5 +1,7 @@
 ---
 permalink: "events/kbyg-concall3.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: Know Before You Go Call
 date-display-start: April 12, 2016

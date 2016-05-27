@@ -1,5 +1,7 @@
 ---
 permalink: "events/unctad-concall.html"
+redirect_to:
+  - https://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: Understand the Latest FDI Numbers Call
 date-display-start: March 23, 2016
