@@ -1,7 +1,7 @@
 ---
 permalink: "industry-snapshots.html"
 redirect_to:
-  - https://www.selectusa.gov/industries
+  - http://www.selectusa.gov/industries
 layout: sidebar
 title: Industry Snapshots
 published: true
