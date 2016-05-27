@@ -1,7 +1,7 @@
 ---
 permalink: "facilitated-investment-mission.html"
 redirect_to:
-  - https://www.selectusa.gov/
+  - http://www.selectusa.gov/
 layout: default
 title: Facilitated Investment Mission
 published: true

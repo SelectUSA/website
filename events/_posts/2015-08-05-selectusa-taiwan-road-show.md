@@ -1,7 +1,7 @@
 ---
 permalink: "events/selectusa-taiwan-road-show.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA Taiwan Road Show
 date-display-start: August 5

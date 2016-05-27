@@ -1,7 +1,7 @@
 ---
 permalink: "events/biz-facilities-livexchange2016.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: LiveXchange 2016
 date-display-start: April 17

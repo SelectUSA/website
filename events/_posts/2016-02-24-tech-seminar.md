@@ -1,7 +1,7 @@
 ---
 permalink: "events/tech-seminar-italy.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: Tech Seminar
 date-display-start: February 24, 2016

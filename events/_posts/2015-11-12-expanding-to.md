@@ -1,7 +1,7 @@
 ---
 permalink: events/expanding-to.html
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA at the International Investment & Expansion Virtual Summit
 date-display-start: November 12, 2015

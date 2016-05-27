@@ -1,7 +1,7 @@
 ---
 permalink: "events/selectusa-in-uk-seminar1.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: Kingston Smith Seminar
 date-display-start: March 9, 2016

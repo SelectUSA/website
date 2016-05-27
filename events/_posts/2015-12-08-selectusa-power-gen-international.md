@@ -1,7 +1,7 @@
 ---
 permalink: "events/selectusa-power-gen-international.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA at POWER-GEN International
 date-display-start: December 8

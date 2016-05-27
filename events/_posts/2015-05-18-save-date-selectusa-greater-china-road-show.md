@@ -1,7 +1,7 @@
 ---
 permalink: "events/save-date-selectusa-greater-china-road-show.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA Greater China Road Show
 date-display-start: May 18

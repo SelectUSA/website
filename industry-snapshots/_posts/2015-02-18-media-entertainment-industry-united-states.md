@@ -1,7 +1,7 @@
 ---
 permalink: "industry-snapshots/media-entertainment-industry-united-states.html"
 redirect_to:
-  - https://www.selectusa.gov/media-entertainment-industry-united-states
+  - http://www.selectusa.gov/media-entertainment-industry-united-states
 layout: sidebar
 section: industry-snapshots
 title: The Media & Entertainment Industry in the United States

@@ -1,7 +1,7 @@
 ---
 permalink: "frequently-asked-questions.html"
 redirect_to:
-  - https://www.selectusa.gov/FAQs
+  - http://www.selectusa.gov/FAQs
 layout: default
 title: Frequently Asked Questions
 published: true

@@ -1,7 +1,7 @@
 ---
 permalink: "events/northern-china-road-show.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA Northern China Road Show
 date-display-start: December 2

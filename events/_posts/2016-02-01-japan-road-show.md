@@ -1,7 +1,7 @@
 ---
 permalink: "events/japan-road-show.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA Japan Road Show
 date-display-start: February 1

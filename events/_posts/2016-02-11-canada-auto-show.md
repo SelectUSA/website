@@ -1,7 +1,7 @@
 ---
 permalink: "events/canada-auto-show.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: Canadian International Auto Show
 date-display-start: February 11, 2016

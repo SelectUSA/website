@@ -1,7 +1,7 @@
 ---
 permalink: "industry-snapshots/consumer-goods-industry-united-states.html"
 redirect_to:
-  - https://www.selectusa.gov/consumer-goods-industry-united-states
+  - http://www.selectusa.gov/consumer-goods-industry-united-states
 layout: sidebar
 section: industry-snapshots
 title: The Consumer Goods Industry in the United States

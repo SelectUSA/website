@@ -1,7 +1,7 @@
 ---
 permalink: "events/useac-roundtable-march2016.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: Raleigh USEAC Roundtable
 date-display-start: March 28, 2016

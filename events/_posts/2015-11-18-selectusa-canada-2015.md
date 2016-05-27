@@ -1,7 +1,7 @@
 ---
 permalink: "events/selectusa-canada-2015.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA Canada 2015
 date-display-start: November 17, 2015

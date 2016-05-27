@@ -1,7 +1,7 @@
 ---
 permalink: "contact-us.html"
 redirect_to:
-  - https://www.selectusa.gov/contact-us
+  - http://www.selectusa.gov/contact-us
 layout: default
 title: Contact Us
 published: true

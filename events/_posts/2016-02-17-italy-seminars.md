@@ -1,7 +1,7 @@
 ---
 permalink: "events/italy-seminars-feb2016.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: Italy Seminars
 date-display-start: February 17

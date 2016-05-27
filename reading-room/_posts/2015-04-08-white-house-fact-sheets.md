@@ -2,7 +2,7 @@
 
 permalink: "white-house-fact-sheets.html"
 redirect_to:
-  - https://www.selectusa.gov/
+  - http://www.selectusa.gov/
 layout: sidebar
 
 title: White House Fact Sheets

@@ -1,7 +1,7 @@
 ---
 permalink: "events/selectusa-international-franchise-expo.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA at the International Franchise Expo
 date-display-start: June 18

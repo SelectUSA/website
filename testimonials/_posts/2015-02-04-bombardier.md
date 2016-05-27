@@ -1,7 +1,7 @@
 ---
 permalink: "testimonials/bombardier.html"
 redirect_to:
-  - https://www.selectusa.gov/
+  - http://www.selectusa.gov/
 layout: 
 title: Bombardier
 section: testimonials

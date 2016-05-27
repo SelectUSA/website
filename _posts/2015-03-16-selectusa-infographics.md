@@ -1,7 +1,7 @@
 ---
 permalink: "selectusa-infographics.html"
 redirect_to:
-  - https://www.selectusa.gov/
+  - http://www.selectusa.gov/
 layout: default
 title: SelectUSA Infographics
 published: true

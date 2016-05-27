@@ -1,7 +1,7 @@
 ---
 permalink: "events/us-turkey-summit.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: U.S.-Turkey Investment Summit
 date-display-start: February 24, 2016

@@ -1,7 +1,7 @@
 ---
 permalink: "industry-snapshots/textile-industry-united-states.html"
 redirect_to:
-  - https://www.selectusa.gov/textiles-industry-united-states
+  - http://www.selectusa.gov/textiles-industry-united-states
 layout: sidebar
 section: "industry-snapshots"
 title: The Textiles Industry in the United States

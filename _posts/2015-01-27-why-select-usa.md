@@ -1,7 +1,7 @@
 ---
 permalink: "why-select-usa.html"
 redirect_to:
-  - https://www.selectusa.gov/why-invest
+  - http://www.selectusa.gov/why-invest
 layout: default
 title: "Why Select USA?"
 published: true

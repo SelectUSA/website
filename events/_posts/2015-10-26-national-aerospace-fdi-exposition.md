@@ -1,7 +1,7 @@
 ---
 permalink: "events/national-aerospace-fdi-exposition.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: National Aerospace FDI Exposition
 date-display-start: October 26

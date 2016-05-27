@@ -1,7 +1,7 @@
 ---
 permalink: "events/india-road-show.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA India Road Show
 date-display-start: October 13

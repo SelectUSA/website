@@ -1,7 +1,7 @@
 ---
 permalink: "hollings-manufacturing-extension-partnership-mep.html"
 redirect_to:
-  - https://www.selectusa.gov/
+  - http://www.selectusa.gov/
 layout: default
 title: Hollings Manufacturing Extension Partnership (MEP)
 published: true

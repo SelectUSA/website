@@ -1,7 +1,7 @@
 ---
 permalink: "events/dublin-web-summit.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA at Web Summit
 date-display-start: November 3

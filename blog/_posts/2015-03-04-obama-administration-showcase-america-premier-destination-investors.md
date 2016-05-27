@@ -1,7 +1,7 @@
 ---
 permalink: "blog/obama-administration-showcase-america-premier-destination-investors.html"
 redirect_to:
-  - https://www.selectusa.gov/
+  - http://www.selectusa.gov/
 layout: default
 section: blog
 title: Obama Administration to Showcase America as Premier Destination for Investors at Investment Summit

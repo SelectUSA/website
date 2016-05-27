@@ -1,7 +1,7 @@
 ---
 permalink: anne-mckinney.html
 redirect_to:
-  - https://www.selectusa.gov/
+  - http://www.selectusa.gov/
 layout: default
 title: Anne McKinney
 published: true

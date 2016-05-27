@@ -1,7 +1,7 @@
 ---
 permalink: "testimonials/farouk-systems.html"
 redirect_to:
-  - https://www.selectusa.gov/
+  - http://www.selectusa.gov/
 layout: sidebar
 title: Farouk Systems
 section: testimonials

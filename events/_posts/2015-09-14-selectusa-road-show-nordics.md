@@ -1,7 +1,7 @@
 ---
 permalink: "events/selectusa-road-show-nordics.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA Nordic Road Show
 date-display-start: September 14

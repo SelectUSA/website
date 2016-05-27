@@ -1,7 +1,7 @@
 ---
 permalink: "testimonials/régitex-usa-llc.html"
 redirect_to:
-  - https://www.selectusa.gov/
+  - http://www.selectusa.gov/
 layout: sidebar
 title: Régitex USA LLC
 section: testimonials

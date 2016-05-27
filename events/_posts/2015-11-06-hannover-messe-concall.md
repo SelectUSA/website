@@ -1,7 +1,7 @@
 --- 
 permalink: "events/2015-11-06-hannover-messe-concall.html" 
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar 
 title: Hannover Messe 2016 Conference Call
 date-display-start: November 6, 2015

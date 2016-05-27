@@ -1,7 +1,7 @@
 ---
 permalink: intellectual-property-rights.html
 redirect_to:
-  - https://www.selectusa.gov/
+  - http://www.selectusa.gov/
 layout: default
 title: Intellectual Property (IP) Protection
 published: true

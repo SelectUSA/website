@@ -1,7 +1,7 @@
 ---
 permalink: "industry-snapshots/financial-services-industry-united-states.html"
 redirect_to:
-  - https://www.selectusa.gov/financial-services-industry-united-states
+  - http://www.selectusa.gov/financial-services-industry-united-states
 layout: sidebar
 section: industry-snapshots
 title: The Financial Services Industry in the United States

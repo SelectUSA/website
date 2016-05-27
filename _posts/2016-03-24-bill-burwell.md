@@ -1,7 +1,7 @@
 ---
 permalink: "bill-burwell.html"
 redirect_to:
-  - https://www.selectusa.gov/
+  - http://www.selectusa.gov/
 layout: default
 title: Bill Burwell 
 published: false

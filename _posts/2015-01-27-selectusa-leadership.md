@@ -1,7 +1,7 @@
 ---
 permalink: "selectusa-leadership.html"
 redirect_to:
-  - https://www.selectusa.gov/leadership-bios
+  - http://www.selectusa.gov/leadership-bios
 layout: default
 title: SelectUSA Leadership
 published: true

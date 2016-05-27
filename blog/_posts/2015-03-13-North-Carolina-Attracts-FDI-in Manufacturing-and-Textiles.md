@@ -1,7 +1,7 @@
 ---
 permalink: "blog/North-Carolina-Attracts-FDI-in Manufacturing-and-Textiles.html"
 redirect_to:
-  - https://www.selectusa.gov/
+  - http://www.selectusa.gov/
 layout: sidebar
 section: blog
 title: North Carolina Attracts FDI in Manufacturing and Textiles

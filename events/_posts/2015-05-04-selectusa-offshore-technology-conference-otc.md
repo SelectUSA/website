@@ -1,7 +1,7 @@
 ---
 permalink: "events/selectusa-offshore-technology-conference-otc.html"
 redirect_to:
-  - https://www.selectusa.gov/selectusa-events
+  - http://www.selectusa.gov/selectusa-events
 layout: sidebar
 title: SelectUSA at the Offshore Technology Conference (OTC)
 date-display-start: May 4

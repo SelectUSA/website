@@ -1,7 +1,7 @@
 ---
 permalink: "ambassador-videos.html"
 redirect_to:
-  - https://www.selectusa.gov/
+  - http://www.selectusa.gov/
 layout: sidebar
 title: U.S. Ambassadors Interviews on SelectUSA
 section: "reading-room"

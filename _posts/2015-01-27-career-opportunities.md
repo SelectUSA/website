@@ -1,7 +1,7 @@
 ---
 permalink: "career-opportunities.html"
 redirect_to:
-  - https://www.selectusa.gov/careers-and-internships
+  - http://www.selectusa.gov/careers-and-internships
 layout: default
 title: Career Opportunities
 published: true
