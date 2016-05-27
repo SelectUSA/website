@@ -1,5 +1,7 @@
 ---
 permalink: "testimonials/life-technologies.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: sidebar
 title: Life Technologies
 section: testimonials

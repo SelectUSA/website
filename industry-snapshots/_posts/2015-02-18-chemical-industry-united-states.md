@@ -1,7 +1,7 @@
 ---
 permalink: "industry-snapshots/chemical-industry-united-states.html"
 redirect_to:
-  - https://www.selectusa.gov/
+  - https://www.selectusa.gov/chemical-industry-united-states
 layout: sidebar
 section: industry-snapshots
 title: The Chemical Industry in the United States

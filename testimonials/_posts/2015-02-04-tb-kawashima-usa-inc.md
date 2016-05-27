@@ -1,5 +1,7 @@
 ---
 permalink: "testimonials/tb-kawashima-usa-inc.html"
+redirect_to:
+  - https://www.selectusa.gov/
 layout: sidebar
 title: TB Kawashima USA Inc.
 section: testimonials
